@@ -1,6 +1,6 @@
 {
-    "PHONE_SETTINGS_NUMBERFORMAT": "en-US",
-    "PHONE_SETTINGS_DATEFORMAT": "en-US",
+    "PHONE_SETTINGS_NUMBERFORMAT": "nl-BE",
+    "PHONE_SETTINGS_DATEFORMAT": "nl-BE",
 
     "PHONE": {
         "PHONE_UNAVAILABLE": "Telefoon uitgeschakeld",
@@ -26,7 +26,8 @@
         "PHONE_PIN_ACCOUNTCHECK": "Controleren. Even geduld a.u.b.",
         "PHONE_PIN_EMAILPASSWORD_BLANK": "E-mail of wachtwoord kan niet leeg zijn",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "E-mail of wachtwoord is onjuist",
-        "PHONE_PIN_INFO": "Je wachtwoord is {pin}" 
+        "PHONE_PIN_INFO": "Je wachtwoord is {pin}" ,
+        "PHONE_PASSCODE_FORGOT": "Wachtwoord vergeten"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Je telefoon wordt al opgeladen",
