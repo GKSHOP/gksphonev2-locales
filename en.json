@@ -283,7 +283,9 @@
         "APP_MESSAGE_CONTACT": "A contact was shared",
         "APP_MESSAGE_STORYUPLOAD": "Uploading Story...",
         "APP_MESSAGE_PLACEHOLDER": "Type a message",
-        "APP_MESSAGE_OPTION_CANCEL": "Cancel"
+        "APP_MESSAGE_OPTION_CANCEL": "Cancel",
+        "APP_MESSAGE_MODAL_CANCEL": "Cancel",
+        "APP_MESSAGE_MODAL_SEARCH": "Search"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Hello",
@@ -666,7 +668,8 @@
         "APP_NEWS_NEWSHEAD": "News Title",
         "APP_NEWS_NEWSDEL": "Delete",
         "APP_NEWS_NEWSSEARCH": "Search",
-        "APP_NEWS_NOTIFY_NEW": "A news has been added"
+        "APP_NEWS_NOTIFY_NEW": "A news has been added",
+        "APP_NEWS_DETAILTITLE":"News Text"
     },
     "ValeAPP": {
         "APP_VALE_TITLE": "Vale",
@@ -1119,5 +1122,41 @@
         "APP_TAXI_DRIVER_NOTIFY_NEWJOB": "You got a new job call",
         "APP_TAXI_CUSTOMER_NOTIFY_DRIVERACCEPTJOB": "A taxi driver accepted the job",
         "APP_TAXI_DRIVER_NOTCUSTOMER": "There are currently no jobs available"
+    },
+    "Tooltip": {
+        "ESIM": {
+            "APP_TOOLTIP_SIM_BUY": "Buy"
+        },
+        "Contact": {
+            "APP_TOOLTIP_CONTACT_AIRSHARE": "AirShare"
+        },
+        "Message": {
+            "APP_TOOLTIP_MESSAGE_CREATEGROUPMEMBER": "{'@'}Contact Name"
+        },
+        "Advertising": {
+            "APP_TOOLTIP_ADVERTISING_POST": "New Post",
+            "APP_TOOLTIP_ADVERTISING_POSTCALL": "Call",
+            "APP_TOOLTIP_ADVERTISING_POSTCALL2": "Anonymous Call",
+            "APP_TOOLTIP_ADVERTISING_POSTMESSAGE": "Message",
+            "APP_TOOLTIP_ADVERTISING_POSTFAV": "Favorite",
+            "APP_TOOLTIP_ADVERTISING_REPOST": "Repost",
+            "APP_TOOLTIP_ADVERTISING_DELETE": "Delete"
+        },
+        "Squawk": {
+            "APP_TOOLTIP_SQUAWK_COMMENT": "Comment",
+            "APP_TOOLTIP_SQUAWK_REPOST": "Repost",
+            "APP_TOOLTIP_SQUAWK_LIKE": "Like",
+            "APP_TOOLTIP_SQUAWK_POST_IMAGE": "Image",
+            "APP_TOOLTIP_SQUAWK_POST_VIDEO": "Video",
+            "APP_TOOLTIP_SQUAWK_POST_POLL": "Poll",
+            "APP_TOOLTIP_SQUAWK_POST_VOICE": "Voice Message",
+            "APP_TOOLTIP_SQUAWK_POST_EMOJI": "Emoji"
+        },
+        "CarSeller": {
+            "APP_TOOLTIP_CARSELLER_CALL": "Call",
+            "APP_TOOLTIP_CARSELLER_MESSAGE": "Message",
+            "APP_TOOLTIP_CARSELLER_BUY": "Buy",
+            "APP_TOOLTIP_CARSELLER_DELETE": "Delete"
+        }
     }
 }

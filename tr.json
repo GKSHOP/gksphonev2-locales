@@ -282,7 +282,9 @@
         "APP_MESSAGE_CONTACT": "Kişi paylaşıldı",
         "APP_MESSAGE_STORYUPLOAD": "Hikaye yükleniyor...",
         "APP_MESSAGE_PLACEHOLDER": "Bir mesaj yazın",
-        "APP_MESSAGE_OPTION_CANCEL": "Cancel"
+        "APP_MESSAGE_OPTION_CANCEL": "İptal",
+        "APP_MESSAGE_MODAL_CANCEL": "İptal",
+        "APP_MESSAGE_MODAL_SEARCH": "Arama"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Merhaba",
@@ -665,7 +667,8 @@
         "APP_NEWS_NEWSHEAD": "Haber Başlığı",
         "APP_NEWS_NEWSDEL": "Sil",
         "APP_NEWS_NEWSSEARCH": "Arama",
-        "APP_NEWS_NOTIFY_NEW": "Bir yeni haber paylaşıldı"
+        "APP_NEWS_NOTIFY_NEW": "Bir yeni haber paylaşıldı",
+        "APP_NEWS_DETAILTITLE": "Haber Detayı"
     },
     "ValeAPP": {
         "APP_VALE_TITLE": "Vale",
@@ -1116,5 +1119,41 @@
         "APP_TAXI_DRIVER_NOTIFY_NEWJOB": "Yeni bir çağrınız var",
         "APP_TAXI_CUSTOMER_NOTIFY_DRIVERACCEPTJOB": "Bir taksi şoförü işi kabul etti",
         "APP_TAXI_DRIVER_NOTCUSTOMER": "Şu anda mevcut iş yok"
+    },
+    "Tooltip": {
+        "ESIM": {
+            "APP_TOOLTIP_SIM_BUY": "Satın Al"
+        },
+        "Contact": {
+            "APP_TOOLTIP_CONTACT_AIRSHARE": "AirShare"
+        },
+        "Message": {
+            "APP_TOOLTIP_MESSAGE_CREATEGROUPMEMBER": "{'@'}Rehber Adı"
+        },
+        "Advertising": {
+            "APP_TOOLTIP_ADVERTISING_POST": "Yeni Gönderi",
+            "APP_TOOLTIP_ADVERTISING_POSTCALL": "Ara",
+            "APP_TOOLTIP_ADVERTISING_POSTCALL2": "Anonim Ara",
+            "APP_TOOLTIP_ADVERTISING_POSTMESSAGE": "Mesaj",
+            "APP_TOOLTIP_ADVERTISING_POSTFAV": "Favori",
+            "APP_TOOLTIP_ADVERTISING_REPOST": "Yeniden Gönder",
+            "APP_TOOLTIP_ADVERTISING_DELETE": "Sil"
+        },
+        "Squawk": {
+            "APP_TOOLTIP_SQUAWK_COMMENT": "Yorum Yap",
+            "APP_TOOLTIP_SQUAWK_REPOST": "Yeniden Gönder",
+            "APP_TOOLTIP_SQUAWK_LIKE": "Beğen",
+            "APP_TOOLTIP_SQUAWK_POST_IMAGE": "Resim",
+            "APP_TOOLTIP_SQUAWK_POST_VIDEO": "Video",
+            "APP_TOOLTIP_SQUAWK_POST_POLL": "Anket",
+            "APP_TOOLTIP_SQUAWK_POST_VOICE": "Sesli Mesaj",
+            "APP_TOOLTIP_SQUAWK_POST_EMOJI": "Emoji"
+        },
+        "CarSeller": {
+            "APP_TOOLTIP_CARSELLER_CALL": "Ara",
+            "APP_TOOLTIP_CARSELLER_MESSAGE": "Mesaj",
+            "APP_TOOLTIP_CARSELLER_BUY": "Satın Al",
+            "APP_TOOLTIP_CARSELLER_DELETE": "Sil"
+        }
     }
 }
