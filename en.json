@@ -96,8 +96,25 @@
         "APP_SETTING_PHONEUPTODATE": "Your phone is up to date",
         "APP_SETTING_PHONEUPDATE": "Please update your phone. Contact your server owner.",
         "APP_SETTING_PHONE_RESETLOADING" : "Password is being reset...",
-        "APP_SETTING_PHONE_RESETERROR" : "Password couldn't reset"
-
+        "APP_SETTING_PHONE_RESETERROR" : "Password couldn't reset",
+        "APP_SETTING_PHONESERIALNUMBER": "Serial number",
+        "APP_SETTING_PHONE": "Serial number",
+        "APP_SETTING_REPORTBUG": "Report Bug",
+        "APP_SETTING_BUGREPORTLABEL": "Bug Report",
+        "APP_SETTING_BUGREPORTDESC": "Please write your bug report",
+        "APP_SETTING_BUGREPORTSEND": "Send",
+        "APP_SETTING_BUGREPORTCANCEL": "Cancel",
+        "APP_SETTING_BUGREPORTSUCCESS": "Your bug report has been sent",
+        "APP_SETTING_BUGREPORTEMPTY": "You can't send an empty bug report",
+        "APP_SETTING_FEEDBACK": "Feedback",
+        "APP_SETTING_FEEDBACKLABEL": "Feedback",
+        "APP_SETTING_FEEDBACKDESC": "Please write your feedback",
+        "APP_SETTING_FEEDBACKSEND": "Send",
+        "APP_SETTING_FEEDBACKCANCEL": "Cancel",
+        "APP_SETTING_FEEDBACKSUCCESS": "Your feedback has been sent",
+        "APP_SETTING_FEEDBACKEMPTY": "You can't send an empty feedback",
+        "APP_SETTING_CHANGLOG": "Changelog",
+        "APP_SETTING_CHANGLOGPOUPCLOSE": "Close"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Contacts",
@@ -757,7 +774,9 @@
         "APP_TUNEIFY_RINGTONES": "Ringtones",
         "APP_TUNEIFY_NORESULT": "No results found",
         "APP_TUNEIFY_SEARCH_CANCEL": "Cancel",
-        "APP_TUNEIFY_SEARCH_PLACEHOLDER": "Search"
+        "APP_TUNEIFY_SEARCH_PLACEHOLDER": "Search",
+        "APP_TUNEIFY_SETRINGTONE": "Set as ringtone",
+        "APP_TUNEIFY_SETNOTIFICATION": "Set as notification"
     },
     "GigglesAPP": {
         "APP_GIGGLES_TITLE": "Giggles",

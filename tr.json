@@ -96,7 +96,25 @@
         "APP_SETTING_PHONEUPTODATE": "Telefonunuz güncel.",
         "APP_SETTING_PHONEUPDATE": "Lütfen telefonunuzu güncelleyin. Sunucu yöneticinize danışın.",
         "APP_SETTING_PHONE_RESETLOADING" : "Şifre sıfırlanıyor...",
-        "APP_SETTING_PHONE_RESETERROR" : "Şifre sıfırlanamadı"
+        "APP_SETTING_PHONE_RESETERROR" : "Şifre sıfırlanamadı",
+        "APP_SETTING_PHONESERIALNUMBER": "Seri numarası",
+        "APP_SETTING_PHONE": "Seri numarası",
+        "APP_SETTING_REPORTBUG": "Hata Bildir",
+        "APP_SETTING_BUGREPORTLABEL": "Hata Bildirimi",
+        "APP_SETTING_BUGREPORTDESC": "Lütfen hata bildiriminizi yazın",
+        "APP_SETTING_BUGREPORTSEND": "Gönder",
+        "APP_SETTING_BUGREPORTCANCEL": "İptal",
+        "APP_SETTING_BUGREPORTSUCCESS": "Hata bildiriminiz gönderildi",
+        "APP_SETTING_BUGREPORTEMPTY": "Boş bir hata bildirimi gönderemezsiniz",
+        "APP_SETTING_FEEDBACK": "Geri Bildirim",
+        "APP_SETTING_FEEDBACKLABEL": "Geri Bildirim",
+        "APP_SETTING_FEEDBACKDESC": "Lütfen geri bildiriminizi yazın",
+        "APP_SETTING_FEEDBACKSEND": "Gönder",
+        "APP_SETTING_FEEDBACKCANCEL": "İptal",
+        "APP_SETTING_FEEDBACKSUCCESS": "Geri bildiriminiz gönderildi",
+        "APP_SETTING_FEEDBACKEMPTY": "Boş bir geri bildirim gönderemezsiniz",
+        "APP_SETTING_CHANGLOG": "Değişiklik Kaydı",
+        "APP_SETTING_CHANGLOGPOUPCLOSE": "Kapat"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Rehber",
@@ -756,7 +774,9 @@
         "APP_TUNEIFY_RINGTONES": "Zil Sesi",
         "APP_TUNEIFY_NORESULT": "Sonuç bulunamadı",
         "APP_TUNEIFY_SEARCH_CANCEL": "İptal",
-        "APP_TUNEIFY_SEARCH_PLACEHOLDER": "Arama"
+        "APP_TUNEIFY_SEARCH_PLACEHOLDER": "Arama",
+        "APP_TUNEIFY_SETRINGTONE": "Zil sesi olarak ayarla",
+        "APP_TUNEIFY_SETNOTIFICATION": "Bildirim sesi olarak ayarla"
     },
     "GigglesAPP": {
         "APP_GIGGLES_TITLE": "Giggles",
