@@ -26,7 +26,8 @@
         "PHONE_PIN_ACCOUNTCHECK": "正在檢查，請稍候",
         "PHONE_PIN_EMAILPASSWORD_BLANK": "電子郵件或密碼不能為空",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "電子郵件或密碼不正確",
-        "PHONE_PIN_INFO": "您的密碼是 {pin}"
+        "PHONE_PIN_INFO": "您的密碼是 {pin}",
+        "PHONE_PASSCODE_FORGOT": "忘記密碼"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "您的手機已經在充電",
@@ -96,7 +97,24 @@
         "APP_SETTING_PHONEUPDATE": "請更新您的手機。請聯繫您的服務器管理員。",
         "APP_SETTING_PHONE_RESETLOADING": "正在重置密碼...",
         "APP_SETTING_PHONE_RESETERROR": "無法重置密碼"
-
+        "APP_SETTING_PHONESERIALNUMBER": "Serial number",
+        "APP_SETTING_PHONE": "Serial number",
+        "APP_SETTING_REPORTBUG": "Report Bug",
+        "APP_SETTING_BUGREPORTLABEL": "Bug Report",
+        "APP_SETTING_BUGREPORTDESC": "Please write your bug report",
+        "APP_SETTING_BUGREPORTSEND": "Send",
+        "APP_SETTING_BUGREPORTCANCEL": "Cancel",
+        "APP_SETTING_BUGREPORTSUCCESS": "Your bug report has been sent",
+        "APP_SETTING_BUGREPORTEMPTY": "You can't send an empty bug report",
+        "APP_SETTING_FEEDBACK": "Feedback",
+        "APP_SETTING_FEEDBACKLABEL": "Feedback",
+        "APP_SETTING_FEEDBACKDESC": "Please write your feedback",
+        "APP_SETTING_FEEDBACKSEND": "Send",
+        "APP_SETTING_FEEDBACKCANCEL": "Cancel",
+        "APP_SETTING_FEEDBACKSUCCESS": "Your feedback has been sent",
+        "APP_SETTING_FEEDBACKEMPTY": "You can't send an empty feedback",
+        "APP_SETTING_CHANGLOG": "Changelog",
+        "APP_SETTING_CHANGLOGPOUPCLOSE": "Close"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "聯絡人",
@@ -282,7 +300,9 @@
         "APP_MESSAGE_CONTACT": "共享了聯絡人",
         "APP_MESSAGE_STORYUPLOAD": "正在上傳故事...",
         "APP_MESSAGE_PLACEHOLDER": "輸入訊息",
-        "APP_MESSAGE_OPTION_CANCEL": "取消"     
+        "APP_MESSAGE_OPTION_CANCEL": "取消"
+        "APP_MESSAGE_MODAL_CANCEL": "取消",
+        "APP_MESSAGE_MODAL_SEARCH": "搜尋"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "你好",
@@ -1116,5 +1136,41 @@
         "APP_TAXI_DRIVER_NOTIFY_NEWJOB": "您收到了一個新的工作呼叫",
         "APP_TAXI_CUSTOMER_NOTIFY_DRIVERACCEPTJOB": "一位計程車司機已接受了這份工作",
         "APP_TAXI_DRIVER_NOTCUSTOMER": "目前沒有可用的工作"
+    },
+    "Tooltip": {
+        "ESIM": {
+            "APP_TOOLTIP_SIM_BUY": "購買"
+        },
+        "Contact": {
+            "APP_TOOLTIP_CONTACT_AIRSHARE": "AirShare"
+        },
+        "Message": {
+            "APP_TOOLTIP_MESSAGE_CREATEGROUPMEMBER": "{'@'}聯絡人姓名"
+        },
+        "Advertising": {
+            "APP_TOOLTIP_ADVERTISING_POST": "新貼文",
+            "APP_TOOLTIP_ADVERTISING_POSTCALL": "撥打電話",
+            "APP_TOOLTIP_ADVERTISING_POSTCALL2": "匿名撥打",
+            "APP_TOOLTIP_ADVERTISING_POSTMESSAGE": "訊息",
+            "APP_TOOLTIP_ADVERTISING_POSTFAV": "收藏",
+            "APP_TOOLTIP_ADVERTISING_REPOST": "轉貼",
+            "APP_TOOLTIP_ADVERTISING_DELETE": "刪除"
+        },
+        "Squawk": {
+            "APP_TOOLTIP_SQUAWK_COMMENT": "評論",
+            "APP_TOOLTIP_SQUAWK_REPOST": "轉貼",
+            "APP_TOOLTIP_SQUAWK_LIKE": "喜歡",
+            "APP_TOOLTIP_SQUAWK_POST_IMAGE": "圖片",
+            "APP_TOOLTIP_SQUAWK_POST_VIDEO": "影片",
+            "APP_TOOLTIP_SQUAWK_POST_POLL": "投票",
+            "APP_TOOLTIP_SQUAWK_POST_VOICE": "語音訊息",
+            "APP_TOOLTIP_SQUAWK_POST_EMOJI": "表情符號"
+        },
+        "CarSeller": {
+            "APP_TOOLTIP_CARSELLER_CALL": "撥打電話",
+            "APP_TOOLTIP_CARSELLER_MESSAGE": "訊息",
+            "APP_TOOLTIP_CARSELLER_BUY": "購買",
+            "APP_TOOLTIP_CARSELLER_DELETE": "刪除"
+        }
     }
 }
