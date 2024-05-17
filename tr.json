@@ -1083,7 +1083,8 @@
         "APP_SIM_SUCESS": "Başarılı",
         "APP_SIM_ERROR": "Hata",
         "APP_SIM_BANKDETAIL": "Telefon {value} kullanımı",
-        "APP_SIM_LIMITPHONENUMBER": "Limite ulaştığınız için yeni bir numara satın alamazsınız"
+        "APP_SIM_LIMITPHONENUMBER": "Limite ulaştığınız için yeni bir numara satın alamazsınız",
+        "APP_SIM_NOTENOUGHMONEY": "Yeterli paranız yok"
     },
     "PlayTubeAPP": {
         "APP_PLAYTUBE_TITLE": "PlayTube",

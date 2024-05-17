@@ -1085,7 +1085,8 @@
         "APP_SIM_SUCESS": "Success",
         "APP_SIM_ERROR": "Error",
         "APP_SIM_BANKDETAIL": "Phone {value} usage",
-        "APP_SIM_LIMITPHONENUMBER": "You can't buy a new number because you have reached the limit"
+        "APP_SIM_LIMITPHONENUMBER": "You can't buy a new number because you have reached the limit",
+        "APP_SIM_NOTENOUGHMONEY": "You don't have enough money"
     },
     "PlayTubeAPP": {
         "APP_PLAYTUBE_TITLE": "PlayTube",
