@@ -347,6 +347,7 @@
         "PHONE_SETUP_CREATEACCOUNTERROR2": "Özel karakterler kullanamazsınız (4 karakterden büyük olmalı)",
         "PHONE_SETUP_CREATEACCOUNTLOADING": "Hesabınız oluşturulurken lütfen bekleyiniz",
         "PHONE_SETUP_CREATEACCOUNTERROR3": "Bu email adresi zaten kullanılıyor",
+        "PHONE_SETUP_CREATEACCOUNTERROR1": "Güvenlik sorusu boş olamaz",
         "PHONE_SETUP_APPSDATA": "Uygulamalar & Veri",
         "PHONE_SETUP_APPSDATADETAIL": "Hesabınızdaki telefon verilerini geri getirin veya yeni bir telefon olarak ayarlayın.",
         "PHONE_SETUP_APPSDATAACTIVATE": "Etkinleştir",
@@ -765,7 +766,16 @@
         "APP_STOCKMARKET_MODAL_CANCEL": "İptal",
         "APP_STOCKMARKET_MODAL_SELECTCOIN": "Coin Seç",
         "APP_STOCKMARKET_MODAL_SELECT" : "Seç",
-        "APP_STOCKMARKET_NOTIFY_TRANSFERSUCESSTWO": "{amount} coin gönderildi"
+        "APP_STOCKMARKET_NOTIFY_TRANSFERSUCESSTWO": "{amount} coin gönderildi",
+        "APP_STOCKMARKET_LOADING": "Yükleniyor...",
+        "APP_STOCKMARKET_TRANSFER_SUCCESS": "Transfer başarılı",
+        "APP_STOCKMARKET_TRANSFER_ERROR": "Transfer başarısız",
+        "APP_STOCKMARKET_BUYLOADING": "Alınıyor...",
+        "APP_STOCKMARKET_BUYNOTIFYDESC": "{amount} adet {coin} satın alındı",
+        "APP_STOCKMARKET_BUYNOTIFYERROR": "Coin satın alınırken bir hata oluştu",
+        "APP_STOCKMARKET_SELLLOADING": "Satılıyor...",
+        "APP_STOCKMARKET_SELLNOTIFYDESC": "{amount} adet {coin} satıldı",
+        "APP_STOCKMARKET_SELLNOTIFYERROR": "Coin satılırken bir hata oluştu"
     },
     "Tuneify": {
         "APP_TUNEIFY_TITLE": "Tuneify",
