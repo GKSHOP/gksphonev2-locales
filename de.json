@@ -1,6 +1,6 @@
 {
-    "PHONE_SETTINGS_NUMBERFORMAT": "ger-DE",
-    "PHONE_SETTINGS_DATEFORMAT": "ger-DE",
+    "PHONE_SETTINGS_NUMBERFORMAT": "de-DE",
+    "PHONE_SETTINGS_DATEFORMAT": "de-DE",
 
     "PHONE": {
         "PHONE_UNAVAILABLE": "Telefon ausgeschaltet",
