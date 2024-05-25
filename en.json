@@ -302,7 +302,8 @@
         "APP_MESSAGE_PLACEHOLDER": "Type a message",
         "APP_MESSAGE_OPTION_CANCEL": "Cancel",
         "APP_MESSAGE_MODAL_CANCEL": "Cancel",
-        "APP_MESSAGE_MODAL_SEARCH": "Search"
+        "APP_MESSAGE_MODAL_SEARCH": "Search",
+        "APP_MESSAGE_ISTYPING": "{name} is typing..."
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Hello",
@@ -609,7 +610,12 @@
         "APP_MAIL_MODAL_DEL": "Delete",
         "APP_MAIL_MODAL_CANCEL": "Cancel",
         "APP_MAIL_NOTIFY": "{sender} sent you a new e-mail",
-        "APP_MAIL_TITLE": "Mail"
+        "APP_MAIL_TITLE": "Mail",
+        "APP_MAIL_DELETEALLDESC": "Are you sure you want to delete all e-mails?",
+        "APP_MAIL_DELETEALLTITLE": "Delete All",
+        "APP_MAIL_DELETEALLERROR": "An error occurred while deleting all e-mails.",
+        "APP_MAIL_DELETEALLSUCCESS": "All e-mails have been deleted.",
+        "APP_MAIL_DELETEALLLOADING": "Deleting all e-mails..."
     },
     "BillingAPP": {
         "APP_BILLING_HEADER" : "Billing",
@@ -1187,6 +1193,9 @@
             "APP_TOOLTIP_CARSELLER_MESSAGE": "Message",
             "APP_TOOLTIP_CARSELLER_BUY": "Buy",
             "APP_TOOLTIP_CARSELLER_DELETE": "Delete"
+        },
+        "Mail": {
+            "APP_TOOLTIP_MAIL_ALLDELETE": "Delete All"
         }
     }
 }

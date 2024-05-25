@@ -302,7 +302,8 @@
         "APP_MESSAGE_PLACEHOLDER": "Tik 'n boodskap",
         "APP_MESSAGE_OPTION_CANCEL": "Kanselleer",
         "APP_MESSAGE_MODAL_CANCEL": "Kanselleer",
-        "APP_MESSAGE_MODAL_SEARCH": "Soek"
+        "APP_MESSAGE_MODAL_SEARCH": "Soek",
+        "APP_MESSAGE_ISTYPING": "{name} tik..."
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Hello",
@@ -609,7 +610,12 @@
         "APP_MAIL_MODAL_DEL": "Vee uit",
         "APP_MAIL_MODAL_CANCEL": "Kanselleer",
         "APP_MAIL_NOTIFY": "{sender} het vir jou 'n nuwe e-pos gestuur",
-        "APP_MAIL_TITLE": "Pos"
+        "APP_MAIL_TITLE": "Pos",
+        "APP_MAIL_DELETEALLDESC": "Is jy seker jy wil al jou e-posse uitvee?",
+        "APP_MAIL_DELETEALLTITLE": "Vee alle e-posse uit",
+        "APP_MAIL_DELETEALLERROR": "Fout tydens die uitvee van alle e-posse",
+        "APP_MAIL_DELETEALLSUCCESS": "Alle e-posse is suksesvol uitgevee",
+        "APP_MAIL_DELETEALLLOADING": "Wag asseblief terwyl alle e-posse uitgevee word"
     },
     "BillingAPP": {
         "APP_BILLING_HEADER" : "Billing",
@@ -1187,6 +1193,9 @@
             "APP_TOOLTIP_CARSELLER_MESSAGE": "Boodskap",
             "APP_TOOLTIP_CARSELLER_BUY": "Koop",
             "APP_TOOLTIP_CARSELLER_DELETE": "Vee Uit"
+        },
+        "Mail": {
+            "APP_TOOLTIP_MAIL_ALLDELETE": "Vee uit"
         }
     }
 }

@@ -302,7 +302,8 @@
         "APP_MESSAGE_PLACEHOLDER": "Tapez un message",
         "APP_MESSAGE_OPTION_CANCEL": "Annuler",
         "APP_MESSAGE_MODAL_CANCEL": "Annuler",
-        "APP_MESSAGE_MODAL_SEARCH": "Recherche"
+        "APP_MESSAGE_MODAL_SEARCH": "Recherche",
+        "APP_MESSAGE_ISTYPING": "{name} est en train d'écrire..."
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Bonjour",
@@ -609,7 +610,12 @@
         "APP_MAIL_MODAL_DEL": "Supprimer",
         "APP_MAIL_MODAL_CANCEL": "Annuler",
         "APP_MAIL_NOTIFY": "{sender} vous à envoyer un nouvel e-mail",
-        "APP_MAIL_TITLE": "Mail"
+        "APP_MAIL_TITLE": "Mail",
+        "APP_MAIL_DELETEALLDESC": "Etes vous sûr de vouloir supprimer tous les mails ?",
+        "APP_MAIL_DELETEALLTITLE": "Supprimer tous les mails",
+        "APP_MAIL_DELETEALLERROR": "Erreur durant la suppression des mails.",
+        "APP_MAIL_DELETEALLSUCCESS": "Tous les mails ont été supprimés.",
+        "APP_MAIL_DELETEALLLOADING": "Suppression des mails..."
     },
     "BillingAPP": {
         "APP_BILLING_HEADER" : "Billing",
@@ -1187,6 +1193,9 @@
             "APP_TOOLTIP_CARSELLER_MESSAGE": "Message",
             "APP_TOOLTIP_CARSELLER_BUY": "Acheter",
             "APP_TOOLTIP_CARSELLER_DELETE": "Supprimer"
+        },
+        "Mail": {
+            "APP_TOOLTIP_MAIL_ALLDELETE": "Supprimer tout"
         }
     }
 }

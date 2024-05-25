@@ -302,7 +302,8 @@
         "APP_MESSAGE_PLACEHOLDER": "Bir mesaj yazın",
         "APP_MESSAGE_OPTION_CANCEL": "İptal",
         "APP_MESSAGE_MODAL_CANCEL": "İptal",
-        "APP_MESSAGE_MODAL_SEARCH": "Arama"
+        "APP_MESSAGE_MODAL_SEARCH": "Arama",
+        "APP_MESSAGE_ISTYPING": "{name} yazıyor..."
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Merhaba",
@@ -609,7 +610,12 @@
         "APP_MAIL_MODAL_DEL": "Sil",
         "APP_MAIL_MODAL_CANCEL": "İptal",
         "APP_MAIL_NOTIFY": "{sender} sana bir e-mail gönderdi",
-        "APP_MAIL_TITLE": "Mail"
+        "APP_MAIL_TITLE": "Mail",
+        "APP_MAIL_DELETEALLDESC": "Tüm mailleri silmek istediğinizden emin misiniz?",
+        "APP_MAIL_DELETEALLTITLE": "Hepsini Sil",
+        "APP_MAIL_DELETEALLERROR": "Mailler silinirken bir hata oluştu.",
+        "APP_MAIL_DELETEALLSUCCESS": "Mailler başarıyla silindi.",
+        "APP_MAIL_DELETEALLLOADING": "Mailler siliniyor..."
     },
     "BillingAPP": {
         "APP_BILLING_HEADER" : "Fatura",
@@ -1185,6 +1191,9 @@
             "APP_TOOLTIP_CARSELLER_MESSAGE": "Mesaj",
             "APP_TOOLTIP_CARSELLER_BUY": "Satın Al",
             "APP_TOOLTIP_CARSELLER_DELETE": "Sil"
+        },
+        "Mail": {
+            "APP_TOOLTIP_MAIL_ALLDELETE": "Tümünü Sil"
         }
     }
 }

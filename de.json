@@ -302,7 +302,8 @@
         "APP_MESSAGE_PLACEHOLDER": "Eine Nachricht eingeben",
         "APP_MESSAGE_OPTION_CANCEL": "Abbrechen",
         "APP_MESSAGE_MODAL_CANCEL": "Abbrechen",
-        "APP_MESSAGE_MODAL_SEARCH": "Suche"
+        "APP_MESSAGE_MODAL_SEARCH": "Suche",
+        "APP_MESSAGE_ISTYPING": "{name} schreibt..."
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Hallo",
@@ -609,7 +610,12 @@
         "APP_MAIL_MODAL_DEL": "Löschen",
         "APP_MAIL_MODAL_CANCEL": "Abbrechen",
         "APP_MAIL_NOTIFY": "{sender} Ihnen eine neue E-Mail geschickt",
-        "APP_MAIL_TITLE": "Mail"
+        "APP_MAIL_TITLE": "Mail",
+        "APP_MAIL_DELETEALLDESC": "Sind Sie sicher, dass Sie alle E-Mails löschen möchten?",
+        "APP_MAIL_DELETEALLTITLE": "Alle löschen",
+        "APP_MAIL_DELETEALLERROR": "Beim Löschen aller E-Mails ist ein Fehler aufgetreten.",
+        "APP_MAIL_DELETEALLSUCCESS": "Alle E-Mails wurden erfolgreich gelöscht.",
+        "APP_MAIL_DELETEALLLOADING": "Löschen, bitte warten"
     },
     "BillingAPP": {
         "APP_BILLING_HEADER" : "Rechnung",
@@ -1187,6 +1193,9 @@
             "APP_TOOLTIP_CARSELLER_MESSAGE": "Nachricht",
             "APP_TOOLTIP_CARSELLER_BUY": "Kaufen",
             "APP_TOOLTIP_CARSELLER_DELETE": "Löschen"
+        },
+        "Mail": {
+            "APP_TOOLTIP_MAIL_ALLDELETE": "Alle löschen"
         }
     }
 }
