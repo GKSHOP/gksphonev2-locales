@@ -639,7 +639,11 @@
         "APP_BILLING_PAIDDESCRIPTION" : "You have paid the invoice amount paid : {amount}",
         "APP_BILLING_NOTIFY_NEWBILL": "You have a new bill",
         "APP_BILLING_PLAYER_NOT_ONLINE": "{blplayer} player offline",
-        "APP_BILLING_AMOUNT_ERROR": "Amount Error"
+        "APP_BILLING_AMOUNT_ERROR": "Amount Error",
+        "APP_BILLING_SUCCESS": "The invoice was issued successfully",
+        "APP_BILLING_ERROR": "An error occurred while issuing the invoice",
+        "APP_BILLING_YOURSELF_ERROR": "You cannot invoice yourself",
+        "APP_BILLING_COMPANYBILL": "Company Bill"
     },
     "DarkChatAPP": {
         "APP_DARKTCHAT_TITLE": "Dark Chat",
@@ -1020,7 +1024,8 @@
         "APP_BUSINESS_OPEN" : "Open",
         "APP_BUSINESS_CLOSE" : "Close",
         "APP_BUSINESS_APPLICATION_SENDERROR": "Since you have already applied for a job, you can't apply again.",
-        "APP_BUSINESS_APPLICATION_SENDSUCESS": "Job application sent successfully"
+        "APP_BUSINESS_APPLICATION_SENDSUCESS": "Job application sent successfully",
+        "APP_BUSINESS_BILL_BUSINESS" : "Business"
     },
     "GamesAPP": {
         "APP_GAME_TITLE": "Games",

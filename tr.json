@@ -639,7 +639,11 @@
         "APP_BILLING_PAIDDESCRIPTION" : "{amount} faturanızı ödediniz.",
         "APP_BILLING_NOTIFY_NEWBILL": "Yeni bir fatura geldi",
         "APP_BILLING_PLAYER_NOT_ONLINE": "{blplayer} çevrimdışı",
-        "APP_BILLING_AMOUNT_ERROR": "Tutar Hatası"
+        "APP_BILLING_AMOUNT_ERROR": "Tutar Hatası",
+        "APP_BILLING_SUCCESS": "Fatura başarıyla kesildi",
+        "APP_BILLING_ERROR": "Fatura kesilirken bir hata oluştu",
+        "APP_BILLING_YOURSELF_ERROR": "Kendi kendinize fatura kesemezsiniz",
+        "APP_BILLING_COMPANYBILL": "Şirket Faturası"
     },
     "DarkChatAPP": {
         "APP_DARKTCHAT_TITLE": "Dark Chat",
@@ -1018,7 +1022,8 @@
         "APP_BUSINESS_OPEN" : "Açık",
         "APP_BUSINESS_CLOSE" : "Kapalı",
         "APP_BUSINESS_APPLICATION_SENDERROR": "Bu iş için zaten bir başvurunuz var. Başvurunuz sonuçlanmadan tekrar başvuru yapamazsınız.",
-        "APP_BUSINESS_APPLICATION_SENDSUCESS": "İş başvurunuz gönderildi"
+        "APP_BUSINESS_APPLICATION_SENDSUCESS": "İş başvurunuz gönderildi",
+        "APP_BUSINESS_BILL_BUSINESS" : "İşletme"
     },
     "GamesAPP": {
         "APP_GAME_TITLE": "Oyunlar",

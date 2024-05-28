@@ -639,7 +639,11 @@
         "APP_BILLING_PAIDDESCRIPTION" : "Jy het die faktuurbedrag betaal wat betaal is: {amount}",
         "APP_BILLING_NOTIFY_NEWBILL": "Jy het 'n nuwe rekening",
         "APP_BILLING_PLAYER_NOT_ONLINE": "{blplayer} speler vanlyn",
-        "APP_BILLING_AMOUNT_ERROR": "Bedrag fout"
+        "APP_BILLING_AMOUNT_ERROR": "Bedrag fout",
+        "APP_BILLING_SUCCESS": "Die faktuur is suksesvol uitgereik",
+        "APP_BILLING_ERROR": "'n Fout het voorgekom tydens die uitreiking van die faktuur",
+        "APP_BILLING_YOURSELF_ERROR": "Jy kan nie jouself faktureer nie",
+        "APP_BILLING_COMPANYBILL": "Maatskappy faktuur"
     },
     "DarkChatAPP": {
         "APP_DARKTCHAT_TITLE": "Dark Chat",
@@ -1020,7 +1024,8 @@
         "APP_BUSINESS_OPEN" : "Oop",
         "APP_BUSINESS_CLOSE" : "Toe",
         "APP_BUSINESS_APPLICATION_SENDERROR": "Aangesien jy reeds vir 'n werk aansoek gedoen het, kan jy nie weer aansoek doen nie.",
-        "APP_BUSINESS_APPLICATION_SENDSUCESS": "Werksaansoek suksesvol gestuur"
+        "APP_BUSINESS_APPLICATION_SENDSUCESS": "Werksaansoek suksesvol gestuur",
+        "APP_BUSINESS_BILL_BUSINESS" : "Besigheid"
     },
     "GamesAPP": {
         "APP_GAME_TITLE": "Games",

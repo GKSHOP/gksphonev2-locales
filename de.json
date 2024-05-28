@@ -639,7 +639,11 @@
         "APP_BILLING_PAIDDESCRIPTION" : "Sie haben den Rechnungsbetrag gezahlt : {amount}",
         "APP_BILLING_NOTIFY_NEWBILL": "Sie haben eine neue Rechnung",
         "APP_BILLING_PLAYER_NOT_ONLINE": "{blplayer} Spieler offline",
-        "APP_BILLING_AMOUNT_ERROR": "Betrag Fehler"
+        "APP_BILLING_AMOUNT_ERROR": "Betrag Fehler",
+        "APP_BILLING_SUCCESS": "Die Rechnung wurde erfolgreich ausgestellt",
+        "APP_BILLING_ERROR": "Beim Ausstellen der Rechnung ist ein Fehler aufgetreten",
+        "APP_BILLING_YOURSELF_ERROR": "Sie können Ihre Rechnung nicht selbst in Rechnung stellen",
+        "APP_BILLING_COMPANYBILL": "Firmenrechnung"
     },
     "DarkChatAPP": {
         "APP_DARKTCHAT_TITLE": "Dark Chat",
@@ -1020,7 +1024,8 @@
         "APP_BUSINESS_OPEN" : "Öffnen",
         "APP_BUSINESS_CLOSE" : "Schließen",
         "APP_BUSINESS_APPLICATION_SENDERROR": "Da Sie sich bereits auf eine Stelle beworben haben, können Sie sich nicht erneut bewerben.",
-        "APP_BUSINESS_APPLICATION_SENDSUCESS": "Bewerbung erfolgreich abgeschickt"
+        "APP_BUSINESS_APPLICATION_SENDSUCESS": "Bewerbung erfolgreich abgeschickt",
+        "APP_BUSINESS_BILL_BUSINESS" : "Geschäft"
     },
     "GamesAPP": {
         "APP_GAME_TITLE": "Spiele",
