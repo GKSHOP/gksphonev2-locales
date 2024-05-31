@@ -114,7 +114,9 @@
         "APP_SETTING_FEEDBACKSUCCESS": "Jou terugvoer is gestuur",
         "APP_SETTING_FEEDBACKEMPTY": "Jy kan nie 'n leë terugvoer stuur nie",
         "APP_SETTING_CHANGLOG": "Veranderlogboek",
-        "APP_SETTING_CHANGLOGPOUPCLOSE": "Maaktoe"
+        "APP_SETTING_CHANGLOGPOUPCLOSE": "Maaktoe",
+        "APP_SETTING_CUSTOMEWALLPAPER": "Pasgemaakte plakpapier",
+        "APP_SETTING_CUSTOMEWALLPAPERDESC": "Voer die URL van die prent in wat jy as jou muurpapier wil gebruik"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Contact",
@@ -1025,7 +1027,8 @@
         "APP_BUSINESS_CLOSE" : "Toe",
         "APP_BUSINESS_APPLICATION_SENDERROR": "Aangesien jy reeds vir 'n werk aansoek gedoen het, kan jy nie weer aansoek doen nie.",
         "APP_BUSINESS_APPLICATION_SENDSUCESS": "Werksaansoek suksesvol gestuur",
-        "APP_BUSINESS_BILL_BUSINESS" : "Besigheid"
+        "APP_BUSINESS_BILL_BUSINESS" : "Besigheid",
+        "APP_BUSINESS_ACCEPTJOB": "Wil jy werwing vir {job} aanvaar?"
     },
     "GamesAPP": {
         "APP_GAME_TITLE": "Games",

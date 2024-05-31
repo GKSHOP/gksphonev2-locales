@@ -114,7 +114,9 @@
         "APP_SETTING_FEEDBACKSUCCESS": "Your feedback has been sent",
         "APP_SETTING_FEEDBACKEMPTY": "You can't send an empty feedback",
         "APP_SETTING_CHANGLOG": "Changelog",
-        "APP_SETTING_CHANGLOGPOUPCLOSE": "Close"
+        "APP_SETTING_CHANGLOGPOUPCLOSE": "Close",
+        "APP_SETTING_CUSTOMEWALLPAPER": "Custom Wallpaper",
+        "APP_SETTING_CUSTOMEWALLPAPERDESC": "Enter the URL of the image you want to use as wallpaper"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Contacts",
@@ -1025,7 +1027,8 @@
         "APP_BUSINESS_CLOSE" : "Close",
         "APP_BUSINESS_APPLICATION_SENDERROR": "Since you have already applied for a job, you can't apply again.",
         "APP_BUSINESS_APPLICATION_SENDSUCESS": "Job application sent successfully",
-        "APP_BUSINESS_BILL_BUSINESS" : "Business"
+        "APP_BUSINESS_BILL_BUSINESS" : "Business",
+        "APP_BUSINESS_ACCEPTJOB": "Do you want to accept the hiring for the {job} position?"
     },
     "GamesAPP": {
         "APP_GAME_TITLE": "Games",

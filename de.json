@@ -114,7 +114,9 @@
         "APP_SETTING_FEEDBACKSUCCESS": "Ihr Feedback wurde gesendet",
         "APP_SETTING_FEEDBACKEMPTY": "Sie können kein leeres Feedback senden",
         "APP_SETTING_CHANGLOG": "Änderungsprotokoll",
-        "APP_SETTING_CHANGLOGPOUPCLOSE": "Schließen"
+        "APP_SETTING_CHANGLOGPOUPCLOSE": "Schließen",
+        "APP_SETTING_CUSTOMEWALLPAPER": "Benutzerdefinierte Tapete",
+        "APP_SETTING_CUSTOMEWALLPAPERDESC": "Geben Sie die URL des Bildes ein, das Sie als Tapete verwenden möchten"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Kontakte",
@@ -1025,7 +1027,8 @@
         "APP_BUSINESS_CLOSE" : "Schließen",
         "APP_BUSINESS_APPLICATION_SENDERROR": "Da Sie sich bereits auf eine Stelle beworben haben, können Sie sich nicht erneut bewerben.",
         "APP_BUSINESS_APPLICATION_SENDSUCESS": "Bewerbung erfolgreich abgeschickt",
-        "APP_BUSINESS_BILL_BUSINESS" : "Geschäft"
+        "APP_BUSINESS_BILL_BUSINESS" : "Geschäft",
+        "APP_BUSINESS_ACCEPTJOB": "Möchten Sie die Einstellung für die Position {job} akzeptieren?"
     },
     "GamesAPP": {
         "APP_GAME_TITLE": "Spiele",

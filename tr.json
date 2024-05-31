@@ -114,7 +114,9 @@
         "APP_SETTING_FEEDBACKSUCCESS": "Geri bildiriminiz gönderildi",
         "APP_SETTING_FEEDBACKEMPTY": "Boş bir geri bildirim gönderemezsiniz",
         "APP_SETTING_CHANGLOG": "Değişiklik Kaydı",
-        "APP_SETTING_CHANGLOGPOUPCLOSE": "Kapat"
+        "APP_SETTING_CHANGLOGPOUPCLOSE": "Kapat",
+        "APP_SETTING_CUSTOMEWALLPAPER": "Özel Duvar Kağıdı",
+        "APP_SETTING_CUSTOMEWALLPAPERDESC": "Duvar kağıdı olarak kullanmak istediğiniz görselin URL'sini girin"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Rehber",
@@ -1023,7 +1025,8 @@
         "APP_BUSINESS_CLOSE" : "Kapalı",
         "APP_BUSINESS_APPLICATION_SENDERROR": "Bu iş için zaten bir başvurunuz var. Başvurunuz sonuçlanmadan tekrar başvuru yapamazsınız.",
         "APP_BUSINESS_APPLICATION_SENDSUCESS": "İş başvurunuz gönderildi",
-        "APP_BUSINESS_BILL_BUSINESS" : "İşletme"
+        "APP_BUSINESS_BILL_BUSINESS" : "İşletme",
+        "APP_BUSINESS_ACCEPTJOB": "{job} işe alımını kabul etmek istiyor musun?"
     },
     "GamesAPP": {
         "APP_GAME_TITLE": "Oyunlar",

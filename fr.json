@@ -114,7 +114,9 @@
         "APP_SETTING_FEEDBACKSUCCESS": "Votre feedback à été envoyé",
         "APP_SETTING_FEEDBACKEMPTY": "Vous ne pouvez pas envoyer de feedback vide",
         "APP_SETTING_CHANGLOG": "Changements : ",
-        "APP_SETTING_CHANGLOGPOUPCLOSE": "Fermer"
+        "APP_SETTING_CHANGLOGPOUPCLOSE": "Fermer",
+        "APP_SETTING_CUSTOMEWALLPAPER": "Fond d'écran personnalisé",
+        "APP_SETTING_CUSTOMEWALLPAPERDESC": "Entrez l'URL de l'image que vous souhaitez utiliser comme fond d'écran"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Contacts",
@@ -1025,7 +1027,8 @@
         "APP_BUSINESS_CLOSE" : "Fermé",
         "APP_BUSINESS_APPLICATION_SENDERROR": "Vous avez déjà une candidature envoyée, vous ne pouvez pas en envoyer une autre pour le moment",
         "APP_BUSINESS_APPLICATION_SENDSUCESS": "Candidature envoyée",
-        "APP_BUSINESS_BILL_BUSINESS" : "Entreprise"
+        "APP_BUSINESS_BILL_BUSINESS" : "Entreprise",
+        "APP_BUSINESS_ACCEPTJOB": "Souhaitez-vous accepter le recrutement pour le poste de {job} ?"
     },
     "GamesAPP": {
         "APP_GAME_TITLE": "Jeux",
