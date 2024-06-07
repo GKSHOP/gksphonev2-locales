@@ -116,7 +116,8 @@
         "APP_SETTING_CHANGLOG": "Veranderlogboek",
         "APP_SETTING_CHANGLOGPOUPCLOSE": "Maaktoe",
         "APP_SETTING_CUSTOMEWALLPAPER": "Pasgemaakte plakpapier",
-        "APP_SETTING_CUSTOMEWALLPAPERDESC": "Voer die URL van die prent in wat jy as jou muurpapier wil gebruik"
+        "APP_SETTING_CUSTOMEWALLPAPERDESC": "Voer die URL van die prent in wat jy as jou muurpapier wil gebruik",
+        "APP_SETTING_LANG": "Taal"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Contact",
@@ -1205,5 +1206,11 @@
         "Mail": {
             "APP_TOOLTIP_MAIL_ALLDELETE": "Vee uit"
         }
+    },
+    "RegisterCommand": {
+        "REGISTERCOMMAND_OPENPHONE": "Foon oop",
+        "REGISTERCOMMAND_NORMALCHARGE": "Normale laai",
+        "REGISTERCOMMAND_FASTCHARGE": "Vinnige laai",
+        "REGISTERCOMMAND_PHONEBOOTH": "Foonhokkie"
     }
 }

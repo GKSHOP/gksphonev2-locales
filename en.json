@@ -116,7 +116,8 @@
         "APP_SETTING_CHANGLOG": "Changelog",
         "APP_SETTING_CHANGLOGPOUPCLOSE": "Close",
         "APP_SETTING_CUSTOMEWALLPAPER": "Custom Wallpaper",
-        "APP_SETTING_CUSTOMEWALLPAPERDESC": "Enter the URL of the image you want to use as wallpaper"
+        "APP_SETTING_CUSTOMEWALLPAPERDESC": "Enter the URL of the image you want to use as wallpaper",
+        "APP_SETTING_LANG": "Language"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Contacts",
@@ -1205,5 +1206,11 @@
         "Mail": {
             "APP_TOOLTIP_MAIL_ALLDELETE": "Delete All"
         }
+    },
+    "RegisterCommand": {
+        "REGISTERCOMMAND_OPENPHONE": "Open Phone",
+        "REGISTERCOMMAND_NORMALCHARGE": "Normal Charge",
+        "REGISTERCOMMAND_FASTCHARGE": "Fast Charge",
+        "REGISTERCOMMAND_PHONEBOOTH": "Phone Booth"
     }
 }

@@ -116,7 +116,8 @@
         "APP_SETTING_CHANGLOG": "Değişiklik Kaydı",
         "APP_SETTING_CHANGLOGPOUPCLOSE": "Kapat",
         "APP_SETTING_CUSTOMEWALLPAPER": "Özel Duvar Kağıdı",
-        "APP_SETTING_CUSTOMEWALLPAPERDESC": "Duvar kağıdı olarak kullanmak istediğiniz görselin URL'sini girin"
+        "APP_SETTING_CUSTOMEWALLPAPERDESC": "Duvar kağıdı olarak kullanmak istediğiniz görselin URL'sini girin",
+        "APP_SETTING_LANG": "Dil"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Rehber",
@@ -1203,5 +1204,11 @@
         "Mail": {
             "APP_TOOLTIP_MAIL_ALLDELETE": "Tümünü Sil"
         }
+    },
+    "RegisterCommand": {
+        "REGISTERCOMMAND_OPENPHONE": "Telefonu aç",
+        "REGISTERCOMMAND_NORMALCHARGE": "Normal şarj",
+        "REGISTERCOMMAND_FASTCHARGE": "Hızlı şarj",
+        "REGISTERCOMMAND_PHONEBOOTH": "Telefon kulübesi"
     }
 }

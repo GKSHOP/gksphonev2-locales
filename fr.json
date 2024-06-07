@@ -116,7 +116,8 @@
         "APP_SETTING_CHANGLOG": "Changements : ",
         "APP_SETTING_CHANGLOGPOUPCLOSE": "Fermer",
         "APP_SETTING_CUSTOMEWALLPAPER": "Fond d'écran personnalisé",
-        "APP_SETTING_CUSTOMEWALLPAPERDESC": "Entrez l'URL de l'image que vous souhaitez utiliser comme fond d'écran"
+        "APP_SETTING_CUSTOMEWALLPAPERDESC": "Entrez l'URL de l'image que vous souhaitez utiliser comme fond d'écran",
+        "APP_SETTING_LANG": "Langue"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Contacts",
@@ -1205,5 +1206,11 @@
         "Mail": {
             "APP_TOOLTIP_MAIL_ALLDELETE": "Supprimer tout"
         }
+    },
+    "RegisterCommand": {
+        "REGISTERCOMMAND_OPENPHONE": "Ouvrir le téléphone",
+        "REGISTERCOMMAND_NORMALCHARGE": "Charge normale",
+        "REGISTERCOMMAND_FASTCHARGE": "Charge rapide",
+        "REGISTERCOMMAND_PHONEBOOTH": "Cabine téléphonique"
     }
 }

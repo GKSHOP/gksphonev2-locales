@@ -116,7 +116,8 @@
         "APP_SETTING_CHANGLOG": "Änderungsprotokoll",
         "APP_SETTING_CHANGLOGPOUPCLOSE": "Schließen",
         "APP_SETTING_CUSTOMEWALLPAPER": "Benutzerdefinierte Tapete",
-        "APP_SETTING_CUSTOMEWALLPAPERDESC": "Geben Sie die URL des Bildes ein, das Sie als Tapete verwenden möchten"
+        "APP_SETTING_CUSTOMEWALLPAPERDESC": "Geben Sie die URL des Bildes ein, das Sie als Tapete verwenden möchten",
+        "APP_SETTING_LANG": "Sprache"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Kontakte",
@@ -1205,5 +1206,11 @@
         "Mail": {
             "APP_TOOLTIP_MAIL_ALLDELETE": "Alle löschen"
         }
+    },
+    "RegisterCommand": {
+        "REGISTERCOMMAND_OPENPHONE": "Telefon öffnen",
+        "REGISTERCOMMAND_NORMALCHARGE": "Normales Laden",
+        "REGISTERCOMMAND_FASTCHARGE": "Schnellladen",
+        "REGISTERCOMMAND_PHONEBOOTH": "Telefonzelle"
     }
 }
