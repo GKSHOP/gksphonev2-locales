@@ -49,7 +49,14 @@
         "APP_CAMERA_PHOTO": "Photo",
         "APP_CAMERA_VIDEO": "Video",
         "APP_CAMERA_LANDSCAPE": "Landscape",
-        "APP_CAMERA_LOADING": "Loading"
+        "APP_CAMERA_LOADING": "Loading",
+        "InfoPanel": {
+            "APP_CAMERA_INFO_ROTATE": "Rotate the camera",
+            "APP_CAMERA_INFO_MOVING": "You can move the camera by holding down the right mouse button",
+            "APP_CAMERA_INFO_FACIALCHANGE": "Change facial expression",
+            "APP_CAMERA_INFO_ANIMATION": "Use animation",
+            "APP_CAMERA_INFO_ANIMATIONCHANGE": "Change animation"
+        }
     },
     "ModalNumber": {
         "MODAL_SEND": "Send",
@@ -348,7 +355,7 @@
         "PHONE_SETUP_CREATEACCOUNTSECURITYPLACEHOLDER": "Write security answer",
         "PHONE_SETUP_CREATEACCOUNTCREATE": "Create",
         "PHONE_SETUP_CREATEACCOUNTERROR": "Passwords don't match",
-        "PHONE_SETUP_CREATEACCOUNTERROR2": "You can't use special characters (Only use > 4)",
+        "PHONE_SETUP_CREATEACCOUNTERROR2": "You can't use special characters (Only use > 5)",
         "PHONE_SETUP_CREATEACCOUNTLOADING": "Please wait while your account is being created",
         "PHONE_SETUP_CREATEACCOUNTERROR3": "This email address is already in use",
         "PHONE_SETUP_CREATEACCOUNTERROR1": "The security question cannot be blank",
@@ -1168,6 +1175,35 @@
         "APP_TAXI_CUSTOMER_NOTIFY_DRIVERACCEPTJOB": "A taxi driver accepted the job",
         "APP_TAXI_DRIVER_NOTCUSTOMER": "There are currently no jobs available"
     },
+    "MusicAPP": {
+        "APP_MUSIC_HELLO": "Hello, {name}!",
+        "APP_MUSIC_HOME_DESC": "Let's listen to something great today",
+        "APP_MUSIC_PLAYLIST": "Playlist",
+        "APP_MUSIC_PLAYLIST_EMPTY": "The playlist is empty! How about filling it with your favorite songs? 🎤",
+        "APP_MUSIC_LIBRARY": "Your Library",
+        "APP_MUSIC_LIKED_SONGS": "Liked Songs",
+        "APP_MUSIC_PLAYLISTDETAILS_SONGS_LENGTH": "{length} songs",
+        "APP_MUSIC_CANCEL": "Cancel",
+        "APP_MUSIC_DONE": "Done",
+        "APP_MUSIC_EDIT_PLAYLIST": "Edit Playlist",
+        "APP_MUSIC_DELETE_PLAYLIST": "Delete Playlist",
+        "APP_MUSIC_NEW_PLAYLIST": "New Playlist",
+        "APP_MUSIC_PLAYLIST_NAME": "Playlist Name",
+        "APP_MUSIC_PLAYLIST_IMG": "Playlist Image",
+        "APP_MUSIC_PRELOADER_MUSIC_DELETE": "Deleting song...",
+        "APP_MUSIC_PLAYLIST_DELETE_SUCCESS": "Playlist deleted successfully",
+        "APP_MUSIC_LISTEN": "What do you want to listen to? 🎧",
+        "APP_MUSIC_PLAYTHIS_SONG": "Play this song",
+        "APP_MUSIC_ADD_QUEUE": "Add to Queue",
+        "APP_MUSIC_ADD_PLAYLIST": "Add to Playlist",
+        "APP_MUSIC_ADD_LIKED": "Add to Liked Songs",
+        "APP_MUSIC_REMOVE_LIKED": "Remove from Liked Songs",
+        "APP_MUSIC_SEARCHING": "Searching...",
+        "APP_MUSIC_ADDING_PLAYLIST": "Adding to playlist...",
+        "APP_MUSIC_ADD_PLAYLIST_SUCCESS": "Successfully added to playlist",
+        "APP_MUSIC_ADD_QUEUE_SUCCESS": "Successfully added to queue",
+        "APP_MUSIC_SEARCH_PLACEHOLDER": "Search"
+    },
     "Tooltip": {
         "ESIM": {
             "APP_TOOLTIP_SIM_BUY": "Buy"
@@ -1205,12 +1241,35 @@
         },
         "Mail": {
             "APP_TOOLTIP_MAIL_ALLDELETE": "Delete All"
+        },
+        "Music": {
+            "APP_TOOLTIP_MUSIC_HOME": "Home",
+            "APP_TOOLTIP_MUSIC_SEARCH": "Search",
+            "APP_TOOLTIP_MUSIC_LIBRARY": "Library",
+            "APP_TOOLTIP_MUSIC_REMOVELIKE": "Dislike",
+            "APP_TOOLTIP_MUSIC_LIKE": "Like",
+            "APP_TOOLTIP_MUSIC_PLAY": "Play",
+            "APP_TOOLTIP_MUSIC_PAUSE": "Pause",
+            "APP_TOOLTIP_MUSIC_ADD": "Add",
+            "APP_TOOLTIP_MUSIC_REMOVE": "Remove",
+            "APP_TOOLTIP_MUSIC_DETAIL": "Details",
+            "APP_TOOLTIP_MUSIC_PLAYLISTS": "Playlists",
+            "APP_TOOLTIP_CREATE_PLAYLIST": "Create Playlist",
+            "APP_TOOLTIP_MUSIC_BACK": "Back",
+            "APP_TOOLTIP_MUSIC_NEXT": "Next",
+            "APP_TOOLTIP_MUSIC_REPEAT": "Repeat",
+            "APP_TOOLTIP_MUSIC_SHUFFLE": "Shuffle",
+            "APP_TOOLTIP_MUSIC_EDIT_PLAYLIST": "Edit Playlist",
+            "APP_TOOLTIP_MUSIC_EARPHONE": "Earphone",
+            "APP_TOOLTIP_MUSIC_SPEAKER": "Speaker"
         }
     },
     "RegisterCommand": {
         "REGISTERCOMMAND_OPENPHONE": "Open Phone",
         "REGISTERCOMMAND_NORMALCHARGE": "Normal Charge",
         "REGISTERCOMMAND_FASTCHARGE": "Fast Charge",
-        "REGISTERCOMMAND_PHONEBOOTH": "Phone Booth"
+        "REGISTERCOMMAND_PHONEBOOTH": "Phone Booth",
+        "REGISTERCOMMAND_ANSWERCALL": "Answer Call",
+        "REGISTERCOMMAND_DECLINECALL": "Decline Call"
     }
 }

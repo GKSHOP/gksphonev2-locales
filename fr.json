@@ -49,7 +49,14 @@
         "APP_CAMERA_PHOTO": "Photo",
         "APP_CAMERA_VIDEO": "Video",
         "APP_CAMERA_LANDSCAPE": "Landscape",
-        "APP_CAMERA_LOADING": "Chargement"
+        "APP_CAMERA_LOADING": "Chargement",
+        "InfoPanel": {
+            "APP_CAMERA_INFO_ROTATE": "Faire pivoter la caméra",
+            "APP_CAMERA_INFO_MOVING": "Vous pouvez déplacer la caméra en maintenant le bouton droit de la souris enfoncé",
+            "APP_CAMERA_INFO_FACIALCHANGE": "Changer l'expression faciale",
+            "APP_CAMERA_INFO_ANIMATION": "Utiliser une animation",
+            "APP_CAMERA_INFO_ANIMATIONCHANGE": "Changer l'animation"
+        }
     },
     "ModalNumber": {
         "MODAL_SEND": "Envoyer",
@@ -1168,6 +1175,35 @@
         "APP_TAXI_CUSTOMER_NOTIFY_DRIVERACCEPTJOB": "Un taxi à accepté votre course",
         "APP_TAXI_DRIVER_NOTCUSTOMER": "Aucun chauffeur disponible actuellement"
     },
+    "MusicAPP": {
+        "APP_MUSIC_HELLO": "Bonjour, {name}!",
+        "APP_MUSIC_HOME_DESC": "Écoutons quelque chose de génial aujourd'hui",
+        "APP_MUSIC_PLAYLIST": "Liste de lecture",
+        "APP_MUSIC_PLAYLIST_EMPTY": "La liste de lecture est vide! Pourquoi ne pas la remplir avec vos chansons préférées? 🎤",
+        "APP_MUSIC_LIBRARY": "Votre bibliothèque",
+        "APP_MUSIC_LIKED_SONGS": "Chansons aimées",
+        "APP_MUSIC_PLAYLISTDETAILS_SONGS_LENGTH": "{length} chansons",
+        "APP_MUSIC_CANCEL": "Annuler",
+        "APP_MUSIC_DONE": "Terminé",
+        "APP_MUSIC_EDIT_PLAYLIST": "Modifier la liste de lecture",
+        "APP_MUSIC_DELETE_PLAYLIST": "Supprimer la liste de lecture",
+        "APP_MUSIC_NEW_PLAYLIST": "Nouvelle liste de lecture",
+        "APP_MUSIC_PLAYLIST_NAME": "Nom de la liste de lecture",
+        "APP_MUSIC_PLAYLIST_IMG": "Image de la liste de lecture",
+        "APP_MUSIC_PRELOADER_MUSIC_DELETE": "Suppression de la chanson...",
+        "APP_MUSIC_PLAYLIST_DELETE_SUCCESS": "Liste de lecture supprimée avec succès",
+        "APP_MUSIC_LISTEN": "Qu'est-ce que tu veux écouter? 🎧",
+        "APP_MUSIC_PLAYTHIS_SONG": "Jouer cette chanson",
+        "APP_MUSIC_ADD_QUEUE": "Ajouter à la file d'attente",
+        "APP_MUSIC_ADD_PLAYLIST": "Ajouter à la liste de lecture",
+        "APP_MUSIC_ADD_LIKED": "Ajouter aux chansons aimées",
+        "APP_MUSIC_REMOVE_LIKED": "Retirer des chansons aimées",
+        "APP_MUSIC_SEARCHING": "Recherche...",
+        "APP_MUSIC_ADDING_PLAYLIST": "Ajout à la liste de lecture...",
+        "APP_MUSIC_ADD_PLAYLIST_SUCCESS": "Ajouté avec succès à la liste de lecture",
+        "APP_MUSIC_ADD_QUEUE_SUCCESS": "Ajouté avec succès à la file d'attente",
+        "APP_MUSIC_SEARCH_PLACEHOLDER": "Recherche"
+    },
     "Tooltip": {
         "ESIM": {
             "APP_TOOLTIP_SIM_BUY": "Acheter"
@@ -1205,12 +1241,35 @@
         },
         "Mail": {
             "APP_TOOLTIP_MAIL_ALLDELETE": "Supprimer tout"
+        },
+        "Music": {
+            "APP_TOOLTIP_MUSIC_HOME": "Accueil",
+            "APP_TOOLTIP_MUSIC_SEARCH": "Recherche",
+            "APP_TOOLTIP_MUSIC_LIBRARY": "Bibliothèque",
+            "APP_TOOLTIP_MUSIC_REMOVELIKE": "Ne plus aimer",
+            "APP_TOOLTIP_MUSIC_LIKE": "Aimer",
+            "APP_TOOLTIP_MUSIC_PLAY": "Lire",
+            "APP_TOOLTIP_MUSIC_PAUSE": "Pause",
+            "APP_TOOLTIP_MUSIC_ADD": "Ajouter",
+            "APP_TOOLTIP_MUSIC_REMOVE": "Retirer",
+            "APP_TOOLTIP_MUSIC_DETAIL": "Détails",
+            "APP_TOOLTIP_MUSIC_PLAYLISTS": "Listes de lecture",
+            "APP_TOOLTIP_CREATE_PLAYLIST": "Créer une liste de lecture",
+            "APP_TOOLTIP_MUSIC_BACK": "Retour",
+            "APP_TOOLTIP_MUSIC_NEXT": "Suivant",
+            "APP_TOOLTIP_MUSIC_REPEAT": "Répéter",
+            "APP_TOOLTIP_MUSIC_SHUFFLE": "Mélanger",
+            "APP_TOOLTIP_MUSIC_EDIT_PLAYLIST": "Modifier la liste de lecture",
+            "APP_TOOLTIP_MUSIC_EARPHONE": "Écouteurs",
+            "APP_TOOLTIP_MUSIC_SPEAKER": "Haut-parleur"
         }
     },
     "RegisterCommand": {
         "REGISTERCOMMAND_OPENPHONE": "Ouvrir le téléphone",
         "REGISTERCOMMAND_NORMALCHARGE": "Charge normale",
         "REGISTERCOMMAND_FASTCHARGE": "Charge rapide",
-        "REGISTERCOMMAND_PHONEBOOTH": "Cabine téléphonique"
+        "REGISTERCOMMAND_PHONEBOOTH": "Cabine téléphonique",
+        "REGISTERCOMMAND_ANSWERCALL": "Répondre à l'appel",
+        "REGISTERCOMMAND_DECLINECALL": "Décliner l'appel"
     }
 }

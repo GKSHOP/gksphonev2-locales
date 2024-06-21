@@ -49,7 +49,14 @@
         "APP_CAMERA_PHOTO": "Resim",
         "APP_CAMERA_VIDEO": "Video",
         "APP_CAMERA_LANDSCAPE": "Panoramik",
-        "APP_CAMERA_LOADING": "Yükleniyor"
+        "APP_CAMERA_LOADING": "Yükleniyor",
+        "InfoPanel": {
+            "APP_CAMERA_INFO_ROTATE": "Kamerayı döndür",
+            "APP_CAMERA_INFO_MOVING": "Fare sağ tuşuna basılı tutarak kamerayı hareket ettirebilirsiniz",
+            "APP_CAMERA_INFO_FACIALCHANGE": "Yüz ifadesini değiştir",
+            "APP_CAMERA_INFO_ANIMATION": "Animasyon kullanmak",
+            "APP_CAMERA_INFO_ANIMATIONCHANGE": "Animasyonu değiştirmek"
+        }
     },
     "ModalNumber": {
         "MODAL_SEND": "Gönder",
@@ -1166,6 +1173,35 @@
         "APP_TAXI_CUSTOMER_NOTIFY_DRIVERACCEPTJOB": "Bir taksi şoförü işi kabul etti",
         "APP_TAXI_DRIVER_NOTCUSTOMER": "Şu anda mevcut iş yok"
     },
+    "MusicAPP": {
+        "APP_MUSIC_HELLO": "Merhaba, {name}!",
+        "APP_MUSIC_HOME_DESC": "Bugün harika bir şey dinleyelim",
+        "APP_MUSIC_PLAYLIST": "Çalma Listesi",
+        "APP_MUSIC_PLAYLIST_EMPTY": "Playlist bomboş! En sevdiğin şarkılarla doldurmaya ne dersin? 🎤",
+        "APP_MUSIC_LIBRARY": "Kütüphaneniz",
+        "APP_MUSIC_LIKED_SONGS": "Beğenilen Şarkılar",
+        "APP_MUSIC_PLAYLISTDETAILS_SONGS_LENGTH": "{length} şarkı",
+        "APP_MUSIC_CANCEL": "İptal",
+        "APP_MUSIC_DONE": "Tamam",
+        "APP_MUSIC_EDIT_PLAYLIST": "Çalma Listesini Düzenle",
+        "APP_MUSIC_DELETE_PLAYLIST": "Çalma Listesini Sil",
+        "APP_MUSIC_NEW_PLAYLIST": "Yeni Çalma Listesi",
+        "APP_MUSIC_PLAYLIST_NAME": "Çalma Listesi Adı",
+        "APP_MUSIC_PLAYLIST_IMG": "Çalma Listesi Resmi",
+        "APP_MUSIC_PRELOADER_MUSIC_DELETE": "Şarkı siliniyor...",
+        "APP_MUSIC_PLAYLIST_DELETE_SUCCESS": "Çalma listesi başarıyla silindi",
+        "APP_MUSIC_LISTEN": "Ne dinlemek istiyorsun? 🎧",
+        "APP_MUSIC_PLAYTHIS_SONG": "Bu şarkıyı çal",
+        "APP_MUSIC_ADD_QUEUE": "Sıraya Ekle",
+        "APP_MUSIC_ADD_PLAYLIST": "Çalma Listesine Ekle",
+        "APP_MUSIC_ADD_LIKED": "Beğenilenlere Ekle",
+        "APP_MUSIC_REMOVE_LIKED": "Beğenilenlerden Kaldır",
+        "APP_MUSIC_SEARCHING": "Aranıyor...",
+        "APP_MUSIC_ADDING_PLAYLIST": "Çalma listesine ekleniyor...",
+        "APP_MUSIC_ADD_PLAYLIST_SUCCESS": "Çalma listesine başarıyla eklendi",
+        "APP_MUSIC_ADD_QUEUE_SUCCESS": "Sıraya başarıyla eklendi",
+        "APP_MUSIC_SEARCH_PLACEHOLDER": "Arama"
+    },
     "Tooltip": {
         "ESIM": {
             "APP_TOOLTIP_SIM_BUY": "Satın Al"
@@ -1203,12 +1239,35 @@
         },
         "Mail": {
             "APP_TOOLTIP_MAIL_ALLDELETE": "Tümünü Sil"
+        },
+        "Music": {
+            "APP_TOOLTIP_MUSIC_HOME": "Ana Sayfa",
+            "APP_TOOLTIP_MUSIC_SEARCH": "Arama",
+            "APP_TOOLTIP_MUSIC_LIBRARY": "Kütüphane",
+            "APP_TOOLTIP_MUSIC_REMOVELIKE": "Beğenme",
+            "APP_TOOLTIP_MUSIC_LIKE": "Beğen",
+            "APP_TOOLTIP_MUSIC_PLAY": "Oynat",
+            "APP_TOOLTIP_MUSIC_PAUSE": "Duraklat",
+            "APP_TOOLTIP_MUSIC_ADD": "Ekle",
+            "APP_TOOLTIP_MUSIC_REMOVE": "Kaldır",
+            "APP_TOOLTIP_MUSIC_DETAIL": "Detaylar",
+            "APP_TOOLTIP_MUSIC_PLAYLISTS": "Çalma Listeleri",
+            "APP_TOOLTIP_CREATE_PLAYLIST": "Çalma Listesi Oluştur",
+            "APP_TOOLTIP_MUSIC_BACK": "Geri",
+            "APP_TOOLTIP_MUSIC_NEXT": "İleri",
+            "APP_TOOLTIP_MUSIC_REPEAT": "Tekrarla",
+            "APP_TOOLTIP_MUSIC_SHUFFLE": "Karıştır",
+            "APP_TOOLTIP_MUSIC_EDIT_PLAYLIST": "Çalma Listesini Düzenle",
+            "APP_TOOLTIP_MUSIC_EARPHONE": "Kulaklık",
+            "APP_TOOLTIP_MUSIC_SPEAKER": "Hoparlör"
         }
     },
     "RegisterCommand": {
         "REGISTERCOMMAND_OPENPHONE": "Telefonu aç",
         "REGISTERCOMMAND_NORMALCHARGE": "Normal şarj",
         "REGISTERCOMMAND_FASTCHARGE": "Hızlı şarj",
-        "REGISTERCOMMAND_PHONEBOOTH": "Telefon kulübesi"
+        "REGISTERCOMMAND_PHONEBOOTH": "Telefon kulübesi",
+        "REGISTERCOMMAND_ANSWERCALL": "Aramayı cevapla",
+        "REGISTERCOMMAND_DECLINECALL": "Aramayı reddet"
     }
 }

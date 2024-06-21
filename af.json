@@ -49,7 +49,14 @@
         "APP_CAMERA_PHOTO": "Foto",
         "APP_CAMERA_VIDEO": "Video",
         "APP_CAMERA_LANDSCAPE": "Landskap",
-        "APP_CAMERA_LOADING": "Laai tans"
+        "APP_CAMERA_LOADING": "Laai tans",
+        "InfoPanel": {
+            "APP_CAMERA_INFO_ROTATE": "Draai die kamera",
+            "APP_CAMERA_INFO_MOVING": "Jy kan die kamera beweeg deur die regter muisknoppie in te hou",
+            "APP_CAMERA_INFO_FACIALCHANGE": "Verander gesigsuitdrukking",
+            "APP_CAMERA_INFO_ANIMATION": "Gebruik animasie",
+            "APP_CAMERA_INFO_ANIMATIONCHANGE": "Verander animasie"
+        }
     },
     "ModalNumber": {
         "MODAL_SEND": "Stuur",
@@ -1168,6 +1175,35 @@
         "APP_TAXI_CUSTOMER_NOTIFY_DRIVERACCEPTJOB": "’n Taxibestuurder het die pos aanvaar",
         "APP_TAXI_DRIVER_NOTCUSTOMER": "Daar is tans geen poste beskikbaar nie"
     },
+    "MusicAPP": {
+        "APP_MUSIC_HELLO": "Hallo, {name}!",
+        "APP_MUSIC_HOME_DESC": "Kom ons luister na iets fantasties vandag",
+        "APP_MUSIC_PLAYLIST": "Speellys",
+        "APP_MUSIC_PLAYLIST_EMPTY": "Die speellys is leeg! Wat van om dit met jou gunsteling liedjies te vul? 🎤",
+        "APP_MUSIC_LIBRARY": "Jou Biblioteek",
+        "APP_MUSIC_LIKED_SONGS": "Gunsteling Liedjies",
+        "APP_MUSIC_PLAYLISTDETAILS_SONGS_LENGTH": "{length} liedjies",
+        "APP_MUSIC_CANCEL": "Kanselleer",
+        "APP_MUSIC_DONE": "Klaar",
+        "APP_MUSIC_EDIT_PLAYLIST": "Redigeer Speellys",
+        "APP_MUSIC_DELETE_PLAYLIST": "Verwyder Speellys",
+        "APP_MUSIC_NEW_PLAYLIST": "Nuwe Speellys",
+        "APP_MUSIC_PLAYLIST_NAME": "Speellys Naam",
+        "APP_MUSIC_PLAYLIST_IMG": "Speellys Beeld",
+        "APP_MUSIC_PRELOADER_MUSIC_DELETE": "Liedjie word verwyder...",
+        "APP_MUSIC_PLAYLIST_DELETE_SUCCESS": "Speellys suksesvol verwyder",
+        "APP_MUSIC_LISTEN": "Wat wil jy luister? 🎧",
+        "APP_MUSIC_PLAYTHIS_SONG": "Speel hierdie liedjie",
+        "APP_MUSIC_ADD_QUEUE": "Voeg by Waglys",
+        "APP_MUSIC_ADD_PLAYLIST": "Voeg by Speellys",
+        "APP_MUSIC_ADD_LIKED": "Voeg by Gunsteling Liedjies",
+        "APP_MUSIC_REMOVE_LIKED": "Verwyder uit Gunsteling Liedjies",
+        "APP_MUSIC_SEARCHING": "Soek...",
+        "APP_MUSIC_ADDING_PLAYLIST": "Voeg by speellys...",
+        "APP_MUSIC_ADD_PLAYLIST_SUCCESS": "Suksesvol by speellys gevoeg",
+        "APP_MUSIC_ADD_QUEUE_SUCCESS": "Suksesvol by waglys gevoeg",
+        "APP_MUSIC_SEARCH_PLACEHOLDER": "Soek"
+    },
     "Tooltip": {
         "ESIM": {
             "APP_TOOLTIP_SIM_BUY": "Koop"
@@ -1205,12 +1241,35 @@
         },
         "Mail": {
             "APP_TOOLTIP_MAIL_ALLDELETE": "Vee uit"
+        },
+        "Music": {
+            "APP_TOOLTIP_MUSIC_HOME": "Tuisblad",
+            "APP_TOOLTIP_MUSIC_SEARCH": "Soek",
+            "APP_TOOLTIP_MUSIC_LIBRARY": "Biblioteek",
+            "APP_TOOLTIP_MUSIC_REMOVELIKE": "Verwyder hou van",
+            "APP_TOOLTIP_MUSIC_LIKE": "Hou van",
+            "APP_TOOLTIP_MUSIC_PLAY": "Speel",
+            "APP_TOOLTIP_MUSIC_PAUSE": "Pouse",
+            "APP_TOOLTIP_MUSIC_ADD": "Voeg by",
+            "APP_TOOLTIP_MUSIC_REMOVE": "Verwyder",
+            "APP_TOOLTIP_MUSIC_DETAIL": "Besonderhede",
+            "APP_TOOLTIP_MUSIC_PLAYLISTS": "Speellyste",
+            "APP_TOOLTIP_CREATE_PLAYLIST": "Skep Speellys",
+            "APP_TOOLTIP_MUSIC_BACK": "Terug",
+            "APP_TOOLTIP_MUSIC_NEXT": "Volgende",
+            "APP_TOOLTIP_MUSIC_REPEAT": "Herhaal",
+            "APP_TOOLTIP_MUSIC_SHUFFLE": "Shuffle",
+            "APP_TOOLTIP_MUSIC_EDIT_PLAYLIST": "Redigeer Speellys",
+            "APP_TOOLTIP_MUSIC_EARPHONE": "Oorfone",
+            "APP_TOOLTIP_MUSIC_SPEAKER": "Luidspreker"
         }
     },
     "RegisterCommand": {
         "REGISTERCOMMAND_OPENPHONE": "Foon oop",
         "REGISTERCOMMAND_NORMALCHARGE": "Normale laai",
         "REGISTERCOMMAND_FASTCHARGE": "Vinnige laai",
-        "REGISTERCOMMAND_PHONEBOOTH": "Foonhokkie"
+        "REGISTERCOMMAND_PHONEBOOTH": "Foonhokkie",
+        "REGISTERCOMMAND_ANSWERCALL": "Beantwoord oproep",
+        "REGISTERCOMMAND_DECLINECALL": "Gesprek ophangen"
     }
 }
