@@ -596,7 +596,7 @@
         "APP_BANKREQUEST_TITLE": "Request Money",
         "APP_BANK_MODAL_CONTACT": "Contact",
         "APP_BANK_MODAL_TITLE": "Send Money",
-        "APP_BANK_MODAL_DESC": "Are you sure you want to send money? Total : {total}",
+        "APP_BANK_MODAL_DESC": "Are you sure you want to send money? Total : {total}, Transfer fee : {fee}",
         "APP_BANK_SENDLOADING": "Sending...",
         "APP_BANK_SENDMONEY_SUCCESS": "Money sent successfully",
         "APP_BANK_SENDMONEY_ERROR": "An error occurred while sending money",
@@ -609,7 +609,8 @@
         "APP_BANK_TRANSFERDESCRIPTION_SENDER": "You have sent money to {name}.",
         "APP_BANK_TRANSFERDESCRIPTION_RECEIVER": "You have received money from {name}.",
         "APP_BANK_TRANSFERNOTIFICATION": "{name} send you {money}",
-        "APP_BANK_REQUESTNOTIFICATION": "{name} requested {money}"
+        "APP_BANK_REQUESTNOTIFICATION": "{name} requested {money}",
+        "APP_BANK_TRANSFERDESCRIPTION_FEE": "Transfer fee"
     },
     "MailAPP": {
         "APP_MAIL_INBOX": "Inbox",

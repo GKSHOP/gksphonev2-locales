@@ -596,7 +596,7 @@
         "APP_BANKREQUEST_TITLE": "Para İste",
         "APP_BANK_MODAL_CONTACT": "Rehber",
         "APP_BANK_MODAL_TITLE": "Para Transferi",
-        "APP_BANK_MODAL_DESC": "Para göndermek istediğinizden emin misiniz? Toplam : {total}",
+        "APP_BANK_MODAL_DESC": "Para göndermek istediğinizden emin misiniz? Toplam : {total}, İşlem Ücreti : {fee}",
         "APP_BANK_SENDLOADING": "Gönderiliyor...",
         "APP_BANK_SENDMONEY_SUCCESS": "Para başarıyla gönderildi",
         "APP_BANK_SENDMONEY_ERROR": "Para gönderilirken bir hata oluştu",
@@ -609,7 +609,8 @@
         "APP_BANK_TRANSFERDESCRIPTION_SENDER": "{name} para gönderdin.",
         "APP_BANK_TRANSFERDESCRIPTION_RECEIVER": "{name} para aldın.",
         "APP_BANK_TRANSFERNOTIFICATION": "{name} para {money} gönderdi",
-        "APP_BANK_REQUESTNOTIFICATION": "{name} senden {money} istedi"
+        "APP_BANK_REQUESTNOTIFICATION": "{name} senden {money} istedi",
+        "APP_BANK_TRANSFERDESCRIPTION_FEE": "İşlem ücreti"
     },
     "MailAPP": {
         "APP_MAIL_INBOX": "Gelen Kutusu",

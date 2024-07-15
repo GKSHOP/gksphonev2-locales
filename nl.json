@@ -596,7 +596,7 @@
         "APP_BANKREQUEST_TITLE": "Geld Verzoeken",
         "APP_BANK_MODAL_CONTACT": "Contact",
         "APP_BANK_MODAL_TITLE": "Geld Verzenden",
-        "APP_BANK_MODAL_DESC": "Weet je zeker dat je geld wilt verzenden? Totaal: {total}",
+        "APP_BANK_MODAL_DESC": "Weet je zeker dat je geld wilt verzenden? Totaal: {total}, Transactiekosten: {fee}",
         "APP_BANK_SENDLOADING": "Verzenden...",
         "APP_BANK_SENDMONEY_SUCCESS": "Geld succesvol verzonden",
         "APP_BANK_SENDMONEY_ERROR": "Er is een fout opgetreden bij het verzenden van geld",
@@ -609,7 +609,8 @@
         "APP_BANK_TRANSFERDESCRIPTION_SENDER": "Je hebt geld naar {name} verzonden.",
         "APP_BANK_TRANSFERDESCRIPTION_RECEIVER": "Je hebt geld ontvangen van {name}.",
         "APP_BANK_TRANSFERNOTIFICATION": "{name} heeft je {money} gestuurd",
-        "APP_BANK_REQUESTNOTIFICATION": "{name} heeft {money} aangevraagd"
+        "APP_BANK_REQUESTNOTIFICATION": "{name} heeft {money} aangevraagd",
+        "APP_BANK_TRANSFERDESCRIPTION_FEE": "Overdrachtskosten"
     },
     "MailAPP": {
         "APP_MAIL_INBOX": "Inbox",

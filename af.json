@@ -596,7 +596,7 @@
         "APP_BANKREQUEST_TITLE": "Versoek geld",
         "APP_BANK_MODAL_CONTACT": "Kontak",
         "APP_BANK_MODAL_TITLE": "Stuur geld",
-        "APP_BANK_MODAL_DESC": "Is jy seker jy wil geld stuur? Totaal: {total}",
+        "APP_BANK_MODAL_DESC": "Is jy seker jy wil geld stuur? Totaal: {total}, Transaksie fooi: {fee}",
         "APP_BANK_SENDLOADING": "Stuur...",
         "APP_BANK_SENDMONEY_SUCCESS": "Geld suksesvol gestuur",
         "APP_BANK_SENDMONEY_ERROR": "'n Fout het voorgekom tydens die stuur van geld",
@@ -609,7 +609,8 @@
         "APP_BANK_TRANSFERDESCRIPTION_SENDER": "Jy het geld gestuur na {name}.",
         "APP_BANK_TRANSFERDESCRIPTION_RECEIVER": "Jy het geld ontvang van {name}.",
         "APP_BANK_TRANSFERNOTIFICATION": "{name} stuur vir jou {money}",
-        "APP_BANK_REQUESTNOTIFICATION": "{name} aangevra {money}"
+        "APP_BANK_REQUESTNOTIFICATION": "{name} aangevra {money}",
+        "APP_BANK_TRANSFERDESCRIPTION_FEE": "Transaksie fooi"
     },
     "MailAPP": {
         "APP_MAIL_INBOX": "Inkassie",
