@@ -665,7 +665,8 @@
         "APP_DARKTCHAT_REMOVE_CHANNELTITLE": "Verwyder kanaal",
         "APP_DARKTCHAT_REMOVE_CHANNELDESC": "Is jy seker jy wil hierdie kanaal verwyder?",
         "APP_DARKTCHAT_SET_GPS": "Stel GPS",
-        "APP_DARKTCHAT_REMOVE_CHANNELBUTTON": "Verwyder"
+        "APP_DARKTCHAT_REMOVE_CHANNELBUTTON": "Verwyder",
+        "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "Er is een nieuw bericht op {channel}"
     },
     "AdvertisingAPP": {
         "APP_AD_TITLE": "Advertising",

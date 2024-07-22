@@ -665,7 +665,8 @@
         "APP_DARKTCHAT_REMOVE_CHANNELTITLE": "Kanalı Sil",
         "APP_DARKTCHAT_REMOVE_CHANNELDESC": "Bu kanalı silmek istediğinizden emin misiniz?",
         "APP_DARKTCHAT_SET_GPS": "GPS Ayarla",
-        "APP_DARKTCHAT_REMOVE_CHANNELBUTTON": "Sil"
+        "APP_DARKTCHAT_REMOVE_CHANNELBUTTON": "Sil",
+        "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "{channel} kanalında yeni bir mesaj var"
     },
     "AdvertisingAPP": {
         "APP_AD_TITLE": "Reklamlar",
