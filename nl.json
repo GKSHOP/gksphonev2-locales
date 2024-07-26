@@ -359,6 +359,7 @@
         "PHONE_SETUP_CREATEACCOUNTLOADING": "Wacht terwijl je account wordt aangemaakt",
         "PHONE_SETUP_CREATEACCOUNTERROR3": "Dit e-mailadres is al in gebruik",
         "PHONE_SETUP_CREATEACCOUNTERROR1": "De beveiligingsvraag mag niet blanco zijn",
+        "PHONE_SETUP_CREATEACCOUNTERROR4": "Moet groter zijn dan 4 tekens",
         "PHONE_SETUP_APPSDATA": "Apps & Gegevens",
         "PHONE_SETUP_APPSDATADETAIL": "Herstel je telefoon vanuit een back-up of stel deze als nieuw in.",
         "PHONE_SETUP_APPSDATAACTIVATE": "Activeren",

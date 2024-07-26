@@ -359,6 +359,7 @@
         "PHONE_SETUP_CREATEACCOUNTLOADING": "Wag asseblief terwyl jou rekening geskep word",
         "PHONE_SETUP_CREATEACCOUNTERROR3": "Hierdie e-pos adres is reeds in gebruik",
         "PHONE_SETUP_CREATEACCOUNTERROR1": "Die sekuriteitsvraag kan nie leeg wees nie",
+        "PHONE_SETUP_CREATEACCOUNTERROR4": "Moet meer as 4 karakters wees",
         "PHONE_SETUP_APPSDATA": "Toepassings & data",
         "PHONE_SETUP_APPSDATADETAIL": "Herstel jou foon vanaf 'n rugsteun of stel as nuut op.",
         "PHONE_SETUP_APPSDATAACTIVATE": "Aktiveer",

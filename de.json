@@ -359,6 +359,7 @@
         "PHONE_SETUP_CREATEACCOUNTLOADING": "Bitte warten Sie, während Ihr Konto erstellt wird",
         "PHONE_SETUP_CREATEACCOUNTERROR3": "Diese E-Mail-Adresse wird bereits verwendet",
         "PHONE_SETUP_CREATEACCOUNTERROR1": "Die Sicherheitsfrage darf nicht leer sein",
+        "PHONE_SETUP_CREATEACCOUNTERROR4": "Muss größer als 4 Zeichen sein",
         "PHONE_SETUP_APPSDATA": "Apps & Data",
         "PHONE_SETUP_APPSDATADETAIL": "Wiederherstellen des Telefons von einer Sicherungskopie oder Einrichten als neues Telefon.",
         "PHONE_SETUP_APPSDATAACTIVATE": "Aktivieren",

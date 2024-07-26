@@ -359,6 +359,7 @@
         "PHONE_SETUP_CREATEACCOUNTLOADING": "Please wait while your account is being created",
         "PHONE_SETUP_CREATEACCOUNTERROR3": "This email address is already in use",
         "PHONE_SETUP_CREATEACCOUNTERROR1": "The security question cannot be blank",
+        "PHONE_SETUP_CREATEACCOUNTERROR4": "Must be greater than 4 characters",
         "PHONE_SETUP_APPSDATA": "Apps & Data",
         "PHONE_SETUP_APPSDATADETAIL": "Restore your phone from a backup or set up as new.",
         "PHONE_SETUP_APPSDATAACTIVATE": "Activate",

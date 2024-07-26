@@ -359,6 +359,7 @@
         "PHONE_SETUP_CREATEACCOUNTLOADING": "Hesabınız oluşturulurken lütfen bekleyiniz",
         "PHONE_SETUP_CREATEACCOUNTERROR3": "Bu email adresi zaten kullanılıyor",
         "PHONE_SETUP_CREATEACCOUNTERROR1": "Güvenlik sorusu boş olamaz",
+        "PHONE_SETUP_CREATEACCOUNTERROR4": "4 karakterden büyük olmalı",
         "PHONE_SETUP_APPSDATA": "Uygulamalar & Veri",
         "PHONE_SETUP_APPSDATADETAIL": "Hesabınızdaki telefon verilerini geri getirin veya yeni bir telefon olarak ayarlayın.",
         "PHONE_SETUP_APPSDATAACTIVATE": "Etkinleştir",
