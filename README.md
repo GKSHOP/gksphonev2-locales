@@ -15,7 +15,9 @@ You can follow the steps below to contribute to this project:
 The following languages are currently available in the project:
 
 - Afrikaans
+- Chinese
 - Deutsch
+- Dutch
 - English
 - Français
 - Türkçe

@@ -297,6 +297,7 @@
         "APP_MESSAGE_LOADERCREATEGROUP": "Grup oluşturuluyor",
         "APP_MESSAGE_GROUPCREATESUCCESS": "Grup başarıyla oluşturuldu",
         "APP_MESSAGE_GROUPCREATENOT": "Grup kurulurken bir hata oluştu.",
+        "APP_MESSAGE_GROUPREMOVEDMEMBER_SUCESS": "Gruptan çıkarıldınız",
         "APP_MESSAGE_NONAME": "İsimsiz",
         "APP_MESSAGE_NOMESSAGE": "Mesaj Yok",
         "APP_MESSAGE_TIME_MONTHAGO": "{months} ay önce",
@@ -1338,6 +1339,7 @@
         "APP_CASINO_ROLL_WINNER_SUCCESS": "Kazanan",
         "APP_CASINO_ROLL_WINNER_LOST": "Kaybettiniz",
         "APP_CASINO_ROLL_WINNER_NOTBET": "Bahis yapmadınız",
+        "APP_CASINO_ROLL_BET_MAX": "En fazla {max} çip bahis yapabilirsiniz",
         "APP_CASINO_MODAL": {
             "WALLET": "Cüzdan",
             "NICKNAME": "Takma Ad",

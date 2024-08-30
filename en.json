@@ -297,6 +297,7 @@
         "APP_MESSAGE_LOADERCREATEGROUP": "Creating group",
         "APP_MESSAGE_GROUPCREATESUCCESS": "Group created successfully",
         "APP_MESSAGE_GROUPCREATENOT": "An error occurred while creating the group.",
+        "APP_MESSAGE_GROUPREMOVEDMEMBER_SUCESS": "You have been removed from the group",
         "APP_MESSAGE_NONAME": "No name",
         "APP_MESSAGE_NOMESSAGE": "No message",
         "APP_MESSAGE_TIME_MONTHAGO": "{months} months ago",
@@ -1340,6 +1341,7 @@
         "APP_CASINO_ROLL_WINNER_SUCCESS" : "Winner",
         "APP_CASINO_ROLL_WINNER_LOST" : "You lost",
         "APP_CASINO_ROLL_WINNER_NOTBET" : "You didn't bet",
+        "APP_CASINO_ROLL_BET_MAX" : "You can't bet more than {max} chips",
         "APP_CASINO_MODAL" : {
             "WALLET": "Wallet",
             "NICKNAME": "Nickname",

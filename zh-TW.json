@@ -297,6 +297,7 @@
         "APP_MESSAGE_LOADERCREATEGROUP": "建立群組",
         "APP_MESSAGE_GROUPCREATESUCCESS": "群組建立成功",
         "APP_MESSAGE_GROUPCREATENOT": "建立群組時發生錯誤。",
+        "APP_MESSAGE_GROUPREMOVEDMEMBER_SUCESS": "您已被移出群组",
         "APP_MESSAGE_NONAME": "無名稱",
         "APP_MESSAGE_NOMESSAGE": "無訊息",
         "APP_MESSAGE_TIME_MONTHAGO": "{months} 個月前",
@@ -1340,6 +1341,7 @@
         "APP_CASINO_ROLL_WINNER_SUCCESS": "獲勝者",
         "APP_CASINO_ROLL_WINNER_LOST": "你輸了",
         "APP_CASINO_ROLL_WINNER_NOTBET": "你沒有下注",
+        "APP_CASINO_ROLL_BET_MAX": "你不能下注超过 {max} 筹码",
         "APP_CASINO_MODAL" : {
             "WALLET": "錢包",
             "NICKNAME": "暱稱",
