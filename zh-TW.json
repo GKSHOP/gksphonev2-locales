@@ -9,7 +9,7 @@
         "PHONE_HOMESCREEN_NOTIFY_SHOWLESS": "顯示更少",
         "PHONE_PASSCODE_ENTERPASSCODE": "輸入密碼",
         "PHONE_PASSCODE_CANCEL": "取消",
-        "PHONE_DISABLED": "GKSPHONE 已停用。",
+        "PHONE_DISABLED": "手機已被機主禁止使用。",
         "PHONE_STATUSBAR_NOTIFY_CALLING": "手機",
         "PHONE_STATUSBAR_NOTIFY_VIDMEET": "VidMeet",
         "PHONE_STATUSBAR_NOTIFY_CANCEL": "取消",
@@ -753,7 +753,15 @@
         "APP_GALLERY_OPTION_FAV_LOADING": "正在加入最愛...",
         "APP_GALLERY_OPTION_SEND": "發送",
         "APP_GALLERY_OPTION_CANCEL": "取消",
-        "APP_GALLERY_SENDMESSAGEERROR": "發送訊息時發生錯誤。"
+        "APP_GALLERY_SENDMESSAGEERROR": "發送訊息時發生錯誤。",
+        "APP_GALLERY_ADDIMAGE": "添加图片",
+        "APP_GALLERY_ADDIMAGEDESC": "图片链接",
+        "APP_GALLERY_IMAGE_TYPE": "请确保链接是图片",
+        "APP_GALLERY_IMAGE_TYPE_TITLE": "图片类型错误",
+        "APP_GALLERY_IMAGE_SIZE_LIMIT": "图片大小限制为 {size} MB",
+        "APP_GALLERY_IMAGE_SIZE_LIMIT_TITLE": "图片大小",
+        "APP_GALLERY_ERROR_TITLE": "错误",
+        "APP_GALLERY_ERROR_DESC": "添加图片时出错"
     },
     "GpsAPP": {
         "APP_GPS_TITLE": "GPS",

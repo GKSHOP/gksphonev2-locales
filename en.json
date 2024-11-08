@@ -9,7 +9,7 @@
         "PHONE_HOMESCREEN_NOTIFY_SHOWLESS": "Show Less",
         "PHONE_PASSCODE_ENTERPASSCODE": "Enter Password",
         "PHONE_PASSCODE_CANCEL": "Cancel",
-        "PHONE_DISABLED": "GKSPHONE disabled.",
+        "PHONE_DISABLED": "This phone usage has been disabled by its owner.",
         "PHONE_STATUSBAR_NOTIFY_CALLING": "Mobile",
         "PHONE_STATUSBAR_NOTIFY_VIDMEET": "VidMeet",
         "PHONE_STATUSBAR_NOTIFY_CANCEL": "Cancel",
@@ -753,7 +753,15 @@
         "APP_GALLERY_OPTION_FAV_LOADING": "Adding to favorites...",
         "APP_GALLERY_OPTION_SEND": "Send",
         "APP_GALLERY_OPTION_CANCEL": "Cancel",
-        "APP_GALLERY_SENDMESSAGEERROR": "An error occurred while sending the message."
+        "APP_GALLERY_SENDMESSAGEERROR": "An error occurred while sending the message.",
+        "APP_GALLERY_ADDIMAGE": "Add Image",
+        "APP_GALLERY_ADDIMAGEDESC": "Picture link",
+        "APP_GALLERY_IMAGE_TYPE": "Make sure the link is an image",
+        "APP_GALLERY_IMAGE_TYPE_TITLE": "Image type error",
+        "APP_GALLERY_IMAGE_SIZE_LIMIT": "Image size limit is {size} MB",
+        "APP_GALLERY_IMAGE_SIZE_LIMIT_TITLE": "Image size",
+        "APP_GALLERY_ERROR_TITLE": "Error",
+        "APP_GALLERY_ERROR_DESC": "An error occurred while adding the image"
     },
     "GpsAPP": {
         "APP_GPS_TITLE": "GPS",
@@ -1222,7 +1230,9 @@
         "APP_MUSIC_ADDING_PLAYLIST": "Adding to playlist...",
         "APP_MUSIC_ADD_PLAYLIST_SUCCESS": "Successfully added to playlist",
         "APP_MUSIC_ADD_QUEUE_SUCCESS": "Successfully added to queue",
-        "APP_MUSIC_SEARCH_PLACEHOLDER": "Search"
+        "APP_MUSIC_SEARCH_PLACEHOLDER": "Search",
+        "APP_ALERT_STREAM_MODE": "You can't listen to music while streaming",
+        "APP_ALERT_STREAM_MODE_TITLE" : "Stream Mode"
     },
     "JobCenter": {
         "APP_JOBCENTER_TITLE": "Job Center",
@@ -1376,6 +1386,15 @@
             "TRENSFER_ERROR1": "You can not transfer less than 250 chip.",
             "TRENSFER_ERROR2": "You do not have enough balance."
         }
+    },
+    "Info": {
+        "APP_INFO_PERSONALINFO": "Personal Information",
+        "APP_INFO_PHONENUMBER": "Phone Number",
+        "APP_INFO_BIRTHDATE": "Birth Date",
+        "APP_INFO_BANKACCOUNT": "Bank Account",
+        "APP_INFO_JOB": "Job",
+        "APP_INFO_GRADE": "Grade",
+        "APP_INFO_LICENSES" : "Licenses"
     },
     "Tooltip": {
         "ESIM": {

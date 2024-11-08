@@ -9,7 +9,7 @@
         "PHONE_HOMESCREEN_NOTIFY_SHOWLESS": "Voir moins",
         "PHONE_PASSCODE_ENTERPASSCODE": "Entrer MDP",
         "PHONE_PASSCODE_CANCEL": "Annuler",
-        "PHONE_DISABLED": "Téléphone inactif.",
+        "PHONE_DISABLED": "L'utilisation de ce téléphone a été désactivée par le propriétaire.",
         "PHONE_STATUSBAR_NOTIFY_CALLING": "Mobile",
         "PHONE_STATUSBAR_NOTIFY_VIDMEET": "VidMeet",
         "PHONE_STATUSBAR_NOTIFY_CANCEL": "Annuler",
@@ -753,7 +753,15 @@
         "APP_GALLERY_OPTION_FAV_LOADING": "Ajout aux favoris...",
         "APP_GALLERY_OPTION_SEND": "Envoyer",
         "APP_GALLERY_OPTION_CANCEL": "Annuler",
-        "APP_GALLERY_SENDMESSAGEERROR": "Erreur durant l'envoi du message."
+        "APP_GALLERY_SENDMESSAGEERROR": "Erreur durant l'envoi du message.",
+        "APP_GALLERY_ADDIMAGE": "Ajouter Image",
+        "APP_GALLERY_ADDIMAGEDESC": "Lien de l'image",
+        "APP_GALLERY_IMAGE_TYPE": "Assurez-vous que le lien est une image",
+        "APP_GALLERY_IMAGE_TYPE_TITLE": "Erreur de type d'image",
+        "APP_GALLERY_IMAGE_SIZE_LIMIT": "La taille de l'image est limitée à {size} MB",
+        "APP_GALLERY_IMAGE_SIZE_LIMIT_TITLE": "Taille de l'image",
+        "APP_GALLERY_ERROR_TITLE": "Erreur",
+        "APP_GALLERY_ERROR_DESC": "Erreur lors de l'ajout de l'image"
     },
     "GpsAPP": {
         "APP_GPS_TITLE": "GPS",

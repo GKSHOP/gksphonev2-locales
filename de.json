@@ -9,7 +9,7 @@
         "PHONE_HOMESCREEN_NOTIFY_SHOWLESS": "Weniger anzeigen",
         "PHONE_PASSCODE_ENTERPASSCODE": "Passwort eingeben",
         "PHONE_PASSCODE_CANCEL": "Abbrechen",
-        "PHONE_DISABLED": "GKSPHONE ausgeschaltet.",
+        "PHONE_DISABLED": "Die Nutzung dieses Telefons wurde vom Besitzer deaktiviert.",
         "PHONE_STATUSBAR_NOTIFY_CALLING": "Handy",
         "PHONE_STATUSBAR_NOTIFY_VIDMEET": "VideoMeet",
         "PHONE_STATUSBAR_NOTIFY_CANCEL": "Abbrechen",
@@ -753,7 +753,15 @@
         "APP_GALLERY_OPTION_FAV_LOADING": "Hinzufügen zu den Favoriten...",
         "APP_GALLERY_OPTION_SEND": "Senden",
         "APP_GALLERY_OPTION_CANCEL": "Abbrechen",
-        "APP_GALLERY_SENDMESSAGEERROR": "Beim Senden der Nachricht ist ein Fehler aufgetreten."
+        "APP_GALLERY_SENDMESSAGEERROR": "Beim Senden der Nachricht ist ein Fehler aufgetreten.",
+        "APP_GALLERY_ADDIMAGE": "Bild hinzufügen",  
+        "APP_GALLERY_ADDIMAGEDESC": "Bildlink",  
+        "APP_GALLERY_IMAGE_TYPE": "Stellen Sie sicher, dass der Link ein Bild ist",  
+        "APP_GALLERY_IMAGE_TYPE_TITLE": "Bildtypfehler",  
+        "APP_GALLERY_IMAGE_SIZE_LIMIT": "Die Bildgrößenbeschränkung beträgt {size} MB",  
+        "APP_GALLERY_IMAGE_SIZE_LIMIT_TITLE": "Bildgröße",  
+        "APP_GALLERY_ERROR_TITLE": "Fehler", 
+        "APP_GALLERY_ERROR_DESC": "Beim Hinzufügen des Bildes ist ein Fehler aufgetreten" 
     },
     "GpsAPP": {
         "APP_GPS_TITLE": "GPS",

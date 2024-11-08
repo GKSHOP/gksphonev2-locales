@@ -9,7 +9,7 @@
         "PHONE_HOMESCREEN_NOTIFY_SHOWLESS": "Minder tonen",
         "PHONE_PASSCODE_ENTERPASSCODE": "Voer wachtwoord in",
         "PHONE_PASSCODE_CANCEL": "Annuleren",
-        "PHONE_DISABLED": "GKSPHONE uitgeschakeld.",
+        "PHONE_DISABLED": "De eigenaar heeft het gebruik van deze telefoon uitgeschakeld.",
         "PHONE_STATUSBAR_NOTIFY_CALLING": "Mobiel",
         "PHONE_STATUSBAR_NOTIFY_VIDMEET": "VidMeet",
         "PHONE_STATUSBAR_NOTIFY_CANCEL": "Annuleren",
@@ -753,7 +753,15 @@
         "APP_GALLERY_OPTION_FAV_LOADING": "Toevoegen aan favorieten...",
         "APP_GALLERY_OPTION_SEND": "Verzenden",
         "APP_GALLERY_OPTION_CANCEL": "Annuleren",
-        "APP_GALLERY_SENDMESSAGEERROR": "Er is een fout opgetreden bij het verzenden van het bericht."
+        "APP_GALLERY_SENDMESSAGEERROR": "Er is een fout opgetreden bij het verzenden van het bericht.",
+        "APP_GALLERY_ADDIMAGE": "Afbeelding Toevoegen",
+        "APP_GALLERY_ADDIMAGEDESC": "Afbeeldingslink",
+        "APP_GALLERY_IMAGE_TYPE": "Zorg ervoor dat de link een afbeelding is",
+        "APP_GALLERY_IMAGE_TYPE_TITLE": "Afbeeldingstypefout",
+        "APP_GALLERY_IMAGE_SIZE_LIMIT": "Afbeeldingsgrootte limiet is {size} MB",
+        "APP_GALLERY_IMAGE_SIZE_LIMIT_TITLE": "Afbeeldingsgrootte",
+        "APP_GALLERY_ERROR_TITLE": "Fout",
+        "APP_GALLERY_ERROR_DESC": "Fout bij het toevoegen van de afbeelding"
     },
     "GpsAPP": {
         "APP_GPS_TITLE": "GPS",

@@ -9,7 +9,7 @@
         "PHONE_HOMESCREEN_NOTIFY_SHOWLESS": "Wys minder",
         "PHONE_PASSCODE_ENTERPASSCODE": "Sleutel wagwoord in",
         "PHONE_PASSCODE_CANCEL": "Kanselleer",
-        "PHONE_DISABLED": "GKSPHONE gedeaktiveer.",
+        "PHONE_DISABLED": "Gebruik van hierdie foon is deur die eienaar gedeaktiveer.",
         "PHONE_STATUSBAR_NOTIFY_CALLING": "Selfoon",
         "PHONE_STATUSBAR_NOTIFY_VIDMEET": "VidMate",
         "PHONE_STATUSBAR_NOTIFY_CANCEL": "Kanselleer",
@@ -753,7 +753,15 @@
         "APP_GALLERY_OPTION_FAV_LOADING": "Voeg tans by gunstelinge...",
         "APP_GALLERY_OPTION_SEND": "Stuur",
         "APP_GALLERY_OPTION_CANCEL": "Kanselleer",
-        "APP_GALLERY_SENDMESSAGEERROR": "N Fout het voorgekom terwyl die boodskap gestuur is."
+        "APP_GALLERY_SENDMESSAGEERROR": "N Fout het voorgekom terwyl die boodskap gestuur is.",
+        "APP_GALLERY_ADDIMAGE": "Voeg beeld by",  
+        "APP_GALLERY_ADDIMAGEDESC": "Prent skakel", 
+        "APP_GALLERY_IMAGE_TYPE": "Maak seker die skakel is 'n beeld",  
+        "APP_GALLERY_IMAGE_TYPE_TITLE": "Beeld tipe fout",  
+        "APP_GALLERY_IMAGE_SIZE_LIMIT": "Beeld grootte limiet is {size} MB",  
+        "APP_GALLERY_IMAGE_SIZE_LIMIT_TITLE": "Beeld grootte",  
+        "APP_GALLERY_ERROR_TITLE": "Fout",  
+        "APP_GALLERY_ERROR_DESC": "‘n Fout het voorgekom tydens die byvoeg van die beeld" 
     },
     "GpsAPP": {
         "APP_GPS_TITLE": "GPS",
