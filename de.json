@@ -1397,6 +1397,15 @@
             "TRENSFER_ERROR2": "Sie haben nicht genug Guthaben."
         }
     },
+    "Info": {
+        "APP_INFO_PERSONALINFO": "Persönliche Informationen",
+        "APP_INFO_PHONENUMBER": "Telefonnummer",
+        "APP_INFO_BIRTHDATE": "Geburtsdatum",
+        "APP_INFO_BANKACCOUNT": "Bankkonto",
+        "APP_INFO_JOB": "Beruf",
+        "APP_INFO_GRADE": "Note",
+        "APP_INFO_LICENSES": "Lizenzen"
+    },
     "Tooltip": {
         "ESIM": {
             "APP_TOOLTIP_SIM_BUY": "Kaufen"

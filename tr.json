@@ -1397,6 +1397,15 @@
             "TRENSFER_ERROR2": "Yeterli bakiyeniz yok."
         }
     },
+    "Info": {
+        "APP_INFO_PERSONALINFO": "Kişisel Bilgiler",
+        "APP_INFO_PHONENUMBER": "Telefon Numarası",
+        "APP_INFO_BIRTHDATE": "Doğum Tarihi",
+        "APP_INFO_BANKACCOUNT": "Banka Hesabı",
+        "APP_INFO_JOB": "Meslek",
+        "APP_INFO_GRADE": "Derece",
+        "APP_INFO_LICENSES": "Lisanslar"
+    },
     "Tooltip": {
         "ESIM": {
             "APP_TOOLTIP_SIM_BUY": "Satın Al"

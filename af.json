@@ -1397,6 +1397,15 @@
             "TRENSFER_ERROR2": "Jy het nie genoeg saldo nie."
         }
     },
+    "Info": {
+        "APP_INFO_PERSONALINFO": "Persoonlike Inligting",
+        "APP_INFO_PHONENUMBER": "Telefoonnommer",
+        "APP_INFO_BIRTHDATE": "Geboortedatum",
+        "APP_INFO_BANKACCOUNT": "Bankrekening",
+        "APP_INFO_JOB": "Werk",
+        "APP_INFO_GRADE": "Graad",
+        "APP_INFO_LICENSES": "Lisensies"
+    },
     "Tooltip": {
         "ESIM": {
             "APP_TOOLTIP_SIM_BUY": "Koop"

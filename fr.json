@@ -1397,6 +1397,15 @@
             "TRENSFER_ERROR2": "Vous n'avez pas assez de solde."
         }
     },
+    "Info": {
+        "APP_INFO_PERSONALINFO": "Informations personnelles",
+        "APP_INFO_PHONENUMBER": "Numéro de téléphone",
+        "APP_INFO_BIRTHDATE": "Date de naissance",
+        "APP_INFO_BANKACCOUNT": "Compte bancaire",
+        "APP_INFO_JOB": "Emploi",
+        "APP_INFO_GRADE": "Niveau",
+        "APP_INFO_LICENSES": "Permis"
+    },
     "Tooltip": {
         "ESIM": {
             "APP_TOOLTIP_SIM_BUY": "Acheter"

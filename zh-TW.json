@@ -1397,6 +1397,15 @@
             "TRENSFER_ERROR2": "你的餘額不足。"
         }
     },
+    "Info": {
+        "APP_INFO_PERSONALINFO": "個人資料",
+        "APP_INFO_PHONENUMBER": "電話號碼",
+        "APP_INFO_BIRTHDATE": "出生日期",
+        "APP_INFO_BANKACCOUNT": "銀行帳戶",
+        "APP_INFO_JOB": "職業",
+        "APP_INFO_GRADE": "等級",
+        "APP_INFO_LICENSES": "執照"
+    },
     "Tooltip": {
         "ESIM": {
             "APP_TOOLTIP_SIM_BUY": "買"
