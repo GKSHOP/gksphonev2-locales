@@ -128,7 +128,11 @@
         "APP_SETTING_NAMECHANGELOADING": "Changing name...",
         "APP_SETTING_NAMECHANGEDESC": "Specify your name to be used in some apps and functions",
         "APP_SETTING_NAMECHANGETITLE": "Change Phone Name",
-        "APP_SETTING_NAMECHANGESUCESS": "Your phone name has been changed"
+        "APP_SETTING_NAMECHANGESUCESS": "Your phone name has been changed",
+        "APP_SETTING_QRCODEREALAPP": "Log in with QR",
+        "APP_SETTING_QRCODE_SECRET_DESC": "This QR code authenticates your phone. Do not share this code with anyone.",
+        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "Your name must be at least 4 characters",
+        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Your name must be no more than 20 characters"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Contacts",
@@ -323,7 +327,14 @@
         "APP_MESSAGE_LIVEGPS_EXPIRED": "Expired",
         "APP_MESSAGE_LIVEGPS_TITLE": "Send Live Location",
         "APP_MESSAGE_GPS_TITLE": "Send Location",
-        "APP_MESSAGE_BLIP_LIVE" : "Live"
+        "APP_MESSAGE_BLIP_LIVE" : "Live Location",
+        "APP_MESSAGE_LIVEGPS": "Live location shared",
+        "APP_MESSAGE_GROUP_UPDATE": "Update",
+        "APP_MESSAGE_GROUP_UPDATE_PRELOAD": "Updating",
+        "APP_MESSAGE_GROUP_AVATAR_DESC_LINK": "Enter an image URL for the group picture",
+        "APP_MESSAGE_GROUP_MEMBER_DELETE": "Remove Member",
+        "APP_MESSAGE_GROUP_MEMBER_YOU": "You",
+        "APP_MESSAGE_GROUP_MEMBER_CALL": "Call"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Hello",
@@ -587,7 +598,8 @@
         "APP_SQUAWK_NOTIFY_COMMENT": "{name}  commented on your post",
         "APP_SQUAWK_NOTIFY_FOLLOW": "{name}  started following you",
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name}  mentioned you in a post",
-        "APP_SQUAWK_NOTFIY_POST": "{name}  shared a new post"
+        "APP_SQUAWK_NOTFIY_POST": "{name}  shared a new post",
+        "APP_SQUAWK_POSTING_PRELOADER": "Posting..."
     },
     "BankAPP": {
         "APP_BANK_TITLE": "Bank",
@@ -702,7 +714,7 @@
         "APP_AD_IMAGE_NOTFOUND": "Image not found",
         "APP_AD_SHAREMINCHARACTER": "You must enter at least 15 characters",
         "APP_AD_SHARECONFIRM_TITLE": "Sharing Post",
-        "APP_AD_SHARECONFIRM_DESC": "Are you sure you want to create an ad? Transaction fee: $ 1000",
+        "APP_AD_SHARECONFIRM_DESC": "Are you sure you want to create an ad? Transaction fee: {fee}",
         "APP_AD_SHARE_ERROR_NOMONEY": "You don't have enough money",
         "APP_AD_SHARE_NOTFY_POST": "{name} shared a new advertisement"
     },

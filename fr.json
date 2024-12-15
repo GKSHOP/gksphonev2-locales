@@ -128,7 +128,11 @@
         "APP_SETTING_NAMECHANGELOADING": "Changement de nom...",
         "APP_SETTING_NAMECHANGEDESC": "Spécifiez votre nom à utiliser dans certaines applications et fonctions",
         "APP_SETTING_NAMECHANGETITLE": "Changer le nom du téléphone",
-        "APP_SETTING_NAMECHANGESUCESS": "Le nom de votre téléphone a été changé"
+        "APP_SETTING_NAMECHANGESUCESS": "Le nom de votre téléphone a été changé",
+        "APP_SETTING_QRCODEREALAPP": "Connectez-vous avec un QR",
+        "APP_SETTING_QRCODE_SECRET_DESC": "Ce code QR authentifie votre téléphone. Ne partagez ce code avec personne.",
+        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "Votre nom doit comporter au moins 4 caractères",
+        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Votre nom ne doit pas dépasser 20 caractères"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Contacts",
@@ -323,7 +327,14 @@
         "APP_MESSAGE_LIVEGPS_EXPIRED": "Expiré",
         "APP_MESSAGE_LIVEGPS_TITLE": "Envoyer la localisation en direct",
         "APP_MESSAGE_GPS_TITLE": "Envoyer la localisation",
-        "APP_MESSAGE_BLIP_LIVE": "En direct"
+        "APP_MESSAGE_BLIP_LIVE": "Live-locatie",
+        "APP_MESSAGE_LIVEGPS": "Localisation en direct partagée",
+        "APP_MESSAGE_GROUP_UPDATE": "Mettre à jour",
+        "APP_MESSAGE_GROUP_UPDATE_PRELOAD": "Mise à jour",
+        "APP_MESSAGE_GROUP_AVATAR_DESC_LINK": "Entrez une URL d'image pour l'image de groupe",
+        "APP_MESSAGE_GROUP_MEMBER_DELETE": "Supprimer un membre",
+        "APP_MESSAGE_GROUP_MEMBER_YOU": "Vous",
+        "APP_MESSAGE_GROUP_MEMBER_CALL": "Appeler"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Bonjour",
@@ -587,7 +598,8 @@
         "APP_SQUAWK_NOTIFY_COMMENT": "{name}  à commenter votre post",
         "APP_SQUAWK_NOTIFY_FOLLOW": "{name}  à commencé à vous suivre",
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name}  vous à mentionné",
-        "APP_SQUAWK_NOTFIY_POST": "{name}  à partager un nouveau post"
+        "APP_SQUAWK_NOTFIY_POST": "{name}  à partager un nouveau post",
+        "APP_SQUAWK_POSTING_PRELOADER": "Publication en cours..."
     },
     "BankAPP": {
         "APP_BANK_TITLE": "Banque",
@@ -702,7 +714,7 @@
         "APP_AD_IMAGE_NOTFOUND": "Image non trouvée",
         "APP_AD_SHAREMINCHARACTER": "Vous devez entrer au minimum 15 caractères",
         "APP_AD_SHARECONFIRM_TITLE": "Partager le Post",
-        "APP_AD_SHARECONFIRM_DESC": "Voulez vous vraiment créer une pub ? Coût de la publication : $ 1000",
+        "APP_AD_SHARECONFIRM_DESC": "Voulez vous vraiment créer une pub ? Coût de la publication : {fee}",
         "APP_AD_SHARE_ERROR_NOMONEY": "Vous n'avez pas assez d'argent",
         "APP_AD_SHARE_NOTFY_POST": "{name} à poster une publicité"
     },

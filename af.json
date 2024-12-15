@@ -128,7 +128,11 @@
         "APP_SETTING_NAMECHANGELOADING": "Verander naam...",
         "APP_SETTING_NAMECHANGEDESC": "Spesifiseer jou naam wat in sommige toepassings en funksies gebruik sal word",
         "APP_SETTING_NAMECHANGETITLE": "Verander Telefoon Naam",
-        "APP_SETTING_NAMECHANGESUCESS": "Jou telefoonnaam is verander"
+        "APP_SETTING_NAMECHANGESUCESS": "Jou telefoonnaam is verander",
+        "APP_SETTING_QRCODEREALAPP": "Meld aan met QR",
+        "APP_SETTING_QRCODE_SECRET_DESC": "Hierdie QR-kode verifieer jou foon. Moenie hierdie kode met enigiemand deel nie.",
+        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "Jou naam moet minstens 4 karakters wees",
+        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Jou naam mag nie meer as 20 karakters wees nie"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Contact",
@@ -323,7 +327,14 @@
         "APP_MESSAGE_LIVEGPS_EXPIRED": "Verstryk",
         "APP_MESSAGE_LIVEGPS_TITLE": "Stuur Leef Tyd Plek",
         "APP_MESSAGE_GPS_TITLE": "Stuur Plek",
-        "APP_MESSAGE_BLIP_LIVE": "Leef"
+        "APP_MESSAGE_BLIP_LIVE": "Regstreekse ligging",
+        "APP_MESSAGE_LIVEGPS": "Regstreekse ligging gedeel",
+        "APP_MESSAGE_GROUP_UPDATE": "Werk by",
+        "APP_MESSAGE_GROUP_UPDATE_PRELOAD": "Besig om by te werk",
+        "APP_MESSAGE_GROUP_AVATAR_DESC_LINK": "Voer 'n beeld-URL in vir die groepprofielprent",
+        "APP_MESSAGE_GROUP_MEMBER_DELETE": "Verwyder Lid",
+        "APP_MESSAGE_GROUP_MEMBER_YOU": "Jy",
+        "APP_MESSAGE_GROUP_MEMBER_CALL": "Bel"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Hello",
@@ -587,7 +598,8 @@
         "APP_SQUAWK_NOTIFY_COMMENT": "{name}  het kommentaar gelewer op jou plasing",
         "APP_SQUAWK_NOTIFY_FOLLOW": "{name}  het begin om jou te volg",
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name}  het jou in 'n plasing genoem",
-        "APP_SQUAWK_NOTFIY_POST": "{name}  het 'n nuwe plasing gedeel"
+        "APP_SQUAWK_NOTFIY_POST": "{name}  het 'n nuwe plasing gedeel",
+        "APP_SQUAWK_POSTING_PRELOADER": "Besig om te plaas..."
     },
     "BankAPP": {
         "APP_BANK_TITLE": "Bank",
@@ -702,7 +714,7 @@
         "APP_AD_IMAGE_NOTFOUND": "Prent nie gevind nie",
         "APP_AD_SHAREMINCHARACTER": "Jy moet ten minste 15 karakters invoer",
         "APP_AD_SHARECONFIRM_TITLE": "Deel plasing",
-        "APP_AD_SHARECONFIRM_DESC": "Is jy seker jy wil 'n advertensie skep? Transaksie fooi: R 1000",
+        "APP_AD_SHARECONFIRM_DESC": "Is jy seker jy wil 'n advertensie skep? Transaksie fooi: R {fee}",
         "APP_AD_SHARE_ERROR_NOMONEY": "You don't have enough money",
         "APP_AD_SHARE_NOTFY_POST": "{name} shared a new advertisement"
     },

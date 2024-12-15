@@ -128,7 +128,11 @@
         "APP_SETTING_NAMECHANGELOADING": "更改名稱中...",
         "APP_SETTING_NAMECHANGEDESC": "指定您的名稱，以便在某些應用程序和功能中使用",
         "APP_SETTING_NAMECHANGETITLE": "更改手機名稱",
-        "APP_SETTING_NAMECHANGESUCESS": "您的手機名稱已更改"
+        "APP_SETTING_NAMECHANGESUCESS": "您的手機名稱已更改",
+        "APP_SETTING_QRCODEREALAPP": "使用 QR 登入",
+        "APP_SETTING_QRCODE_SECRET_DESC": "此 QR 碼驗證您的手機。請勿與他人分享此碼。",
+        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "您的名字至少需要 4 個字元",
+        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "您的名字最多只能有 20 個字元"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "聯絡人",
@@ -323,7 +327,14 @@
         "APP_MESSAGE_LIVEGPS_EXPIRED": "已過期",
         "APP_MESSAGE_LIVEGPS_TITLE": "發送實時位置",
         "APP_MESSAGE_GPS_TITLE": "發送位置",
-        "APP_MESSAGE_BLIP_LIVE": "LIVE"
+        "APP_MESSAGE_BLIP_LIVE": "LIVE",
+        "APP_MESSAGE_LIVEGPS": "已分享即時位置",
+        "APP_MESSAGE_GROUP_UPDATE": "更新",
+        "APP_MESSAGE_GROUP_UPDATE_PRELOAD": "正在更新",
+        "APP_MESSAGE_GROUP_AVATAR_DESC_LINK": "輸入群組圖片的圖片網址",
+        "APP_MESSAGE_GROUP_MEMBER_DELETE": "刪除成員",
+        "APP_MESSAGE_GROUP_MEMBER_YOU": "您",
+        "APP_MESSAGE_GROUP_MEMBER_CALL": "呼叫"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "您好",
@@ -587,7 +598,8 @@
         "APP_SQUAWK_NOTIFY_COMMENT": "{name} 評論了您的貼文",
         "APP_SQUAWK_NOTIFY_FOLLOW": "{name} 開始關注您",
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name} 在貼文中提到您",
-        "APP_SQUAWK_NOTFIY_POST": "{name} 分享了一個新貼文"
+        "APP_SQUAWK_NOTFIY_POST": "{name} 分享了一個新貼文",
+        "APP_SQUAWK_POSTING_PRELOADER": "正在發佈..."
     },
     "BankAPP": {
         "APP_BANK_TITLE": "銀行",
@@ -702,7 +714,7 @@
         "APP_AD_IMAGE_NOTFOUND": "找不到圖片",
         "APP_AD_SHAREMINCHARACTER": "您必須輸入至少 15 個字元",
         "APP_AD_SHARECONFIRM_TITLE": "分享貼文",
-        "APP_AD_SHARECONFIRM_DESC": "您確定要建立廣告嗎？交易費用：$1000",
+        "APP_AD_SHARECONFIRM_DESC": "您確定要建立廣告嗎？交易費用：{fee}",
         "APP_AD_SHARE_ERROR_NOMONEY": "您的金額不足",
         "APP_AD_SHARE_NOTFY_POST": "{name} 分享了一則新的廣告"
     },

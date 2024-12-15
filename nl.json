@@ -128,7 +128,11 @@
         "APP_SETTING_NAMECHANGELOADING": "Naam wordt gewijzigd...",
         "APP_SETTING_NAMECHANGEDESC": "Geef je naam op die in sommige apps en functies zal worden gebruikt",
         "APP_SETTING_NAMECHANGETITLE": "Telefoonnaam wijzigen",
-        "APP_SETTING_NAMECHANGESUCESS": "Je telefoonnaam is gewijzigd"
+        "APP_SETTING_NAMECHANGESUCESS": "Je telefoonnaam is gewijzigd",
+        "APP_SETTING_QRCODEREALAPP": "Inloggen met QR",
+        "APP_SETTING_QRCODE_SECRET_DESC": "Deze QR-code verifieert uw telefoon. Deel deze code niet met anderen.",
+        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "Uw naam moet minstens 4 tekens bevatten",
+        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Uw naam mag maximaal 20 tekens bevatten"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Contacten",
@@ -323,7 +327,14 @@
         "APP_MESSAGE_LIVEGPS_EXPIRED": "Verlopen",
         "APP_MESSAGE_LIVEGPS_TITLE": "Stuur Live Locatie",
         "APP_MESSAGE_GPS_TITLE": "Stuur Locatie",
-        "APP_MESSAGE_BLIP_LIVE": "Live"
+        "APP_MESSAGE_BLIP_LIVE": "Live-locatie",
+        "APP_MESSAGE_LIVEGPS": "Live locatie gedeeld",
+        "APP_MESSAGE_GROUP_UPDATE": "Bijwerken",
+        "APP_MESSAGE_GROUP_UPDATE_PRELOAD": "Bezig met bijwerken",
+        "APP_MESSAGE_GROUP_AVATAR_DESC_LINK": "Voer een afbeeldings-URL in voor de groepsafbeelding",
+        "APP_MESSAGE_GROUP_MEMBER_DELETE": "Lid verwijderen",
+        "APP_MESSAGE_GROUP_MEMBER_YOU": "Jij",
+        "APP_MESSAGE_GROUP_MEMBER_CALL": "Bellen"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Hallo",
@@ -587,7 +598,8 @@
         "APP_SQUAWK_NOTIFY_COMMENT": "{name} heeft gereageerd op je bericht",
         "APP_SQUAWK_NOTIFY_FOLLOW": "{name} is je gaan volgen",
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name} heeft je genoemd in een bericht",
-        "APP_SQUAWK_NOTFIY_POST": "{name} heeft een nieuw bericht gedeeld"
+        "APP_SQUAWK_NOTFIY_POST": "{name} heeft een nieuw bericht gedeeld",
+        "APP_SQUAWK_POSTING_PRELOADER": "Bericht wordt geplaatst..."
     },
     "BankAPP": {
         "APP_BANK_TITLE": "Bank",
@@ -702,7 +714,7 @@
         "APP_AD_IMAGE_NOTFOUND": "Afbeelding niet gevonden",
         "APP_AD_SHAREMINCHARACTER": "Je moet minstens 15 tekens invoeren",
         "APP_AD_SHARECONFIRM_TITLE": "Post Delen",
-        "APP_AD_SHARECONFIRM_DESC": "Weet je zeker dat je een advertentie wilt maken? Transactiekosten: $1000",
+        "APP_AD_SHARECONFIRM_DESC": "Weet je zeker dat je een advertentie wilt maken? Transactiekosten: {fee}",
         "APP_AD_SHARE_ERROR_NOMONEY": "Je hebt niet genoeg geld",
         "APP_AD_SHARE_NOTFY_POST": "{name} heeft een nieuwe advertentie gedeeld"
     },
