@@ -38,7 +38,8 @@
         "APP_CHARGE_PICK_UP_PHONECHARGE": "You can pick up the phone from the charging station",
         "APP_CHARGE_NORMAL_CHARGE": "Normal Charging",
         "APP_CHARGE_FAST_CHARGE": "Fast Charging",
-        "APP_CHARGE_CANCEL": "Cancel Charge"
+        "APP_CHARGE_CANCEL": "Cancel Charge",
+        "APP_CHARGE_BANK_MONEY": "You don't have enough money"
     },
     "DateAgo": {
         "minutesAgo": "{minutes} minutes ago",
@@ -132,7 +133,8 @@
         "APP_SETTING_QRCODEREALAPP": "Log in with QR",
         "APP_SETTING_QRCODE_SECRET_DESC": "This QR code authenticates your phone. Do not share this code with anyone.",
         "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "Your name must be at least 4 characters",
-        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Your name must be no more than 20 characters"
+        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Your name must be no more than 20 characters",
+        "APP_SETTING_LUCY": "Lucy"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Contacts",
@@ -599,7 +601,8 @@
         "APP_SQUAWK_NOTIFY_FOLLOW": "{name}  started following you",
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name}  mentioned you in a post",
         "APP_SQUAWK_NOTFIY_POST": "{name}  shared a new post",
-        "APP_SQUAWK_POSTING_PRELOADER": "Posting..."
+        "APP_SQUAWK_POSTING_PRELOADER": "Posting...",
+        "APP_SQUAWK_BANNERERROR_LENGTH": "Banner URL must be between 6 and 255 characters"
     },
     "BankAPP": {
         "APP_BANK_TITLE": "Bank",
@@ -832,7 +835,8 @@
         "APP_STOCKMARKET_BUYNOTIFYERROR": "An error occurred while purchasing",
         "APP_STOCKMARKET_SELLLOADING": "Selling...",
         "APP_STOCKMARKET_SELLNOTIFYDESC": "You have successfully sold {amount} {coin}",
-        "APP_STOCKMARKET_SELLNOTIFYERROR": "An error occurred while selling"
+        "APP_STOCKMARKET_SELLNOTIFYERROR": "An error occurred while selling",
+        "APP_STOCKMARTKET_NOMONEY": "You don't have enough money"
     },
     "Tuneify": {
         "APP_TUNEIFY_TITLE": "Tuneify",
@@ -1466,6 +1470,29 @@
             "APP_TOOLTIP_MUSIC_EDIT_PLAYLIST": "Edit Playlist",
             "APP_TOOLTIP_MUSIC_EARPHONE": "Earphone",
             "APP_TOOLTIP_MUSIC_SPEAKER": "Speaker"
+        }
+    },
+    "LucyAI": {
+        "APP_LUCYAI_TITLE": "Lucy AI",
+        "APP_LUCYAI_DESC": "Lucy is your phone's AI assistant. You can use your phone's functions by talking to Lucy.",
+        "APP_LUCYAI_TALK": "Talk to Lucy",
+        "APP_LUCYAI_NOTPERMISSION": "Microphone permission not granted for Lucy, please grant permission.",
+        "APP_LUCYAI_VOICEPROGRESS": "Voice recognition in progress...",
+        "APP_LUCYAI_ERORR_TRYAGAIN": "An error occurred, please try again.",
+        "APP_LUCYAI_NOTUNDERSTAND": "Not understood, please try again.",
+        "APP_LUCYAI_NOTLANGUAGE_SELECTED": "No language selected, please select a language in settings.",
+        "APP_LUCYAI_TAKESCREENSHOT": "Taking a screenshot...",
+        "APP_LUCYAI_PERSONNOTFOUND": "{contactName} not found in the address book",
+        "APP_LUCYAI_CALLING": "Calling {contactName}...",
+        "APP_LUCYAI_APPNOTFOUND": "{appName} application not found, please install the application.",
+        "APP_LUCYAI_OPENAPP": "Opening {appName} application...",
+        "APP_LUCYAI_COMMANDS" : "Lucy AI Commands",
+        "APP_LUCYAI_LANGUAGES": "Languages",
+        "APP_LUCYAI_VOICES": "Voices",
+        "CommandsList": {
+            "APP_LUCYAI_COMMANDS_CALL": "Call",
+            "APP_LUCYAI_COMMANDS_TAKESCREENSHOT": "Take Screenshot",
+            "APP_LUCYAI_COMMANDS_OPENAPP": "Open App"
         }
     },
     "RegisterCommand": {

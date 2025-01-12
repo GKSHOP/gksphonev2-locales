@@ -38,7 +38,8 @@
         "APP_CHARGE_PICK_UP_PHONECHARGE": "您可以從充電站取走手機",
         "APP_CHARGE_NORMAL_CHARGE": "普通充電",
         "APP_CHARGE_FAST_CHARGE": "快速充電",
-        "APP_CHARGE_CANCEL": "取消充電"
+        "APP_CHARGE_CANCEL": "取消充電",
+        "APP_CHARGE_BANK_MONEY": "您沒有足夠的資金"
     },
     "DateAgo": {
         "minutesAgo": "{minutes} 分鐘前",
@@ -132,7 +133,8 @@
         "APP_SETTING_QRCODEREALAPP": "使用 QR 登入",
         "APP_SETTING_QRCODE_SECRET_DESC": "此 QR 碼驗證您的手機。請勿與他人分享此碼。",
         "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "您的名字至少需要 4 個字元",
-        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "您的名字最多只能有 20 個字元"
+        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "您的名字最多只能有 20 個字元",
+        "APP_SETTING_LUCY": "Lucy"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "聯絡人",
@@ -599,7 +601,8 @@
         "APP_SQUAWK_NOTIFY_FOLLOW": "{name} 開始關注您",
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name} 在貼文中提到您",
         "APP_SQUAWK_NOTFIY_POST": "{name} 分享了一個新貼文",
-        "APP_SQUAWK_POSTING_PRELOADER": "正在發佈..."
+        "APP_SQUAWK_POSTING_PRELOADER": "正在發佈...",
+        "APP_SQUAWK_BANNERERROR_LENGTH": "橫幅 URL 必須介於 6 到 255 個字元之間"
     },
     "BankAPP": {
         "APP_BANK_TITLE": "銀行",
@@ -832,7 +835,8 @@
         "APP_STOCKMARKET_BUYNOTIFYERROR": "購買過程中發生錯誤",
         "APP_STOCKMARKET_SELLLOADING": "出售中...",
         "APP_STOCKMARKET_SELLNOTIFYDESC": "您已成功出售 {amount} {coin}",
-        "APP_STOCKMARKET_SELLNOTIFYERROR": "出售過程中發生錯誤"
+        "APP_STOCKMARKET_SELLNOTIFYERROR": "出售過程中發生錯誤",
+        "APP_STOCKMARTKET_NOMONEY": "您沒有足夠的錢"
     },
     "Tuneify": {
         "APP_TUNEIFY_TITLE": "Tuneify",
@@ -1464,6 +1468,29 @@
             "APP_TOOLTIP_MUSIC_EDIT_PLAYLIST": "編輯播放清單",
             "APP_TOOLTIP_MUSIC_EARPHONE": "耳機",
             "APP_TOOLTIP_MUSIC_SPEAKER": "喇叭"
+        }
+    },
+    "LucyAI": {
+        "APP_LUCYAI_TITLE": "Lucy AI",
+        "APP_LUCYAI_DESC": "Lucy 是您的手機 AI 助理。您可以通過與 Lucy 對話來使用手機的功能。",
+        "APP_LUCYAI_TALK": "與 Lucy 對話",
+        "APP_LUCYAI_NOTPERMISSION": "未為 Lucy 授予麥克風權限，請授予權限。",
+        "APP_LUCYAI_VOICEPROGRESS": "語音識別進行中...",
+        "APP_LUCYAI_ERORR_TRYAGAIN": "發生錯誤，請再試一次。",
+        "APP_LUCYAI_NOTUNDERSTAND": "未理解，請再試一次。",
+        "APP_LUCYAI_NOTLANGUAGE_SELECTED": "未選擇語言，請在設定中選擇語言。",
+        "APP_LUCYAI_TAKESCREENSHOT": "正在截取螢幕截圖...",
+        "APP_LUCYAI_PERSONNOTFOUND": "未在通訊錄中找到 {contactName}",
+        "APP_LUCYAI_CALLING": "正在撥打 {contactName}...",
+        "APP_LUCYAI_APPNOTFOUND": "未找到應用 {appName}，請下載應用。",
+        "APP_LUCYAI_OPENAPP": "正在打開應用 {appName}...",
+        "APP_LUCYAI_COMMANDS": "Lucy AI 指令",
+        "APP_LUCYAI_LANGUAGES": "語言",
+        "APP_LUCYAI_VOICES": "語音",
+        "CommandsList": {
+            "APP_LUCYAI_COMMANDS_CALL": "撥打電話",
+            "APP_LUCYAI_COMMANDS_TAKESCREENSHOT": "截取螢幕畫面",
+            "APP_LUCYAI_COMMANDS_OPENAPP": "開啟應用程式"
         }
     },
     "RegisterCommand": {

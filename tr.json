@@ -38,7 +38,8 @@
         "APP_CHARGE_PICK_UP_PHONECHARGE": "Telefonunuzu şarj istasyonundan geri alabilirsiniz",
         "APP_CHARGE_NORMAL_CHARGE": "Normal Şarj",
         "APP_CHARGE_FAST_CHARGE": "Hızlı Şarj",
-        "APP_CHARGE_CANCEL": "Şarj İptal"
+        "APP_CHARGE_CANCEL": "Şarj İptal",
+        "APP_CHARGE_BANK_MONEY": "Yeterli paranız yok"
     },
     "DateAgo": {
         "minutesAgo": "{minutes} dakika önce",
@@ -129,11 +130,12 @@
         "APP_SETTING_NAMECHANGEDESC": "Bazı uygulamalarda ve işlevlerde kullanılacak adınızı belirleyin",
         "APP_SETTING_NAMECHANGETITLE": "Telefon Adını Değiştir",
         "APP_SETTING_NAMECHANGESUCESS": "Telefon adınız değiştirildi",
-
         "APP_SETTING_QRCODEREALAPP": "Qr ile uygulama giriş yap",
         "APP_SETTING_QRCODE_SECRET_DESC": "Bu QR kodu, telefonunuzun kimlik doğrulamasını sağlar. Bu kodu kimseyle paylaşmayın.",
         "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "Adınız en az 4 karakter olmalıdır",
-        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Adınız en fazla 20 karakter olmalıdır"
+        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Adınız en fazla 20 karakter olmalıdır",
+
+        "APP_SETTING_LUCY": "Lucy"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Rehber",
@@ -600,8 +602,9 @@
         "APP_SQUAWK_NOTIFY_FOLLOW": "{name}  takip etmeye başladı",
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name}  bir gönderide senden bahsetti",
         "APP_SQUAWK_NOTFIY_POST": "{name}  yeni bir gönderi paylaştı",
+        "APP_SQUAWK_POSTING_PRELOADER": "Gönderi paylaşılıyor...",
 
-        "APP_SQUAWK_POSTING_PRELOADER": "Gönderi paylaşılıyor..."
+        "APP_SQUAWK_BANNERERROR_LENGTH": "Banner URL'si 6 ile 255 karakter arasında olmalıdır"
     },
     "BankAPP": {
         "APP_BANK_TITLE": "Banka",
@@ -834,7 +837,8 @@
         "APP_STOCKMARKET_BUYNOTIFYERROR": "Coin satın alınırken bir hata oluştu",
         "APP_STOCKMARKET_SELLLOADING": "Satılıyor...",
         "APP_STOCKMARKET_SELLNOTIFYDESC": "{amount} adet {coin} satıldı",
-        "APP_STOCKMARKET_SELLNOTIFYERROR": "Coin satılırken bir hata oluştu"
+        "APP_STOCKMARKET_SELLNOTIFYERROR": "Coin satılırken bir hata oluştu",
+        "APP_STOCKMARTKET_NOMONEY": "Yeterli paranız yok"
     },
     "Tuneify": {
         "APP_TUNEIFY_TITLE": "Tuneify",
@@ -1464,6 +1468,29 @@
             "APP_TOOLTIP_MUSIC_EDIT_PLAYLIST": "Çalma Listesini Düzenle",
             "APP_TOOLTIP_MUSIC_EARPHONE": "Kulaklık",
             "APP_TOOLTIP_MUSIC_SPEAKER": "Hoparlör"
+        }
+    },
+    "LucyAI": {
+        "APP_LUCYAI_TITLE": "Lucy AI",
+        "APP_LUCYAI_DESC": "Lucy, telefonunuzun yapay zeka asistanıdır. Lucy ile konuşarak telefonunuzun işlevlerini kullanabilirsiniz.",
+        "APP_LUCYAI_TALK": "Lucy ile konuşun",
+        "APP_LUCYAI_NOTPERMISSION": "Lucy için mikrofon izni verilmedi, lütfen izin verin.",
+        "APP_LUCYAI_VOICEPROGRESS": "Ses tanıma yapılıyor...",
+        "APP_LUCYAI_ERORR_TRYAGAIN": "Bir hata oluştu, lütfen tekrar deneyin.",
+        "APP_LUCYAI_NOTUNDERSTAND": "Anlaşılmadı, tekrar deneyin.",
+        "APP_LUCYAI_NOTLANGUAGE_SELECTED": "Dil seçilmedi, lütfen ayarlardan dil seçin.",
+        "APP_LUCYAI_TAKESCREENSHOT": "Ekran görüntüsü alınıyor...",
+        "APP_LUCYAI_PERSONNOTFOUND": "{contactName} rehber de bulunamadı",
+        "APP_LUCYAI_CALLING": "{contactName} aranıyor...",
+        "APP_LUCYAI_APPNOTFOUND": "{appName} uygulaması bulunamadı, lütfen uygulamayı yükleyin.",
+        "APP_LUCYAI_OPENAPP": "{appName} uygulama açılıyor...",
+        "APP_LUCYAI_COMMANDS" : "Lucy AI Komutları",
+        "APP_LUCYAI_LANGUAGES": "Diller",
+        "APP_LUCYAI_VOICES": "Sesler",
+        "CommandsList": {
+            "APP_LUCYAI_COMMANDS_CALL": "Arama",
+            "APP_LUCYAI_COMMANDS_TAKESCREENSHOT": "Ekran Görüntüsü Al",
+            "APP_LUCYAI_COMMANDS_OPENAPP": "Uygulama Aç"
         }
     },
     "RegisterCommand": {

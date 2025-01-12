@@ -38,7 +38,8 @@
         "APP_CHARGE_PICK_UP_PHONECHARGE": "Yjy kan die foon van die laaistasie optel",
         "APP_CHARGE_NORMAL_CHARGE": "Normale laai",
         "APP_CHARGE_FAST_CHARGE": "Vinnige laai",
-        "APP_CHARGE_CANCEL": "Kanselleer laai"
+        "APP_CHARGE_CANCEL": "Kanselleer laai",
+        "APP_CHARGE_BANK_MONEY": "Jy het nie genoeg geld nie"
     },
     "DateAgo": {
         "minutesAgo": "{minute} minute gelede",
@@ -132,7 +133,8 @@
         "APP_SETTING_QRCODEREALAPP": "Meld aan met QR",
         "APP_SETTING_QRCODE_SECRET_DESC": "Hierdie QR-kode verifieer jou foon. Moenie hierdie kode met enigiemand deel nie.",
         "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "Jou naam moet minstens 4 karakters wees",
-        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Jou naam mag nie meer as 20 karakters wees nie"
+        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Jou naam mag nie meer as 20 karakters wees nie",
+        "APP_SETTING_LUCY": "Lucy"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Contact",
@@ -599,7 +601,8 @@
         "APP_SQUAWK_NOTIFY_FOLLOW": "{name}  het begin om jou te volg",
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name}  het jou in 'n plasing genoem",
         "APP_SQUAWK_NOTFIY_POST": "{name}  het 'n nuwe plasing gedeel",
-        "APP_SQUAWK_POSTING_PRELOADER": "Besig om te plaas..."
+        "APP_SQUAWK_POSTING_PRELOADER": "Besig om te plaas...",
+        "APP_SQUAWK_BANNERERROR_LENGTH": "Die banier-URL moet tussen 6 en 255 karakters wees"
     },
     "BankAPP": {
         "APP_BANK_TITLE": "Bank",
@@ -832,7 +835,8 @@
         "APP_STOCKMARKET_BUYNOTIFYERROR": "'n Fout het voorgekom tydens die aankoop",
         "APP_STOCKMARKET_SELLLOADING": "Verkoop...",
         "APP_STOCKMARKET_SELLNOTIFYDESC": "Jy het suksesvol verkoop {amount} {coin}",
-        "APP_STOCKMARKET_SELLNOTIFYERROR": "'n Fout het voorgekom tydens verkoop"
+        "APP_STOCKMARKET_SELLNOTIFYERROR": "'n Fout het voorgekom tydens verkoop",
+        "APP_STOCKMARTKET_NOMONEY": "Jy het nie genoeg geld nie"
     },
     "Tuneify": {
         "APP_TUNEIFY_TITLE": "Tuneify",
@@ -1464,6 +1468,29 @@
             "APP_TOOLTIP_MUSIC_EDIT_PLAYLIST": "Redigeer Speellys",
             "APP_TOOLTIP_MUSIC_EARPHONE": "Oorfone",
             "APP_TOOLTIP_MUSIC_SPEAKER": "Luidspreker"
+        }
+    },
+    "LucyAI": {
+        "APP_LUCYAI_TITLE": "Lucy AI",
+        "APP_LUCYAI_DESC": "Lucy is jou slimfoon se kunsmatige intelligensie assistent. Jy kan Lucy gebruik deur met haar te praat.",
+        "APP_LUCYAI_TALK": "Praat met Lucy",
+        "APP_LUCYAI_NOTPERMISSION": "Geen mikrofoon toestemming vir Lucy nie, gee asseblief toestemming.",
+        "APP_LUCYAI_VOICEPROGRESS": "Stembegrip word uitgevoer...",
+        "APP_LUCYAI_ERORR_TRYAGAIN": "‘n Fout het voorgekom, probeer asseblief weer.",
+        "APP_LUCYAI_NOTUNDERSTAND": "Nie verstaan nie, probeer asseblief weer.",
+        "APP_LUCYAI_NOTLANGUAGE_SELECTED": "Geen taal is gekies nie, kies asseblief ‘n taal in die instellings.",
+        "APP_LUCYAI_TAKESCREENSHOT": "Skermkiekie word geneem...",
+        "APP_LUCYAI_PERSONNOTFOUND": "{contactName} is nie in die kontaklys gevind nie",
+        "APP_LUCYAI_CALLING": "{contactName} word geskakel...",
+        "APP_LUCYAI_APPNOTFOUND": "{appName} is nie gevind nie, laai asseblief die toepassing af.",
+        "APP_LUCYAI_OPENAPP": "{appName} toepassing word oopgemaak...",
+        "APP_LUCYAI_COMMANDS": "Lucy AI Opdragte",
+        "APP_LUCYAI_LANGUAGES": "Tale",
+        "APP_LUCYAI_VOICES": "Stemmen",
+        "CommandsList": {
+            "APP_LUCYAI_COMMANDS_CALL": "Bel",
+            "APP_LUCYAI_COMMANDS_TAKESCREENSHOT": "Neem Skermskoot",
+            "APP_LUCYAI_COMMANDS_OPENAPP": "Maak Toep oop"
         }
     },
     "RegisterCommand": {

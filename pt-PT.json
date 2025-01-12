@@ -38,7 +38,8 @@
         "APP_CHARGE_PICK_UP_PHONECHARGE": "Pode retirar o telemóvel da estação de carregamento",
         "APP_CHARGE_NORMAL_CHARGE": "Carregamento Normal",
         "APP_CHARGE_FAST_CHARGE": "Carregamento Rápido",
-        "APP_CHARGE_CANCEL": "Cancelar Carregamento"
+        "APP_CHARGE_CANCEL": "Cancelar Carregamento",
+        "APP_CHARGE_BANK_MONEY": "Não tem dinheiro suficiente"
     },
     "DateAgo": {
         "minutesAgo": "Há {minutes} minutos",
@@ -132,7 +133,8 @@
         "APP_SETTING_QRCODEREALAPP": "Entrar com QR",
         "APP_SETTING_QRCODE_SECRET_DESC": "Este código QR autentica seu telefone. Não compartilhe este código com ninguém.",
         "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "Seu nome deve ter pelo menos 4 caracteres",
-        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Seu nome deve ter no máximo 20 caracteres"
+        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Seu nome deve ter no máximo 20 caracteres",
+        "APP_SETTING_LUCY": "Lucy"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Contactos",
@@ -599,7 +601,8 @@
         "APP_SQUAWK_NOTIFY_FOLLOW": "{name} começou a segui-lo",
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name} mencionou-o numa publicação",
         "APP_SQUAWK_NOTFIY_POST": "{name} partilhou uma nova publicação",
-        "APP_SQUAWK_POSTING_PRELOADER": "Postando..."
+        "APP_SQUAWK_POSTING_PRELOADER": "Postando...",
+        "APP_SQUAWK_BANNERERROR_LENGTH": "O URL do banner deve ter entre 6 e 255 caracteres"
     },
     "BankAPP": {
         "APP_BANK_TITLE": "Banco",
@@ -832,7 +835,8 @@
         "APP_STOCKMARKET_BUYNOTIFYERROR": "Ocorreu um erro ao comprar",
         "APP_STOCKMARKET_SELLLOADING": "A vender...",
         "APP_STOCKMARKET_SELLNOTIFYDESC": "Vendeu com sucesso {amount} {coin}",
-        "APP_STOCKMARKET_SELLNOTIFYERROR": "Ocorreu um erro ao vender"
+        "APP_STOCKMARKET_SELLNOTIFYERROR": "Ocorreu um erro ao vender",
+        "APP_STOCKMARTKET_NOMONEY": "Não tem dinheiro suficiente"
     },
     "Tuneify": {
         "APP_TUNEIFY_TITLE": "Tuneify",
@@ -1466,6 +1470,29 @@
             "APP_TOOLTIP_MUSIC_EDIT_PLAYLIST": "Editar Lista de Reprodução",
             "APP_TOOLTIP_MUSIC_EARPHONE": "Auriculares",
             "APP_TOOLTIP_MUSIC_SPEAKER": "Altifalante"
+        }
+    },
+    "LucyAI": {
+        "APP_LUCYAI_TITLE": "Lucy AI",
+        "APP_LUCYAI_DESC": "A Lucy é a assistente de AI do seu telemóvel. Pode utilizar as funções do seu telemóvel falando com a Lucy.",
+        "APP_LUCYAI_TALK": "Fale com a Lucy",
+        "APP_LUCYAI_NOTPERMISSION": "Permissão de microfone para a Lucy não concedida, por favor conceda a permissão.",
+        "APP_LUCYAI_VOICEPROGRESS": "Reconhecimento de voz em progresso...",
+        "APP_LUCYAI_ERORR_TRYAGAIN": "Ocorreu um erro, por favor tente novamente.",
+        "APP_LUCYAI_NOTUNDERSTAND": "Não compreendido, por favor tente novamente.",
+        "APP_LUCYAI_NOTLANGUAGE_SELECTED": "Nenhuma língua selecionada, por favor selecione uma língua nas configurações.",
+        "APP_LUCYAI_TAKESCREENSHOT": "A capturar o ecrã...",
+        "APP_LUCYAI_PERSONNOTFOUND": "{contactName} não encontrado no livro de endereços",
+        "APP_LUCYAI_CALLING": "A ligar para {contactName}...",
+        "APP_LUCYAI_APPNOTFOUND": "Aplicação {appName} não encontrada, por favor instale a aplicação.",
+        "APP_LUCYAI_OPENAPP": "A abrir a aplicação {appName}...",
+        "APP_LUCYAI_COMMANDS": "Comandos Lucy AI",
+        "APP_LUCYAI_LANGUAGES": "Idiomas",
+        "APP_LUCYAI_VOICES": "Vozes",
+        "CommandsList": {
+            "APP_LUCYAI_COMMANDS_CALL": "Ligar",
+            "APP_LUCYAI_COMMANDS_TAKESCREENSHOT": "Capturar Ecrã",
+            "APP_LUCYAI_COMMANDS_OPENAPP": "Abrir Aplicação"
         }
     },
     "RegisterCommand": {

@@ -18,7 +18,7 @@
         "PHONE_STATUSBAR_CLOSE": "Schließen",
         "PHONE_STATUSBAR_ADDPAGE": "Seite hinzufügen",
         "PHONE_SET_EYETARGET": "Nummer teilen",
-        "PHONE_BOOTH_NOTMONEY": "Sie haben nicht genug Geld dabei, um die Telefonzelle zu benutzen. $",
+        "PHONE_BOOTH_NOTMONEY": "Sie haben nicht genug Geld dabei, um die Telefonzelle zu benutzen. €",
         "PHONE_BOX_NUMBER": "Nummer",
         "PHONE_IMAGE_COPYLINK": "Image URL Kopiert",
         "PHONE_PIN_ERORR": "Fehler",
@@ -38,7 +38,8 @@
         "APP_CHARGE_PICK_UP_PHONECHARGE": "Sie können das Telefon von der Ladestation abholen",
         "APP_CHARGE_NORMAL_CHARGE": "Normales Aufladen",
         "APP_CHARGE_FAST_CHARGE": "Schnelles Aufladen",
-        "APP_CHARGE_CANCEL": "Aufladen abbrechen"
+        "APP_CHARGE_CANCEL": "Aufladen abbrechen",
+        "APP_CHARGE_BANK_MONEY": "Sie haben nicht genug Geld"
     },
     "DateAgo": {
         "minutesAgo": "{minutes} vor wenigen Minuten",
@@ -132,7 +133,8 @@
         "APP_SETTING_QRCODEREALAPP": "Mit QR anmelden",
         "APP_SETTING_QRCODE_SECRET_DESC": "Dieser QR-Code authentifiziert Ihr Telefon. Teilen Sie diesen Code nicht mit anderen.",
         "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "Ihr Name muss mindestens 4 Zeichen lang sein",
-        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Ihr Name darf höchstens 20 Zeichen lang sein"
+        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Ihr Name darf höchstens 20 Zeichen lang sein",
+        "APP_SETTING_LUCY": "Lucy"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Kontakte",
@@ -577,7 +579,7 @@
         "APP_SQUAWK_BANNERCHANGED": "Banner erfolgreich geändert",
         "APP_SQUAWK_PASSWORDCHANGED": "Passwort erfolgreich geändert",
         "APP_SQUAWK_VERIFEDDESC": "Holen Sie sich die einzigartige verifizierte Funktion durch den Kauf von Squawk verified!",
-        "APP_SQUAWK_VERIFEDDESC2": "Nur $15 / monatlich",
+        "APP_SQUAWK_VERIFEDDESC2": "Nur €15 / monatlich",
         "APP_SQUAWK_VERIFEDSUCCESS": "Sie haben die verifizierte Funktion erfolgreich erworben",
         "APP_SQUAWK_VERIFEDERROR": "Sie können die verifizierte Funktion nicht kaufen, weil Sie nicht genug Geld haben",
         "APP_SQUAWK_VERIFEDERROR2": "Sie können das verifizierte Merkmal nicht kaufen, weil Sie es bereits haben",
@@ -599,11 +601,12 @@
         "APP_SQUAWK_NOTIFY_FOLLOW": "{name}  begonnen, Ihnen zu folgen",
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name}  erwähnte Sie in einem Beitrag",
         "APP_SQUAWK_NOTFIY_POST": "{name}  hat einen neuen Beitrag geteilt",
-        "APP_SQUAWK_POSTING_PRELOADER": "Beitrag wird veröffentlicht..."
+        "APP_SQUAWK_POSTING_PRELOADER": "Beitrag wird veröffentlicht...",
+        "APP_SQUAWK_BANNERERROR_LENGTH": "Die Banner-URL muss zwischen 6 und 255 Zeichen lang sein"
     },
     "BankAPP": {
         "APP_BANK_TITLE": "Bank",
-        "APP_CURRENCY": "$",
+        "APP_CURRENCY": "€",
         "APP_BANK_SENDMONEY": "Senden",
         "APP_BANK_REQUESTEXT": "Wie viel Geld wollen Sie?",
         "APP_BANK_REQUEST" : "Anfragen",
@@ -654,7 +657,7 @@
     "BillingAPP": {
         "APP_BILLING_HEADER" : "Rechnung",
         "APP_BILLING_TOTALBANKMONEY" : "Gesamtes Geld auf der Bank",
-        "APP_BILLING_CURRENCY": "$",
+        "APP_BILLING_CURRENCY": "€",
         "APP_BILLING_BILLTOTAL" : "Gesamtbetrag der Rechnung",
         "APP_BILLING_UNPAID": "Unbezahlt",
         "APP_BILLING_PAID": "Bezahlt",
@@ -797,7 +800,7 @@
         "APP_STOCKMARKET_TITLE": "Stock Market",
         "APP_STOCKMARKET_HELLO": "Hallo",
         "APP_STOCKMARKET_TOTALBALANCE": "Gesamtbilanz",
-        "APP_STOCKMARKET_CURRENCY": "$",
+        "APP_STOCKMARKET_CURRENCY": "€",
         "APP_STOCKMARKET_NOTCRYPTO": "Keine Kryptowährung auf Ihrem Konto gefunden",
         "APP_STOCKMARKET_ADDCOIN": "Münze hinzufügen",
         "APP_STOCKMARKET_TRANSFER": "Überweisung",
@@ -832,7 +835,8 @@
         "APP_STOCKMARKET_BUYNOTIFYERROR": "Beim Kauf ist ein Fehler aufgetreten",
         "APP_STOCKMARKET_SELLLOADING": "Verkauf...",
         "APP_STOCKMARKET_SELLNOTIFYDESC": "Sie haben erfolgreich verkauft {amount} {coin}",
-        "APP_STOCKMARKET_SELLNOTIFYERROR": "Beim Verkauf ist ein Fehler aufgetreten"
+        "APP_STOCKMARKET_SELLNOTIFYERROR": "Beim Verkauf ist ein Fehler aufgetreten",
+        "APP_STOCKMARTKET_NOMONEY": "Sie haben nicht genug Geld"
     },
     "Tuneify": {
         "APP_TUNEIFY_TITLE": "Tuneify",
@@ -915,7 +919,7 @@
         "APP_RENTACAR_VEHICLEDELIVER": "Fahrzeug liefern",
         "APP_RENTACAR_NOSTOCK": "Kein Bestand",
         "APP_RENTACAR_LOADING": "In der Warteschlange, bitte auf Benachrichtigung warten",
-        "APP_RENTACAR_CURRENCY": "$",
+        "APP_RENTACAR_CURRENCY": "€",
         "APP_RENTACAR_RENTCAR": "Abholung des Fahrzeugs von der auf der Karte markierten Stelle",
         "APP_RENTACAR_RENTCARERROR": "Sie haben nicht genug Geld",
         "APP_RENTACAR_TOOFAR": "Sie sind zu weit vom Fahrzeug entfernt",
@@ -1002,7 +1006,7 @@
     "BusinessAPP": {
         "APP_BUSINESS_TITLE": "Mein Business",
         "APP_BUSINESS_APP_TITLE" : "Business",
-        "APP_BUSINESS_CURRENCY": "$",
+        "APP_BUSINESS_CURRENCY": "€",
         "APP_BUSINESS_TOTALBALANCE": "Gesamtbilanz",
         "APP_BUSINESS_LOADING": "Laden...",
         "APP_BUSINESS_BAR_BILLS": "Rechnungen",
@@ -1091,7 +1095,7 @@
         "APP_GAME_DOUBLE": "Doppelter einsatz",
         "APP_GAME_RESUME": "SPIELFORTSETZUNG",
         "APP_GAME_STARTGAME": "Spiel starten",
-        "APP_GAME_CURRENCY":"$",
+        "APP_GAME_CURRENCY":"€",
         "APP_GAME_BLACKJACKDRAW": "ZIEHEN",
         "APP_GAME_BLACKJACKLOSE": "Sie verlieren",
         "APP_GAME_BLACKJACKWIN": "Sie gewinnen",
@@ -1179,7 +1183,7 @@
         "APP_TAXI_CUSTOMER_TOTALPRICE": "Gesamtpreis",
         "APP_TAXI_CUSTOMER_CALCULATE": "Meine Reise berechnen",
         "APP_TAXI_CUSTOMER_CALLATAXI": "Rufen Sie ein Taxi",
-        "APP_CURRENCY": "$",
+        "APP_CURRENCY": "€",
         "APP_TAXI_CUSTOMER_STARTTAXI": "Ihre Reise hat begonnen",
         "APP_TAXI_CUSTOMER_START": "Start",
         "APP_TAXI_CUSTOMER_TOTAL": "Insgesamt",
@@ -1286,7 +1290,7 @@
         "APP_JOBCENTER_LOADING_DISBAND_GROUP": "Gruppe wird aufgelöst...",
         "APP_JOBCENTER_TOAST_DISBAND_GROUP_SUCCESS": "Gruppe aufgelöst",
         "APP_JOBCENTER_TOAST_DISBAND_GROUP_ERROR": "Fehler beim Auflösen der Gruppe",
-        "APP_JOBCENTER_NOTIFY_JOBSUCESS_REWARD": "Sie haben die Aufgabe erfolgreich abgeschlossen. Sie haben $ {reward} verdient",
+        "APP_JOBCENTER_NOTIFY_JOBSUCESS_REWARD": "Sie haben die Aufgabe erfolgreich abgeschlossen. Sie haben € {reward} verdient",
         "APP_JOBCENTER_NOTIFY_REQUEST": "Möchten Sie die Jobteilnahme-Anfrage annehmen?",
         "APP_JOBCENTER_NOTIFY_FOUNDJOB": "Ein Job wurde gefunden, möchten Sie ihn annehmen?"
     },
@@ -1464,6 +1468,29 @@
             "APP_TOOLTIP_MUSIC_EDIT_PLAYLIST": "Wiedergabeliste Bearbeiten",
             "APP_TOOLTIP_MUSIC_EARPHONE": "Kopfhörer",
             "APP_TOOLTIP_MUSIC_SPEAKER": "Lautsprecher"
+        }
+    },
+    "LucyAI": {
+        "APP_LUCYAI_TITLE": "Lucy AI",
+        "APP_LUCYAI_DESC": "Lucy ist der AI-Assistent Ihres Telefons. Sie können die Funktionen Ihres Telefons nutzen, indem Sie mit Lucy sprechen.",
+        "APP_LUCYAI_TALK": "Sprechen Sie mit Lucy",
+        "APP_LUCYAI_NOTPERMISSION": "Keine Mikrofonberechtigung für Lucy, bitte erteilen Sie die Berechtigung.",
+        "APP_LUCYAI_VOICEPROGRESS": "Spracherkennung läuft...",
+        "APP_LUCYAI_ERORR_TRYAGAIN": "Ein Fehler ist aufgetreten, bitte versuchen Sie es erneut.",
+        "APP_LUCYAI_NOTUNDERSTAND": "Nicht verstanden, bitte versuchen Sie es erneut.",
+        "APP_LUCYAI_NOTLANGUAGE_SELECTED": "Keine Sprache ausgewählt, bitte wählen Sie eine Sprache in den Einstellungen.",
+        "APP_LUCYAI_TAKESCREENSHOT": "Screenshot wird aufgenommen...",
+        "APP_LUCYAI_PERSONNOTFOUND": "{contactName} wurde im Adressbuch nicht gefunden",
+        "APP_LUCYAI_CALLING": "{contactName} wird angerufen...",
+        "APP_LUCYAI_APPNOTFOUND": "Die Anwendung {appName} wurde nicht gefunden, bitte installieren Sie sie.",
+        "APP_LUCYAI_OPENAPP": "Die Anwendung {appName} wird geöffnet...",
+        "APP_LUCYAI_COMMANDS": "Lucy AI Befehle",
+        "APP_LUCYAI_LANGUAGES": "Sprachen",
+        "APP_LUCYAI_VOICES": "Stimmen",
+        "CommandsList": {
+            "APP_LUCYAI_COMMANDS_CALL": "Anrufen",
+            "APP_LUCYAI_COMMANDS_TAKESCREENSHOT": "Screenshot machen",
+            "APP_LUCYAI_COMMANDS_OPENAPP": "App öffnen"
         }
     },
     "RegisterCommand": {

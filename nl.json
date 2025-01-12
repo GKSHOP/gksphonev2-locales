@@ -38,7 +38,8 @@
         "APP_CHARGE_PICK_UP_PHONECHARGE": "Je kunt de telefoon van het oplaadstation halen",
         "APP_CHARGE_NORMAL_CHARGE": "Normaal opladen",
         "APP_CHARGE_FAST_CHARGE": "Snel opladen",
-        "APP_CHARGE_CANCEL": "Opladen annuleren"
+        "APP_CHARGE_CANCEL": "Opladen annuleren",
+        "APP_CHARGE_BANK_MONEY": "Je hebt niet genoeg geld"
     },
     "DateAgo": {
         "minutesAgo": "{minutes} minuten geleden",
@@ -132,7 +133,8 @@
         "APP_SETTING_QRCODEREALAPP": "Inloggen met QR",
         "APP_SETTING_QRCODE_SECRET_DESC": "Deze QR-code verifieert uw telefoon. Deel deze code niet met anderen.",
         "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "Uw naam moet minstens 4 tekens bevatten",
-        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Uw naam mag maximaal 20 tekens bevatten"
+        "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Uw naam mag maximaal 20 tekens bevatten",
+        "APP_SETTING_LUCY": "Lucy"
     },
     "ContactsAPP": {
         "APP_CONTACTS_TITLE": "Contacten",
@@ -599,7 +601,8 @@
         "APP_SQUAWK_NOTIFY_FOLLOW": "{name} is je gaan volgen",
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name} heeft je genoemd in een bericht",
         "APP_SQUAWK_NOTFIY_POST": "{name} heeft een nieuw bericht gedeeld",
-        "APP_SQUAWK_POSTING_PRELOADER": "Bericht wordt geplaatst..."
+        "APP_SQUAWK_POSTING_PRELOADER": "Bericht wordt geplaatst...",
+        "APP_SQUAWK_BANNERERROR_LENGTH": "De banner-URL moet tussen 6 en 255 tekens lang zijn"
     },
     "BankAPP": {
         "APP_BANK_TITLE": "Bank",
@@ -832,7 +835,8 @@
         "APP_STOCKMARKET_BUYNOTIFYERROR": "Er is een fout opgetreden tijdens de aankoop",
         "APP_STOCKMARKET_SELLLOADING": "Aan het verkopen...",
         "APP_STOCKMARKET_SELLNOTIFYDESC": "Je hebt succesvol verkocht {amount} {coin}",
-        "APP_STOCKMARKET_SELLNOTIFYERROR": "Er is een fout opgetreden tijdens de verkoop"
+        "APP_STOCKMARKET_SELLNOTIFYERROR": "Er is een fout opgetreden tijdens de verkoop",
+        "APP_STOCKMARTKET_NOMONEY": "Je hebt niet genoeg geld"
     },
     "Tuneify": {
         "APP_TUNEIFY_TITLE": "Tuneify",
@@ -1464,6 +1468,29 @@
             "APP_TOOLTIP_MUSIC_EDIT_PLAYLIST": "Bewerk Playlist",
             "APP_TOOLTIP_MUSIC_EARPHONE": "Hoofdtelefoon",
             "APP_TOOLTIP_MUSIC_SPEAKER": "Luidspreker"
+        }
+    },
+    "LucyAI": {
+        "APP_LUCYAI_TITLE": "Lucy AI",
+        "APP_LUCYAI_DESC": "Lucy is de AI-assistent van je telefoon. Je kunt de functies van je telefoon gebruiken door met Lucy te praten.",
+        "APP_LUCYAI_TALK": "Praat met Lucy",
+        "APP_LUCYAI_NOTPERMISSION": "Geen microfoontoestemming voor Lucy, geef toestemming.",
+        "APP_LUCYAI_VOICEPROGRESS": "Stemherkenning bezig...",
+        "APP_LUCYAI_ERORR_TRYAGAIN": "Er is een fout opgetreden, probeer het opnieuw.",
+        "APP_LUCYAI_NOTUNDERSTAND": "Niet begrepen, probeer het opnieuw.",
+        "APP_LUCYAI_NOTLANGUAGE_SELECTED": "Geen taal geselecteerd, selecteer een taal in de instellingen.",
+        "APP_LUCYAI_TAKESCREENSHOT": "Schermafbeelding maken...",
+        "APP_LUCYAI_PERSONNOTFOUND": "{contactName} niet gevonden in het adresboek",
+        "APP_LUCYAI_CALLING": "{contactName} wordt gebeld...",
+        "APP_LUCYAI_APPNOTFOUND": "De applicatie {appName} is niet gevonden, installeer de applicatie.",
+        "APP_LUCYAI_OPENAPP": "De applicatie {appName} wordt geopend...",
+        "APP_LUCYAI_COMMANDS": "Lucy AI Opdrachten",
+        "APP_LUCYAI_LANGUAGES": "Talen",
+        "APP_LUCYAI_VOICES": "Stemmen",
+        "CommandsList": {
+            "APP_LUCYAI_COMMANDS_CALL": "Bellen",
+            "APP_LUCYAI_COMMANDS_TAKESCREENSHOT": "Screenshot maken",
+            "APP_LUCYAI_COMMANDS_OPENAPP": "App openen"
         }
     },
     "RegisterCommand": {
