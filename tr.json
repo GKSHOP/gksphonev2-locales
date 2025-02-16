@@ -51,6 +51,7 @@
         "APP_CAMERA_VIDEO": "Video",
         "APP_CAMERA_LANDSCAPE": "Panoramik",
         "APP_CAMERA_LOADING": "Yükleniyor",
+        "APP_CAMERA_EFFECTS": "Efektler",
         "InfoPanel": {
             "APP_CAMERA_INFO_ROTATE": "Kamerayı döndür",
             "APP_CAMERA_INFO_MOVING": "Fare sağ tuşuna basılı tutarak kamerayı hareket ettirebilirsiniz",
@@ -757,7 +758,8 @@
         "APP_VALE_SUCESS_BRING": "Aracınız yolda",
         "APP_VALE_MARKED": "Aracınız haritada işaretlendi",
         "APP_VALE_ERROR_TRACK_CARGARAGE": "Aracınız garajda olduğu için işaretlenmiyor.",
-        "APP_VALE_ERROR_CARBLACKLIST": "Bu araç modeli getirilemez"
+        "APP_VALE_ERROR_CARBLACKLIST": "Bu araç modeli getirilemez",
+        "APP_VALE_USEVALET_BANK_HISTORY_DESC": "Vale hizmeti kullanımı"
     },
     "GalleryAPP": {
         "APP_GALLERY_TITLE": "Galeri",
@@ -1490,7 +1492,8 @@
         "CommandsList": {
             "APP_LUCYAI_COMMANDS_CALL": "Arama",
             "APP_LUCYAI_COMMANDS_TAKESCREENSHOT": "Ekran Görüntüsü Al",
-            "APP_LUCYAI_COMMANDS_OPENAPP": "Uygulama Aç"
+            "APP_LUCYAI_COMMANDS_OPENAPP": "Uygulama Aç",
+            "APP_LUCYAI_COMMANDS_MONEYTRANSFER": "Para Transferi"
         }
     },
     "RegisterCommand": {

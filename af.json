@@ -51,6 +51,7 @@
         "APP_CAMERA_VIDEO": "Video",
         "APP_CAMERA_LANDSCAPE": "Landskap",
         "APP_CAMERA_LOADING": "Laai tans",
+        "APP_CAMERA_EFFECTS": "Effekte",
         "InfoPanel": {
             "APP_CAMERA_INFO_ROTATE": "Draai die kamera",
             "APP_CAMERA_INFO_MOVING": "Jy kan die kamera beweeg deur die regter muisknoppie in te hou",
@@ -755,7 +756,8 @@
         "APP_VALE_SUCESS_BRING": "Voertuig op die pad",
         "APP_VALE_MARKED": "Jou voertuig gemerk op die kaart",
         "APP_VALE_ERROR_TRACK_CARGARAGE": "Jou voertuig is nie gemerk nie, want dit is in die motorhuis.",
-        "APP_VALE_ERROR_CARBLACKLIST": "Hierdie voertuigmodel kan nie gebring word nie"
+        "APP_VALE_ERROR_CARBLACKLIST": "Hierdie voertuigmodel kan nie gebring word nie",
+        "APP_VALE_USEVALET_BANK_HISTORY_DESC": "Gebruik van valetdiens"
     },
     "GalleryAPP": {
         "APP_GALLERY_TITLE": "Gallery",
@@ -1490,7 +1492,8 @@
         "CommandsList": {
             "APP_LUCYAI_COMMANDS_CALL": "Bel",
             "APP_LUCYAI_COMMANDS_TAKESCREENSHOT": "Neem Skermskoot",
-            "APP_LUCYAI_COMMANDS_OPENAPP": "Maak Toep oop"
+            "APP_LUCYAI_COMMANDS_OPENAPP": "Maak Toep oop",
+            "APP_LUCYAI_COMMANDS_MONEYTRANSFER": "Geldoorplasing"
         }
     },
     "RegisterCommand": {

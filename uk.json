@@ -50,6 +50,7 @@
         "APP_CAMERA_VIDEO": "Відео",
         "APP_CAMERA_LANDSCAPE": "Пейзаж",
         "APP_CAMERA_LOADING": "Завантаження",
+        "APP_CAMERA_EFFECTS": "Ефекти",
         "InfoPanel": {
             "APP_CAMERA_INFO_ROTATE": "Поверніть камеру",
             "APP_CAMERA_INFO_MOVING": "Ви можете переміщати камеру, утримуючи праву кнопку миші",
@@ -835,7 +836,8 @@
         "APP_STOCKMARKET_SELLLOADING": "Продаж...",
         "APP_STOCKMARKET_SELLNOTIFYDESC": "Ви успішно продали {amount} {coin}",
         "APP_STOCKMARKET_SELLNOTIFYERROR": "Сталася помилка під час продажу",
-        "APP_STOCKMARTKET_NOMONEY": "У вас недостатньо грошей"
+        "APP_STOCKMARTKET_NOMONEY": "У вас недостатньо грошей",
+        "APP_VALE_USEVALET_BANK_HISTORY_DESC": "Використання послуги паркування"
     },
     "Tuneify": {
         "APP_TUNEIFY_TITLE": "Tuneify",
@@ -1491,7 +1493,8 @@
         "CommandsList": {
             "APP_LUCYAI_COMMANDS_CALL": "Дзвінок",
             "APP_LUCYAI_COMMANDS_TAKESCREENSHOT": "Зробити скріншот",
-            "APP_LUCYAI_COMMANDS_OPENAPP": "Відкрити додаток"
+            "APP_LUCYAI_COMMANDS_OPENAPP": "Відкрити додаток",
+            "APP_LUCYAI_COMMANDS_MONEYTRANSFER": "Грошовий переказ"
         }
     },
     "RegisterCommand": {

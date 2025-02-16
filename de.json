@@ -51,6 +51,7 @@
         "APP_CAMERA_VIDEO": "Video",
         "APP_CAMERA_LANDSCAPE": "Landschaft",
         "APP_CAMERA_LOADING": "Laden",
+        "APP_CAMERA_EFFECTS": "Effekte",
         "InfoPanel": {
             "APP_CAMERA_INFO_ROTATE": "Kamera drehen",
             "APP_CAMERA_INFO_MOVING": "Sie können die Kamera bewegen, indem Sie die rechte Maustaste gedrückt halten",
@@ -755,7 +756,8 @@
         "APP_VALE_SUCESS_BRING": "Das Auto kann nicht mitgenommen werden, weil es draußen steht.",
         "APP_VALE_MARKED": "Ihr Fahrzeug ist auf der Karte markiert",
         "APP_VALE_ERROR_TRACK_CARGARAGE": "Ihr Fahrzeug ist nicht gekennzeichnet, weil es in der Garage steht.",
-        "APP_VALE_ERROR_CARBLACKLIST": "Dieses Fahrzeugmodell kann nicht gebracht werden"
+        "APP_VALE_ERROR_CARBLACKLIST": "Dieses Fahrzeugmodell kann nicht gebracht werden",
+        "APP_VALE_USEVALET_BANK_HISTORY_DESC": "Nutzung des Parkservice"
     },
     "GalleryAPP": {
         "APP_GALLERY_TITLE": "Galerie",
@@ -1490,7 +1492,8 @@
         "CommandsList": {
             "APP_LUCYAI_COMMANDS_CALL": "Anrufen",
             "APP_LUCYAI_COMMANDS_TAKESCREENSHOT": "Screenshot machen",
-            "APP_LUCYAI_COMMANDS_OPENAPP": "App öffnen"
+            "APP_LUCYAI_COMMANDS_OPENAPP": "App öffnen",
+            "APP_LUCYAI_COMMANDS_MONEYTRANSFER": "Geldüberweisung"
         }
     },
     "RegisterCommand": {

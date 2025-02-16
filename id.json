@@ -50,6 +50,7 @@
         "APP_CAMERA_VIDEO": "Video",
         "APP_CAMERA_LANDSCAPE": "Lanskap",
         "APP_CAMERA_LOADING": "Memuat",
+        "APP_CAMERA_EFFECTS": "Efek",
         "InfoPanel": {
             "APP_CAMERA_INFO_ROTATE": "Putar kamera",
             "APP_CAMERA_INFO_MOVING": "Anda dapat memindahkan kamera dengan menahan tombol mouse kanan",
@@ -754,7 +755,8 @@
         "APP_VALE_SUCESS_BRING": "Kendaraan di jalan",
         "APP_VALE_MARKED": "Kendaraan Anda ditandai di peta",
         "APP_VALE_ERROR_TRACK_CARGARAGE": "Kendaraan Anda tidak ditandai karena berada di garasi.",
-        "APP_VALE_ERROR_CARBLACKLIST": "Model kendaraan ini tidak dapat dibawa"
+        "APP_VALE_ERROR_CARBLACKLIST": "Model kendaraan ini tidak dapat dibawa",
+        "APP_VALE_USEVALET_BANK_HISTORY_DESC": "Penggunaan layanan valet"
     },
     "GalleryAPP": {
         "APP_GALLERY_TITLE": "Galeri",
@@ -1491,7 +1493,8 @@
         "CommandsList": {
             "APP_LUCYAI_COMMANDS_CALL": "Panggil",
             "APP_LUCYAI_COMMANDS_TAKESCREENSHOT": "Ambil Tangkapan Layar",
-            "APP_LUCYAI_COMMANDS_OPENAPP": "Buka Aplikasi"
+            "APP_LUCYAI_COMMANDS_OPENAPP": "Buka Aplikasi",
+            "APP_LUCYAI_COMMANDS_MONEYTRANSFER": "Transfer uang"
         }
     },
     "RegisterCommand": {

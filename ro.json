@@ -50,6 +50,7 @@
         "APP_CAMERA_VIDEO": "Video",
         "APP_CAMERA_LANDSCAPE": "Peisaj",
         "APP_CAMERA_LOADING": "Se încarcă",
+        "APP_CAMERA_EFFECTS": "Efecte",
         "InfoPanel": {
             "APP_CAMERA_INFO_ROTATE": "Rotește camera",
             "APP_CAMERA_INFO_MOVING": "Poți muta camera ținând apăsat butonul din dreapta al mouse-ului",
@@ -754,7 +755,8 @@
         "APP_VALE_SUCESS_BRING": "Vehicul pe drum",
         "APP_VALE_MARKED": "Vehiculul tău marcat pe hartă",
         "APP_VALE_ERROR_TRACK_CARGARAGE": "Vehiculul tău nu este marcat pentru că este în garaj.",
-        "APP_VALE_ERROR_CARBLACKLIST": "Acest model de vehicul nu poate fi adus"
+        "APP_VALE_ERROR_CARBLACKLIST": "Acest model de vehicul nu poate fi adus",
+        "APP_VALE_USEVALET_BANK_HISTORY_DESC": "Utilizarea serviciului de valet"
     },
     "GalleryAPP": {
         "APP_GALLERY_TITLE": "Galerie",
@@ -1491,7 +1493,8 @@
         "CommandsList": {
             "APP_LUCYAI_COMMANDS_CALL": "Apel",
             "APP_LUCYAI_COMMANDS_TAKESCREENSHOT": "Realizați captură de ecran",
-            "APP_LUCYAI_COMMANDS_OPENAPP": "Deschideți aplicația"
+            "APP_LUCYAI_COMMANDS_OPENAPP": "Deschideți aplicația",
+            "APP_LUCYAI_COMMANDS_MONEYTRANSFER": "Transfer de bani"
         }
     },
     "RegisterCommand": {

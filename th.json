@@ -50,6 +50,7 @@
         "APP_CAMERA_VIDEO": "วิดีโอ",
         "APP_CAMERA_LANDSCAPE": "แนวนอน",
         "APP_CAMERA_LOADING": "กำลังโหลด",
+        "APP_CAMERA_EFFECTS": "เอฟเฟค",
         "InfoPanel": {
             "APP_CAMERA_INFO_ROTATE": "หมุนกล้อง",
             "APP_CAMERA_INFO_MOVING": "คุณสามารถเคลื่อนย้ายกล้องโดยการกดปุ่มเมาส์ขวา",
@@ -754,7 +755,8 @@
         "APP_VALE_SUCESS_BRING": "รถยนต์บนถนน",
         "APP_VALE_MARKED": "รถของคุณถูกทำเครื่องหมายบนแผนที่",
         "APP_VALE_ERROR_TRACK_CARGARAGE": "รถของคุณไม่ได้ถูกทำเครื่องหมายเพราะมันอยู่ในโรงรถ.",
-        "APP_VALE_ERROR_CARBLACKLIST": "โมเดลรถนี้ไม่สามารถนำออกมาได้"
+        "APP_VALE_ERROR_CARBLACKLIST": "โมเดลรถนี้ไม่สามารถนำออกมาได้",
+        "APP_VALE_USEVALET_BANK_HISTORY_DESC": "การใช้บริการจอดรถ"
     },
     "GalleryAPP": {
         "APP_GALLERY_TITLE": "แกลเลอรี",
@@ -1491,7 +1493,8 @@
         "CommandsList": {
             "APP_LUCYAI_COMMANDS_CALL": "โทร",
             "APP_LUCYAI_COMMANDS_TAKESCREENSHOT": "ถ่ายภาพหน้าจอ",
-            "APP_LUCYAI_COMMANDS_OPENAPP": "เปิดแอปพลิเคชัน"
+            "APP_LUCYAI_COMMANDS_OPENAPP": "เปิดแอปพลิเคชัน",
+            "APP_LUCYAI_COMMANDS_MONEYTRANSFER": "การโอนเงิน"
         }
     },
     "RegisterCommand": {

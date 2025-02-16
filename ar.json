@@ -50,6 +50,8 @@
         "APP_CAMERA_VIDEO": "فيديو",
         "APP_CAMERA_LANDSCAPE": "منظر طبيعي",
         "APP_CAMERA_LOADING": "جار التحميل",
+        "APP_CAMERA_EFFECTS":  "تأثيرات",
+
         "InfoPanel": {
             "APP_CAMERA_INFO_ROTATE": "قم بتدوير الكاميرا",
             "APP_CAMERA_INFO_MOVING": "يمكنك تحريك الكاميرا عن طريق الضغط على زر الماوس الأيمن",
@@ -754,7 +756,8 @@
         "APP_VALE_SUCESS_BRING": "المركبة على الطريق",
         "APP_VALE_MARKED": "سيارتك محددة على الخريطة",
         "APP_VALE_ERROR_TRACK_CARGARAGE": "سيارتك ليست محددة لأنها في المرآب.",
-        "APP_VALE_ERROR_CARBLACKLIST": "لا يمكن إحضار هذا الطراز من المركبة"
+        "APP_VALE_ERROR_CARBLACKLIST": "لا يمكن إحضار هذا الطراز من المركبة",
+        "APP_VALE_USEVALET_BANK_HISTORY_DESC": "استخدام خدمة صف السيارات"
     },
     "GalleryAPP": {
         "APP_GALLERY_TITLE": "معرض",
@@ -1491,7 +1494,8 @@
         "CommandsList": {
             "APP_LUCYAI_COMMANDS_CALL": "اتصل",
             "APP_LUCYAI_COMMANDS_TAKESCREENSHOT": "التقاط لقطة شاشة",
-            "APP_LUCYAI_COMMANDS_OPENAPP": "فتح التطبيق"
+            "APP_LUCYAI_COMMANDS_OPENAPP": "فتح التطبيق",
+            "APP_LUCYAI_COMMANDS_MONEYTRANSFER": "تحويل الأموال"
         }
     },
     "RegisterCommand": {

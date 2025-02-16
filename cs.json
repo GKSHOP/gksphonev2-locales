@@ -50,6 +50,8 @@
         "APP_CAMERA_VIDEO": "Video",
         "APP_CAMERA_LANDSCAPE": "Krajina",
         "APP_CAMERA_LOADING": "Načítání",
+        "APP_CAMERA_EFFECTS": "Efekty",
+
         "InfoPanel": {
             "APP_CAMERA_INFO_ROTATE": "Otočte kameru",
             "APP_CAMERA_INFO_MOVING": "Můžete pohybovat kamerou podržením pravého tlačítka myši",
@@ -754,7 +756,8 @@
         "APP_VALE_SUCESS_BRING": "Vozidlo na silnici",
         "APP_VALE_MARKED": "Vaše vozidlo je označeno na mapě",
         "APP_VALE_ERROR_TRACK_CARGARAGE": "Vaše vozidlo není označeno, protože je v garáži.",
-        "APP_VALE_ERROR_CARBLACKLIST": "Tento model vozidla nemůže být přivezen"
+        "APP_VALE_ERROR_CARBLACKLIST": "Tento model vozidla nemůže být přivezen",
+        "APP_VALE_USEVALET_BANK_HISTORY_DESC": "Použití služby valet"
     },
     "GalleryAPP": {
         "APP_GALLERY_TITLE": "Galerie",
@@ -1491,7 +1494,8 @@
         "CommandsList": {
             "APP_LUCYAI_COMMANDS_CALL": "Volat",
             "APP_LUCYAI_COMMANDS_TAKESCREENSHOT": "Pořídit snímek obrazovky",
-            "APP_LUCYAI_COMMANDS_OPENAPP": "Otevřít aplikaci"
+            "APP_LUCYAI_COMMANDS_OPENAPP": "Otevřít aplikaci",
+            "APP_LUCYAI_COMMANDS_MONEYTRANSFER": "Převod peněz"
         }
     },
     "RegisterCommand": {

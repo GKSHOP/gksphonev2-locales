@@ -50,6 +50,7 @@
         "APP_CAMERA_VIDEO": "Video",
         "APP_CAMERA_LANDSCAPE": "Paisaje",
         "APP_CAMERA_LOADING": "Cargando",
+        "APP_CAMERA_EFFECTS": "Efectos",
         "InfoPanel": {
             "APP_CAMERA_INFO_ROTATE": "Girar la cámara",
             "APP_CAMERA_INFO_MOVING": "Puedes mover la cámara manteniendo presionado el botón derecho del ratón",
@@ -754,7 +755,8 @@
         "APP_VALE_SUCESS_BRING": "Vehículo en la carretera",
         "APP_VALE_MARKED": "Tu vehículo marcado en el mapa",
         "APP_VALE_ERROR_TRACK_CARGARAGE": "Tu vehículo no está marcado porque está en el garaje.",
-        "APP_VALE_ERROR_CARBLACKLIST": "Este modelo de vehículo no puede ser traído"
+        "APP_VALE_ERROR_CARBLACKLIST": "Este modelo de vehículo no puede ser traído",
+        "APP_VALE_USEVALET_BANK_HISTORY_DESC": "Uso del servicio de valet"
     },
     "GalleryAPP": {
         "APP_GALLERY_TITLE": "Galería",
@@ -1491,7 +1493,8 @@
         "CommandsList": {
             "APP_LUCYAI_COMMANDS_CALL": "Llamar",
             "APP_LUCYAI_COMMANDS_TAKESCREENSHOT": "Tomar captura de pantalla",
-            "APP_LUCYAI_COMMANDS_OPENAPP": "Abrir aplicación"
+            "APP_LUCYAI_COMMANDS_OPENAPP": "Abrir aplicación",
+            "APP_LUCYAI_COMMANDS_MONEYTRANSFER": "Transferencia de dinero"
         }
     },
     "RegisterCommand": {
