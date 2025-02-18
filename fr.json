@@ -27,7 +27,8 @@
         "PHONE_PIN_EMAILPASSWORD_BLANK": "L'email ou MDP ne peuvent pas être vide",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "Email ou mot de passe incorrect",
         "PHONE_PIN_INFO": "Votre mot de passe est {pin}",
-        "PHONE_PASSCODE_FORGOT": "Mot de passe oublié"
+        "PHONE_PASSCODE_FORGOT": "Mot de passe oublié",
+        "PHONE_PHONEBOX": "Cabine téléphonique"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Votre téléphone est déjà en charge",

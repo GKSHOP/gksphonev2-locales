@@ -26,7 +26,8 @@
         "PHONE_PIN_EMAILPASSWORD_BLANK": "E-post eller lösenord får inte vara tomt",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "E-post eller lösenord är felaktigt",
         "PHONE_PIN_INFO": "Ditt lösenord är {pin}",
-        "PHONE_PASSCODE_FORGOT": "Glömt lösenord"
+        "PHONE_PASSCODE_FORGOT": "Glömt lösenord",
+        "PHONE_PHONEBOX": "Telefonkiosk"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Din telefon laddas redan",

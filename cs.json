@@ -26,7 +26,8 @@
         "PHONE_PIN_EMAILPASSWORD_BLANK": "Email nebo heslo nesmí být prázdné",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "Email nebo heslo je nesprávné",
         "PHONE_PIN_INFO": "Vaše heslo je {pin}",
-        "PHONE_PASSCODE_FORGOT": "Zapomněli jste heslo"
+        "PHONE_PASSCODE_FORGOT": "Zapomněli jste heslo",
+        "PHONE_PHONEBOX": "Telefonní budka"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Váš telefon se již nabíjí",

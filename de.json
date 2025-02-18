@@ -27,7 +27,8 @@
         "PHONE_PIN_EMAILPASSWORD_BLANK": "E-Mail oder Passwort dürfen nicht leer sein",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "E-Mail oder Passwort sind falsch",
         "PHONE_PIN_INFO": "Ihr Passwort lautet {pin}",
-        "PHONE_PASSCODE_FORGOT": "Passwort vergessen"
+        "PHONE_PASSCODE_FORGOT": "Passwort vergessen",
+        "PHONE_PHONEBOX": "Telefonzelle"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Ihr Telefon wird bereits geladen",

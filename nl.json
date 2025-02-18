@@ -27,7 +27,8 @@
         "PHONE_PIN_EMAILPASSWORD_BLANK": "E-mail of wachtwoord kan niet leeg zijn",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "E-mail of wachtwoord is onjuist",
         "PHONE_PIN_INFO": "Je wachtwoord is {pin}",
-        "PHONE_PASSCODE_FORGOT": "Wachtwoord vergeten"
+        "PHONE_PASSCODE_FORGOT": "Wachtwoord vergeten",
+        "PHONE_PHONEBOX": "Telefooncel"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Je telefoon wordt al opgeladen",

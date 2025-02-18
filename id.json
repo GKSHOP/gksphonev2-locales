@@ -26,7 +26,8 @@
         "PHONE_PIN_EMAILPASSWORD_BLANK": "Email atau kata sandi tidak boleh kosong",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "Email atau kata sandi salah",
         "PHONE_PIN_INFO": "Kata sandi Anda adalah {pin}",
-        "PHONE_PASSCODE_FORGOT": "Lupa Kata Sandi"
+        "PHONE_PASSCODE_FORGOT": "Lupa Kata Sandi",
+        "PHONE_PHONEBOX": "Kotak telepon"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Telepon Anda sudah mengisi daya",

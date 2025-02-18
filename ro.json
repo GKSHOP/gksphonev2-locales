@@ -26,7 +26,8 @@
         "PHONE_PIN_EMAILPASSWORD_BLANK": "Emailul sau parola nu pot fi goale",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "Emailul sau parola sunt incorecte",
         "PHONE_PIN_INFO": "Parola ta este {pin}",
-        "PHONE_PASSCODE_FORGOT": "Parola uitată"
+        "PHONE_PASSCODE_FORGOT": "Parola uitată",
+        "PHONE_PHONEBOX": "Cabină telefonică"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Telefonul tău se încarcă deja",

@@ -26,7 +26,8 @@
         "PHONE_PIN_EMAILPASSWORD_BLANK": "El correo electrónico o la contraseña no pueden estar en blanco",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "El correo electrónico o la contraseña son incorrectos",
         "PHONE_PIN_INFO": "Tu contraseña es {pin}",
-        "PHONE_PASSCODE_FORGOT": "Olvidé la Contraseña"
+        "PHONE_PASSCODE_FORGOT": "Olvidé la Contraseña",
+        "PHONE_PHONEBOX": "Cabina telefónica"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Tu teléfono ya está cargando",

@@ -26,7 +26,8 @@
         "PHONE_PIN_EMAILPASSWORD_BLANK": "Електронна пошта або пароль не можуть бути порожніми",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "Електронна пошта або пароль неправильні",
         "PHONE_PIN_INFO": "Ваш пароль - {pin}",
-        "PHONE_PASSCODE_FORGOT": "Забули пароль"
+        "PHONE_PASSCODE_FORGOT": "Забули пароль",
+        "PHONE_PHONEBOX": "Телефонна будка"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Ваш телефон вже заряджається",

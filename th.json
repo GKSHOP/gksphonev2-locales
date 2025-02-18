@@ -26,7 +26,8 @@
         "PHONE_PIN_EMAILPASSWORD_BLANK": "อีเมลหรือรหัสผ่านไม่สามารถเว้นว่างได้",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "อีเมลหรือรหัสผ่านไม่ถูกต้อง",
         "PHONE_PIN_INFO": "รหัสผ่านของคุณคือ {pin}",
-        "PHONE_PASSCODE_FORGOT": "ลืมรหัสผ่าน"
+        "PHONE_PASSCODE_FORGOT": "ลืมรหัสผ่าน",
+        "PHONE_PHONEBOX": "ตู้โทรศัพท์"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "โทรศัพท์ของคุณกำลังชาร์จอยู่แล้ว",

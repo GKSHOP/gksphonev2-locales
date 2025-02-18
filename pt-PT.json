@@ -27,7 +27,8 @@
         "PHONE_PIN_EMAILPASSWORD_BLANK": "O email ou a palavra-passe não podem estar vazios",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "O email ou a palavra-passe estão incorretos",
         "PHONE_PIN_INFO": "A sua palavra-passe é {pin}",
-        "PHONE_PASSCODE_FORGOT": "Reset"
+        "PHONE_PASSCODE_FORGOT": "Reset",
+        "PHONE_PHONEBOX": "Cabine telefônica"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "O seu telemóvel já está a carregar",

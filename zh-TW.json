@@ -27,7 +27,8 @@
         "PHONE_PIN_EMAILPASSWORD_BLANK": "電子郵件或密碼不能為空",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "電子郵件或密碼不正確",
         "PHONE_PIN_INFO": "您的密碼是 {pin}",
-        "PHONE_PASSCODE_FORGOT": "忘記密碼"
+        "PHONE_PASSCODE_FORGOT": "忘記密碼",
+        "PHONE_PHONEBOX": "电话亭"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "您的手機已經在充電",

@@ -27,7 +27,8 @@
         "PHONE_PIN_EMAILPASSWORD_BLANK": "E-posta veya şifre boş olamaz",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "E-posta veya şifre yanlış",
         "PHONE_PIN_INFO": "Şifreniz {pin}",
-        "PHONE_PASSCODE_FORGOT": "Şifremi Unuttum"
+        "PHONE_PASSCODE_FORGOT": "Şifremi Unuttum",
+        "PHONE_PHONEBOX": "Telefon kulübesi"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Telefon zaten şarj oluyor",

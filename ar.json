@@ -26,7 +26,8 @@
         "PHONE_PIN_EMAILPASSWORD_BLANK": "لا يمكن أن يكون البريد الإلكتروني أو كلمة المرور فارغين",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "البريد الإلكتروني أو كلمة المرور غير صحيحة",
         "PHONE_PIN_INFO": "كلمة المرور الخاصة بك هي {pin}",
-        "PHONE_PASSCODE_FORGOT": "نسيت كلمة المرور"
+        "PHONE_PASSCODE_FORGOT": "نسيت كلمة المرور",
+        "PHONE_PHONEBOX": "كشك الهاتف"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "هاتفك قيد الشحن بالفعل",

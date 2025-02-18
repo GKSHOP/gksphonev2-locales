@@ -27,7 +27,8 @@
         "PHONE_PIN_EMAILPASSWORD_BLANK": "Email or password can't be blank",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "Email or password is incorrect",
         "PHONE_PIN_INFO": "Your password is {pin}",
-        "PHONE_PASSCODE_FORGOT": "Forgot Password"
+        "PHONE_PASSCODE_FORGOT": "Forgot Password",
+        "PHONE_PHONEBOX": "Phone booth"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Your phone is already charging",

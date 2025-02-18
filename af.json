@@ -27,7 +27,8 @@
         "PHONE_PIN_EMAILPASSWORD_BLANK": "E-pos of wagwoord kan nie leeg wees nie",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "E-pos of wagwoord is verkeerd",
         "PHONE_PIN_INFO": "Jou wagwoord is {pin}",
-        "PHONE_PASSCODE_FORGOT": "Wagwoord vergeet"
+        "PHONE_PASSCODE_FORGOT": "Wagwoord vergeet",
+        "PHONE_PHONEBOX": "Telefoonhokkie"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Jou foon laai reeds",
