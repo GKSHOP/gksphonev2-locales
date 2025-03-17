@@ -314,7 +314,6 @@
         "APP_MESSAGE_TIME_MINAGO": "{minutes} minuten geleden",
         "APP_MESSAGE_TIME_SECAGO": "{seconds} seconden geleden",
         "APP_MESSAGE_TIME_JUSTNOW": "zojuist",
-        "APP_MESSAGE_NOTIFY_MESSAGE": "Bericht van {name} :",
         "APP_MESSAGE_NOTIFY_GROUPMESSAGE": "{groupname} groep heeft een bericht ontvangen",
         "APP_MESSAGE_LOCATION": "Een GPS-locatie werd gedeeld",
         "APP_MESSAGE_IMAGE": "Een afbeelding werd gedeeld",
@@ -338,7 +337,13 @@
         "APP_MESSAGE_GROUP_AVATAR_DESC_LINK": "Voer een afbeeldings-URL in voor de groepsafbeelding",
         "APP_MESSAGE_GROUP_MEMBER_DELETE": "Lid verwijderen",
         "APP_MESSAGE_GROUP_MEMBER_YOU": "Jij",
-        "APP_MESSAGE_GROUP_MEMBER_CALL": "Bellen"
+        "APP_MESSAGE_GROUP_MEMBER_CALL": "Bellen",
+        "APP_MESSAGE_NOTIFY_AUDIO": "Een spraakbericht verzonden",
+        "APP_MESSAGE_NOTIFY_CONTACT": "Een contactkaart verzonden",
+        "APP_MESSAGE_NOTIFY_IMAGE": "Een afbeelding verzonden",
+        "APP_MESSAGE_NOTIFY_LOCATION": "Een locatie verzonden",
+        "APP_MESSAGE_NOTIFY_LIVELOCATION": "Een live locatie verzonden",
+        "APP_MESSAGE_NOTIFY_VIDEO": "Een video verzonden"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Hallo",
@@ -1134,7 +1139,34 @@
         "APP_LIVE_MODAL_DONATE_TITLE": "Doneren",
         "APP_LIVE_MODAL_DONATE_DESC": "Typ het bedrag dat je wilt doneren",
         "APP_LIVE_MODAL_DONATE_BUTTON": "Doneren",
-        "APP_LIVE_NOTIFY_NOTMONEY": "Je hebt niet genoeg geld"
+        "APP_LIVE_NOTIFY_NOTMONEY": "Je hebt niet genoeg geld",
+        "APP_LIVE_WALLET": {
+            "Wallet": "Portemonnee",
+            "Cheer": "Cheer",
+            "Coin": "Munt",
+            "GIF": "GIF",
+            "Tax": "Belasting: {tax}%",
+            "YOU_BALANCECOIN": "Jouw Muntensaldo: {balance}",
+            "YOU_BALANCECHEER": "Jouw Cheersaldo: {balance}",
+            "DONATION_AMOUNT": "Donatiebedrag",
+            "TRANSFERAMOUNTTEXT": "Over te maken bedrag:",
+            "AMOUNT": "Bedrag:",
+            "TOTAL_TEXT": "Totaal =",
+            "MINIMUMTRANSFER": "Minimale overboeking:",
+            "BUY": "Kopen",
+            "TRANSFER_COIN": "Munten overmaken",
+            "SELL": "Verkopen",
+            "DONATE": "Doneren",
+            "SEND_GIF": "GIF verzenden",
+            "WALLET_ERROR": "Er is een fout opgetreden bij de portemonnee-transactie",
+            "WALLET_SUCCESS": "Transactie succesvol",
+            "WALLET_NOTENOUGHMONEY": "Onvoldoende saldo",
+            "WALLET_NOTENOUGHCOIN": "Niet genoeg munten",
+            "WALLET_NOTENOUGHCHEER": "Niet genoeg Cheers",
+            "WALLET_MINIMUMTRANSFER_ERROR": "Het minimale overboekingsbedrag is {amount}",
+            "CHEER_BANK_BUYDESC": "Cheer gekocht.",
+            "COIN_BANK_BUYDESC": "LiveStream-inkomsten"
+        }
     },
     "SIMAPP": {
         "APP_SIM_TOTALPRICE": "Saldo",

@@ -314,7 +314,6 @@
         "APP_MESSAGE_TIME_MINAGO": "před {minutes} minutami",
         "APP_MESSAGE_TIME_SECAGO": "před {seconds} sekundami",
         "APP_MESSAGE_TIME_JUSTNOW": "nyní",
-        "APP_MESSAGE_NOTIFY_MESSAGE": "Zpráva od {name} :",
         "APP_MESSAGE_NOTIFY_GROUPMESSAGE": "Skupina {groupname} obdržela zprávu",
         "APP_MESSAGE_LOCATION": "Byla sdílena GPS poloha",
         "APP_MESSAGE_IMAGE": "Byl sdílen obrázek",
@@ -338,7 +337,13 @@
         "APP_MESSAGE_GROUP_AVATAR_DESC_LINK": "Zadejte URL obrázku pro skupinový obrázek",
         "APP_MESSAGE_GROUP_MEMBER_DELETE": "Odstranit člena",
         "APP_MESSAGE_GROUP_MEMBER_YOU": "Ty",
-        "APP_MESSAGE_GROUP_MEMBER_CALL": "Zavolat"
+        "APP_MESSAGE_GROUP_MEMBER_CALL": "Zavolat",
+        "APP_MESSAGE_NOTIFY_AUDIO": "Odeslal hlasovou zprávu",
+        "APP_MESSAGE_NOTIFY_CONTACT": "Odeslal kontaktní kartu",
+        "APP_MESSAGE_NOTIFY_IMAGE": "Odeslal obrázek",
+        "APP_MESSAGE_NOTIFY_LOCATION": "Odeslal polohu",
+        "APP_MESSAGE_NOTIFY_LIVELOCATION": "Odeslal živou polohu",
+        "APP_MESSAGE_NOTIFY_VIDEO": "Odeslal video"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Ahoj",
@@ -1134,7 +1139,34 @@
         "APP_LIVE_MODAL_DONATE_TITLE": "Darovat",
         "APP_LIVE_MODAL_DONATE_DESC": "Zadejte částku, kterou chcete darovat",
         "APP_LIVE_MODAL_DONATE_BUTTON": "Darovat",
-        "APP_LIVE_NOTIFY_NOTMONEY": "Nemáte dostatek peněz"
+        "APP_LIVE_NOTIFY_NOTMONEY": "Nemáte dostatek peněz",
+        "APP_LIVE_WALLET": {
+            "Wallet": "Peněženka",
+            "Cheer": "Cheer",
+            "Coin": "Mince",
+            "GIF": "GIF",
+            "Tax": "Daň: {tax}%",
+            "YOU_BALANCECOIN": "Tvůj zůstatek mincí: {balance}",
+            "YOU_BALANCECHEER": "Tvůj zůstatek Cheers: {balance}",
+            "DONATION_AMOUNT": "Částka daru",
+            "TRANSFERAMOUNTTEXT": "Částka převodu:",
+            "AMOUNT": "Částka:",
+            "TOTAL_TEXT": "Celkem =",
+            "MINIMUMTRANSFER": "Minimální převod:",
+            "BUY": "Koupit",
+            "TRANSFER_COIN": "Převod mincí",
+            "SELL": "Prodat",
+            "DONATE": "Darovat",
+            "SEND_GIF": "Odeslat GIF",
+            "WALLET_ERROR": "Při transakci došlo k chybě",
+            "WALLET_SUCCESS": "Transakce úspěšná",
+            "WALLET_NOTENOUGHMONEY": "Nedostatek peněz",
+            "WALLET_NOTENOUGHCOIN": "Nedostatek mincí",
+            "WALLET_NOTENOUGHCHEER": "Nedostatek Cheers",
+            "WALLET_MINIMUMTRANSFER_ERROR": "Minimální částka převodu je {amount}",
+            "CHEER_BANK_BUYDESC": "Zakoupeno Cheer.",
+            "COIN_BANK_BUYDESC": "Příjem z LiveStreamu"
+        }
     },
     "SIMAPP": {
         "APP_SIM_TOTALPRICE": "Zůstatek",

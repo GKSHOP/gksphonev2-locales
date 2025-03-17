@@ -313,7 +313,6 @@
         "APP_MESSAGE_TIME_MINAGO": "{minutes} хвилин тому",
         "APP_MESSAGE_TIME_SECAGO": "{seconds} секунд тому",
         "APP_MESSAGE_TIME_JUSTNOW": "зараз",
-        "APP_MESSAGE_NOTIFY_MESSAGE": "Повідомлення від {name} :",
         "APP_MESSAGE_NOTIFY_GROUPMESSAGE": "Група {groupname} отримала повідомлення",
         "APP_MESSAGE_LOCATION": "GPS було поділено",
         "APP_MESSAGE_IMAGE": "Зображення було поділено",
@@ -337,7 +336,13 @@
         "APP_MESSAGE_GROUP_AVATAR_DESC_LINK": "Введіть URL-адресу зображення для групового фото",
         "APP_MESSAGE_GROUP_MEMBER_DELETE": "Видалити учасника",
         "APP_MESSAGE_GROUP_MEMBER_YOU": "Ви",
-        "APP_MESSAGE_GROUP_MEMBER_CALL": "Зателефонувати"
+        "APP_MESSAGE_GROUP_MEMBER_CALL": "Зателефонувати",
+        "APP_MESSAGE_NOTIFY_AUDIO": "Надіслано аудіоповідомлення",
+        "APP_MESSAGE_NOTIFY_CONTACT": "Надіслано контактну картку",
+        "APP_MESSAGE_NOTIFY_IMAGE": "Надіслано зображення",
+        "APP_MESSAGE_NOTIFY_LOCATION": "Надіслано місцезнаходження",
+        "APP_MESSAGE_NOTIFY_LIVELOCATION": "Надіслано живе місцезнаходження",
+        "APP_MESSAGE_NOTIFY_VIDEO": "Надіслано відео"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Привіт",
@@ -1133,7 +1138,34 @@
         "APP_LIVE_MODAL_DONATE_TITLE": "Пожертвувати",
         "APP_LIVE_MODAL_DONATE_DESC": "Введіть суму, яку ви хочете пожертвувати",
         "APP_LIVE_MODAL_DONATE_BUTTON": "Пожертвувати",
-        "APP_LIVE_NOTIFY_NOTMONEY": "У вас недостатньо грошей"
+        "APP_LIVE_NOTIFY_NOTMONEY": "У вас недостатньо грошей",
+        "APP_LIVE_WALLET": {
+            "Wallet": "Гаманець",
+            "Cheer": "Cheer",
+            "Coin": "Монета",
+            "GIF": "GIF",
+            "Tax": "Податок: {tax}%",
+            "YOU_BALANCECOIN": "Ваші монети: {balance}",
+            "YOU_BALANCECHEER": "Ваші Cheers: {balance}",
+            "DONATION_AMOUNT": "Сума пожертви",
+            "TRANSFERAMOUNTTEXT": "Сума переказу:",
+            "AMOUNT": "Сума:",
+            "TOTAL_TEXT": "Разом =",
+            "MINIMUMTRANSFER": "Мінімальний переказ:",
+            "BUY": "Купити",
+            "TRANSFER_COIN": "Переказати монети",
+            "SELL": "Продати",
+            "DONATE": "Пожертвувати",
+            "SEND_GIF": "Надіслати GIF",
+            "WALLET_ERROR": "Помилка під час транзакції гаманця",
+            "WALLET_SUCCESS": "Транзакція успішна",
+            "WALLET_NOTENOUGHMONEY": "Недостатньо коштів",
+            "WALLET_NOTENOUGHCOIN": "Недостатньо монет",
+            "WALLET_NOTENOUGHCHEER": "Недостатньо Cheers",
+            "WALLET_MINIMUMTRANSFER_ERROR": "Мінімальна сума переказу: {amount}",
+            "CHEER_BANK_BUYDESC": "Cheer придбано.",
+            "COIN_BANK_BUYDESC": "Прибуток від LiveStream"
+        }
     },
     "SIMAPP": {
         "APP_SIM_TOTALPRICE": "Баланс",

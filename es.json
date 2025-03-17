@@ -313,7 +313,6 @@
         "APP_MESSAGE_TIME_MINAGO": "hace {minutes} minutos",
         "APP_MESSAGE_TIME_SECAGO": "hace {seconds} segundos",
         "APP_MESSAGE_TIME_JUSTNOW": "ahora",
-        "APP_MESSAGE_NOTIFY_MESSAGE": "Mensaje de {name} :",
         "APP_MESSAGE_NOTIFY_GROUPMESSAGE": "El grupo {groupname} recibió un mensaje",
         "APP_MESSAGE_LOCATION": "Se compartió una ubicación GPS",
         "APP_MESSAGE_IMAGE": "Se compartió una imagen",
@@ -337,7 +336,13 @@
         "APP_MESSAGE_GROUP_AVATAR_DESC_LINK": "Ingrese una URL de imagen para la foto del grupo",
         "APP_MESSAGE_GROUP_MEMBER_DELETE": "Eliminar miembro",
         "APP_MESSAGE_GROUP_MEMBER_YOU": "Tú",
-        "APP_MESSAGE_GROUP_MEMBER_CALL": "Llamar"
+        "APP_MESSAGE_GROUP_MEMBER_CALL": "Llamar",
+        "APP_MESSAGE_NOTIFY_AUDIO": "Ha enviado un mensaje de audio",
+        "APP_MESSAGE_NOTIFY_CONTACT": "Ha enviado una tarjeta de contacto",
+        "APP_MESSAGE_NOTIFY_IMAGE": "Ha enviado una imagen",
+        "APP_MESSAGE_NOTIFY_LOCATION": "Ha enviado una ubicación",
+        "APP_MESSAGE_NOTIFY_LIVELOCATION": "Ha enviado una ubicación en vivo",
+        "APP_MESSAGE_NOTIFY_VIDEO": "Ha enviado un video"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Hola",
@@ -1133,7 +1138,34 @@
         "APP_LIVE_MODAL_DONATE_TITLE": "Donar",
         "APP_LIVE_MODAL_DONATE_DESC": "Escribe la cantidad que deseas donar",
         "APP_LIVE_MODAL_DONATE_BUTTON": "Donar",
-        "APP_LIVE_NOTIFY_NOTMONEY": "No tienes suficiente dinero"
+        "APP_LIVE_NOTIFY_NOTMONEY": "No tienes suficiente dinero",
+        "APP_LIVE_WALLET": {
+            "Wallet": "Cartera",
+            "Cheer": "Cheer",
+            "Coin": "Moneda",
+            "GIF": "GIF",
+            "Tax": "Impuesto: {tax}%",
+            "YOU_BALANCECOIN": "Tus monedas: {balance}",
+            "YOU_BALANCECHEER": "Tus Cheers: {balance}",
+            "DONATION_AMOUNT": "Cantidad de donación",
+            "TRANSFERAMOUNTTEXT": "Cantidad a transferir:",
+            "AMOUNT": "Cantidad:",
+            "TOTAL_TEXT": "Total =",
+            "MINIMUMTRANSFER": "Transferencia mínima:",
+            "BUY": "Comprar",
+            "TRANSFER_COIN": "Transferir monedas",
+            "SELL": "Vender",
+            "DONATE": "Donar",
+            "SEND_GIF": "Enviar GIF",
+            "WALLET_ERROR": "Error en la transacción",
+            "WALLET_SUCCESS": "Transacción exitosa",
+            "WALLET_NOTENOUGHMONEY": "Fondos insuficientes",
+            "WALLET_NOTENOUGHCOIN": "Monedas insuficientes",
+            "WALLET_NOTENOUGHCHEER": "Cheers insuficientes",
+            "WALLET_MINIMUMTRANSFER_ERROR": "La cantidad mínima de transferencia es {amount}",
+            "CHEER_BANK_BUYDESC": "Cheer comprado.",
+            "COIN_BANK_BUYDESC": "Ganancia de transmisión en vivo"
+        }
     },
     "SIMAPP": {
         "APP_SIM_TOTALPRICE": "Saldo",

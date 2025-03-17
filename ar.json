@@ -314,7 +314,6 @@
         "APP_MESSAGE_TIME_MINAGO": "منذ {minutes} دقائق",
         "APP_MESSAGE_TIME_SECAGO": "منذ {seconds} ثواني",
         "APP_MESSAGE_TIME_JUSTNOW": "الآن",
-        "APP_MESSAGE_NOTIFY_MESSAGE": "رسالة من {name} :",
         "APP_MESSAGE_NOTIFY_GROUPMESSAGE": "مجموعة {groupname} تلقت رسالة",
         "APP_MESSAGE_LOCATION": "تم مشاركة موقع GPS",
         "APP_MESSAGE_IMAGE": "تم مشاركة صورة",
@@ -338,7 +337,13 @@
         "APP_MESSAGE_GROUP_AVATAR_DESC_LINK": "أدخل عنوان URL لصورة المجموعة",
         "APP_MESSAGE_GROUP_MEMBER_DELETE": "إزالة العضو",
         "APP_MESSAGE_GROUP_MEMBER_YOU": "أنت",
-        "APP_MESSAGE_GROUP_MEMBER_CALL": "اتصال"
+        "APP_MESSAGE_GROUP_MEMBER_CALL": "اتصال",
+        "APP_MESSAGE_NOTIFY_AUDIO": "أرسل رسالة صوتية",
+        "APP_MESSAGE_NOTIFY_CONTACT": "أرسل بطاقة جهة اتصال",
+        "APP_MESSAGE_NOTIFY_IMAGE": "أرسل صورة",
+        "APP_MESSAGE_NOTIFY_LOCATION": "أرسل موقعًا",
+        "APP_MESSAGE_NOTIFY_LIVELOCATION": "أرسل موقعًا مباشرًا",
+        "APP_MESSAGE_NOTIFY_VIDEO": "أرسل فيديو"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "مرحبا",
@@ -1134,7 +1139,34 @@
         "APP_LIVE_MODAL_DONATE_TITLE": "تبرع",
         "APP_LIVE_MODAL_DONATE_DESC": "اكتب المبلغ الذي تريد التبرع به",
         "APP_LIVE_MODAL_DONATE_BUTTON": "تبرع",
-        "APP_LIVE_NOTIFY_NOTMONEY": "ليس لديك ما يكفي من المال"
+        "APP_LIVE_NOTIFY_NOTMONEY": "ليس لديك ما يكفي من المال",
+        "APP_LIVE_WALLET": {
+            "Wallet": "المحفظة",
+            "Cheer": "Cheer",
+            "Coin": "عملة",
+            "GIF": "GIF",
+            "Tax": "الضريبة: {tax}%",
+            "YOU_BALANCECOIN": "رصيد عملاتك: {balance}",
+            "YOU_BALANCECHEER": "رصيد Cheers الخاص بك: {balance}",
+            "DONATION_AMOUNT": "مبلغ التبرع",
+            "TRANSFERAMOUNTTEXT": "مبلغ التحويل:",
+            "AMOUNT": "المبلغ:",
+            "TOTAL_TEXT": "الإجمالي =",
+            "MINIMUMTRANSFER": "الحد الأدنى للتحويل:",
+            "BUY": "شراء",
+            "TRANSFER_COIN": "تحويل العملات",
+            "SELL": "بيع",
+            "DONATE": "تبرع",
+            "SEND_GIF": "إرسال GIF",
+            "WALLET_ERROR": "حدث خطأ أثناء عملية المحفظة",
+            "WALLET_SUCCESS": "تمت العملية بنجاح",
+            "WALLET_NOTENOUGHMONEY": "لا يوجد رصيد كافٍ",
+            "WALLET_NOTENOUGHCOIN": "لا يوجد عدد كافٍ من العملات",
+            "WALLET_NOTENOUGHCHEER": "لا يوجد عدد كافٍ من Cheers",
+            "WALLET_MINIMUMTRANSFER_ERROR": "يجب أن يكون الحد الأدنى للتحويل {amount}",
+            "CHEER_BANK_BUYDESC": "تم شراء Cheer.",
+            "COIN_BANK_BUYDESC": "أرباح البث المباشر"
+        }
     },
     "SIMAPP": {
         "APP_SIM_TOTALPRICE": "الرصيد",

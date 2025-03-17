@@ -313,7 +313,6 @@
         "APP_MESSAGE_TIME_MINAGO": "{minutes} นาทีที่แล้ว",
         "APP_MESSAGE_TIME_SECAGO": "{seconds} วินาทีที่แล้ว",
         "APP_MESSAGE_TIME_JUSTNOW": "ตอนนี้",
-        "APP_MESSAGE_NOTIFY_MESSAGE": "ข้อความจาก {name} :",
         "APP_MESSAGE_NOTIFY_GROUPMESSAGE": "กลุ่ม {groupname} ได้รับข้อความ",
         "APP_MESSAGE_LOCATION": "มีการแชร์ GPS",
         "APP_MESSAGE_IMAGE": "มีการแชร์ภาพ",
@@ -337,7 +336,13 @@
         "APP_MESSAGE_GROUP_AVATAR_DESC_LINK": "กรอก URL รูปภาพสำหรับภาพกลุ่ม",
         "APP_MESSAGE_GROUP_MEMBER_DELETE": "ลบสมาชิก",
         "APP_MESSAGE_GROUP_MEMBER_YOU": "คุณ",
-        "APP_MESSAGE_GROUP_MEMBER_CALL": "โทร"
+        "APP_MESSAGE_GROUP_MEMBER_CALL": "โทร",
+        "APP_MESSAGE_NOTIFY_AUDIO": "ส่งข้อความเสียง",
+        "APP_MESSAGE_NOTIFY_CONTACT": "ส่งบัตรติดต่อ",
+        "APP_MESSAGE_NOTIFY_IMAGE": "ส่งรูปภาพ",
+        "APP_MESSAGE_NOTIFY_LOCATION": "ส่งตำแหน่งที่ตั้ง",
+        "APP_MESSAGE_NOTIFY_LIVELOCATION": "ส่งตำแหน่งที่ตั้งแบบสด",
+        "APP_MESSAGE_NOTIFY_VIDEO": "ส่งวิดีโอ"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "สวัสดี",
@@ -1133,7 +1138,34 @@
         "APP_LIVE_MODAL_DONATE_TITLE": "บริจาค",
         "APP_LIVE_MODAL_DONATE_DESC": "พิมพ์จำนวนเงินที่คุณต้องการบริจาค",
         "APP_LIVE_MODAL_DONATE_BUTTON": "บริจาค",
-        "APP_LIVE_NOTIFY_NOTMONEY": "คุณไม่มีเงินเพียงพอ"
+        "APP_LIVE_NOTIFY_NOTMONEY": "คุณไม่มีเงินเพียงพอ",
+        "APP_LIVE_WALLET": {
+            "Wallet": "กระเป๋าเงิน",
+            "Cheer": "เชียร์",
+            "Coin": "เหรียญ",
+            "GIF": "GIF",
+            "Tax": "ภาษี: {tax}%",
+            "YOU_BALANCECOIN": "เหรียญที่คุณมี: {balance}",
+            "YOU_BALANCECHEER": "เชียร์ที่คุณมี: {balance}",
+            "DONATION_AMOUNT": "จำนวนเงินบริจาค",
+            "TRANSFERAMOUNTTEXT": "จำนวนเงินที่โอน:",
+            "AMOUNT": "จำนวนเงิน:",
+            "TOTAL_TEXT": "รวม =",
+            "MINIMUMTRANSFER": "ยอดโอนขั้นต่ำ:",
+            "BUY": "ซื้อ",
+            "TRANSFER_COIN": "โอนเหรียญ",
+            "SELL": "ขาย",
+            "DONATE": "บริจาค",
+            "SEND_GIF": "ส่ง GIF",
+            "WALLET_ERROR": "เกิดข้อผิดพลาดในการทำธุรกรรมกระเป๋าเงิน",
+            "WALLET_SUCCESS": "ทำรายการสำเร็จ",
+            "WALLET_NOTENOUGHMONEY": "เงินไม่เพียงพอ",
+            "WALLET_NOTENOUGHCOIN": "เหรียญไม่เพียงพอ",
+            "WALLET_NOTENOUGHCHEER": "เชียร์ไม่เพียงพอ",
+            "WALLET_MINIMUMTRANSFER_ERROR": "จำนวนเงินโอนขั้นต่ำคือ {amount}",
+            "CHEER_BANK_BUYDESC": "ซื้อ Cheer แล้ว",
+            "COIN_BANK_BUYDESC": "รายได้จาก LiveStream"
+        }
     },
     "SIMAPP": {
         "APP_SIM_TOTALPRICE": "ยอดคงเหลือ",

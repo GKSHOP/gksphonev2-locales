@@ -315,7 +315,6 @@
         "APP_MESSAGE_TIME_MINAGO": "{minutes} dakika önce",
         "APP_MESSAGE_TIME_SECAGO": "{seconds} saniye önce",
         "APP_MESSAGE_TIME_JUSTNOW": "şimdi",
-        "APP_MESSAGE_NOTIFY_MESSAGE": "{name} bir yeni mesaj gönderdi",
         "APP_MESSAGE_NOTIFY_GROUPMESSAGE": "{groupname} grubundan bir yeni mesaj geldi",
         "APP_MESSAGE_LOCATION": "Konum paylaşıldı",
         "APP_MESSAGE_IMAGE": "Resim paylaşıldı",
@@ -339,7 +338,13 @@
         "APP_MESSAGE_GROUP_AVATAR_DESC_LINK": "Grup resmi için bir resim URL'si girin",
         "APP_MESSAGE_GROUP_MEMBER_DELETE": "Üyeyi Sil",
         "APP_MESSAGE_GROUP_MEMBER_YOU": "Sen",
-        "APP_MESSAGE_GROUP_MEMBER_CALL": "Ara"
+        "APP_MESSAGE_GROUP_MEMBER_CALL": "Ara",
+        "APP_MESSAGE_NOTIFY_AUDIO": "Ses kaydı gönderdi",
+        "APP_MESSAGE_NOTIFY_CONTACT": "Kişi kartı gönderdi",
+        "APP_MESSAGE_NOTIFY_IMAGE": "Resim gönderdi",
+        "APP_MESSAGE_NOTIFY_LOCATION": "Konum gönderdi",
+        "APP_MESSAGE_NOTIFY_LIVELOCATION": "Canlı Konum gönderdi",
+        "APP_MESSAGE_NOTIFY_VIDEO": "Video gönderdi"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Merhaba",
@@ -1134,7 +1139,34 @@
         "APP_LIVE_MODAL_DONATE_TITLE": "Bağış",
         "APP_LIVE_MODAL_DONATE_DESC": "Bağış yapmak istediğiniz tutarı yazın",
         "APP_LIVE_MODAL_DONATE_BUTTON": "Bağış",
-        "APP_LIVE_NOTIFY_NOTMONEY": "Yeterli Paran Yok"
+        "APP_LIVE_NOTIFY_NOTMONEY": "Yeterli Paran Yok",
+        "APP_LIVE_WALLET": {
+            "Wallet": "Cüzdan",
+            "Cheer": "Cheer",
+            "Coin": "Coin",
+            "GIF": "GIF",
+            "Tax": "Vergi: {tax}%", 
+            "YOU_BALANCECOIN": "Sahip Olduğunuz Coin: {balance}",
+            "YOU_BALANCECHEER": "Sahip Olduğunuz Cheer: {balance}",
+            "DONATION_AMOUNT": "Bağış Miktarı",
+            "TRANSFERAMOUNTTEXT": "Transfer Miktarı:",
+            "AMOUNT": "Miktar :",
+            "TOTAL_TEXT": "Toplam =",
+            "MINIMUMTRANSFER": "Minimum Transfer:",
+            "BUY": "Satın Al",
+            "TRANSFER_COIN": "Transfer Coin",
+            "SELL" : "Sat",
+            "DONATE" : "Bağış Yap",
+            "SEND_GIF" : "GIF Gönder",
+            "WALLET_ERROR": "Cüzdan işlemi sırasında bir hata oluştu",
+            "WALLET_SUCCESS": "İşlem başarılı",
+            "WALLET_NOTENOUGHMONEY": "Yeterli paranız yok",
+            "WALLET_NOTENOUGHCOIN": "Yeterli coininiz yok",
+            "WALLET_NOTENOUGHCHEER": "Yeterli cheeriniz yok",
+            "WALLET_MINIMUMTRANSFER_ERROR": "Minimum transfer miktarı {amount} olmalıdır",
+            "CHEER_BANK_BUYDESC": "Cheer satın alındı.",
+            "COIN_BANK_BUYDESC": "LiveStream kazancı"
+        }
     },
     "SIMAPP": {
         "APP_SIM_TOTALPRICE": "Bakiye",

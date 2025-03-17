@@ -314,7 +314,6 @@
         "APP_MESSAGE_TIME_MINAGO": "{minutes} minute terug",
         "APP_MESSAGE_TIME_SECAGO": "{seconds} sekondes gelede",
         "APP_MESSAGE_TIME_JUSTNOW": "nou",
-        "APP_MESSAGE_NOTIFY_MESSAGE": "Boodskap van {name} :",
         "APP_MESSAGE_NOTIFY_GROUPMESSAGE": "{groupname} groep het 'n boodskap ontvang",
         "APP_MESSAGE_LOCATION": "N GPS is gedeel",
         "APP_MESSAGE_IMAGE": "N Prent is gedeel",
@@ -338,7 +337,13 @@
         "APP_MESSAGE_GROUP_AVATAR_DESC_LINK": "Voer 'n beeld-URL in vir die groepprofielprent",
         "APP_MESSAGE_GROUP_MEMBER_DELETE": "Verwyder Lid",
         "APP_MESSAGE_GROUP_MEMBER_YOU": "Jy",
-        "APP_MESSAGE_GROUP_MEMBER_CALL": "Bel"
+        "APP_MESSAGE_GROUP_MEMBER_CALL": "Bel",
+        "APP_MESSAGE_NOTIFY_AUDIO": "Stuur 'n stemboodskap",
+        "APP_MESSAGE_NOTIFY_CONTACT": "Stuur 'n kontakkaart",
+        "APP_MESSAGE_NOTIFY_IMAGE": "Stuur 'n prent",
+        "APP_MESSAGE_NOTIFY_LOCATION": "Stuur 'n ligging",
+        "APP_MESSAGE_NOTIFY_LIVELOCATION": "Stuur 'n regstreekse ligging",
+        "APP_MESSAGE_NOTIFY_VIDEO": "Stuur 'n video"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Hello",
@@ -1134,7 +1139,34 @@
         "APP_LIVE_MODAL_DONATE_TITLE": "Skenk",
         "APP_LIVE_MODAL_DONATE_DESC": "Tik die bedrag wat jy wil skenk",
         "APP_LIVE_MODAL_DONATE_BUTTON": "Skenk",
-        "APP_LIVE_NOTIFY_NOTMONEY": "Jy het nie genoeg geld nie"
+        "APP_LIVE_NOTIFY_NOTMONEY": "Jy het nie genoeg geld nie",
+        "APP_LIVE_WALLET": {
+            "Wallet": "Beursie",
+            "Cheer": "Cheer",
+            "Coin": "Munt",
+            "GIF": "GIF",
+            "Tax": "Belasting: {tax}%",
+            "YOU_BALANCECOIN": "Jou Muntebalans: {balance}",
+            "YOU_BALANCECHEER": "Jou Cheerbalans: {balance}",
+            "DONATION_AMOUNT": "Skenkingsbedrag",
+            "TRANSFERAMOUNTTEXT": "Oordragbedrag:",
+            "AMOUNT": "Bedrag:",
+            "TOTAL_TEXT": "Totaal =",
+            "MINIMUMTRANSFER": "Minimum Oordrag:",
+            "BUY": "Koop",
+            "TRANSFER_COIN": "Munte oordra",
+            "SELL": "Verkoop",
+            "DONATE": "Skenk",
+            "SEND_GIF": "Stuur GIF",
+            "WALLET_ERROR": "'n Fout het voorgekom tydens beursietransaksie",
+            "WALLET_SUCCESS": "Transaksie suksesvol",
+            "WALLET_NOTENOUGHMONEY": "Nie genoeg geld nie",
+            "WALLET_NOTENOUGHCOIN": "Nie genoeg munte nie",
+            "WALLET_NOTENOUGHCHEER": "Nie genoeg Cheers nie",
+            "WALLET_MINIMUMTRANSFER_ERROR": "Die minimum oordragbedrag is {amount}",
+            "CHEER_BANK_BUYDESC": "Cheer gekoop.",
+            "COIN_BANK_BUYDESC": "LiveStream verdienste"
+        }
     },
     "SIMAPP": {
         "APP_SIM_TOTALPRICE": "Balans",

@@ -313,7 +313,6 @@
         "APP_MESSAGE_TIME_MINAGO": "{minutes} minuter sedan",
         "APP_MESSAGE_TIME_SECAGO": "{seconds} sekunder sedan",
         "APP_MESSAGE_TIME_JUSTNOW": "nu",
-        "APP_MESSAGE_NOTIFY_MESSAGE": "Meddelande från {name} :",
         "APP_MESSAGE_NOTIFY_GROUPMESSAGE": "{groupname} gruppen fick ett meddelande",
         "APP_MESSAGE_LOCATION": "En GPS delades",
         "APP_MESSAGE_IMAGE": "En bild delades",
@@ -337,7 +336,13 @@
         "APP_MESSAGE_GROUP_AVATAR_DESC_LINK": "Ange en bild-URL för gruppbilden",
         "APP_MESSAGE_GROUP_MEMBER_DELETE": "Ta bort medlem",
         "APP_MESSAGE_GROUP_MEMBER_YOU": "Du",
-        "APP_MESSAGE_GROUP_MEMBER_CALL": "Ring"
+        "APP_MESSAGE_GROUP_MEMBER_CALL": "Ring",
+        "APP_MESSAGE_NOTIFY_AUDIO": "Skickade ett röstmeddelande",
+        "APP_MESSAGE_NOTIFY_CONTACT": "Skickade ett kontaktkort",
+        "APP_MESSAGE_NOTIFY_IMAGE": "Skickade en bild",
+        "APP_MESSAGE_NOTIFY_LOCATION": "Skickade en plats",
+        "APP_MESSAGE_NOTIFY_LIVELOCATION": "Skickade en liveplats",
+        "APP_MESSAGE_NOTIFY_VIDEO": "Skickade en video"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Hej",
@@ -1133,7 +1138,34 @@
         "APP_LIVE_MODAL_DONATE_TITLE": "Donera",
         "APP_LIVE_MODAL_DONATE_DESC": "Skriv beloppet du vill donera",
         "APP_LIVE_MODAL_DONATE_BUTTON": "Donera",
-        "APP_LIVE_NOTIFY_NOTMONEY": "Du har inte tillräckligt med pengar"
+        "APP_LIVE_NOTIFY_NOTMONEY": "Du har inte tillräckligt med pengar",
+        "APP_LIVE_WALLET": {
+            "Wallet": "Plånbok",
+            "Cheer": "Cheer",
+            "Coin": "Mynt",
+            "GIF": "GIF",
+            "Tax": "Skatt: {tax}%",
+            "YOU_BALANCECOIN": "Dina mynt: {balance}",
+            "YOU_BALANCECHEER": "Dina Cheers: {balance}",
+            "DONATION_AMOUNT": "Donationsbelopp",
+            "TRANSFERAMOUNTTEXT": "Överföringsbelopp:",
+            "AMOUNT": "Belopp:",
+            "TOTAL_TEXT": "Totalt =",
+            "MINIMUMTRANSFER": "Minsta överföring:",
+            "BUY": "Köp",
+            "TRANSFER_COIN": "Överför mynt",
+            "SELL": "Sälj",
+            "DONATE": "Donera",
+            "SEND_GIF": "Skicka GIF",
+            "WALLET_ERROR": "Ett fel uppstod vid plånbokstransaktionen",
+            "WALLET_SUCCESS": "Transaktionen lyckades",
+            "WALLET_NOTENOUGHMONEY": "Otillräckliga medel",
+            "WALLET_NOTENOUGHCOIN": "Otillräckligt med mynt",
+            "WALLET_NOTENOUGHCHEER": "Otillräckligt med Cheers",
+            "WALLET_MINIMUMTRANSFER_ERROR": "Minsta överföringsbelopp är {amount}",
+            "CHEER_BANK_BUYDESC": "Cheer köpt.",
+            "COIN_BANK_BUYDESC": "LiveStream-intäkt"
+        }
     },
     "SIMAPP": {
         "APP_SIM_TOTALPRICE": "Saldo",

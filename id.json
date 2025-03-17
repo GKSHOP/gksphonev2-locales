@@ -313,7 +313,6 @@
         "APP_MESSAGE_TIME_MINAGO": "{minutes} menit yang lalu",
         "APP_MESSAGE_TIME_SECAGO": "{seconds} detik yang lalu",
         "APP_MESSAGE_TIME_JUSTNOW": "sekarang",
-        "APP_MESSAGE_NOTIFY_MESSAGE": "Pesan dari {name} :",
         "APP_MESSAGE_NOTIFY_GROUPMESSAGE": "Grup {groupname} menerima pesan",
         "APP_MESSAGE_LOCATION": "GPS telah dibagikan",
         "APP_MESSAGE_IMAGE": "Sebuah gambar telah dibagikan",
@@ -337,7 +336,13 @@
         "APP_MESSAGE_GROUP_AVATAR_DESC_LINK": "Masukkan URL gambar untuk foto grup",
         "APP_MESSAGE_GROUP_MEMBER_DELETE": "Hapus Anggota",
         "APP_MESSAGE_GROUP_MEMBER_YOU": "Anda",
-        "APP_MESSAGE_GROUP_MEMBER_CALL": "Panggil"
+        "APP_MESSAGE_GROUP_MEMBER_CALL": "Panggil",
+        "APP_MESSAGE_NOTIFY_AUDIO": "Mengirim pesan suara",
+        "APP_MESSAGE_NOTIFY_CONTACT": "Mengirim kartu kontak",
+        "APP_MESSAGE_NOTIFY_IMAGE": "Mengirim gambar",
+        "APP_MESSAGE_NOTIFY_LOCATION": "Mengirim lokasi",
+        "APP_MESSAGE_NOTIFY_LIVELOCATION": "Mengirim lokasi langsung",
+        "APP_MESSAGE_NOTIFY_VIDEO": "Mengirim video"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Halo",
@@ -1133,7 +1138,34 @@
         "APP_LIVE_MODAL_DONATE_TITLE": "Donasi",
         "APP_LIVE_MODAL_DONATE_DESC": "Ketik jumlah yang ingin Anda donasikan",
         "APP_LIVE_MODAL_DONATE_BUTTON": "Donasi",
-        "APP_LIVE_NOTIFY_NOTMONEY": "Anda tidak memiliki cukup uang"
+        "APP_LIVE_NOTIFY_NOTMONEY": "Anda tidak memiliki cukup uang",
+        "APP_LIVE_WALLET": {
+            "Wallet": "Dompet",
+            "Cheer": "Cheer",
+            "Coin": "Koin",
+            "GIF": "GIF",
+            "Tax": "Pajak: {tax}%",
+            "YOU_BALANCECOIN": "Saldo Koin Anda: {balance}",
+            "YOU_BALANCECHEER": "Saldo Cheer Anda: {balance}",
+            "DONATION_AMOUNT": "Jumlah Donasi",
+            "TRANSFERAMOUNTTEXT": "Jumlah Transfer:",
+            "AMOUNT": "Jumlah:",
+            "TOTAL_TEXT": "Total =",
+            "MINIMUMTRANSFER": "Transfer Minimum:",
+            "BUY": "Beli",
+            "TRANSFER_COIN": "Transfer Koin",
+            "SELL": "Jual",
+            "DONATE": "Donasi",
+            "SEND_GIF": "Kirim GIF",
+            "WALLET_ERROR": "Terjadi kesalahan dalam transaksi dompet",
+            "WALLET_SUCCESS": "Transaksi berhasil",
+            "WALLET_NOTENOUGHMONEY": "Saldo tidak mencukupi",
+            "WALLET_NOTENOUGHCOIN": "Koin tidak mencukupi",
+            "WALLET_NOTENOUGHCHEER": "Cheer tidak mencukupi",
+            "WALLET_MINIMUMTRANSFER_ERROR": "Jumlah transfer minimum adalah {amount}",
+            "CHEER_BANK_BUYDESC": "Cheer telah dibeli.",
+            "COIN_BANK_BUYDESC": "Pendapatan dari LiveStream"
+        }
     },
     "SIMAPP": {
         "APP_SIM_TOTALPRICE": "Saldo",

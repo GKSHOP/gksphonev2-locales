@@ -313,7 +313,6 @@
         "APP_MESSAGE_TIME_MINAGO": "acum {minutes} minute",
         "APP_MESSAGE_TIME_SECAGO": "acum {seconds} secunde",
         "APP_MESSAGE_TIME_JUSTNOW": "acum",
-        "APP_MESSAGE_NOTIFY_MESSAGE": "Mesaj de la {name} :",
         "APP_MESSAGE_NOTIFY_GROUPMESSAGE": "Grupul {groupname} a primit un mesaj",
         "APP_MESSAGE_LOCATION": "A fost partajată o locație GPS",
         "APP_MESSAGE_IMAGE": "A fost partajată o imagine",
@@ -337,7 +336,13 @@
         "APP_MESSAGE_GROUP_AVATAR_DESC_LINK": "Introduceți un URL de imagine pentru poza de grup",
         "APP_MESSAGE_GROUP_MEMBER_DELETE": "Eliminare membru",
         "APP_MESSAGE_GROUP_MEMBER_YOU": "Tu",
-        "APP_MESSAGE_GROUP_MEMBER_CALL": "Apel"
+        "APP_MESSAGE_GROUP_MEMBER_CALL": "Apel",
+        "APP_MESSAGE_NOTIFY_AUDIO": "A trimis un mesaj audio",
+        "APP_MESSAGE_NOTIFY_CONTACT": "A trimis un card de contact",
+        "APP_MESSAGE_NOTIFY_IMAGE": "A trimis o imagine",
+        "APP_MESSAGE_NOTIFY_LOCATION": "A trimis o locație",
+        "APP_MESSAGE_NOTIFY_LIVELOCATION": "A trimis o locație live",
+        "APP_MESSAGE_NOTIFY_VIDEO": "A trimis un videoclip"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Bună",
@@ -1133,7 +1138,34 @@
         "APP_LIVE_MODAL_DONATE_TITLE": "Donează",
         "APP_LIVE_MODAL_DONATE_DESC": "Scrie suma pe care vrei să o donezi",
         "APP_LIVE_MODAL_DONATE_BUTTON": "Donează",
-        "APP_LIVE_NOTIFY_NOTMONEY": "Nu ai suficienți bani"
+        "APP_LIVE_NOTIFY_NOTMONEY": "Nu ai suficienți bani",
+        "APP_LIVE_WALLET": {
+            "Wallet": "Portofel",
+            "Cheer": "Cheer",
+            "Coin": "Monedă",
+            "GIF": "GIF",
+            "Tax": "Taxă: {tax}%",
+            "YOU_BALANCECOIN": "Monedele tale: {balance}",
+            "YOU_BALANCECHEER": "Cheers ale tale: {balance}",
+            "DONATION_AMOUNT": "Sumă donație",
+            "TRANSFERAMOUNTTEXT": "Sumă transfer:",
+            "AMOUNT": "Sumă:",
+            "TOTAL_TEXT": "Total =",
+            "MINIMUMTRANSFER": "Transfer minim:",
+            "BUY": "Cumpără",
+            "TRANSFER_COIN": "Transferă monede",
+            "SELL": "Vinde",
+            "DONATE": "Donează",
+            "SEND_GIF": "Trimite GIF",
+            "WALLET_ERROR": "Eroare în tranzacția portofelului",
+            "WALLET_SUCCESS": "Tranzacție reușită",
+            "WALLET_NOTENOUGHMONEY": "Fonduri insuficiente",
+            "WALLET_NOTENOUGHCOIN": "Monede insuficiente",
+            "WALLET_NOTENOUGHCHEER": "Cheers insuficiente",
+            "WALLET_MINIMUMTRANSFER_ERROR": "Suma minimă de transfer este {amount}",
+            "CHEER_BANK_BUYDESC": "Cheer cumpărat.",
+            "COIN_BANK_BUYDESC": "Venit din LiveStream"
+        }
     },
     "SIMAPP": {
         "APP_SIM_TOTALPRICE": "Sold",

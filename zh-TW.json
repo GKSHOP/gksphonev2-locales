@@ -314,7 +314,6 @@
         "APP_MESSAGE_TIME_MINAGO": "{minutes} 分鐘前",
         "APP_MESSAGE_TIME_SECAGO": "{seconds} 秒前",
         "APP_MESSAGE_TIME_JUSTNOW": "現在",
-        "APP_MESSAGE_NOTIFY_MESSAGE": "{name} 發來的訊息：",
         "APP_MESSAGE_NOTIFY_GROUPMESSAGE": "{groupname} 群組收到了一條訊息",
         "APP_MESSAGE_LOCATION": "分享了一個 GPS 位置",
         "APP_MESSAGE_IMAGE": "分享了一張圖片",
@@ -338,7 +337,13 @@
         "APP_MESSAGE_GROUP_AVATAR_DESC_LINK": "輸入群組圖片的圖片網址",
         "APP_MESSAGE_GROUP_MEMBER_DELETE": "刪除成員",
         "APP_MESSAGE_GROUP_MEMBER_YOU": "您",
-        "APP_MESSAGE_GROUP_MEMBER_CALL": "呼叫"
+        "APP_MESSAGE_GROUP_MEMBER_CALL": "呼叫",
+        "APP_MESSAGE_NOTIFY_AUDIO": "發送了語音訊息",
+        "APP_MESSAGE_NOTIFY_CONTACT": "發送了聯絡卡",
+        "APP_MESSAGE_NOTIFY_IMAGE": "發送了圖片",
+        "APP_MESSAGE_NOTIFY_LOCATION": "發送了位置",
+        "APP_MESSAGE_NOTIFY_LIVELOCATION": "發送了即時位置",
+        "APP_MESSAGE_NOTIFY_VIDEO": "發送了影片"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "您好",
@@ -1134,7 +1139,34 @@
         "APP_LIVE_MODAL_DONATE_TITLE": "捐款",
         "APP_LIVE_MODAL_DONATE_DESC": "輸入您想捐贈的金額",
         "APP_LIVE_MODAL_DONATE_BUTTON": "捐款",
-        "APP_LIVE_NOTIFY_NOTMONEY": "您的餘額不足"
+        "APP_LIVE_NOTIFY_NOTMONEY": "您的餘額不足",
+        "APP_LIVE_WALLET": {
+            "Wallet": "錢包",
+            "Cheer": "Cheer",
+            "Coin": "硬幣",
+            "GIF": "GIF",
+            "Tax": "稅率: {tax}%",
+            "YOU_BALANCECOIN": "您的硬幣餘額: {balance}",
+            "YOU_BALANCECHEER": "您的Cheer餘額: {balance}",
+            "DONATION_AMOUNT": "捐款金額",
+            "TRANSFERAMOUNTTEXT": "轉帳金額:",
+            "AMOUNT": "金額:",
+            "TOTAL_TEXT": "總計 =",
+            "MINIMUMTRANSFER": "最低轉帳金額:",
+            "BUY": "購買",
+            "TRANSFER_COIN": "轉移硬幣",
+            "SELL": "出售",
+            "DONATE": "捐款",
+            "SEND_GIF": "發送GIF",
+            "WALLET_ERROR": "錢包交易時發生錯誤",
+            "WALLET_SUCCESS": "交易成功",
+            "WALLET_NOTENOUGHMONEY": "資金不足",
+            "WALLET_NOTENOUGHCOIN": "硬幣不足",
+            "WALLET_NOTENOUGHCHEER": "Cheer不足",
+            "WALLET_MINIMUMTRANSFER_ERROR": "最低轉帳金額須為 {amount}",
+            "CHEER_BANK_BUYDESC": "已購買 Cheer。",
+            "COIN_BANK_BUYDESC": "直播收益"
+        }
     },
     "SIMAPP": {
         "APP_SIM_TOTALPRICE": "餘額",
