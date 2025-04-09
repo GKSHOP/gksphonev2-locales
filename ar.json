@@ -27,7 +27,9 @@
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "البريد الإلكتروني أو كلمة المرور غير صحيحة",
         "PHONE_PIN_INFO": "كلمة المرور الخاصة بك هي {pin}",
         "PHONE_PASSCODE_FORGOT": "نسيت كلمة المرور",
-        "PHONE_PHONEBOX": "كشك الهاتف"
+        "PHONE_PHONEBOX": "كشك الهاتف",
+        "PHONE_SIGNAL_LOW": "الإشارة ضعيفة في منطقتك",
+        "PHONE_SIGNAL_LOW_TITLE": "إشارة ضعيفة"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "هاتفك قيد الشحن بالفعل",
@@ -51,8 +53,7 @@
         "APP_CAMERA_VIDEO": "فيديو",
         "APP_CAMERA_LANDSCAPE": "منظر طبيعي",
         "APP_CAMERA_LOADING": "جار التحميل",
-        "APP_CAMERA_EFFECTS":  "تأثيرات",
-
+        "APP_CAMERA_EFFECTS": "تأثيرات",
         "InfoPanel": {
             "APP_CAMERA_INFO_ROTATE": "قم بتدوير الكاميرا",
             "APP_CAMERA_INFO_MOVING": "يمكنك تحريك الكاميرا عن طريق الضغط على زر الماوس الأيمن",
@@ -343,7 +344,12 @@
         "APP_MESSAGE_NOTIFY_IMAGE": "أرسل صورة",
         "APP_MESSAGE_NOTIFY_LOCATION": "أرسل موقعًا",
         "APP_MESSAGE_NOTIFY_LIVELOCATION": "أرسل موقعًا مباشرًا",
-        "APP_MESSAGE_NOTIFY_VIDEO": "أرسل فيديو"
+        "APP_MESSAGE_NOTIFY_VIDEO": "أرسل فيديو",
+        "APP_MESSAGE_SEND_PHOTO_LINK": "إرسال صورة عبر الرابط",
+        "APP_MESSAGE_SEND_PHOTO_LINK_DESC": "أدخل رابط الصورة",
+        "APP_MESSAGE_SEND_PHOTO_LINK_ERROR": "رابط الصورة غير صالح",
+        "APP_MESSAGE_SEND_PHOTO_GALLERY": "إرسال صورة من المعرض",
+        "APP_MESSAGE_SEND_PHOTO_CAMERA": "التقاط صورة"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "مرحبا",
@@ -484,7 +490,15 @@
         "APP_DISPATCH_NOTIFY_YOURREPORT": "تقريرك قيد المراجعة حالياً...",
         "APP_DISPATCH_REPORT_MESSAGEEMPTY": "لا يمكنك إرسال رسالة فارغة",
         "APP_DISPATCH_REPORT_STATUS": "الحالة",
-        "APP_DISPATCH_REPORT_NOSEND": "لديك تقرير. لا يمكنك إرسال تقرير ثانٍ حتى يتم إغلاق التقرير القديم."
+        "APP_DISPATCH_REPORT_NOSEND": "لديك تقرير. لا يمكنك إرسال تقرير ثانٍ حتى يتم إغلاق التقرير القديم.",
+        "APP_DISPATCH_REPORT_ACTIONS": "الإجراءات",
+        "APP_DISPATCH_REPORT_ACTIONS_SETTINGS": "الإعدادات",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF": "تشغيل/إيقاف",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF_DESC": "قم بتشغيل أو إيقاف التوفر من خلال التطبيق",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY": "الواجب",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY_DESC": "حدد ما إذا كنت في الخدمة",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS": "مكالمات العمل",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS_DESC": "تشغيل/إيقاف مكالمات العمل"
     },
     "StreamMode": {
         "APP_STREAMMODE_IMAGE": "الصورة مخفية لأن وضع البث نشط"
@@ -609,7 +623,9 @@
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name} ذكر اسمك في منشور",
         "APP_SQUAWK_NOTFIY_POST": "{name} شارك منشورًا جديدًا",
         "APP_SQUAWK_POSTING_PRELOADER": "جارٍ النشر...",
-        "APP_SQUAWK_BANNERERROR_LENGTH": "يجب أن يكون عنوان URL للبنر بين 6 و 255 حرفًا"
+        "APP_SQUAWK_BANNERERROR_LENGTH": "يجب أن يكون عنوان URL للبنر بين 6 و 255 حرفًا",
+        "APP_SQUAWK_BANNER": "لافتة",
+        "APP_SQUAWK_AVATAR": "الصورة الرمزية"
     },
     "BankAPP": {
         "APP_BANK_TITLE": "البنك",
@@ -687,7 +703,8 @@
         "APP_BILLING_SUCCESS": "تم إصدار الفاتورة بنجاح",
         "APP_BILLING_ERROR": "حدث خطأ أثناء إصدار الفاتورة",
         "APP_BILLING_YOURSELF_ERROR": "لا يمكنك إصدار فاتورة لنفسك",
-        "APP_BILLING_COMPANYBILL": "فاتورة الشركة"
+        "APP_BILLING_COMPANYBILL": "فاتورة الشركة",
+        "APP_BILLING_PLAYERFEE": "تم دفع الفاتورة التي أصدرتها"
     },
     "DarkChatAPP": {
         "APP_DARKTCHAT_TITLE": "دردشة مظلمة",

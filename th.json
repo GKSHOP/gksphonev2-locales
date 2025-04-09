@@ -27,7 +27,9 @@
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "อีเมลหรือรหัสผ่านไม่ถูกต้อง",
         "PHONE_PIN_INFO": "รหัสผ่านของคุณคือ {pin}",
         "PHONE_PASSCODE_FORGOT": "ลืมรหัสผ่าน",
-        "PHONE_PHONEBOX": "ตู้โทรศัพท์"
+        "PHONE_PHONEBOX": "ตู้โทรศัพท์",
+        "PHONE_SIGNAL_LOW": "สัญญาณในพื้นที่ของคุณอ่อน",
+        "PHONE_SIGNAL_LOW_TITLE": "สัญญาณอ่อน"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "โทรศัพท์ของคุณกำลังชาร์จอยู่แล้ว",
@@ -342,7 +344,12 @@
         "APP_MESSAGE_NOTIFY_IMAGE": "ส่งรูปภาพ",
         "APP_MESSAGE_NOTIFY_LOCATION": "ส่งตำแหน่งที่ตั้ง",
         "APP_MESSAGE_NOTIFY_LIVELOCATION": "ส่งตำแหน่งที่ตั้งแบบสด",
-        "APP_MESSAGE_NOTIFY_VIDEO": "ส่งวิดีโอ"
+        "APP_MESSAGE_NOTIFY_VIDEO": "ส่งวิดีโอ",
+        "APP_MESSAGE_SEND_PHOTO_LINK": "ส่งรูปภาพผ่านลิงก์",
+        "APP_MESSAGE_SEND_PHOTO_LINK_DESC": "กรอก URL ของรูปภาพ",
+        "APP_MESSAGE_SEND_PHOTO_LINK_ERROR": "URL ของรูปภาพไม่ถูกต้อง",
+        "APP_MESSAGE_SEND_PHOTO_GALLERY": "ส่งจากแกลเลอรี",
+        "APP_MESSAGE_SEND_PHOTO_CAMERA": "ถ่ายรูป"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "สวัสดี",
@@ -483,7 +490,15 @@
         "APP_DISPATCH_NOTIFY_YOURREPORT": "รายงานของคุณกำลังอยู่ระหว่างการตรวจสอบ...",
         "APP_DISPATCH_REPORT_MESSAGEEMPTY": "คุณไม่สามารถส่งข้อความว่างได้",
         "APP_DISPATCH_REPORT_STATUS": "สถานะ",
-        "APP_DISPATCH_REPORT_NOSEND": "คุณมีรายงานอยู่ คุณไม่สามารถส่งรายงานที่สองได้จนกว่ารายงานเก่าจะถูกปิด."
+        "APP_DISPATCH_REPORT_NOSEND": "คุณมีรายงานอยู่ คุณไม่สามารถส่งรายงานที่สองได้จนกว่ารายงานเก่าจะถูกปิด.",
+        "APP_DISPATCH_REPORT_ACTIONS": "การดำเนินการ",
+        "APP_DISPATCH_REPORT_ACTIONS_SETTINGS": "การตั้งค่า",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF": "เปิด/ปิด",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF_DESC": "เปิด/ปิดการเข้าถึงผ่านแอป",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY": "ปฏิบัติหน้าที่",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY_DESC": "ระบุว่าคุณอยู่ในหน้าที่หรือไม่",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS": "การโทรทำงาน",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS_DESC": "เปิด/ปิดการโทรทำงาน"
     },
     "StreamMode": {
         "APP_STREAMMODE_IMAGE": "ภาพถูกซ่อนเนื่องจากโหมดสตรีมเมอร์เปิดใช้งาน"
@@ -608,7 +623,9 @@
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name} กล่าวถึงคุณในโพสต์",
         "APP_SQUAWK_NOTFIY_POST": "{name} แชร์โพสต์ใหม่",
         "APP_SQUAWK_POSTING_PRELOADER": "กำลังโพสต์...",
-        "APP_SQUAWK_BANNERERROR_LENGTH": "URL แบนเนอร์ต้องมีความยาวระหว่าง 6 ถึง 255 อักขระ"
+        "APP_SQUAWK_BANNERERROR_LENGTH": "URL แบนเนอร์ต้องมีความยาวระหว่าง 6 ถึง 255 อักขระ",
+        "APP_SQUAWK_BANNER": "แบนเนอร์",
+        "APP_SQUAWK_AVATAR": "อวตาร"
     },
     "BankAPP": {
         "APP_BANK_TITLE": "ธนาคาร",
@@ -686,7 +703,8 @@
         "APP_BILLING_SUCCESS": "ใบแจ้งหนี้ถูกออกอย่างสำเร็จ",
         "APP_BILLING_ERROR": "เกิดข้อผิดพลาดขณะออกใบแจ้งหนี้",
         "APP_BILLING_YOURSELF_ERROR": "คุณไม่สามารถออกใบแจ้งหนี้ให้ตัวเองได้",
-        "APP_BILLING_COMPANYBILL": "บิลบริษัท"
+        "APP_BILLING_COMPANYBILL": "บิลบริษัท",
+        "APP_BILLING_PLAYERFEE": "ใบเรียกเก็บเงินที่คุณออกได้รับการชำระแล้ว"
     },
     "DarkChatAPP": {
         "APP_DARKTCHAT_TITLE": "แชทมืด",

@@ -1,7 +1,6 @@
 {
     "PHONE_SETTINGS_NUMBERFORMAT": "zh-TW",
     "PHONE_SETTINGS_DATEFORMAT": "zh-TW",
-
     "PHONE": {
         "PHONE_UNAVAILABLE": "電話已停用",
         "PHONE_SCREEN_LOADING": "載入中...",
@@ -28,7 +27,9 @@
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "電子郵件或密碼不正確",
         "PHONE_PIN_INFO": "您的密碼是 {pin}",
         "PHONE_PASSCODE_FORGOT": "忘記密碼",
-        "PHONE_PHONEBOX": "电话亭"
+        "PHONE_PHONEBOX": "电话亭",
+        "PHONE_SIGNAL_LOW": "您所在區域的訊號較弱",
+        "PHONE_SIGNAL_LOW_TITLE": "訊號弱"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "您的手機已經在充電",
@@ -47,7 +48,7 @@
         "hoursAgo": "{hours} 小時前",
         "justNow": "剛剛"
     },
-    "CameraAPP" : {
+    "CameraAPP": {
         "APP_CAMERA_PHOTO": "照片",
         "APP_CAMERA_VIDEO": "影片",
         "APP_CAMERA_LANDSCAPE": "橫屏",
@@ -343,7 +344,12 @@
         "APP_MESSAGE_NOTIFY_IMAGE": "發送了圖片",
         "APP_MESSAGE_NOTIFY_LOCATION": "發送了位置",
         "APP_MESSAGE_NOTIFY_LIVELOCATION": "發送了即時位置",
-        "APP_MESSAGE_NOTIFY_VIDEO": "發送了影片"
+        "APP_MESSAGE_NOTIFY_VIDEO": "發送了影片",
+        "APP_MESSAGE_SEND_PHOTO_LINK": "透過連結發送圖片",
+        "APP_MESSAGE_SEND_PHOTO_LINK_DESC": "請輸入圖片 URL",
+        "APP_MESSAGE_SEND_PHOTO_LINK_ERROR": "無效的圖片 URL",
+        "APP_MESSAGE_SEND_PHOTO_GALLERY": "從相簿發送圖片",
+        "APP_MESSAGE_SEND_PHOTO_CAMERA": "拍照發送"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "您好",
@@ -484,7 +490,15 @@
         "APP_DISPATCH_NOTIFY_YOURREPORT": "您的報告正在審查中...",
         "APP_DISPATCH_REPORT_MESSAGEEMPTY": "您不能發送空消息",
         "APP_DISPATCH_REPORT_STATUS": "狀態",
-        "APP_DISPATCH_REPORT_NOSEND": "您有一個報告。您不能在舊報告關閉之前發送第二個報告。"
+        "APP_DISPATCH_REPORT_NOSEND": "您有一個報告。您不能在舊報告關閉之前發送第二個報告。",
+        "APP_DISPATCH_REPORT_ACTIONS": "操作",
+        "APP_DISPATCH_REPORT_ACTIONS_SETTINGS": "設定",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF": "開/關",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF_DESC": "透過應用程式切換可用狀態",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY": "值勤",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY_DESC": "標示您是否值勤中",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS": "工作來電",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS_DESC": "切換工作來電開關"
     },
     "StreamMode": {
         "APP_STREAMMODE_IMAGE": "因為啟用了串流模式，圖片已隱藏"
@@ -609,7 +623,9 @@
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name} 在貼文中提到您",
         "APP_SQUAWK_NOTFIY_POST": "{name} 分享了一個新貼文",
         "APP_SQUAWK_POSTING_PRELOADER": "正在發佈...",
-        "APP_SQUAWK_BANNERERROR_LENGTH": "橫幅 URL 必須介於 6 到 255 個字元之間"
+        "APP_SQUAWK_BANNERERROR_LENGTH": "橫幅 URL 必須介於 6 到 255 個字元之間",
+        "APP_SQUAWK_BANNER": "橫幅",
+        "APP_SQUAWK_AVATAR": "頭像"
     },
     "BankAPP": {
         "APP_BANK_TITLE": "銀行",
@@ -687,7 +703,8 @@
         "APP_BILLING_SUCCESS": "帳單發出成功",
         "APP_BILLING_ERROR": "發出帳單時發生錯誤",
         "APP_BILLING_YOURSELF_ERROR": "您不能給自己開帳單",
-        "APP_BILLING_COMPANYBILL": "公司帳單"
+        "APP_BILLING_COMPANYBILL": "公司帳單",
+        "APP_BILLING_PLAYERFEE": "您開立的帳單已付款"
     },
     "DarkChatAPP": {
         "APP_DARKTCHAT_TITLE": "黑暗聊天",
@@ -1103,7 +1120,7 @@
         "APP_GAME_DOUBLE": "雙倍",
         "APP_GAME_RESUME": "繼續",
         "APP_GAME_STARTGAME": "開始遊戲",
-        "APP_GAME_CURRENCY":"$",
+        "APP_GAME_CURRENCY": "$",
         "APP_GAME_BLACKJACKDRAW": "平局",
         "APP_GAME_BLACKJACKLOSE": "您輸了",
         "APP_GAME_BLACKJACKWIN": "您贏了",
@@ -1401,7 +1418,7 @@
         "APP_CASINO_ROLL_WINNER_LOST": "你輸了",
         "APP_CASINO_ROLL_WINNER_NOTBET": "你沒有下注",
         "APP_CASINO_ROLL_BET_MAX": "你不能下注超过 {max} 筹码",
-        "APP_CASINO_MODAL" : {
+        "APP_CASINO_MODAL": {
             "WALLET": "錢包",
             "NICKNAME": "暱稱",
             "NICKNAME_TEXT": "你設定的暱稱將保持不變，直到你關閉應用程式並重新打開。",

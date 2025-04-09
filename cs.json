@@ -27,7 +27,9 @@
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "Email nebo heslo je nesprávné",
         "PHONE_PIN_INFO": "Vaše heslo je {pin}",
         "PHONE_PASSCODE_FORGOT": "Zapomněli jste heslo",
-        "PHONE_PHONEBOX": "Telefonní budka"
+        "PHONE_PHONEBOX": "Telefonní budka",
+        "PHONE_SIGNAL_LOW": "Ve vaší oblasti je slabý signál",
+        "PHONE_SIGNAL_LOW_TITLE": "Slabý signál"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Váš telefon se již nabíjí",
@@ -52,7 +54,6 @@
         "APP_CAMERA_LANDSCAPE": "Krajina",
         "APP_CAMERA_LOADING": "Načítání",
         "APP_CAMERA_EFFECTS": "Efekty",
-
         "InfoPanel": {
             "APP_CAMERA_INFO_ROTATE": "Otočte kameru",
             "APP_CAMERA_INFO_MOVING": "Můžete pohybovat kamerou podržením pravého tlačítka myši",
@@ -343,7 +344,12 @@
         "APP_MESSAGE_NOTIFY_IMAGE": "Odeslal obrázek",
         "APP_MESSAGE_NOTIFY_LOCATION": "Odeslal polohu",
         "APP_MESSAGE_NOTIFY_LIVELOCATION": "Odeslal živou polohu",
-        "APP_MESSAGE_NOTIFY_VIDEO": "Odeslal video"
+        "APP_MESSAGE_NOTIFY_VIDEO": "Odeslal video",
+        "APP_MESSAGE_SEND_PHOTO_LINK": "Odeslat obrázek pomocí odkazu",
+        "APP_MESSAGE_SEND_PHOTO_LINK_DESC": "Zadejte URL obrázku",
+        "APP_MESSAGE_SEND_PHOTO_LINK_ERROR": "Neplatná URL obrázku",
+        "APP_MESSAGE_SEND_PHOTO_GALLERY": "Odeslat obrázek z galerie",
+        "APP_MESSAGE_SEND_PHOTO_CAMERA": "Pořídit fotografii"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Ahoj",
@@ -484,7 +490,15 @@
         "APP_DISPATCH_NOTIFY_YOURREPORT": "Vaše zpráva je momentálně v posouzení...",
         "APP_DISPATCH_REPORT_MESSAGEEMPTY": "Nemůžete odeslat prázdnou zprávu",
         "APP_DISPATCH_REPORT_STATUS": "Stav",
-        "APP_DISPATCH_REPORT_NOSEND": "Máte zprávu. Nemůžete odeslat druhou zprávu, dokud není stará zpráva uzavřena."
+        "APP_DISPATCH_REPORT_NOSEND": "Máte zprávu. Nemůžete odeslat druhou zprávu, dokud není stará zpráva uzavřena.",
+        "APP_DISPATCH_REPORT_ACTIONS": "Akce",
+        "APP_DISPATCH_REPORT_ACTIONS_SETTINGS": "Nastavení",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF": "Zap/Vyp",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF_DESC": "Přepnout dostupnost přes aplikaci",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY": "Služba",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY_DESC": "Označte, zda jste ve službě",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS": "Pracovní hovory",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS_DESC": "Zapnout/Vypnout pracovní hovory"
     },
     "StreamMode": {
         "APP_STREAMMODE_IMAGE": "Obrázek skryt, protože je aktivní režim streamera"
@@ -609,7 +623,9 @@
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name} vás zmínil v příspěvku",
         "APP_SQUAWK_NOTFIY_POST": "{name} sdílel nový příspěvek",
         "APP_SQUAWK_POSTING_PRELOADER": "Zveřejňuji...",
-        "APP_SQUAWK_BANNERERROR_LENGTH": "URL banneru musí být mezi 6 a 255 znaky"
+        "APP_SQUAWK_BANNERERROR_LENGTH": "URL banneru musí být mezi 6 a 255 znaky",
+        "APP_SQUAWK_BANNER": "Banner",
+        "APP_SQUAWK_AVATAR": "Avatar"
     },
     "BankAPP": {
         "APP_BANK_TITLE": "Banka",
@@ -687,7 +703,8 @@
         "APP_BILLING_SUCCESS": "Faktura byla úspěšně vystavena",
         "APP_BILLING_ERROR": "Při vystavování faktury došlo k chybě",
         "APP_BILLING_YOURSELF_ERROR": "Nemůžete si vystavit fakturu sám sobě",
-        "APP_BILLING_COMPANYBILL": "Faktura společnosti"
+        "APP_BILLING_COMPANYBILL": "Faktura společnosti",
+        "APP_BILLING_PLAYERFEE": "Faktura, kterou jste vystavili, byla zaplacena"
     },
     "DarkChatAPP": {
         "APP_DARKTCHAT_TITLE": "Temný chat",

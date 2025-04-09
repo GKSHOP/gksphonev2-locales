@@ -27,7 +27,9 @@
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "Електронна пошта або пароль неправильні",
         "PHONE_PIN_INFO": "Ваш пароль - {pin}",
         "PHONE_PASSCODE_FORGOT": "Забули пароль",
-        "PHONE_PHONEBOX": "Телефонна будка"
+        "PHONE_PHONEBOX": "Телефонна будка",
+        "PHONE_SIGNAL_LOW": "Слабкий сигнал у вашому районі",
+        "PHONE_SIGNAL_LOW_TITLE": "Слабкий сигнал"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Ваш телефон вже заряджається",
@@ -342,7 +344,12 @@
         "APP_MESSAGE_NOTIFY_IMAGE": "Надіслано зображення",
         "APP_MESSAGE_NOTIFY_LOCATION": "Надіслано місцезнаходження",
         "APP_MESSAGE_NOTIFY_LIVELOCATION": "Надіслано живе місцезнаходження",
-        "APP_MESSAGE_NOTIFY_VIDEO": "Надіслано відео"
+        "APP_MESSAGE_NOTIFY_VIDEO": "Надіслано відео",
+        "APP_MESSAGE_SEND_PHOTO_LINK": "Надіслати зображення за посиланням",
+        "APP_MESSAGE_SEND_PHOTO_LINK_DESC": "Введіть URL зображення",
+        "APP_MESSAGE_SEND_PHOTO_LINK_ERROR": "Недійсний URL зображення",
+        "APP_MESSAGE_SEND_PHOTO_GALLERY": "Надіслати зображення з галереї",
+        "APP_MESSAGE_SEND_PHOTO_CAMERA": "Зробити фото"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Привіт",
@@ -483,7 +490,15 @@
         "APP_DISPATCH_NOTIFY_YOURREPORT": "Ваш звіт наразі переглядається...",
         "APP_DISPATCH_REPORT_MESSAGEEMPTY": "Ви не можете надіслати порожнє повідомлення",
         "APP_DISPATCH_REPORT_STATUS": "Статус",
-        "APP_DISPATCH_REPORT_NOSEND": "У вас є звіт. Ви не можете надіслати другий звіт, поки старий звіт не буде закрито."
+        "APP_DISPATCH_REPORT_NOSEND": "У вас є звіт. Ви не можете надіслати другий звіт, поки старий звіт не буде закрито.",
+        "APP_DISPATCH_REPORT_ACTIONS": "Дії",
+        "APP_DISPATCH_REPORT_ACTIONS_SETTINGS": "Налаштування",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF": "Увімк/Вимк",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF_DESC": "Увімкнути/вимкнути доступність через додаток",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY": "Чергування",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY_DESC": "Вкажіть, чи ви на чергуванні",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS": "Робочі виклики",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS_DESC": "Увімк/вимк робочі виклики"
     },
     "StreamMode": {
         "APP_STREAMMODE_IMAGE": "Зображення приховане, оскільки активний режим стримера"
@@ -608,7 +623,9 @@
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name} згадав вас у пості",
         "APP_SQUAWK_NOTFIY_POST": "{name} поділився новим постом",
         "APP_SQUAWK_POSTING_PRELOADER": "Публікація...",
-        "APP_SQUAWK_BANNERERROR_LENGTH": "URL банера має містити від 6 до 255 символів"
+        "APP_SQUAWK_BANNERERROR_LENGTH": "URL банера має містити від 6 до 255 символів",
+        "APP_SQUAWK_BANNER": "Банер",
+        "APP_SQUAWK_AVATAR": "Аватар"
     },
     "BankAPP": {
         "APP_BANK_TITLE": "Банк",
@@ -686,7 +703,8 @@
         "APP_BILLING_SUCCESS": "Рахунок був успішно виписаний",
         "APP_BILLING_ERROR": "Сталася помилка під час виписки рахунку",
         "APP_BILLING_YOURSELF_ERROR": "Ви не можете виставити рахунок самому собі",
-        "APP_BILLING_COMPANYBILL": "Рахунок компанії"
+        "APP_BILLING_COMPANYBILL": "Рахунок компанії",
+        "APP_BILLING_PLAYERFEE": "Рахунок, який ви виставили, було оплачено"
     },
     "DarkChatAPP": {
         "APP_DARKTCHAT_TITLE": "Темний чат",

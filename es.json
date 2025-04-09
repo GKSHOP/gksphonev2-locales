@@ -27,7 +27,9 @@
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "El correo electrónico o la contraseña son incorrectos",
         "PHONE_PIN_INFO": "Tu contraseña es {pin}",
         "PHONE_PASSCODE_FORGOT": "Olvidé la Contraseña",
-        "PHONE_PHONEBOX": "Cabina telefónica"
+        "PHONE_PHONEBOX": "Cabina telefónica",
+        "PHONE_SIGNAL_LOW": "La señal es débil en tu zona",
+        "PHONE_SIGNAL_LOW_TITLE": "Señal Débil"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Tu teléfono ya está cargando",
@@ -342,7 +344,12 @@
         "APP_MESSAGE_NOTIFY_IMAGE": "Ha enviado una imagen",
         "APP_MESSAGE_NOTIFY_LOCATION": "Ha enviado una ubicación",
         "APP_MESSAGE_NOTIFY_LIVELOCATION": "Ha enviado una ubicación en vivo",
-        "APP_MESSAGE_NOTIFY_VIDEO": "Ha enviado un video"
+        "APP_MESSAGE_NOTIFY_VIDEO": "Ha enviado un video",
+        "APP_MESSAGE_SEND_PHOTO_LINK": "Enviar imagen por enlace",
+        "APP_MESSAGE_SEND_PHOTO_LINK_DESC": "Introduce la URL de la imagen",
+        "APP_MESSAGE_SEND_PHOTO_LINK_ERROR": "URL de imagen no válida",
+        "APP_MESSAGE_SEND_PHOTO_GALLERY": "Enviar imagen desde galería",
+        "APP_MESSAGE_SEND_PHOTO_CAMERA": "Tomar foto"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Hola",
@@ -483,7 +490,15 @@
         "APP_DISPATCH_NOTIFY_YOURREPORT": "Tu informe está actualmente en revisión...",
         "APP_DISPATCH_REPORT_MESSAGEEMPTY": "No puedes enviar un mensaje vacío",
         "APP_DISPATCH_REPORT_STATUS": "Estado",
-        "APP_DISPATCH_REPORT_NOSEND": "Tienes un informe. No puedes enviar un segundo informe hasta que el informe anterior esté cerrado."
+        "APP_DISPATCH_REPORT_NOSEND": "Tienes un informe. No puedes enviar un segundo informe hasta que el informe anterior esté cerrado.",
+        "APP_DISPATCH_REPORT_ACTIONS": "Acciones",
+        "APP_DISPATCH_REPORT_ACTIONS_SETTINGS": "Configuraciones",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF": "Encendido/Apagado",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF_DESC": "Habilita o deshabilita la disponibilidad desde la app",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY": "Servicio",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY_DESC": "Indica si estás en servicio",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS": "Llamadas de trabajo",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS_DESC": "Activar/Desactivar llamadas de trabajo"
     },
     "StreamMode": {
         "APP_STREAMMODE_IMAGE": "Imagen oculta porque el Modo Streamer está activo"
@@ -608,7 +623,9 @@
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name} te mencionó en una publicación",
         "APP_SQUAWK_NOTFIY_POST": "{name} compartió una nueva publicación",
         "APP_SQUAWK_POSTING_PRELOADER": "Publicando...",
-        "APP_SQUAWK_BANNERERROR_LENGTH": "La URL del banner debe tener entre 6 y 255 caracteres"
+        "APP_SQUAWK_BANNERERROR_LENGTH": "La URL del banner debe tener entre 6 y 255 caracteres",
+        "APP_SQUAWK_BANNER": "Banner",
+        "APP_SQUAWK_AVATAR": "Avatar"
     },
     "BankAPP": {
         "APP_BANK_TITLE": "Banco",
@@ -686,7 +703,8 @@
         "APP_BILLING_SUCCESS": "La factura se emitió con éxito",
         "APP_BILLING_ERROR": "Ocurrió un error al emitir la factura",
         "APP_BILLING_YOURSELF_ERROR": "No puedes facturarte a ti mismo",
-        "APP_BILLING_COMPANYBILL": "Factura de la empresa"
+        "APP_BILLING_COMPANYBILL": "Factura de la empresa",
+        "APP_BILLING_PLAYERFEE": "La factura que emitiste ha sido pagada"
     },
     "DarkChatAPP": {
         "APP_DARKTCHAT_TITLE": "Chat oscuro",

@@ -27,7 +27,9 @@
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "Emailul sau parola sunt incorecte",
         "PHONE_PIN_INFO": "Parola ta este {pin}",
         "PHONE_PASSCODE_FORGOT": "Parola uitată",
-        "PHONE_PHONEBOX": "Cabină telefonică"
+        "PHONE_PHONEBOX": "Cabină telefonică",
+        "PHONE_SIGNAL_LOW": "Semnal slab în zona ta",
+        "PHONE_SIGNAL_LOW_TITLE": "Semnal Slab"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Telefonul tău se încarcă deja",
@@ -342,7 +344,12 @@
         "APP_MESSAGE_NOTIFY_IMAGE": "A trimis o imagine",
         "APP_MESSAGE_NOTIFY_LOCATION": "A trimis o locație",
         "APP_MESSAGE_NOTIFY_LIVELOCATION": "A trimis o locație live",
-        "APP_MESSAGE_NOTIFY_VIDEO": "A trimis un videoclip"
+        "APP_MESSAGE_NOTIFY_VIDEO": "A trimis un videoclip",
+        "APP_MESSAGE_SEND_PHOTO_LINK": "Trimite imagine prin link",
+        "APP_MESSAGE_SEND_PHOTO_LINK_DESC": "Introdu URL-ul imaginii",
+        "APP_MESSAGE_SEND_PHOTO_LINK_ERROR": "URL imagine invalid",
+        "APP_MESSAGE_SEND_PHOTO_GALLERY": "Trimite imagine din galerie",
+        "APP_MESSAGE_SEND_PHOTO_CAMERA": "Fă o fotografie"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Bună",
@@ -483,7 +490,15 @@
         "APP_DISPATCH_NOTIFY_YOURREPORT": "Raportul tău este în prezent în revizuire...",
         "APP_DISPATCH_REPORT_MESSAGEEMPTY": "Nu poți trimite un mesaj gol",
         "APP_DISPATCH_REPORT_STATUS": "Stare",
-        "APP_DISPATCH_REPORT_NOSEND": "Ai un raport. Nu poți trimite un al doilea raport până când raportul vechi nu este închis."
+        "APP_DISPATCH_REPORT_NOSEND": "Ai un raport. Nu poți trimite un al doilea raport până când raportul vechi nu este închis.",
+        "APP_DISPATCH_REPORT_ACTIONS": "Acțiuni",
+        "APP_DISPATCH_REPORT_ACTIONS_SETTINGS": "Setări",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF": "Activ/Dezactiv",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF_DESC": "Activează/dezactivează disponibilitatea din aplicație",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY": "Serviciu",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY_DESC": "Indică dacă ești de serviciu",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS": "Apeluri de serviciu",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS_DESC": "Activează/Dezactivează apelurile de serviciu"
     },
     "StreamMode": {
         "APP_STREAMMODE_IMAGE": "Imagine ascunsă deoarece modul Streamer este activ"
@@ -608,7 +623,9 @@
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name}  te-a menționat într-o postare",
         "APP_SQUAWK_NOTFIY_POST": "{name}  a partajat o postare nouă",
         "APP_SQUAWK_POSTING_PRELOADER": "Postare...",
-        "APP_SQUAWK_BANNERERROR_LENGTH": "URL-ul bannerului trebuie să aibă între 6 și 255 de caractere"
+        "APP_SQUAWK_BANNERERROR_LENGTH": "URL-ul bannerului trebuie să aibă între 6 și 255 de caractere",
+        "APP_SQUAWK_BANNER": "Banner",
+        "APP_SQUAWK_AVATAR": "Avatar"
     },
     "BankAPP": {
         "APP_BANK_TITLE": "Bancă",
@@ -686,7 +703,8 @@
         "APP_BILLING_SUCCESS": "Factura a fost emisă cu succes",
         "APP_BILLING_ERROR": "A apărut o eroare în timpul emiterii facturii",
         "APP_BILLING_YOURSELF_ERROR": "Nu poți factura pe tine însuți",
-        "APP_BILLING_COMPANYBILL": "Factură Companie"
+        "APP_BILLING_COMPANYBILL": "Factură Companie",
+        "APP_BILLING_PLAYERFEE": "Factura pe care ați emis-o a fost plătită"
     },
     "DarkChatAPP": {
         "APP_DARKTCHAT_TITLE": "Chat Întunecat",

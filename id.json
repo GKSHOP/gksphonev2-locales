@@ -27,7 +27,9 @@
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "Email atau kata sandi salah",
         "PHONE_PIN_INFO": "Kata sandi Anda adalah {pin}",
         "PHONE_PASSCODE_FORGOT": "Lupa Kata Sandi",
-        "PHONE_PHONEBOX": "Kotak telepon"
+        "PHONE_PHONEBOX": "Kotak telepon",
+        "PHONE_SIGNAL_LOW": "Sinyal lemah di daerah Anda",
+        "PHONE_SIGNAL_LOW_TITLE": "Sinyal Lemah"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Telepon Anda sudah mengisi daya",
@@ -342,7 +344,12 @@
         "APP_MESSAGE_NOTIFY_IMAGE": "Mengirim gambar",
         "APP_MESSAGE_NOTIFY_LOCATION": "Mengirim lokasi",
         "APP_MESSAGE_NOTIFY_LIVELOCATION": "Mengirim lokasi langsung",
-        "APP_MESSAGE_NOTIFY_VIDEO": "Mengirim video"
+        "APP_MESSAGE_NOTIFY_VIDEO": "Mengirim video",
+        "APP_MESSAGE_SEND_PHOTO_LINK": "Kirim gambar melalui tautan",
+        "APP_MESSAGE_SEND_PHOTO_LINK_DESC": "Masukkan URL gambar",
+        "APP_MESSAGE_SEND_PHOTO_LINK_ERROR": "URL gambar tidak valid",
+        "APP_MESSAGE_SEND_PHOTO_GALLERY": "Kirim gambar dari galeri",
+        "APP_MESSAGE_SEND_PHOTO_CAMERA": "Ambil foto"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Halo",
@@ -483,7 +490,15 @@
         "APP_DISPATCH_NOTIFY_YOURREPORT": "Laporan Anda saat ini sedang ditinjau...",
         "APP_DISPATCH_REPORT_MESSAGEEMPTY": "Anda tidak dapat mengirim pesan kosong",
         "APP_DISPATCH_REPORT_STATUS": "Status",
-        "APP_DISPATCH_REPORT_NOSEND": "Anda memiliki laporan. Anda tidak dapat mengirim laporan kedua sampai laporan lama ditutup."
+        "APP_DISPATCH_REPORT_NOSEND": "Anda memiliki laporan. Anda tidak dapat mengirim laporan kedua sampai laporan lama ditutup.",
+        "APP_DISPATCH_REPORT_ACTIONS": "Tindakan",
+        "APP_DISPATCH_REPORT_ACTIONS_SETTINGS": "Pengaturan",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF": "Aktif/Nonaktif",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF_DESC": "Aktifkan/nonaktifkan ketersediaan melalui aplikasi",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY": "Tugas",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY_DESC": "Tentukan apakah Anda sedang bertugas",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS": "Panggilan Kerja",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS_DESC": "Aktifkan/Nonaktifkan panggilan kerja"
     },
     "StreamMode": {
         "APP_STREAMMODE_IMAGE": "Gambar tersembunyi karena Mode Streamer aktif"
@@ -608,7 +623,9 @@
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name} menyebut Anda dalam sebuah postingan",
         "APP_SQUAWK_NOTFIY_POST": "{name} membagikan postingan baru",
         "APP_SQUAWK_POSTING_PRELOADER": "Sedang memposting...",
-        "APP_SQUAWK_BANNERERROR_LENGTH": "URL banner harus terdiri dari 6 hingga 255 karakter"
+        "APP_SQUAWK_BANNERERROR_LENGTH": "URL banner harus terdiri dari 6 hingga 255 karakter",
+        "APP_SQUAWK_BANNER": "Spanduk",
+        "APP_SQUAWK_AVATAR": "Avatar"
     },
     "BankAPP": {
         "APP_BANK_TITLE": "Bank",
@@ -686,7 +703,8 @@
         "APP_BILLING_SUCCESS": "Faktur berhasil diterbitkan",
         "APP_BILLING_ERROR": "Terjadi kesalahan saat menerbitkan faktur",
         "APP_BILLING_YOURSELF_ERROR": "Anda tidak dapat mengirimkan faktur kepada diri sendiri",
-        "APP_BILLING_COMPANYBILL": "Tagihan Perusahaan"
+        "APP_BILLING_COMPANYBILL": "Tagihan Perusahaan",
+        "APP_BILLING_PLAYERFEE": "Tagihan yang Anda buat telah dibayar"
     },
     "DarkChatAPP": {
         "APP_DARKTCHAT_TITLE": "Obrolan Gelap",

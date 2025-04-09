@@ -28,7 +28,9 @@
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "E-Mail oder Passwort sind falsch",
         "PHONE_PIN_INFO": "Ihr Passwort lautet {pin}",
         "PHONE_PASSCODE_FORGOT": "Passwort vergessen",
-        "PHONE_PHONEBOX": "Telefonzelle"
+        "PHONE_PHONEBOX": "Telefonzelle",
+        "PHONE_SIGNAL_LOW": "Das Signal ist in Ihrer Region schwach",
+        "PHONE_SIGNAL_LOW_TITLE": "Schwaches Signal"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Ihr Telefon wird bereits geladen",
@@ -343,7 +345,12 @@
         "APP_MESSAGE_NOTIFY_IMAGE": "Bild gesendet",
         "APP_MESSAGE_NOTIFY_LOCATION": "Standort gesendet",
         "APP_MESSAGE_NOTIFY_LIVELOCATION": "Live-Standort gesendet",
-        "APP_MESSAGE_NOTIFY_VIDEO": "Video gesendet"
+        "APP_MESSAGE_NOTIFY_VIDEO": "Video gesendet",
+        "APP_MESSAGE_SEND_PHOTO_LINK": "Bild per Link senden",
+        "APP_MESSAGE_SEND_PHOTO_LINK_DESC": "Geben Sie die Bild-URL ein",
+        "APP_MESSAGE_SEND_PHOTO_LINK_ERROR": "Ungültige Bild-URL",
+        "APP_MESSAGE_SEND_PHOTO_GALLERY": "Bild aus Galerie senden",
+        "APP_MESSAGE_SEND_PHOTO_CAMERA": "Foto aufnehmen"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Hallo",
@@ -484,7 +491,15 @@
         "APP_DISPATCH_NOTIFY_YOURREPORT" : "Ihr Bericht wird derzeit geprüft...",
         "APP_DISPATCH_REPORT_MESSAGEEMPTY" : "Sie können keine leere Nachricht senden",
         "APP_DISPATCH_REPORT_STATUS": "Status",
-        "APP_DISPATCH_REPORT_NOSEND": "Sie haben einen Bericht. Sie können erst dann einen zweiten Bericht senden, wenn der alte Bericht abgeschlossen ist."
+        "APP_DISPATCH_REPORT_NOSEND": "Sie haben einen Bericht. Sie können erst dann einen zweiten Bericht senden, wenn der alte Bericht abgeschlossen ist.",
+        "APP_DISPATCH_REPORT_ACTIONS": "Aktionen",
+        "APP_DISPATCH_REPORT_ACTIONS_SETTINGS": "Einstellungen",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF": "Ein/Aus",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF_DESC": "Verfügbarkeit über die App ein- oder ausschalten",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY": "Dienst",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY_DESC": "Angeben, ob Sie im Dienst sind",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS": "Arbeitsanrufe",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS_DESC": "Arbeitsanrufe ein- oder ausschalten"
     },
     "StreamMode": {
         "APP_STREAMMODE_IMAGE": "Bild ausgeblendet, weil der Streamer-Modus aktiv ist"
@@ -609,7 +624,9 @@
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name}  erwähnte Sie in einem Beitrag",
         "APP_SQUAWK_NOTFIY_POST": "{name}  hat einen neuen Beitrag geteilt",
         "APP_SQUAWK_POSTING_PRELOADER": "Beitrag wird veröffentlicht...",
-        "APP_SQUAWK_BANNERERROR_LENGTH": "Die Banner-URL muss zwischen 6 und 255 Zeichen lang sein"
+        "APP_SQUAWK_BANNERERROR_LENGTH": "Die Banner-URL muss zwischen 6 und 255 Zeichen lang sein",
+        "APP_SQUAWK_BANNER": "Banner",
+        "APP_SQUAWK_AVATAR": "Avatar"
     },
     "BankAPP": {
         "APP_BANK_TITLE": "Bank",
@@ -687,7 +704,8 @@
         "APP_BILLING_SUCCESS": "Die Rechnung wurde erfolgreich ausgestellt",
         "APP_BILLING_ERROR": "Beim Ausstellen der Rechnung ist ein Fehler aufgetreten",
         "APP_BILLING_YOURSELF_ERROR": "Sie können Ihre Rechnung nicht selbst in Rechnung stellen",
-        "APP_BILLING_COMPANYBILL": "Firmenrechnung"
+        "APP_BILLING_COMPANYBILL": "Firmenrechnung",
+        "APP_BILLING_PLAYERFEE": "Die von Ihnen ausgestellte Rechnung wurde bezahlt"
     },
     "DarkChatAPP": {
         "APP_DARKTCHAT_TITLE": "Dark Chat",

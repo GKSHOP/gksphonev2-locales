@@ -1,7 +1,6 @@
 {
     "PHONE_SETTINGS_NUMBERFORMAT": "pt-PT",
     "PHONE_SETTINGS_DATEFORMAT": "pt-PT",
-
     "PHONE": {
         "PHONE_UNAVAILABLE": "Telemóvel desativado",
         "PHONE_SCREEN_LOADING": "A carregar...",
@@ -28,7 +27,9 @@
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "O email ou a palavra-passe estão incorretos",
         "PHONE_PIN_INFO": "A sua palavra-passe é {pin}",
         "PHONE_PASSCODE_FORGOT": "Reset",
-        "PHONE_PHONEBOX": "Cabine telefônica"
+        "PHONE_PHONEBOX": "Cabine telefônica",
+        "PHONE_SIGNAL_LOW": "O sinal está fraco na sua área",
+        "PHONE_SIGNAL_LOW_TITLE": "Sinal Fraco"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "O seu telemóvel já está a carregar",
@@ -343,7 +344,12 @@
         "APP_MESSAGE_NOTIFY_IMAGE": "Enviou uma imagem",
         "APP_MESSAGE_NOTIFY_LOCATION": "Enviou uma localização",
         "APP_MESSAGE_NOTIFY_LIVELOCATION": "Enviou uma localização ao vivo",
-        "APP_MESSAGE_NOTIFY_VIDEO": "Enviou um vídeo"
+        "APP_MESSAGE_NOTIFY_VIDEO": "Enviou um vídeo",
+        "APP_MESSAGE_SEND_PHOTO_LINK": "Enviar imagem via link",
+        "APP_MESSAGE_SEND_PHOTO_LINK_DESC": "Insira o URL da imagem",
+        "APP_MESSAGE_SEND_PHOTO_LINK_ERROR": "URL da imagem inválido",
+        "APP_MESSAGE_SEND_PHOTO_GALLERY": "Enviar imagem da galeria",
+        "APP_MESSAGE_SEND_PHOTO_CAMERA": "Tirar foto"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Olá",
@@ -484,7 +490,15 @@
         "APP_DISPATCH_NOTIFY_YOURREPORT": "O seu relatório está atualmente em análise...",
         "APP_DISPATCH_REPORT_MESSAGEEMPTY": "Não pode enviar uma mensagem vazia",
         "APP_DISPATCH_REPORT_STATUS": "Estado",
-        "APP_DISPATCH_REPORT_NOSEND": "Tem um relatório. Não pode enviar outro relatório até o anterior ser encerrado."
+        "APP_DISPATCH_REPORT_NOSEND": "Tem um relatório. Não pode enviar outro relatório até o anterior ser encerrado.",
+        "APP_DISPATCH_REPORT_ACTIONS": "Ações",
+        "APP_DISPATCH_REPORT_ACTIONS_SETTINGS": "Configurações",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF": "Ativar/Desativar",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF_DESC": "Ative ou desative a disponibilidade pelo aplicativo",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY": "Serviço",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY_DESC": "Indique se você está em serviço",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS": "Chamadas de trabalho",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS_DESC": "Ativar/Desativar chamadas de trabalho"
     },
     "StreamMode": {
         "APP_STREAMMODE_IMAGE": "Imagem oculta porque o Modo Streamer está ativo"
@@ -609,7 +623,9 @@
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name} mencionou-o numa publicação",
         "APP_SQUAWK_NOTFIY_POST": "{name} partilhou uma nova publicação",
         "APP_SQUAWK_POSTING_PRELOADER": "Postando...",
-        "APP_SQUAWK_BANNERERROR_LENGTH": "O URL do banner deve ter entre 6 e 255 caracteres"
+        "APP_SQUAWK_BANNERERROR_LENGTH": "O URL do banner deve ter entre 6 e 255 caracteres",
+        "APP_SQUAWK_BANNER": "Banner",
+        "APP_SQUAWK_AVATAR": "Avatar"
     },
     "BankAPP": {
         "APP_BANK_TITLE": "Banco",
@@ -687,7 +703,8 @@
         "APP_BILLING_SUCCESS": "A fatura foi emitida com sucesso",
         "APP_BILLING_ERROR": "Ocorreu um erro ao emitir a fatura",
         "APP_BILLING_YOURSELF_ERROR": "Não pode faturar para si mesmo",
-        "APP_BILLING_COMPANYBILL": "Fatura da Empresa"
+        "APP_BILLING_COMPANYBILL": "Fatura da Empresa",
+        "APP_BILLING_PLAYERFEE": "A fatura que você emitiu foi paga"
     },
     "DarkChatAPP": {
         "APP_DARKTCHAT_TITLE": "Chat Escuro",

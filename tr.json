@@ -28,7 +28,9 @@
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "E-posta veya şifre yanlış",
         "PHONE_PIN_INFO": "Şifreniz {pin}",
         "PHONE_PASSCODE_FORGOT": "Şifremi Unuttum",
-        "PHONE_PHONEBOX": "Telefon kulübesi"
+        "PHONE_PHONEBOX": "Telefon kulübesi",
+        "PHONE_SIGNAL_LOW": "Bulunduğunuz bölgede sinyal zayıf",
+        "PHONE_SIGNAL_LOW_TITLE": "Sinyal Zayıf"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Telefon zaten şarj oluyor",
@@ -344,7 +346,12 @@
         "APP_MESSAGE_NOTIFY_IMAGE": "Resim gönderdi",
         "APP_MESSAGE_NOTIFY_LOCATION": "Konum gönderdi",
         "APP_MESSAGE_NOTIFY_LIVELOCATION": "Canlı Konum gönderdi",
-        "APP_MESSAGE_NOTIFY_VIDEO": "Video gönderdi"
+        "APP_MESSAGE_NOTIFY_VIDEO": "Video gönderdi",
+        "APP_MESSAGE_SEND_PHOTO_LINK": "Link ile resim gönder",
+        "APP_MESSAGE_SEND_PHOTO_LINK_DESC": "Resim URL'sini girin",
+        "APP_MESSAGE_SEND_PHOTO_LINK_ERROR": "Resim URL'si geçersiz",
+        "APP_MESSAGE_SEND_PHOTO_GALLERY": "Galeriden Resim Gönder",
+        "APP_MESSAGE_SEND_PHOTO_CAMERA": "Fotoğraf Çek"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Merhaba",
@@ -485,7 +492,15 @@
         "APP_DISPATCH_NOTIFY_YOURREPORT" : "İhbarınız incelemeye alındı...",
         "APP_DISPATCH_REPORT_MESSAGEEMPTY" : "Boş mesaj gönderemezsiniz",
         "APP_DISPATCH_REPORT_STATUS": "Durum",
-        "APP_DISPATCH_REPORT_NOSEND": "Açık bir raporunuz var. Report kapatılana kadar ikinci bir rapor gönderemezsiniz."
+        "APP_DISPATCH_REPORT_NOSEND": "Açık bir raporunuz var. Report kapatılana kadar ikinci bir rapor gönderemezsiniz.",
+        "APP_DISPATCH_REPORT_ACTIONS" : "İşlemler",
+        "APP_DISPATCH_REPORT_ACTIONS_SETTINGS" : "Ayarlar",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF" : "Açık/Kapalı",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF_DESC" : "Uygulama üzerinden erişilebilirliği açın/kapatın",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY" : "Görev",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY_DESC" : "Görevde olup olmadığınızı belirtin",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS" : "İş Çağrıları",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS_DESC" : "İş çağrılarını aç/kapat"
     },
     "StreamMode": {
         "APP_STREAMMODE_IMAGE": "Yayıncı modu aktif olduğu için resim gizlendi"
@@ -610,8 +625,9 @@
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name}  bir gönderide senden bahsetti",
         "APP_SQUAWK_NOTFIY_POST": "{name}  yeni bir gönderi paylaştı",
         "APP_SQUAWK_POSTING_PRELOADER": "Gönderi paylaşılıyor...",
-
-        "APP_SQUAWK_BANNERERROR_LENGTH": "Banner URL'si 6 ile 255 karakter arasında olmalıdır"
+        "APP_SQUAWK_BANNERERROR_LENGTH": "Banner URL'si 6 ile 255 karakter arasında olmalıdır",
+        "APP_SQUAWK_BANNER": "Banner",
+        "APP_SQUAWK_AVATAR": "Avatar"
     },
     "BankAPP": {
         "APP_BANK_TITLE": "Banka",
@@ -689,7 +705,8 @@
         "APP_BILLING_SUCCESS": "Fatura başarıyla kesildi",
         "APP_BILLING_ERROR": "Fatura kesilirken bir hata oluştu",
         "APP_BILLING_YOURSELF_ERROR": "Kendi kendinize fatura kesemezsiniz",
-        "APP_BILLING_COMPANYBILL": "Şirket Faturası"
+        "APP_BILLING_COMPANYBILL": "Şirket Faturası",
+        "APP_BILLING_PLAYERFEE": "Kestiğiniz fatura ödendi"
     },
     "DarkChatAPP": {
         "APP_DARKTCHAT_TITLE": "Dark Chat",

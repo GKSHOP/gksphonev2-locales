@@ -27,7 +27,9 @@
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "Email or password is incorrect",
         "PHONE_PIN_INFO": "Your password is {pin}",
         "PHONE_PASSCODE_FORGOT": "Forgot Password",
-        "PHONE_PHONEBOX": "Phone booth"
+        "PHONE_PHONEBOX": "Phone booth",
+        "PHONE_SIGNAL_LOW": "The signal is weak in your area",
+        "PHONE_SIGNAL_LOW_TITLE": "Weak Signal"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Your phone is already charging",
@@ -342,7 +344,12 @@
         "APP_MESSAGE_NOTIFY_IMAGE": "Sent an image",
         "APP_MESSAGE_NOTIFY_LOCATION": "Sent a location",
         "APP_MESSAGE_NOTIFY_LIVELOCATION": "Sent a live location",
-        "APP_MESSAGE_NOTIFY_VIDEO": "Sent a video"
+        "APP_MESSAGE_NOTIFY_VIDEO": "Sent a video",
+        "APP_MESSAGE_SEND_PHOTO_LINK": "Send image via link",
+        "APP_MESSAGE_SEND_PHOTO_LINK_DESC": "Enter the image URL",
+        "APP_MESSAGE_SEND_PHOTO_LINK_ERROR": "Invalid image URL",
+        "APP_MESSAGE_SEND_PHOTO_GALLERY": "Send image from gallery",
+        "APP_MESSAGE_SEND_PHOTO_CAMERA": "Take photo"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Hello",
@@ -483,7 +490,15 @@
         "APP_DISPATCH_NOTIFY_YOURREPORT": "Your report is currently under review...",
         "APP_DISPATCH_REPORT_MESSAGEEMPTY": "You can't send an empty message",
         "APP_DISPATCH_REPORT_STATUS": "Status",
-        "APP_DISPATCH_REPORT_NOSEND": "You have a report. You can't send a second report until the old report is closed."
+        "APP_DISPATCH_REPORT_NOSEND": "You have a report. You can't send a second report until the old report is closed.",
+        "APP_DISPATCH_REPORT_ACTIONS": "Actions",
+        "APP_DISPATCH_REPORT_ACTIONS_SETTINGS": "Settings",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF": "On/Off",
+        "APP_DISPATCH_REPORT_ACTIONS_ONOFF_DESC": "Toggle availability via the app",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY": "Duty",
+        "APP_DISPATCH_REPORT_ACTIONS_DUTY_DESC": "Indicate whether you are on duty",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS": "Work Calls",
+        "APP_DISPATCH_REPORT_ACTIONS_CALLS_DESC": "Toggle work calls on/off"
     },
     "StreamMode": {
         "APP_STREAMMODE_IMAGE": "Image hidden because Streamer Mode is active"
@@ -608,7 +623,9 @@
         "APP_SQUAWK_NOTIFY_MENTIONING": "{name}  mentioned you in a post",
         "APP_SQUAWK_NOTFIY_POST": "{name}  shared a new post",
         "APP_SQUAWK_POSTING_PRELOADER": "Posting...",
-        "APP_SQUAWK_BANNERERROR_LENGTH": "Banner URL must be between 6 and 255 characters"
+        "APP_SQUAWK_BANNERERROR_LENGTH": "Banner URL must be between 6 and 255 characters",
+        "APP_SQUAWK_BANNER": "Banner",
+        "APP_SQUAWK_AVATAR": "Avatar"
     },
     "BankAPP": {
         "APP_BANK_TITLE": "Bank",
@@ -686,7 +703,8 @@
         "APP_BILLING_SUCCESS": "The invoice was issued successfully",
         "APP_BILLING_ERROR": "An error occurred while issuing the invoice",
         "APP_BILLING_YOURSELF_ERROR": "You cannot invoice yourself",
-        "APP_BILLING_COMPANYBILL": "Company Bill"
+        "APP_BILLING_COMPANYBILL": "Company Bill",
+        "APP_BILLING_PLAYERFEE": "The billing you issued has been paid"
     },
     "DarkChatAPP": {
         "APP_DARKTCHAT_TITLE": "Dark Chat",
