@@ -416,7 +416,7 @@
   },
   "ServicesAPP": {
     "APP_SERVICES_TITLE": "Hizmetler",
-    "APP_SERVICES_OPEN": "Aç",
+    "APP_SERVICES_OPEN": "Açık",
     "APP_SERVICES_CLOSE": "Kapat",
     "APP_SERVICES_LOCATIONSET": "Konum haritada işaretlendi",
     "APP_SERVICES_MESSAGE_TITLE": "Mesaj",
@@ -439,7 +439,7 @@
     "APP_SERVICES_REPORT_LOCATION": "Konum",
     "APP_SERVICES_REPORT_PHONE": "Telefon",
     "APP_SERVICES_REPORT_TIME": "Zaman",
-    "APP_SERVICES_REPORT_OPEN": "Aç",
+    "APP_SERVICES_REPORT_OPEN": "Açık",
     "APP_SERVICES_REPORT_CLOSE": "Kapat",
     "APP_SERVICES_REPORT_CALL": "Ara",
     "APP_SERVICES_REPORT_LOCATIONBUTTON": "Konum",
