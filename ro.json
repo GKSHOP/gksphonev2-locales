@@ -644,7 +644,7 @@
     "APP_BANK_QUICKSENDAMOUNTERROR2": "Nu ai suficient sold. Soldul tău este de {amount}.",
     "APP_BANK_QUICKSENDAMOUNTERROR3": "Nu poți trimite bani ție însuți.",
     "APP_BANK_QUICKSENDAMOUNTERROR4": "Vă rugăm să selectați un contact sau să introduceți un număr de telefon pentru a trimite bani.",
-    "APP_BANK_QUICKSENDCONFIRM": "Ești sigur că vrei să trimiți {amount} către ${name}? Taxa pentru această tranzacție este {fee}.",
+    "APP_BANK_QUICKSENDCONFIRM": "Ești sigur că vrei să trimiți {amount} către {name} ? Taxa pentru această tranzacție este {fee}.",
     "APP_BANK_SENDING": "Se procesează...",
     "APP_BANK_QUICKSENDSUCCESS": "Banii au fost trimiși cu succes.",
     "APP_BANK_SENDMONEY_ERROR_INVALID": "Vă rugăm să introduceți o sumă validă sau să selectați un contact.",

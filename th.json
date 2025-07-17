@@ -644,7 +644,7 @@
     "APP_BANK_QUICKSENDAMOUNTERROR2": "คุณมียอดเงินไม่เพียงพอ ยอดเงินของคุณคือ {amount}",
     "APP_BANK_QUICKSENDAMOUNTERROR3": "คุณไม่สามารถส่งเงินให้ตัวเองได้",
     "APP_BANK_QUICKSENDAMOUNTERROR4": "กรุณาเลือกผู้ติดต่อหรือป้อนหมายเลขโทรศัพท์เพื่อส่งเงิน",
-    "APP_BANK_QUICKSENDCONFIRM": "คุณแน่ใจหรือว่าต้องการส่ง {amount} ไปยัง ${name}? ค่าธรรมเนียมสำหรับการทำธุรกรรมนี้คือ {fee}",
+    "APP_BANK_QUICKSENDCONFIRM": "คุณแน่ใจหรือว่าต้องการส่ง {amount} ไปยัง {name} ? ค่าธรรมเนียมสำหรับการทำธุรกรรมนี้คือ {fee}",
     "APP_BANK_SENDING": "กำลังประมวลผล...",
     "APP_BANK_QUICKSENDSUCCESS": "ส่งเงินสำเร็จแล้ว",
     "APP_BANK_SENDMONEY_ERROR_INVALID": "กรุณาใส่จำนวนที่ถูกต้องหรือเลือกผู้ติดต่อ",

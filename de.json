@@ -644,7 +644,7 @@
     "APP_BANK_QUICKSENDAMOUNTERROR2": "Sie haben nicht genügend Guthaben. Ihr Guthaben beträgt {amount}.",
     "APP_BANK_QUICKSENDAMOUNTERROR3": "Sie können kein Geld an sich selbst senden.",
     "APP_BANK_QUICKSENDAMOUNTERROR4": "Bitte wählen Sie einen Kontakt aus oder geben Sie eine Telefonnummer ein, um Geld zu senden.",
-    "APP_BANK_QUICKSENDCONFIRM": "Sind Sie sicher, dass Sie {amount} an ${name} senden möchten? Die Gebühr für diese Transaktion beträgt {fee}.",
+    "APP_BANK_QUICKSENDCONFIRM": "Sind Sie sicher, dass Sie {amount} an {name} senden möchten? Die Gebühr für diese Transaktion beträgt {fee}.",
     "APP_BANK_SENDING": "Verarbeitung...",
     "APP_BANK_QUICKSENDSUCCESS": "Geld erfolgreich gesendet",
     "APP_BANK_SENDMONEY_ERROR_INVALID": "Bitte geben Sie einen gültigen Betrag ein oder wählen Sie einen Kontakt aus.",

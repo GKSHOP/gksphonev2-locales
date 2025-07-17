@@ -638,7 +638,7 @@
         "APP_BANK_QUICKSENDAMOUNTERROR2": "You do not have enough balance. Your balance is {amount}.",
         "APP_BANK_QUICKSENDAMOUNTERROR3": "You cannot send money to yourself.",
         "APP_BANK_QUICKSENDAMOUNTERROR4": "Please select a contact or enter a phone number to send money.",
-        "APP_BANK_QUICKSENDCONFIRM": "Are you sure you want to send {amount} to ${name}? The fee for this transaction is {fee}.",
+        "APP_BANK_QUICKSENDCONFIRM": "Are you sure you want to send {amount} to {name} ? The fee for this transaction is {fee}.",
         "APP_BANK_SENDING": "Processing...",
         "APP_BANK_QUICKSENDSUCCESS": "Money sent successfully",
         "APP_BANK_TOTALBALANCE": "Total Balance",

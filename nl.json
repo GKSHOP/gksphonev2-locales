@@ -644,7 +644,7 @@
     "APP_BANK_QUICKSENDAMOUNTERROR2": "Je hebt niet genoeg saldo. Je saldo is {amount}.",
     "APP_BANK_QUICKSENDAMOUNTERROR3": "Je kunt geen geld naar jezelf sturen.",
     "APP_BANK_QUICKSENDAMOUNTERROR4": "Selecteer een contact of voer een telefoonnummer in om geld te sturen.",
-    "APP_BANK_QUICKSENDCONFIRM": "Weet je zeker dat je {amount} naar ${name} wilt sturen? De kosten voor deze transactie zijn {fee}.",
+    "APP_BANK_QUICKSENDCONFIRM": "Weet je zeker dat je {amount} naar {name} wilt sturen? De kosten voor deze transactie zijn {fee}.",
     "APP_BANK_SENDING": "Verwerken...",
     "APP_BANK_QUICKSENDSUCCESS": "Geld succesvol verzonden",
     "APP_BANK_SENDMONEY_ERROR_INVALID": "Voer een geldig bedrag in of selecteer een contact.",

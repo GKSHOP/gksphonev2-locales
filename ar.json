@@ -644,7 +644,7 @@
     "APP_BANK_QUICKSENDAMOUNTERROR2": "ليس لديك رصيد كافٍ. رصيدك هو {amount}.",
     "APP_BANK_QUICKSENDAMOUNTERROR3": "لا يمكنك إرسال المال إلى نفسك.",
     "APP_BANK_QUICKSENDAMOUNTERROR4": "يرجى اختيار جهة اتصال أو إدخال رقم هاتف لإرسال المال.",
-    "APP_BANK_QUICKSENDCONFIRM": "هل أنت متأكد أنك تريد إرسال {amount} إلى ${name}؟ رسوم هذه المعاملة هي {fee}.",
+    "APP_BANK_QUICKSENDCONFIRM": "هل أنت متأكد أنك تريد إرسال {amount} إلى {name}؟ رسوم هذه المعاملة هي {fee}.",
     "APP_BANK_SENDING": "جارٍ المعالجة...",
     "APP_BANK_QUICKSENDSUCCESS": "تم إرسال المال بنجاح",
     "APP_BANK_SENDMONEY_ERROR_INVALID": "يرجى إدخال مبلغ صالح أو اختيار جهة اتصال",

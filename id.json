@@ -644,7 +644,7 @@
     "APP_BANK_QUICKSENDAMOUNTERROR2": "Anda tidak memiliki saldo yang cukup. Saldo Anda adalah {amount}.",
     "APP_BANK_QUICKSENDAMOUNTERROR3": "Anda tidak dapat mengirim uang kepada diri sendiri.",
     "APP_BANK_QUICKSENDAMOUNTERROR4": "Silakan pilih kontak atau masukkan nomor telepon untuk mengirim uang.",
-    "APP_BANK_QUICKSENDCONFIRM": "Apakah Anda yakin ingin mengirim {amount} ke ${name}? Biaya untuk transaksi ini adalah {fee}.",
+    "APP_BANK_QUICKSENDCONFIRM": "Apakah Anda yakin ingin mengirim {amount} ke {name} ? Biaya untuk transaksi ini adalah {fee}.",
     "APP_BANK_SENDING": "Sedang memproses...",
     "APP_BANK_QUICKSENDSUCCESS": "Uang telah berhasil dikirim",
     "APP_BANK_SENDMONEY_ERROR_INVALID": "Silakan masukkan jumlah yang valid atau pilih kontak.",

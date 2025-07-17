@@ -644,7 +644,7 @@
     "APP_BANK_QUICKSENDAMOUNTERROR2": "您的餘額不足。您的餘額為 {amount}。",
     "APP_BANK_QUICKSENDAMOUNTERROR3": "您無法將錢轉給自己。",
     "APP_BANK_QUICKSENDAMOUNTERROR4": "請選擇一個聯絡人或輸入電話號碼以發送款項。",
-    "APP_BANK_QUICKSENDCONFIRM": "您確定要將 {amount} 發送給 ${name} 嗎？這筆交易的手續費為 {fee}。",
+    "APP_BANK_QUICKSENDCONFIRM": "您確定要將 {amount} 發送給 {name} 嗎？這筆交易的手續費為 {fee}。",
     "APP_BANK_SENDING": "處理中...",
     "APP_BANK_QUICKSENDSUCCESS": "款項已成功發送",
     "APP_BANK_SENDMONEY_ERROR_INVALID": "請輸入有效的金額或選擇一個聯絡人。",

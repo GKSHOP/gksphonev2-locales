@@ -644,7 +644,7 @@
     "APP_BANK_QUICKSENDAMOUNTERROR2": "Vous n'avez pas suffisamment de solde. Votre solde est de {amount}.",
     "APP_BANK_QUICKSENDAMOUNTERROR3": "Vous ne pouvez pas vous envoyer de l'argent.",
     "APP_BANK_QUICKSENDAMOUNTERROR4": "Veuillez sélectionner un contact ou entrer un numéro de téléphone pour envoyer de l'argent.",
-    "APP_BANK_QUICKSENDCONFIRM": "Êtes-vous sûr de vouloir envoyer {amount} à ${name} ? Les frais pour cette transaction s'élèvent à {fee}.",
+    "APP_BANK_QUICKSENDCONFIRM": "Êtes-vous sûr de vouloir envoyer {amount} à {name} ? Les frais pour cette transaction s'élèvent à {fee}.",
     "APP_BANK_SENDING": "Traitement...",
     "APP_BANK_QUICKSENDSUCCESS": "Argent envoyé avec succès",
     "APP_BANK_SENDMONEY_ERROR_INVALID": "Veuillez saisir un montant valide ou sélectionner un contact.",

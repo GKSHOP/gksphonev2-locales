@@ -644,7 +644,7 @@
     "APP_BANK_QUICKSENDAMOUNTERROR2": "Du har inte tillräckligt med saldo. Ditt saldo är {amount}.",
     "APP_BANK_QUICKSENDAMOUNTERROR3": "Du kan inte skicka pengar till dig själv.",
     "APP_BANK_QUICKSENDAMOUNTERROR4": "Vänligen välj en kontakt eller ange ett telefonnummer för att skicka pengar.",
-    "APP_BANK_QUICKSENDCONFIRM": "Är du säker på att du vill skicka {amount} till ${name}? Avgiften för denna transaktion är {fee}.",
+    "APP_BANK_QUICKSENDCONFIRM": "Är du säker på att du vill skicka {amount} till {name} ? Avgiften för denna transaktion är {fee}.",
     "APP_BANK_SENDING": "Behandlar...",
     "APP_BANK_QUICKSENDSUCCESS": "Pengar skickades framgångsrikt",
     "APP_BANK_SENDMONEY_ERROR_INVALID": "Vänligen ange ett giltigt belopp eller välj en kontakt.",

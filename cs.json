@@ -644,7 +644,7 @@
     "APP_BANK_QUICKSENDAMOUNTERROR2": "Nemáte dostatek prostředků. Váš zůstatek je {amount}.",
     "APP_BANK_QUICKSENDAMOUNTERROR3": "Nemůžete si posílat peníze sami sobě.",
     "APP_BANK_QUICKSENDAMOUNTERROR4": "Vyberte kontakt nebo zadejte telefonní číslo, na které chcete poslat peníze.",
-    "APP_BANK_QUICKSENDCONFIRM": "Opravdu chcete poslat {amount} na ${name}? Poplatek za tuto transakci je {fee}.",
+    "APP_BANK_QUICKSENDCONFIRM": "Opravdu chcete poslat {amount} na {name} ? Poplatek za tuto transakci je {fee}.",
     "APP_BANK_SENDING": "Zpracovávám...",
     "APP_BANK_QUICKSENDSUCCESS": "Peníze byly úspěšně odeslány.",
     "APP_BANK_SENDMONEY_ERROR_INVALID": "Prosím zadejte platnou částku nebo vyberte kontakt.",
