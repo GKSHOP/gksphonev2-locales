@@ -29,7 +29,7 @@
     "PHONE_SIGNAL_LOW_TITLE": "訊號弱",
     "PHONE_EDIT_MODE_TITLE": "編輯模式",
     "PHONE_EDIT_MODE_DESC": "當你刪除應用程式時，它只是從頁面上刪除，並沒有被移除。",
-    "PHONE_BLOCK_URL_DESC": "此網址已被伺服器擁有者封鎖。",
+    "PHONE_BLOCK_URL_DESC": "此連結已被列入黑名單。",
     "PHONE_NO_ITEM": "您沒有電話"
   },
   "Charge": {
@@ -1774,6 +1774,7 @@
     "APP_DARKCHAT_ROOM_NAME_USED": "這個房間名稱已被使用。",
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "您沒有權限編輯此房間。",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "房間無法更新",
-    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "您沒有權限刪除此房間或該房間未找到"
+    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "您沒有權限刪除此房間或該房間未找到",
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "{channel} 頻道有新消息"
   }
 }

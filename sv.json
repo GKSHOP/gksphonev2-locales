@@ -29,7 +29,7 @@
     "PHONE_SIGNAL_LOW_TITLE": "Svag signal",
     "PHONE_EDIT_MODE_TITLE": "Redigeringsläge",
     "PHONE_EDIT_MODE_DESC": "När du tar bort applikationen tas den endast bort från sidan, inte helt.",
-    "PHONE_BLOCK_URL_DESC": "Denna URL är blockerad av serverägaren.",
+    "PHONE_BLOCK_URL_DESC": "Den här länken är svartlistad.",
     "PHONE_NO_ITEM": "Du har ingen telefon"
   },
   "Charge": {
@@ -1774,6 +1774,7 @@
     "APP_DARKCHAT_ROOM_NAME_USED": "Detta rum namn används",
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "Du har inte behörighet att redigera detta rum.",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "Rummet kunde inte uppdateras.",
-    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "Du har inte behörighet att ta bort detta rum eller så hittades inte rummet."
+    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "Du har inte behörighet att ta bort detta rum eller så hittades inte rummet.",
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "Du har ett nytt meddelande i {channel} kanalen."
   }
 }

@@ -29,7 +29,7 @@
     "PHONE_SIGNAL_LOW_TITLE": "สัญญาณอ่อน",
     "PHONE_EDIT_MODE_TITLE": "โหมดแก้ไข",
     "PHONE_EDIT_MODE_DESC": "เมื่อคุณลบแอปพลิเคชัน มันจะถูกลบออกจากหน้าเพียงเท่านั้น ไม่ได้ถูกลบออกจริง ๆ",
-    "PHONE_BLOCK_URL_DESC": "URL นี้ถูกบล็อกโดยเจ้าของเซิร์ฟเวอร์",
+    "PHONE_BLOCK_URL_DESC": "ลิงค์นี้เป็นบัญชีดำ",
     "PHONE_NO_ITEM": "คุณไม่มีโทรศัพท์"
   },
   "Charge": {
@@ -1774,6 +1774,7 @@
     "APP_DARKCHAT_ROOM_NAME_USED": "ชื่อห้องนี้ถูกใช้งาน",
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "คุณไม่มีสิทธิ์ในการแก้ไขห้องนี้",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "ไม่สามารถอัปเดตห้องได้",
-    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "คุณไม่มีสิทธิ์ลบห้องนี้หรือไม่พบห้องดังกล่าว"
+    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "คุณไม่มีสิทธิ์ลบห้องนี้หรือไม่พบห้องดังกล่าว",
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "คุณมีข้อความใหม่ในช่อง {channel}"
   }
 }

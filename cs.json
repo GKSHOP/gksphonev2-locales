@@ -29,7 +29,7 @@
     "PHONE_SIGNAL_LOW_TITLE": "Slabý signál",
     "PHONE_EDIT_MODE_TITLE": "Režim úprav",
     "PHONE_EDIT_MODE_DESC": "Když aplikaci odstraníte, je pouze odstraněna ze stránky, nikoli smazána.",
-    "PHONE_BLOCK_URL_DESC": "Tato URL je blokována vlastníkem serveru.",
+    "PHONE_BLOCK_URL_DESC": "Tento odkaz je na černé listině.",
     "PHONE_NO_ITEM": "Nemáte telefon"
   },
   "Charge": {
@@ -1774,6 +1774,7 @@
     "APP_DARKCHAT_ROOM_NAME_USED": "Toto jméno místnosti je používáno.",
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "Nemáte oprávnění upravovat tuto místnost.",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "Pokoj nebylo možné aktualizovat.",
-    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "Nemáte oprávnění k odstranění této místnosti nebo místnost nebyla nalezena."
+    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "Nemáte oprávnění k odstranění této místnosti nebo místnost nebyla nalezena.",
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "Máte novou zprávu v kanálu {channel}."
   }
 }

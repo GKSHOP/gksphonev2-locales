@@ -29,7 +29,7 @@
     "PHONE_SIGNAL_LOW_TITLE": "إشارة ضعيفة",
     "PHONE_EDIT_MODE_TITLE": "وضع التحرير",
     "PHONE_EDIT_MODE_DESC": "عندما تقوم بحذف التطبيق، فإنه يُحذف فقط من الصفحة، وليس من النظام.",
-    "PHONE_BLOCK_URL_DESC": "تم حظر هذا الرابط من قبل مالك الخادم.",
+    "PHONE_BLOCK_URL_DESC": "هذا الرابط مدرج في القائمة السوداء.",
     "PHONE_NO_ITEM": "ليس لديك هاتف"
   },
   "Charge": {
@@ -1774,6 +1774,7 @@
     "APP_DARKCHAT_ROOM_NAME_USED": "اسم هذه الغرفة مستخدم",
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "ليس لديك إذن لتعديل هذه الغرفة",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "لم يكن بالإمكان تحديث الغرفة",
-    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "ليس لديك الإذن لحذف هذه الغرفة أو لم يتم العثور على الغرفة."
+    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "ليس لديك الإذن لحذف هذه الغرفة أو لم يتم العثور على الغرفة.",
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "لديك رسالة جديدة في قناة {channel}"
   }
 }

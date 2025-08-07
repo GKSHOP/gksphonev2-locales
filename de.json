@@ -29,7 +29,7 @@
     "PHONE_SIGNAL_LOW_TITLE": "Schwaches Signal",
     "PHONE_EDIT_MODE_TITLE": "Bearbeitungsmodus",
     "PHONE_EDIT_MODE_DESC": "Wenn Sie die Anwendung löschen, wird sie nur von der Seite entfernt, nicht vollständig gelöscht.",
-    "PHONE_BLOCK_URL_DESC": "Diese URL ist vom Serverbesitzer blockiert.",
+    "PHONE_BLOCK_URL_DESC": "Dieser Link ist auf die schwarze Liste gesetzt.",
     "PHONE_NO_ITEM": "Sie haben kein Telefon"
   },
   "Charge": {
@@ -1774,6 +1774,7 @@
     "APP_DARKCHAT_ROOM_NAME_USED": "Dieser Raumname wird verwendet.",
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "Sie haben keine Berechtigung, diesen Raum zu bearbeiten.",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "Zimmer konnte nicht aktualisiert werden.",
-    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "Sie haben keine Berechtigung, diesen Raum zu löschen, oder der Raum wurde nicht gefunden."
+    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "Sie haben keine Berechtigung, diesen Raum zu löschen, oder der Raum wurde nicht gefunden.",
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "Sie haben eine neue Nachricht im {channel} Kanal."
   }
 }

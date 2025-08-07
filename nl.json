@@ -29,7 +29,7 @@
     "PHONE_SIGNAL_LOW_TITLE": "Zwak Signaal",
     "PHONE_EDIT_MODE_TITLE": "Bewerkmodus",
     "PHONE_EDIT_MODE_DESC": "Wanneer je de applicatie verwijdert, wordt deze alleen van de pagina verwijderd, niet volledig verwijderd.",
-    "PHONE_BLOCK_URL_DESC": "Deze URL is geblokkeerd door de server eigenaar.",
+    "PHONE_BLOCK_URL_DESC": "Deze link staat op de zwarte lijst.",
     "PHONE_NO_ITEM": "U heeft geen telefoon"
   },
   "Charge": {
@@ -1774,6 +1774,7 @@
     "APP_DARKCHAT_ROOM_NAME_USED": "Deze kamernaam wordt gebruikt.",
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "Je hebt geen toestemming om deze kamer te bewerken.",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "Kamer kon niet worden bijgewerkt.",
-    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "U heeft geen toestemming om deze kamer te verwijderen of de kamer is niet gevonden."
+    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "U heeft geen toestemming om deze kamer te verwijderen of de kamer is niet gevonden.",
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "U heeft een nieuw bericht in het {channel} kanaal."
   }
 }

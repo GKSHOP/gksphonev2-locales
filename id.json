@@ -29,7 +29,7 @@
     "PHONE_SIGNAL_LOW_TITLE": "Sinyal Lemah",
     "PHONE_EDIT_MODE_TITLE": "Mode Edit",
     "PHONE_EDIT_MODE_DESC": "Ketika Anda menghapus aplikasi, aplikasi tersebut hanya dihapus dari halaman, bukan dihapus sepenuhnya.",
-    "PHONE_BLOCK_URL_DESC": "URL ini diblokir oleh pemilik server.",
+    "PHONE_BLOCK_URL_DESC": "Tautan ini masuk daftar hitam",
     "PHONE_NO_ITEM": "Anda tidak punya telepon"
   },
   "Charge": {
@@ -1774,6 +1774,7 @@
     "APP_DARKCHAT_ROOM_NAME_USED": "Nama ruangan ini digunakan",
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "Anda tidak memiliki izin untuk mengedit ruangan ini.",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "Kamar tidak dapat diperbarui.",
-    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "Anda tidak memiliki izin untuk menghapus ruangan ini atau ruangan tersebut tidak ditemukan."
+    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "Anda tidak memiliki izin untuk menghapus ruangan ini atau ruangan tersebut tidak ditemukan.",
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "Anda memiliki pesan baru di saluran {channel}."
   }
 }

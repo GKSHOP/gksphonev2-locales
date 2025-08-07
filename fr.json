@@ -29,7 +29,7 @@
     "PHONE_SIGNAL_LOW_TITLE": "Signal Faible",
     "PHONE_EDIT_MODE_TITLE": "Mode d'édition",
     "PHONE_EDIT_MODE_DESC": "Lorsque vous supprimez l'application, elle est uniquement supprimée de la page, mais pas désinstallée.",
-    "PHONE_BLOCK_URL_DESC": "Cette URL est bloquée par le propriétaire du serveur.",
+    "PHONE_BLOCK_URL_DESC": "Ce lien est sur liste noire.",
     "PHONE_NO_ITEM": "Vous n'avez pas de téléphone"
   },
   "Charge": {
@@ -1774,6 +1774,7 @@
     "APP_DARKCHAT_ROOM_NAME_USED": "Ce nom de salle est utilisé.",
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "Vous n'avez pas la permission de modifier cette pièce.",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "La chambre n'a pas pu être mise à jour.",
-    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "Vous n'avez pas la permission de supprimer cette salle ou la salle n'a pas été trouvée."
+    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "Vous n'avez pas la permission de supprimer cette salle ou la salle n'a pas été trouvée.",
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "Vous avez un nouveau message dans le canal {channel}."
   }
 }

@@ -29,7 +29,7 @@
     "PHONE_SIGNAL_LOW_TITLE": "Semnal Slab",
     "PHONE_EDIT_MODE_TITLE": "Mod de editare",
     "PHONE_EDIT_MODE_DESC": "Când ștergi aplicația, aceasta este doar eliminată de pe pagină, nu și ștearsă complet.",
-    "PHONE_BLOCK_URL_DESC": "Această adresă URL este blocată de proprietarul serverului.",
+    "PHONE_BLOCK_URL_DESC": "Kado linko si blacklistad .",
     "PHONE_NO_ITEM": "Naj tut telefono"
   },
   "Charge": {
@@ -1774,6 +1774,7 @@
     "APP_DARKCHAT_ROOM_NAME_USED": "Acest nume de cameră este folosit.",
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "Nu ai permisiunea de a edita această cameră.",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "Camera nu a putut fi actualizată.",
-    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "Nu aveți permisiunea de a șterge această cameră sau camera nu a fost găsită."
+    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "Nu aveți permisiunea de a șterge această cameră sau camera nu a fost găsită.",
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "Ai un mesaj nou în canalul {channel}."
   }
 }

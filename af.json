@@ -29,7 +29,7 @@
     "PHONE_SIGNAL_LOW_TITLE": "Swak Sein",
     "PHONE_EDIT_MODE_TITLE": "Wysigmodus",
     "PHONE_EDIT_MODE_DESC": "Wanneer jy die toepassing verwyder, word dit slegs van die bladsy verwyder, nie heeltemal verwyder nie.",
-    "PHONE_BLOCK_URL_DESC": "Hierdie URL is deur die bediener-eienaar geblokkeer.",
+    "PHONE_BLOCK_URL_DESC": "Hierdie URL is geblokkeer.",
     "PHONE_NO_ITEM": "Jy het nie 'n foon nie"
   },
   "Charge": {
@@ -1774,6 +1774,7 @@
     "APP_DARKCHAT_ROOM_NAME_USED": "Hierdie kamernaam word gebruik.",
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "Jy het nie toestemming om hierdie kamer te wysig nie.",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "Kamer kon nie opgedateer word nie.",
-    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "U het nie toestemming om hierdie kamer te verwyder nie of die kamer is nie gevind nie."
+    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "U het nie toestemming om hierdie kamer te verwyder nie of die kamer is nie gevind nie.",
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "U het 'n nuwe boodskap in {channel} kanaal"
   }
 }

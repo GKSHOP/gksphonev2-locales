@@ -29,7 +29,7 @@
     "PHONE_SIGNAL_LOW_TITLE": "Zayıf Sinyal",
     "PHONE_EDIT_MODE_TITLE": "Düzenleme Modu",
     "PHONE_EDIT_MODE_DESC": "Bir uygulamayı sildiğinizde uygulama ana sayfadan silinir, telefondan kaldırılmaz.",
-    "PHONE_BLOCK_URL_DESC": "Bu URL, sunucu sahibi tarafından engellenmiştir.",
+    "PHONE_BLOCK_URL_DESC": "Bu bağlantı kara listeye alındı.",
     "PHONE_NO_ITEM": "Telefonun yok"
   },
   "Charge": {
@@ -1774,6 +1774,7 @@
     "APP_DARKCHAT_ROOM_NAME_USED": "Bu oda adı kullanılıyor.",
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "Bu odayı düzenleme izniniz yok.",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "Oda güncellenemedi.",
-    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "Bu odayı silmek için izniniz yok veya oda bulunamadı."
+    "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "Bu odayı silmek için izniniz yok veya oda bulunamadı.",
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "{channel} kanalında yeni bir mesaj var"
   }
 }

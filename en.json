@@ -29,7 +29,7 @@
         "PHONE_SIGNAL_LOW_TITLE": "Weak Signal",
         "PHONE_EDIT_MODE_TITLE": "Edit Mode",
         "PHONE_EDIT_MODE_DESC": "When you delete the application, it is only deleted from the page, not removed.",
-        "PHONE_BLOCK_URL_DESC": "This URL is blocked by the server owner.",
+        "PHONE_BLOCK_URL_DESC": "This URL is blacklisted.",
         "PHONE_NO_ITEM": "You don't have a phone."
     },
     "Charge": {
@@ -811,7 +811,8 @@
         "APP_DARKCHAT_ROOM_NAME_USED": "This room name is used",
         "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "You do not have permission to edit this room",
         "APP_DARKCHAT_ROOM_UPDATE_FAILED": "Room could not be updated",
-        "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "You do not have permission to delete this room or the room was not found"
+        "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "You do not have permission to delete this room or the room was not found",
+        "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "You have a new message in {channel} channel"
     },
     "AdvertisingAPP": {
         "APP_AD_TITLE": "Advertising",
