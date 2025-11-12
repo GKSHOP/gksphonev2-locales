@@ -92,7 +92,6 @@
     "APP_SETTING_NOTIFICATIONS": "Kennisgewings",
     "APP_SETTING_BORDER_COLOR": "Rand Kleur",
     "APP_SETTING_DARK_MODE": "Donker modus",
-    "APP_SETTING_RESET_PHONE": "Stel foon terug",
     "APP_SETTING_ABOUT": "Oor",
     "APP_SETTING_LOOKID": "Kyk ID",
     "APP_SETTING_PASSWORD": "Wagwoord",
@@ -108,29 +107,11 @@
     "APP_SETTING_PHONENAME": "Telefoon Naam",
     "APP_SETTING_SOFTWAREVERSION": "Sagteware weergawe",
     "APP_SETTING_PHONEVERSION": "Foon weergawe",
-    "APP_SETTING_PHONEUPTODATE": "Jou foon is op datum",
-    "APP_SETTING_PHONEUPDATE": "Dateer asseblief jou foon op. Kontak jou bediener eienaar.",
     "APP_SETTING_PHONE_RESETLOADING": "Wagwoord word tans teruggestel...",
     "APP_SETTING_PHONE_RESETERROR": "Wagwoord kon nie terugstel nie",
     "APP_SETTING_PHONESERIALNUMBER": "Reeksnommer",
-    "APP_SETTING_REPORTBUG": "Rapporteer fout",
-    "APP_SETTING_BUGREPORTLABEL": "Rapporteer fout",
-    "APP_SETTING_BUGREPORTDESC": "Skryf asseblief jou foutverslag",
-    "APP_SETTING_BUGREPORTSEND": "Stuur",
-    "APP_SETTING_BUGREPORTCANCEL": "Kanselleer",
-    "APP_SETTING_BUGREPORTSUCCESS": "Jou foutverslag is gestuur",
-    "APP_SETTING_BUGREPORTEMPTY": "Jy kan nie 'n leë foutverslag stuur nie",
-    "APP_SETTING_FEEDBACK": "Terugvoer",
-    "APP_SETTING_FEEDBACKLABEL": "Terugvoer",
-    "APP_SETTING_FEEDBACKDESC": "Skryf asseblief jou terugvoer",
-    "APP_SETTING_FEEDBACKSEND": "Stuur",
-    "APP_SETTING_FEEDBACKCANCEL": "Kanselleer",
-    "APP_SETTING_FEEDBACKSUCCESS": "Jou terugvoer is gestuur",
-    "APP_SETTING_FEEDBACKEMPTY": "Jy kan nie 'n leë terugvoer stuur nie",
     "APP_SETTING_CHANGLOG": "Veranderlogboek",
     "APP_SETTING_CHANGLOGPOUPCLOSE": "Maaktoe",
-    "APP_SETTING_CUSTOMEWALLPAPER": "Pasgemaakte plakpapier",
-    "APP_SETTING_CUSTOMEWALLPAPERDESC": "Voer die URL van die prent in wat jy as jou muurpapier wil gebruik",
     "APP_SETTING_LANG": "Taal",
     "APP_SETTING_NAMECHANGELOADING": "Verander naam...",
     "APP_SETTING_NAMECHANGEDESC": "Spesifiseer jou naam wat in sommige toepassings en funksies gebruik sal word",
@@ -140,7 +121,27 @@
     "APP_SETTING_QRCODE_SECRET_DESC": "Hierdie QR-kode verifieer jou foon. Moenie hierdie kode met enigiemand deel nie.",
     "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "Jou naam moet minstens 4 karakters wees",
     "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Jou naam mag nie meer as 20 karakters wees nie",
-    "APP_SETTING_LUCY": "Lucy"
+    "APP_SETTING_LUCY": "Lucy",
+    "APP_SETTING_DETAILS": "Klik vir meer besonderhede.",
+    "APP_SETTING_PHONE_SIZE": "Telefoon Skaal",
+    "APP_SETTING_PHONE": "Telefoon",
+    "APP_SETTING_ACCOUNT": "Rekening",
+    "APP_SETTING_SOFTWARE_UPDATE": "Sagteware-opdatering",
+    "APP_SETTING_CHANGE": "Verander",
+    "APP_SETTING_NAME": "Naam",
+    "APP_SETTING_MAIL": "E-pos",
+    "APP_SETTING_PHONE_NUMBER": "Telefoon",
+    "APP_SETTING_SHARE": "Deel",
+    "APP_SETTING_SAVE": "Stoor",
+    "APP_SETTING_CANCEL": "Kanselleer",
+    "APP_SETTING_PRIVATE_CALL": "Privaat oproep",
+    "APP_SETTING_BLOCKED_NUMBERS": "Gesperde Nommers",
+    "APP_SETTING_DONE": "Voltooid",
+    "APP_SETTING_EDIT": "Wysig",
+    "APP_SETTING_PHONE_SIZE_SAVED": "Die foon skaal is suksesvol gestoor.",
+    "APP_SETTING_GKS_UP_TO_DATE": "GKS is op datum.",
+    "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS is nie op datum nie.",
+    "APP_SETTING_ADD_WALLPAPER": "Voeg Agtergrond by"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "Contact",
@@ -332,10 +333,14 @@
     "APP_MESSAGE_BLOCK_NUMER": "Jy is deur hierdie nommer geblokkeer.",
     "APP_MESSAGE_GROUP_ADD_MEMBER_ERROR": "Jy kan die persoon nie by die groep voeg nie.",
     "APP_MESSAGE_GROUP_REMOVE_MEMBER_ERROR": "Die persoon kon nie die groep verlaat nie.",
-    "APP_MESSAGE_SAVE_CONTACT_ERROR_YOU_SELF": "Jy kan jouself nie red nie."
+    "APP_MESSAGE_SAVE_CONTACT_ERROR_YOU_SELF": "Jy kan jouself nie red nie.",
+    "APP_MESSAGE_GPS": "GPS",
+    "APP_MESSAGE_CAMERA": "Kamera",
+    "APP_MESSAGE_MIC": "Mikrofoon",
+    "APP_MESSAGE_EMOJI": "Emoji",
+    "APP_MESSAGE_SHARE_CONTACT": "Deel Kontak"
   },
   "SetupScreen": {
-    "PHONE_SETUP_HELLO": "Hello",
     "PHONE_SETUP_CLIKUP": "Klik om jou foon op te stel",
     "SettingLangueage": "Stel tans taal …",
     "PHONE_SETUP_LOGINGKSID": "GKS ID",
@@ -414,7 +419,8 @@
       "question9": "Waar het jy jou eggenoot ontmoet?"
     },
     "PHONE_SETUP_FINISH_ERROR": "Die telefoon kon nie geïnstalleer word nie.",
-    "PHONE_SETUP_CHANGE_LANGUAGE_ERROR": "Fout om taal te verander."
+    "PHONE_SETUP_CHANGE_LANGUAGE_ERROR": "Fout om taal te verander.",
+    "PHONE_SETUP_LOGIN_ERROR_OWNER": "Hierdie e-pos is beskerm deur die eienaar. Jy het nie toestemming om toegang tot die telefoondatas te verkry nie."
   },
   "ServicesAPP": {
     "APP_SERVICES_TITLE": "Dienste",
@@ -501,7 +507,14 @@
     "APP_SERVICES_MANAGE_EMPLOYEES_CHANGEGRADE_SUCESS": "U het die werknemer se graad suksesvol verander.",
     "APP_SERVICES_MANAGE_EMPLOYEES_CHANGEGRADE_FAILED": "'n Fout het voorgekom terwyl die werknemer se graad verander is.",
     "APP_SERVICES_REPORT_REPORT": "Verslag",
-    "APP_SERVICES_REPORT_REPORTNO": "Niemand is nog geïnteresseerd in die verslag nie."
+    "APP_SERVICES_REPORT_REPORTNO": "Niemand is nog geïnteresseerd in die verslag nie.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_DESC": "Hoeveel geld wil jy onttrek?",
+    "APP_SERVICES_SOCIETY_WITHDRAW_ERROR": "Ongeldige bedrag",
+    "APP_SERVICES_SOCIETY_WITHDRAW_CONFIRM": "Is jy seker jy wil {amount} onttrek?",
+    "APP_SERVICES_SOCIETY_WITHDRAW_SUCCESS": "Geld is suksesvol onttrek.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_FAILED": "Daar het 'n fout voorgekom tydens die onttrekking van geld.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_INSUFFICIENT_FUNDS": "Daar is nie genoeg geld nie.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_PERMISSION_DENIED": "Jy het nie toestemming vir hierdie operasie nie."
   },
   "StreamMode": {
     "APP_STREAMMODE_IMAGE": "Prent versteek omdat streamermodus aktief is"
@@ -719,15 +732,11 @@
   },
   "AdvertisingAPP": {
     "APP_AD_TITLE": "Advertising",
-    "APP_AD_HEADER": "Voer",
-    "APP_AD_FAV": "Gunstelinge",
-    "APP_AD_PROFILE": "Profiel",
     "APP_AD_MODAL_NEWADD": "Nuwe advertensie",
     "APP_AD_SHAREAD": "Deel advertensie",
     "APP_AD_SEARCH": "Soek",
     "APP_AD_MODAL_CANCEL": "Kanselleer",
     "APP_AD_MODAL_SHARE": "Deel",
-    "APP_AD_MODAL_FILTERSELECT": "Kies Filter",
     "APP_AD_MODAL_IMAGEADD": "Voeg prent by",
     "APP_AD_MODAL_TEXTAREALABEL": "Skryf 'n boodskap",
     "APP_AD_MODAL_TEXTAREAPLACEHOLDER": "Skryf 'n boodskap",
@@ -738,7 +747,19 @@
     "APP_AD_SHAREMINCHARACTER": "Jy moet ten minste 15 karakters invoer",
     "APP_AD_SHARECONFIRM_DESC": "Is jy seker jy wil 'n advertensie skep? Transaksie fooi: R {fee}",
     "APP_AD_SHARE_ERROR_NOMONEY": "You don't have enough money",
-    "APP_AD_SHARE_NOTFY_POST": "{name} shared a new advertisement"
+    "APP_AD_SHARE_NOTFY_POST": "{name} shared a new advertisement",
+    "APP_AD_CREATING": "Advertensie aan die gang...",
+    "APP_AD_SUCCESS": "Die advertensie is suksesvol gedeel.",
+    "APP_AD_ERROR": "Daar het 'n fout voorgekom tydens die deel van die advertensie.",
+    "APP_AD_DELETE_SUCCESS": "Die advertensie is suksesvol verwyder.",
+    "APP_AD_SHARETITLE": "Die titel moet tussen 5 en 250 karakters lank wees.",
+    "APP_AD_CAMERA_GALLERY": "Kamera/Galery",
+    "APP_AD_MODAL_LINK": "Skakel",
+    "APP_AD_VIEW_LIST": "Lys",
+    "APP_AD_VIEW_GRID": "Galery",
+    "APP_AD_MODAL_TITLE": "Advertentietitel*",
+    "APP_AD_MODAL_PRICE": "Prys",
+    "APP_DIALOG_CONFIRM_DELETE": "Is jy seker jy wil hierdie advertensie verwyder?"
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "News",
@@ -753,27 +774,6 @@
     "APP_NEWS_NEWSSEARCH": "Soek",
     "APP_NEWS_NOTIFY_NEW": "'n Nuus is bygevoeg",
     "APP_NEWS_DETAILTITLE": "Nuus Woord"
-  },
-  "ValeAPP": {
-    "APP_VALE_TITLE": "Vale",
-    "APP_VALE_CARTYPE": "Voertuig Tipe",
-    "APP_VALE_CARMAXSPEED": "Maksimum spoed",
-    "APP_VALE_KMH": "km/h",
-    "APP_VALE_GARAGE": "Motorhuis",
-    "APP_VALE_BRING": "BRING",
-    "APP_VALE_TRACK": "SPOOR",
-    "APP_VALE_SEARCH": "Soek",
-    "APP_VALE_MODAL_BRING": "Wil jy hê dat die bediende jou motor moet bring?",
-    "APP_VALE_ERROR_BRING_NOMONEY": "Jy het nie genoeg geld nie",
-    "APP_VALE_ERROR_BRING_CARNOTFOUND": "Jou motor is nie gevind nie",
-    "APP_VALE_ERROR_BRING_CARIMPOUNDED": "Jou voertuig kan nie ontbied word nie omdat daar beslag gelê is.",
-    "APP_VALE_ERROR_BRING_NOTINGARAGE": "Jou motor is nie in die motorhuis nie",
-    "APP_VALE_ERROR_BRING_CAROUTSIDE": "Die motor kan nie gebring word nie, want dit is buite.",
-    "APP_VALE_SUCESS_BRING": "Voertuig op die pad",
-    "APP_VALE_MARKED": "Jou voertuig gemerk op die kaart",
-    "APP_VALE_ERROR_TRACK_CARGARAGE": "Jou voertuig is nie gemerk nie, want dit is in die motorhuis.",
-    "APP_VALE_ERROR_CARBLACKLIST": "Hierdie voertuigmodel kan nie gebring word nie",
-    "APP_VALE_USEVALET_BANK_HISTORY_DESC": "Gebruik van valetdiens"
   },
   "GalleryAPP": {
     "APP_GALLERY_TITLE": "Gallery",
@@ -1017,19 +1017,7 @@
   "GamesAPP": {
     "APP_GAME_TITLE": "Games",
     "APP_GAME_SCORE": "Telling",
-    "APP_GAME_DHAND": "Handelaar Hand: ",
-    "APP_GAME_YHAND": "Jou hand: ",
-    "APP_GAME_CREDIT": "Krediet: ",
-    "APP_GAME_BET": "Weddenskap: ",
-    "APP_GAME_HIT": "Getref",
-    "APP_GAME_STAND": "Staan",
-    "APP_GAME_DOUBLE": "DUBBEL",
-    "APP_GAME_RESUME": "Hervat",
     "APP_GAME_STARTGAME": "Begin die spel",
-    "APP_GAME_CURRENCY": "R",
-    "APP_GAME_BLACKJACKDRAW": "Teken",
-    "APP_GAME_BLACKJACKLOSE": "Jy verloor",
-    "APP_GAME_BLACKJACKWIN": "Jy wen",
     "APP_GAME_SNAKE_PLAY": "Speel",
     "APP_GAME_SNAKE_GAMEOVER": "Spel verby!",
     "APP_GAME_RESTART": "Begin oor",
@@ -1054,7 +1042,12 @@
     "APP_GAME_TETRIS_LINESCLEARED": "Lijnen Opgeruimd:",
     "APP_GAME_TETRIS_SPEED_MASTER": "🏆 Spoed Meester!",
     "APP_GAME_TETRIS_LINE_CLEARER": "🔥 Lynne Skoner!",
-    "APP_GAME_TETRIS_NEXT_PIECE": "Volgende Stuk"
+    "APP_GAME_TETRIS_NEXT_PIECE": "Volgende Stuk",
+    "APP_GAME_BREAKOUT_BEST_SCORE": "Beste Puntasi",
+    "APP_GAME_BREAKOUT_HEALTH": "Gesondheid",
+    "APP_GAME_BREAKOUT_LEVEL_SUCCESS": "🍉 Vlak {level} Voltooi!",
+    "APP_GAME_BREAKOUT_BONUS_SCORE": "{bonus} Bonus Punt!",
+    "APP_GAME_BREAKOUT_TOTAL_SCORE": "Totale Tellings"
   },
   "LiveStreamAPP": {
     "APP_LIVE_TITLE": "Live Stream",
@@ -1153,7 +1146,6 @@
     "APP_TAXI_CUSTOMER_LOCATION": "Jou posisie",
     "APP_TAXI_CUSTOMER_DESTINATION": "Bestemming",
     "APP_TAXI_CUSTOMER_DESTINATIONERROR": "Om 'n taxi te kan bel, moet jy die bestemming op die kaart kies.",
-    "APP_TAXI_CUSTOMER_DESTINATIONERROR2": "Jy moet die bestemming op die kaart kies.",
     "APP_TAXI_CUSTOMER_TOTALDISTANCE": "Totale afstand",
     "APP_TAXI_CUSTOMER_TOTALPRICE": "Totale prys",
     "APP_TAXI_CUSTOMER_CALCULATE": "Bereken My Reis",
@@ -1184,7 +1176,6 @@
     "APP_TAXI_DRIVER_CANCELJOB": "Kanselleer",
     "APP_TAXI_DRIVER_LOADING": "Laai tans...",
     "APP_TAXI_DRIVER_ACCEPTJOBSTARTED": "Jy het die pos aanvaar",
-    "APP_TAXI_DRIVER_NOTJOBSTARTED": "Jy het nie die werk aanvaar nie",
     "APP_TAXI_DRIVER_NOTFYCUSTOMERRECEIVED": "Kliënt ontvang",
     "APP_TAXI_DRIVER_NOTFYNOTCUSTOMERRECEIVED": "Kliënt nie ontvang nie",
     "APP_TAXI_DRIVER_CUSTOMERLEFTLOCATION": "Kliënt links na ligging",
@@ -1391,7 +1382,8 @@
       "TRANSFER_TEXT": "Oordra",
       "TRENSFER_ERROR1": "Jy kan nie minder as 250 skyfies oordra nie.",
       "TRENSFER_ERROR2": "Jy het nie genoeg saldo nie."
-    }
+    },
+    "APP_CASINO_ROLL_AWAITINGRESULT": "Die resultaat word verwag..."
   },
   "Info": {
     "APP_INFO_PERSONALINFO": "Persoonlike Inligting",
@@ -1405,9 +1397,6 @@
   "Tooltip": {
     "ESIM": {
       "APP_TOOLTIP_SIM_BUY": "Koop"
-    },
-    "Message": {
-      "APP_TOOLTIP_MESSAGE_CREATEGROUPMEMBER": "{'@'}Kontak Naam"
     },
     "Advertising": {
       "APP_TOOLTIP_ADVERTISING_POST": "Nuwe Post",
@@ -1474,14 +1463,6 @@
       "APP_LUCYAI_COMMANDS_OPENAPP": "Maak Toep oop",
       "APP_LUCYAI_COMMANDS_MONEYTRANSFER": "Geldoorplasing"
     }
-  },
-  "RegisterCommand": {
-    "REGISTERCOMMAND_OPENPHONE": "Foon oop",
-    "REGISTERCOMMAND_NORMALCHARGE": "Normale laai",
-    "REGISTERCOMMAND_FASTCHARGE": "Vinnige laai",
-    "REGISTERCOMMAND_PHONEBOOTH": "Foonhokkie",
-    "REGISTERCOMMAND_ANSWERCALL": "Beantwoord oproep",
-    "REGISTERCOMMAND_DECLINECALL": "Gesprek ophangen"
   },
   "FlareApp": {
     "APP_FLARE_TITLE": "Flare",
@@ -1688,7 +1669,6 @@
     "APP_DARKCHAT_CHOOSE_PHOTO": "Kies Foto",
     "APP_DARKCHAT_PLACEHOLER_ROOM_NAME": "Voer kamernaam in",
     "APP_DARKCHAT_PLACEHOLER_ROOM_PASSWORD": "Voer kamerwagwoord in",
-    "APP_DARKCHAT_ROOM_NAME": "Kamer Naam",
     "APP_DARKCHAT_ROOM_PASSWORD": "Wagwoord",
     "APP_DARKCHAT_PUBLIC_ROOM": "Openbare Kamer",
     "APP_DARKCHAT_SAVE": "Stoor",
@@ -1731,7 +1711,6 @@
     "APP_DARKCHAT_JOIN_ROOM_DESC": "Voer die kamernaam in om aan te sluit:",
     "APP_DARKCHAT_MEMBER_ALREADY_JOIN": "Jy is reeds 'n lid van hierdie kamer.",
     "APP_DARKCHAT_ERROR_JOIN_ROOM": "Kamer nie gevind nie of jy het nie toestemming om aan te sluit nie.",
-    "APP_DARKCHAT_NOT_AVAILABLE_ROOM": "Kamernommer is nie beskikbaar nie.",
     "APP_DARKCHAT_JOIN_ROOM_PASS_DESC": "Is jy seker jy wil by die kamer {roomName} aansluit?",
     "APP_DARKCHAT_JOINING_ROOM": "Sluit aan by kamer...",
     "APP_DARKCHAT_ENTER_ROOM_PASSWORD_JOIN_PLACEHOLDER": "Voer kamerwagwoord in",
@@ -1775,6 +1754,43 @@
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "Jy het nie toestemming om hierdie kamer te wysig nie.",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "Kamer kon nie opgedateer word nie.",
     "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "U het nie toestemming om hierdie kamer te verwyder nie of die kamer is nie gevind nie.",
-    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "U het 'n nuwe boodskap in {channel} kanaal"
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "U het 'n nuwe boodskap in {channel} kanaal",
+    "APP_DARKCHAT_TOGGLING_MUTE_STATUS": "Verander Stil Modus Status...",
+    "APP_DARKCHAT_USER_MUTED_SUCCESS": "Die gebruiker is suksesvol gemute.",
+    "APP_DARKCHAT_USER_UNMUTED_SUCCESS": "Die gebruiker is suksesvol vir stem geaktiveer.",
+    "APP_DARKCHAT_TOGGLE_MUTE_ERROR": "Die gebruiker kon nie gedemp wees nie.",
+    "APP_DARKCHAT_LOADING_USERS_LIST": "Laai gebruikerslys...",
+    "APP_DARKCHAT_TOGGLE_MUTE_TOOLTIP": "Stil gebruiker / Herstel gebruiker",
+    "APP_DARKCHAT_LOAD_USER_LIST_ERROR": "Die gebruikerslys kon nie gelaai word nie.",
+    "APP_DARKCHAT_NO_AUTH": "Jy het nie toestemming vir hierdie operasie nie."
+  },
+  "GarageApp": {
+    "APP_GARAGE_TITLE": "Motorhuis",
+    "APP_GARAGE_CAR_ENGINE": "Enjin",
+    "APP_GARAGE_CAR_BODY": "Lichaam",
+    "APP_GARAGE_CAR_FUEL": "Brandstof",
+    "APP_GARAGE_CLOSE": "Maak toe",
+    "APP_GARAGE_NUMBER_PLATE": "Kentekenplaat",
+    "APP_GARAGE_GARAGE": "Motorhuis",
+    "APP_GARAGE_LOCK": "Slot",
+    "APP_GARAGE_START": "Begin",
+    "APP_GARAGE_DOORS": "Deure",
+    "APP_GARAGE_HEADLIGHT": "Koplampies",
+    "APP_GARAGE_TRUNK": "Bakruimte",
+    "APP_GARAGE_FRONT_TRUNK": "Voorste Kofferbak",
+    "APP_GARAGE_TRACK": "Merk",
+    "APP_GARAGE_BRING_CAR": "Bring",
+    "APP_GARAGE_ACTION_FAILED": "Die operasie het gefaal.",
+    "APP_GARAGE_MODAL_BRING": "Wil jy hê die valet moet jou motor bring?",
+    "APP_GARAGE_ERROR_BRING_NOMONEY": "Jy het nie genoeg geld nie.",
+    "APP_GARAGE_ERROR_BRING_CARNOTFOUND": "Jou voertuig is nie gevind nie.",
+    "APP_GARAGE_ERROR_BRING_CARIMPOUNDED": "Dit kan nie gebel word nie omdat jou voertuig in beslag geneem is.",
+    "APP_GARAGE_ERROR_BRING_NOTINGARAGE": "Jou voertuig is nie in die motorhuis nie.",
+    "APP_GARAGE_ERROR_BRING_CAROUTSIDE": "Die voertuig kan nie ingebring word nie omdat dit buite is.",
+    "APP_GARAGE_SUCESS_BRING": "Jou voertuig is op pad.",
+    "APP_GARAGE_MARKED": "Jou voertuig is op die kaart gemerk.",
+    "APP_GARAGE_ERROR_TRACK_CARGARAGE": "Jou voertuig kan nie gemerk word nie omdat dit in die motorhuis is.",
+    "APP_GARAGE_ERROR_CARBLACKLIST": "Hierdie voertuigmodel kan nie ingevoer word nie.",
+    "APP_GARAGE_USEVALET_BANK_HISTORY_DESC": "Valetdiensdienst"
   }
 }

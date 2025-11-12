@@ -92,7 +92,6 @@
     "APP_SETTING_NOTIFICATIONS": "Oznámení",
     "APP_SETTING_BORDER_COLOR": "Barva okraje",
     "APP_SETTING_DARK_MODE": "Tmavý režim",
-    "APP_SETTING_RESET_PHONE": "Obnovit telefon",
     "APP_SETTING_ABOUT": "O aplikaci",
     "APP_SETTING_LOOKID": "Look ID",
     "APP_SETTING_PASSWORD": "Heslo",
@@ -104,33 +103,15 @@
     "APP_SETTING_CHANGEPASSWORD_PASSCODEFAILED": "Heslo se nepodařilo změnit",
     "APP_SETTING_PHONE_RESET": "Obnovit telefon",
     "APP_SETTING_PHONE_RESETDESC": "Cítíte se dnes dobře?",
-    "APP_SETTING_PHONE_RESETSUCESS": "Váš telefon byl obnoven",
+    "APP_SETTING_PHONE_RESETSUCESS": "Váš telefon byl resetován",
     "APP_SETTING_PHONENAME": "Název telefonu",
     "APP_SETTING_SOFTWAREVERSION": "Verze softwaru",
     "APP_SETTING_PHONEVERSION": "Verze telefonu",
-    "APP_SETTING_PHONEUPTODATE": "Váš telefon je aktuální",
-    "APP_SETTING_PHONEUPDATE": "Prosím, aktualizujte svůj telefon. Kontaktujte svého správce serveru.",
     "APP_SETTING_PHONE_RESETLOADING": "Heslo se obnovuje...",
     "APP_SETTING_PHONE_RESETERROR": "Heslo se nepodařilo obnovit",
     "APP_SETTING_PHONESERIALNUMBER": "Sériové číslo",
-    "APP_SETTING_REPORTBUG": "Nahlásit chybu",
-    "APP_SETTING_BUGREPORTLABEL": "Nahlášení chyby",
-    "APP_SETTING_BUGREPORTDESC": "Prosím, napište svůj hlášení o chybě",
-    "APP_SETTING_BUGREPORTSEND": "Odeslat",
-    "APP_SETTING_BUGREPORTCANCEL": "Zrušit",
-    "APP_SETTING_BUGREPORTSUCCESS": "Vaše hlášení o chybě bylo odesláno",
-    "APP_SETTING_BUGREPORTEMPTY": "Nemůžete odeslat prázdné hlášení o chybě",
-    "APP_SETTING_FEEDBACK": "Zpětná vazba",
-    "APP_SETTING_FEEDBACKLABEL": "Zpětná vazba",
-    "APP_SETTING_FEEDBACKDESC": "Prosím, napište svůj názor",
-    "APP_SETTING_FEEDBACKSEND": "Odeslat",
-    "APP_SETTING_FEEDBACKCANCEL": "Zrušit",
-    "APP_SETTING_FEEDBACKSUCCESS": "Váš názor byl odeslán",
-    "APP_SETTING_FEEDBACKEMPTY": "Nemůžete odeslat prázdný názor",
     "APP_SETTING_CHANGLOG": "Záznam změn",
     "APP_SETTING_CHANGLOGPOUPCLOSE": "Zavřít",
-    "APP_SETTING_CUSTOMEWALLPAPER": "Vlastní tapeta",
-    "APP_SETTING_CUSTOMEWALLPAPERDESC": "Zadejte URL obrázku, který chcete použít jako tapetu",
     "APP_SETTING_LANG": "Jazyk",
     "APP_SETTING_NAMECHANGELOADING": "Mění se název...",
     "APP_SETTING_NAMECHANGEDESC": "Uveďte své jméno, které bude použito v některých aplikacích a funkcích",
@@ -140,7 +121,27 @@
     "APP_SETTING_QRCODE_SECRET_DESC": "Tento QR kód autentizuje váš telefon. Tento kód nesdílejte s nikým.",
     "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "Vaše jméno musí mít alespoň 4 znaky",
     "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Vaše jméno nesmí mít více než 20 znaků",
-    "APP_SETTING_LUCY": "Lucy"
+    "APP_SETTING_LUCY": "Lucy",
+    "APP_SETTING_DETAILS": "Klikněte pro více informací.",
+    "APP_SETTING_PHONE_SIZE": "Telefonní váha",
+    "APP_SETTING_PHONE": "Telefon",
+    "APP_SETTING_ACCOUNT": "Účet",
+    "APP_SETTING_SOFTWARE_UPDATE": "Aktualizace softwaru",
+    "APP_SETTING_CHANGE": "Změnit",
+    "APP_SETTING_NAME": "Jméno",
+    "APP_SETTING_MAIL": "E-mail",
+    "APP_SETTING_PHONE_NUMBER": "Telefon",
+    "APP_SETTING_SHARE": "Sdílet",
+    "APP_SETTING_SAVE": "Uložit",
+    "APP_SETTING_CANCEL": "Zrušit",
+    "APP_SETTING_PRIVATE_CALL": "Soukromý hovor",
+    "APP_SETTING_BLOCKED_NUMBERS": "Zablokovaná čísla",
+    "APP_SETTING_DONE": "Dokončeno",
+    "APP_SETTING_EDIT": "Upravit",
+    "APP_SETTING_PHONE_SIZE_SAVED": "Telefonní váha byla úspěšně uložena.",
+    "APP_SETTING_GKS_UP_TO_DATE": "GKS je aktuální.",
+    "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS není aktuální.",
+    "APP_SETTING_ADD_WALLPAPER": "Přidat tapetu"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "Kontakty",
@@ -332,10 +333,14 @@
     "APP_MESSAGE_BLOCK_NUMER": "Toto číslo vás zablokovalo.",
     "APP_MESSAGE_GROUP_ADD_MEMBER_ERROR": "Nemůžete přidat osobu do skupiny.",
     "APP_MESSAGE_GROUP_REMOVE_MEMBER_ERROR": "Osoba se nemohla opustit skupinu.",
-    "APP_MESSAGE_SAVE_CONTACT_ERROR_YOU_SELF": "Nemůžeš se zachránit."
+    "APP_MESSAGE_SAVE_CONTACT_ERROR_YOU_SELF": "Nemůžeš se zachránit.",
+    "APP_MESSAGE_GPS": "GPS",
+    "APP_MESSAGE_CAMERA": "Kamera",
+    "APP_MESSAGE_MIC": "Mikrofon",
+    "APP_MESSAGE_EMOJI": "Emoji",
+    "APP_MESSAGE_SHARE_CONTACT": "Sdílet kontakt"
   },
   "SetupScreen": {
-    "PHONE_SETUP_HELLO": "Ahoj",
     "PHONE_SETUP_CLIKUP": "Klikněte pro nastavení telefonu",
     "SettingLangueage": "Nastavení jazyka...",
     "PHONE_SETUP_LOGINGKSID": "GKS ID",
@@ -414,7 +419,8 @@
       "question9": "Kde jste potkali svého manžela/manželku?"
     },
     "PHONE_SETUP_FINISH_ERROR": "Telefon nebylo možné nainstalovat.",
-    "PHONE_SETUP_CHANGE_LANGUAGE_ERROR": "Chyba při změně jazyka"
+    "PHONE_SETUP_CHANGE_LANGUAGE_ERROR": "Chyba při změně jazyka",
+    "PHONE_SETUP_LOGIN_ERROR_OWNER": "Tento e-mail je chráněn vlastníkem. Nemáte povolení k přístupu k datům telefonu."
   },
   "ServicesAPP": {
     "APP_SERVICES_TITLE": "Služby",
@@ -501,7 +507,14 @@
     "APP_SERVICES_MANAGE_EMPLOYEES_CHANGEGRADE_SUCESS": "Úspěšně jste změnili hodnocení zaměstnance.",
     "APP_SERVICES_MANAGE_EMPLOYEES_CHANGEGRADE_FAILED": "Došlo k chybě při změně hodnocení zaměstnance.",
     "APP_SERVICES_REPORT_REPORT": "Zpráva",
-    "APP_SERVICES_REPORT_REPORTNO": "Nikdo se o zprávu zatím nezajímá."
+    "APP_SERVICES_REPORT_REPORTNO": "Nikdo se o zprávu zatím nezajímá.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_DESC": "Kolik peněz si přejete vybrat?",
+    "APP_SERVICES_SOCIETY_WITHDRAW_ERROR": "Neplatná částka",
+    "APP_SERVICES_SOCIETY_WITHDRAW_CONFIRM": "Opravdu si přejete vybrat {amount}?",
+    "APP_SERVICES_SOCIETY_WITHDRAW_SUCCESS": "Peníze byly úspěšně vybrány.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_FAILED": "Při výběru peněz došlo k chybě.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_INSUFFICIENT_FUNDS": "Není dostatek peněz.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_PERMISSION_DENIED": "Nemáte oprávnění k této operaci."
   },
   "StreamMode": {
     "APP_STREAMMODE_IMAGE": "Obrázek skryt, protože je aktivní režim streamera"
@@ -719,15 +732,11 @@
   },
   "AdvertisingAPP": {
     "APP_AD_TITLE": "Reklama",
-    "APP_AD_HEADER": "Krmit",
-    "APP_AD_FAV": "Oblíbené",
-    "APP_AD_PROFILE": "Profil",
     "APP_AD_MODAL_NEWADD": "Nová reklama",
     "APP_AD_SHAREAD": "Sdílet reklamu",
     "APP_AD_SEARCH": "Hledat",
     "APP_AD_MODAL_CANCEL": "Zrušit",
     "APP_AD_MODAL_SHARE": "Sdílet",
-    "APP_AD_MODAL_FILTERSELECT": "Vybrat filtr",
     "APP_AD_MODAL_IMAGEADD": "Přidat obrázek",
     "APP_AD_MODAL_TEXTAREALABEL": "Napsat zprávu",
     "APP_AD_MODAL_TEXTAREAPLACEHOLDER": "Napsat zprávu",
@@ -738,7 +747,19 @@
     "APP_AD_SHAREMINCHARACTER": "Musíte zadat alespoň 15 znaků",
     "APP_AD_SHARECONFIRM_DESC": "Opravdu chcete vytvořit reklamu? Transakční poplatek: {fee}",
     "APP_AD_SHARE_ERROR_NOMONEY": "Nemáte dostatek peněz",
-    "APP_AD_SHARE_NOTFY_POST": "{name} sdílel novou reklamu"
+    "APP_AD_SHARE_NOTFY_POST": "{name} sdílel novou reklamu",
+    "APP_AD_CREATING": "Vytváření reklamy...",
+    "APP_AD_SUCCESS": "Reklama byla úspěšně sdílena.",
+    "APP_AD_ERROR": "Při sdílení reklamy došlo k chybě.",
+    "APP_AD_DELETE_SUCCESS": "Inzerát byl úspěšně smazán.",
+    "APP_AD_SHARETITLE": "Název musí mít mezi 5 a 250 znaky.",
+    "APP_AD_CAMERA_GALLERY": "Kamera/Galerie",
+    "APP_AD_MODAL_LINK": "Odkaz",
+    "APP_AD_VIEW_LIST": "Seznam",
+    "APP_AD_VIEW_GRID": "Galerie",
+    "APP_AD_MODAL_TITLE": "Název inzerátu*",
+    "APP_AD_MODAL_PRICE": "Cena",
+    "APP_DIALOG_CONFIRM_DELETE": "Opravdu chcete smazat tuto reklamu?"
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "Novinky",
@@ -753,27 +774,6 @@
     "APP_NEWS_NEWSSEARCH": "Hledat",
     "APP_NEWS_NOTIFY_NEW": "Byly přidány novinky",
     "APP_NEWS_DETAILTITLE": "Text novinky"
-  },
-  "ValeAPP": {
-    "APP_VALE_TITLE": "Vale",
-    "APP_VALE_CARTYPE": "Typ auta",
-    "APP_VALE_CARMAXSPEED": "Maximální rychlost",
-    "APP_VALE_KMH": "km/h",
-    "APP_VALE_GARAGE": "Garáž",
-    "APP_VALE_BRING": "PŘINÉST",
-    "APP_VALE_TRACK": "SLEDOVAT",
-    "APP_VALE_SEARCH": "Hledat",
-    "APP_VALE_MODAL_BRING": "Chtěli byste, aby valet přivedl vaše auto?",
-    "APP_VALE_ERROR_BRING_NOMONEY": "Nemáte dostatek peněz",
-    "APP_VALE_ERROR_BRING_CARNOTFOUND": "Vaše auto nebylo nalezeno",
-    "APP_VALE_ERROR_BRING_CARIMPOUNDED": "Vaše vozidlo nemůže být přivoláno, protože bylo zabaveno.",
-    "APP_VALE_ERROR_BRING_NOTINGARAGE": "Váš vůz není v garáži",
-    "APP_VALE_ERROR_BRING_CAROUTSIDE": "Vůz nemůže být přivezen, protože je venku.",
-    "APP_VALE_SUCESS_BRING": "Vozidlo na silnici",
-    "APP_VALE_MARKED": "Vaše vozidlo je označeno na mapě",
-    "APP_VALE_ERROR_TRACK_CARGARAGE": "Vaše vozidlo není označeno, protože je v garáži.",
-    "APP_VALE_ERROR_CARBLACKLIST": "Tento model vozidla nemůže být přivezen",
-    "APP_VALE_USEVALET_BANK_HISTORY_DESC": "Použití služby valet"
   },
   "GalleryAPP": {
     "APP_GALLERY_TITLE": "Galerie",
@@ -1017,19 +1017,7 @@
   "GamesAPP": {
     "APP_GAME_TITLE": "Hry",
     "APP_GAME_SCORE": "Skóre",
-    "APP_GAME_DHAND": "Ruka dealera: ",
-    "APP_GAME_YHAND": "Vaše ruka: ",
-    "APP_GAME_CREDIT": "Kredit: ",
-    "APP_GAME_BET": "Sázka: ",
-    "APP_GAME_HIT": "Hit",
-    "APP_GAME_STAND": "Stát",
-    "APP_GAME_DOUBLE": "DVOJNÁSOBEK",
-    "APP_GAME_RESUME": "Pokračovat",
     "APP_GAME_STARTGAME": "Začít hru",
-    "APP_GAME_CURRENCY": "Kč",
-    "APP_GAME_BLACKJACKDRAW": "Remíza",
-    "APP_GAME_BLACKJACKLOSE": "Prohráli jste",
-    "APP_GAME_BLACKJACKWIN": "Vyhráli jste",
     "APP_GAME_SNAKE_PLAY": "Hrát",
     "APP_GAME_SNAKE_GAMEOVER": "Konec hry!",
     "APP_GAME_RESTART": "Restartovat",
@@ -1054,7 +1042,12 @@
     "APP_GAME_TETRIS_LINESCLEARED": "Vyčištěné řádky:",
     "APP_GAME_TETRIS_SPEED_MASTER": "🏆 Mistr rychlosti!",
     "APP_GAME_TETRIS_LINE_CLEARER": "🔥 Čistič čar!",
-    "APP_GAME_TETRIS_NEXT_PIECE": "Další kus"
+    "APP_GAME_TETRIS_NEXT_PIECE": "Další kus",
+    "APP_GAME_BREAKOUT_BEST_SCORE": "Nejlepší skóre",
+    "APP_GAME_BREAKOUT_HEALTH": "Zdraví",
+    "APP_GAME_BREAKOUT_LEVEL_SUCCESS": "🍉 Úroveň {level} dokončena!",
+    "APP_GAME_BREAKOUT_BONUS_SCORE": "{bonus} Bonusové body!",
+    "APP_GAME_BREAKOUT_TOTAL_SCORE": "Celkové skóre"
   },
   "LiveStreamAPP": {
     "APP_LIVE_TITLE": "Živý přenos",
@@ -1153,7 +1146,6 @@
     "APP_TAXI_CUSTOMER_LOCATION": "Vaše poloha",
     "APP_TAXI_CUSTOMER_DESTINATION": "Cíl",
     "APP_TAXI_CUSTOMER_DESTINATIONERROR": "Aby bylo možné zavolat taxi, musíte vybrat cíl na mapě.",
-    "APP_TAXI_CUSTOMER_DESTINATIONERROR2": "Musíte vybrat cíl na mapě.",
     "APP_TAXI_CUSTOMER_TOTALDISTANCE": "Celková vzdálenost",
     "APP_TAXI_CUSTOMER_TOTALPRICE": "Celková cena",
     "APP_TAXI_CUSTOMER_CALCULATE": "Vypočítat moji cestu",
@@ -1184,7 +1176,6 @@
     "APP_TAXI_DRIVER_CANCELJOB": "Zrušit",
     "APP_TAXI_DRIVER_LOADING": "Načítání...",
     "APP_TAXI_DRIVER_ACCEPTJOBSTARTED": "Práci jste přijali",
-    "APP_TAXI_DRIVER_NOTJOBSTARTED": "Práci jste nepřijali",
     "APP_TAXI_DRIVER_NOTFYCUSTOMERRECEIVED": "Zákazník přijat",
     "APP_TAXI_DRIVER_NOTFYNOTCUSTOMERRECEIVED": "Zákazník nebyl přijat",
     "APP_TAXI_DRIVER_CUSTOMERLEFTLOCATION": "Zákazník odjel na lokaci",
@@ -1391,7 +1382,8 @@
       "TRANSFER_TEXT": "Převést",
       "TRENSFER_ERROR1": "Nemůžete převést méně než 250 žetonů.",
       "TRENSFER_ERROR2": "Nemáte dostatečný zůstatek."
-    }
+    },
+    "APP_CASINO_ROLL_AWAITINGRESULT": "Výsledek se očekává..."
   },
   "Info": {
     "APP_INFO_PERSONALINFO": "Osobní informace",
@@ -1405,9 +1397,6 @@
   "Tooltip": {
     "ESIM": {
       "APP_TOOLTIP_SIM_BUY": "Koupit"
-    },
-    "Message": {
-      "APP_TOOLTIP_MESSAGE_CREATEGROUPMEMBER": "{'@'}Jméno kontaktu"
     },
     "Advertising": {
       "APP_TOOLTIP_ADVERTISING_POST": "Nový příspěvek",
@@ -1474,14 +1463,6 @@
       "APP_LUCYAI_COMMANDS_OPENAPP": "Otevřít aplikaci",
       "APP_LUCYAI_COMMANDS_MONEYTRANSFER": "Převod peněz"
     }
-  },
-  "RegisterCommand": {
-    "REGISTERCOMMAND_OPENPHONE": "Otevřít telefon",
-    "REGISTERCOMMAND_NORMALCHARGE": "Normální nabíjení",
-    "REGISTERCOMMAND_FASTCHARGE": "Rychlé nabíjení",
-    "REGISTERCOMMAND_PHONEBOOTH": "Telefonní budka",
-    "REGISTERCOMMAND_ANSWERCALL": "Přijmout hovor",
-    "REGISTERCOMMAND_DECLINECALL": "Odmítnout hovor"
   },
   "FlareApp": {
     "APP_FLARE_TITLE": "Flare",
@@ -1688,7 +1669,6 @@
     "APP_DARKCHAT_CHOOSE_PHOTO": "Vyberte fotografii",
     "APP_DARKCHAT_PLACEHOLER_ROOM_NAME": "Zadejte název místnosti",
     "APP_DARKCHAT_PLACEHOLER_ROOM_PASSWORD": "Zadejte heslo do místnosti",
-    "APP_DARKCHAT_ROOM_NAME": "Název místnosti",
     "APP_DARKCHAT_ROOM_PASSWORD": "Heslo",
     "APP_DARKCHAT_PUBLIC_ROOM": "Veřejná místnost",
     "APP_DARKCHAT_SAVE": "Uložit",
@@ -1731,7 +1711,6 @@
     "APP_DARKCHAT_JOIN_ROOM_DESC": "Zadejte název místnosti, do které se chcete připojit:",
     "APP_DARKCHAT_MEMBER_ALREADY_JOIN": "Jste již členem této místnosti.",
     "APP_DARKCHAT_ERROR_JOIN_ROOM": "Místnost nebyla nalezena nebo nemáte oprávnění se připojit.",
-    "APP_DARKCHAT_NOT_AVAILABLE_ROOM": "ID místnosti není k dispozici.",
     "APP_DARKCHAT_JOIN_ROOM_PASS_DESC": "Opravdu si jsi jistý, že chceš vstoupit do místnosti {roomName}?",
     "APP_DARKCHAT_JOINING_ROOM": "Připojuji se do místnosti...",
     "APP_DARKCHAT_ENTER_ROOM_PASSWORD_JOIN_PLACEHOLDER": "Zadejte heslo do místnosti",
@@ -1775,6 +1754,43 @@
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "Nemáte oprávnění upravovat tuto místnost.",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "Pokoj nebylo možné aktualizovat.",
     "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "Nemáte oprávnění k odstranění této místnosti nebo místnost nebyla nalezena.",
-    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "Máte novou zprávu v kanálu {channel}."
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "Máte novou zprávu v kanálu {channel}.",
+    "APP_DARKCHAT_TOGGLING_MUTE_STATUS": "Změna stavu tichého režimu...",
+    "APP_DARKCHAT_USER_MUTED_SUCCESS": "Uživatel byl úspěšně ztlumen.",
+    "APP_DARKCHAT_USER_UNMUTED_SUCCESS": "Uživatel byl úspěšně aktivován pro hlasové ovládání.",
+    "APP_DARKCHAT_TOGGLE_MUTE_ERROR": "Uživatel nemohl být ztlumen.",
+    "APP_DARKCHAT_LOADING_USERS_LIST": "Načítání seznamu uživatelů...",
+    "APP_DARKCHAT_TOGGLE_MUTE_TOOLTIP": "Ztlumit uživatele / Zrušit ztlumení uživatele",
+    "APP_DARKCHAT_LOAD_USER_LIST_ERROR": "Seznam uživatelů se nepodařilo načíst.",
+    "APP_DARKCHAT_NO_AUTH": "Nemáte oprávnění k této operaci."
+  },
+  "GarageApp": {
+    "APP_GARAGE_TITLE": "Garáž",
+    "APP_GARAGE_CAR_ENGINE": "Motor",
+    "APP_GARAGE_CAR_BODY": "Tělo",
+    "APP_GARAGE_CAR_FUEL": "Palivo",
+    "APP_GARAGE_CLOSE": "Zavřít",
+    "APP_GARAGE_NUMBER_PLATE": "SPZ",
+    "APP_GARAGE_GARAGE": "Garáž",
+    "APP_GARAGE_LOCK": "Zamknout",
+    "APP_GARAGE_START": "Začít",
+    "APP_GARAGE_DOORS": "Dveře",
+    "APP_GARAGE_HEADLIGHT": "Hlavní světla",
+    "APP_GARAGE_TRUNK": "Kufr",
+    "APP_GARAGE_FRONT_TRUNK": "Přední kufr",
+    "APP_GARAGE_TRACK": "Označit",
+    "APP_GARAGE_BRING_CAR": "Přinést",
+    "APP_GARAGE_ACTION_FAILED": "Operace selhala.",
+    "APP_GARAGE_MODAL_BRING": "Chcete, aby valet přivedl vaše auto?",
+    "APP_GARAGE_ERROR_BRING_NOMONEY": "Nemáte dostatek peněz.",
+    "APP_GARAGE_ERROR_BRING_CARNOTFOUND": "Vaše vozidlo nebylo nalezeno.",
+    "APP_GARAGE_ERROR_BRING_CARIMPOUNDED": "Nelze zavolat, protože vaše vozidlo bylo odtaženo.",
+    "APP_GARAGE_ERROR_BRING_NOTINGARAGE": "Váš vůz není v garáži.",
+    "APP_GARAGE_ERROR_BRING_CAROUTSIDE": "Vozidlo nelze přivést, protože je venku.",
+    "APP_GARAGE_SUCESS_BRING": "Vaše vozidlo je na cestě.",
+    "APP_GARAGE_MARKED": "Vaše vozidlo bylo označeno na mapě.",
+    "APP_GARAGE_ERROR_TRACK_CARGARAGE": "Vaše vozidlo nelze označit, protože je v garáži.",
+    "APP_GARAGE_ERROR_CARBLACKLIST": "Tento model vozidla nelze dovézt.",
+    "APP_GARAGE_USEVALET_BANK_HISTORY_DESC": "Služba parkování"
   }
 }

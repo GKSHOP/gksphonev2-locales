@@ -92,7 +92,6 @@
     "APP_SETTING_NOTIFICATIONS": "الإشعارات",
     "APP_SETTING_BORDER_COLOR": "لون الحدود",
     "APP_SETTING_DARK_MODE": "الوضع المظلم",
-    "APP_SETTING_RESET_PHONE": "إعادة تعيين الهاتف",
     "APP_SETTING_ABOUT": "حول",
     "APP_SETTING_LOOKID": "معرف المظهر",
     "APP_SETTING_PASSWORD": "كلمة المرور",
@@ -108,29 +107,11 @@
     "APP_SETTING_PHONENAME": "اسم الهاتف",
     "APP_SETTING_SOFTWAREVERSION": "إصدار البرنامج",
     "APP_SETTING_PHONEVERSION": "إصدار الهاتف",
-    "APP_SETTING_PHONEUPTODATE": "هاتفك محدث",
-    "APP_SETTING_PHONEUPDATE": "يرجى تحديث هاتفك. اتصل بمالك الخادم.",
     "APP_SETTING_PHONE_RESETLOADING": "جارٍ إعادة تعيين كلمة المرور...",
     "APP_SETTING_PHONE_RESETERROR": "لم يتمكن من إعادة تعيين كلمة المرور",
     "APP_SETTING_PHONESERIALNUMBER": "رقم السيريال",
-    "APP_SETTING_REPORTBUG": "الإبلاغ عن خطأ",
-    "APP_SETTING_BUGREPORTLABEL": "تقرير الخطأ",
-    "APP_SETTING_BUGREPORTDESC": "يرجى كتابة تقرير الخطأ الخاص بك",
-    "APP_SETTING_BUGREPORTSEND": "إرسال",
-    "APP_SETTING_BUGREPORTCANCEL": "إلغاء",
-    "APP_SETTING_BUGREPORTSUCCESS": "تم إرسال تقرير الخطأ الخاص بك",
-    "APP_SETTING_BUGREPORTEMPTY": "لا يمكنك إرسال تقرير خطأ فارغ",
-    "APP_SETTING_FEEDBACK": "تعليقات",
-    "APP_SETTING_FEEDBACKLABEL": "تعليقات",
-    "APP_SETTING_FEEDBACKDESC": "يرجى كتابة ملاحظاتك",
-    "APP_SETTING_FEEDBACKSEND": "إرسال",
-    "APP_SETTING_FEEDBACKCANCEL": "إلغاء",
-    "APP_SETTING_FEEDBACKSUCCESS": "تم إرسال ملاحظاتك",
-    "APP_SETTING_FEEDBACKEMPTY": "لا يمكنك إرسال ملاحظات فارغة",
     "APP_SETTING_CHANGLOG": "سجل التغييرات",
     "APP_SETTING_CHANGLOGPOUPCLOSE": "إغلاق",
-    "APP_SETTING_CUSTOMEWALLPAPER": "خلفية مخصصة",
-    "APP_SETTING_CUSTOMEWALLPAPERDESC": "أدخل عنوان URL للصورة التي تريد استخدامها كخلفية",
     "APP_SETTING_LANG": "اللغة",
     "APP_SETTING_NAMECHANGELOADING": "جارٍ تغيير الاسم...",
     "APP_SETTING_NAMECHANGEDESC": "حدد اسمك لاستخدامه في بعض التطبيقات والوظائف",
@@ -140,7 +121,27 @@
     "APP_SETTING_QRCODE_SECRET_DESC": "هذا الرمز الشريطي يحقق هاتفك. لا تشارك هذا الرمز مع أي شخص.",
     "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "يجب أن يكون اسمك على الأقل 4 أحرف",
     "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "يجب ألا يزيد اسمك عن 20 حرفًا",
-    "APP_SETTING_LUCY": "لوسي"
+    "APP_SETTING_LUCY": "لوسي",
+    "APP_SETTING_DETAILS": "انقر لمزيد من التفاصيل.",
+    "APP_SETTING_PHONE_SIZE": "ميزان الهاتف",
+    "APP_SETTING_PHONE": "هاتف",
+    "APP_SETTING_ACCOUNT": "حساب",
+    "APP_SETTING_SOFTWARE_UPDATE": "تحديث البرنامج",
+    "APP_SETTING_CHANGE": "تغيير",
+    "APP_SETTING_NAME": "اسم",
+    "APP_SETTING_MAIL": "البريد الإلكتروني",
+    "APP_SETTING_PHONE_NUMBER": "هاتف",
+    "APP_SETTING_SHARE": "شارك",
+    "APP_SETTING_SAVE": "حفظ",
+    "APP_SETTING_CANCEL": "إلغاء",
+    "APP_SETTING_PRIVATE_CALL": "مكالمة خاصة",
+    "APP_SETTING_BLOCKED_NUMBERS": "الأرقام المحظورة",
+    "APP_SETTING_DONE": "تم الإنجاز",
+    "APP_SETTING_EDIT": "تحرير",
+    "APP_SETTING_PHONE_SIZE_SAVED": "تم حفظ مقياس الهاتف بنجاح.",
+    "APP_SETTING_GKS_UP_TO_DATE": "GKS محدثة.",
+    "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS غير محدث.",
+    "APP_SETTING_ADD_WALLPAPER": "إضافة خلفية"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "جهات الاتصال",
@@ -332,10 +333,14 @@
     "APP_MESSAGE_BLOCK_NUMER": "لقد تم حظرك من قبل هذا الرقم",
     "APP_MESSAGE_GROUP_ADD_MEMBER_ERROR": "لا يمكنك إضافة الشخص إلى المجموعة",
     "APP_MESSAGE_GROUP_REMOVE_MEMBER_ERROR": "لم يكن بإمكان الشخص مغادرة المجموعة",
-    "APP_MESSAGE_SAVE_CONTACT_ERROR_YOU_SELF": "لا يمكنك إنقاذ نفسك"
+    "APP_MESSAGE_SAVE_CONTACT_ERROR_YOU_SELF": "لا يمكنك إنقاذ نفسك",
+    "APP_MESSAGE_GPS": "نظام تحديد المواقع العالمي",
+    "APP_MESSAGE_CAMERA": "كاميرا",
+    "APP_MESSAGE_MIC": "ميكروفون",
+    "APP_MESSAGE_EMOJI": "إيموجي",
+    "APP_MESSAGE_SHARE_CONTACT": "مشاركة جهة الاتصال"
   },
   "SetupScreen": {
-    "PHONE_SETUP_HELLO": "مرحبا",
     "PHONE_SETUP_CLIKUP": "انقر لإعداد هاتفك",
     "SettingLangueage": "جارٍ إعداد اللغة...",
     "PHONE_SETUP_LOGINGKSID": "معرف GKS",
@@ -414,7 +419,8 @@
       "question9": "أين التقيت بزوجك؟"
     },
     "PHONE_SETUP_FINISH_ERROR": "لم يتمكن من تثبيت الهاتف",
-    "PHONE_SETUP_CHANGE_LANGUAGE_ERROR": "خطأ في تغيير اللغة"
+    "PHONE_SETUP_CHANGE_LANGUAGE_ERROR": "خطأ في تغيير اللغة",
+    "PHONE_SETUP_LOGIN_ERROR_OWNER": "هذا البريد الإلكتروني محمي من قبل المالك. ليس لديك إذن للوصول إلى بيانات الهاتف."
   },
   "ServicesAPP": {
     "APP_SERVICES_TITLE": "الخدمات",
@@ -501,7 +507,14 @@
     "APP_SERVICES_MANAGE_EMPLOYEES_CHANGEGRADE_SUCESS": "لقد قمت بنجاح بتغيير درجة الموظف.",
     "APP_SERVICES_MANAGE_EMPLOYEES_CHANGEGRADE_FAILED": "حدث خطأ أثناء تغيير درجة الموظف",
     "APP_SERVICES_REPORT_REPORT": "تقرير",
-    "APP_SERVICES_REPORT_REPORTNO": "لا أحد مهتم بالتقرير حتى الآن."
+    "APP_SERVICES_REPORT_REPORTNO": "لا أحد مهتم بالتقرير حتى الآن.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_DESC": "كم المبلغ الذي ترغب في سحبه؟",
+    "APP_SERVICES_SOCIETY_WITHDRAW_ERROR": "مبلغ غير صالح",
+    "APP_SERVICES_SOCIETY_WITHDRAW_CONFIRM": "هل أنت متأكد أنك تريد سحب {amount}؟",
+    "APP_SERVICES_SOCIETY_WITHDRAW_SUCCESS": "تم سحب المال بنجاح",
+    "APP_SERVICES_SOCIETY_WITHDRAW_FAILED": "حدث خطأ أثناء سحب الأموال.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_INSUFFICIENT_FUNDS": "لا يوجد ما يكفي من المال.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_PERMISSION_DENIED": "ليس لديك إذن لإجراء هذه العملية."
   },
   "StreamMode": {
     "APP_STREAMMODE_IMAGE": "الصورة مخفية لأن وضع البث نشط"
@@ -719,15 +732,11 @@
   },
   "AdvertisingAPP": {
     "APP_AD_TITLE": "إعلانات",
-    "APP_AD_HEADER": "تغذية",
-    "APP_AD_FAV": "المفضلات",
-    "APP_AD_PROFILE": "الملف الشخصي",
     "APP_AD_MODAL_NEWADD": "إعلان جديد",
     "APP_AD_SHAREAD": "مشاركة الإعلان",
     "APP_AD_SEARCH": "بحث",
     "APP_AD_MODAL_CANCEL": "إلغاء",
     "APP_AD_MODAL_SHARE": "مشاركة",
-    "APP_AD_MODAL_FILTERSELECT": "اختر فلتر",
     "APP_AD_MODAL_IMAGEADD": "إضافة صورة",
     "APP_AD_MODAL_TEXTAREALABEL": "اكتب رسالة",
     "APP_AD_MODAL_TEXTAREAPLACEHOLDER": "اكتب رسالة",
@@ -738,7 +747,19 @@
     "APP_AD_SHAREMINCHARACTER": "يجب عليك إدخال 15 حرفًا على الأقل",
     "APP_AD_SHARECONFIRM_DESC": "هل أنت متأكد أنك تريد إنشاء إعلان؟ رسوم المعاملة: {fee}",
     "APP_AD_SHARE_ERROR_NOMONEY": "ليس لديك ما يكفي من المال",
-    "APP_AD_SHARE_NOTFY_POST": "{name} شارك إعلانًا جديدًا"
+    "APP_AD_SHARE_NOTFY_POST": "{name} شارك إعلانًا جديدًا",
+    "APP_AD_CREATING": "إنشاء إعلان...",
+    "APP_AD_SUCCESS": "تمت مشاركة الإعلان بنجاح.",
+    "APP_AD_ERROR": "حدث خطأ أثناء مشاركة الإعلان.",
+    "APP_AD_DELETE_SUCCESS": "تم حذف الإعلان بنجاح.",
+    "APP_AD_SHARETITLE": "يجب أن يكون العنوان بين 5 و 250 حرفًا.",
+    "APP_AD_CAMERA_GALLERY": "الكاميرا/المعرض",
+    "APP_AD_MODAL_LINK": "رابط",
+    "APP_AD_VIEW_LIST": "قائمة",
+    "APP_AD_VIEW_GRID": "معرض",
+    "APP_AD_MODAL_TITLE": "عنوان الإعلان*",
+    "APP_AD_MODAL_PRICE": "السعر",
+    "APP_DIALOG_CONFIRM_DELETE": "هل أنت متأكد أنك تريد حذف هذا الإعلان؟"
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "أخبار",
@@ -753,27 +774,6 @@
     "APP_NEWS_NEWSSEARCH": "بحث",
     "APP_NEWS_NOTIFY_NEW": "تم إضافة خبر جديد",
     "APP_NEWS_DETAILTITLE": "نص الخبر"
-  },
-  "ValeAPP": {
-    "APP_VALE_TITLE": "فالي",
-    "APP_VALE_CARTYPE": "نوع السيارة",
-    "APP_VALE_CARMAXSPEED": "السرعة القصوى",
-    "APP_VALE_KMH": "كم/س",
-    "APP_VALE_GARAGE": "كراج",
-    "APP_VALE_BRING": "أحضر",
-    "APP_VALE_TRACK": "مسار",
-    "APP_VALE_SEARCH": "بحث",
-    "APP_VALE_MODAL_BRING": "هل ترغب في أن يحضر لك السائق سيارتك؟",
-    "APP_VALE_ERROR_BRING_NOMONEY": "ليس لديك ما يكفي من المال",
-    "APP_VALE_ERROR_BRING_CARNOTFOUND": "لم يتم العثور على سيارتك",
-    "APP_VALE_ERROR_BRING_CARIMPOUNDED": "لا يمكن استدعاء مركبتك لأنها تم حجزها.",
-    "APP_VALE_ERROR_BRING_NOTINGARAGE": "سيارتك ليست في المرآب",
-    "APP_VALE_ERROR_BRING_CAROUTSIDE": "لا يمكن إحضار السيارة لأنها بالخارج.",
-    "APP_VALE_SUCESS_BRING": "المركبة على الطريق",
-    "APP_VALE_MARKED": "سيارتك محددة على الخريطة",
-    "APP_VALE_ERROR_TRACK_CARGARAGE": "سيارتك ليست محددة لأنها في المرآب.",
-    "APP_VALE_ERROR_CARBLACKLIST": "لا يمكن إحضار هذا الطراز من المركبة",
-    "APP_VALE_USEVALET_BANK_HISTORY_DESC": "استخدام خدمة صف السيارات"
   },
   "GalleryAPP": {
     "APP_GALLERY_TITLE": "معرض",
@@ -1017,19 +1017,7 @@
   "GamesAPP": {
     "APP_GAME_TITLE": "ألعاب",
     "APP_GAME_SCORE": "النتيجة",
-    "APP_GAME_DHAND": "يد الموزع: ",
-    "APP_GAME_YHAND": "يدك: ",
-    "APP_GAME_CREDIT": "رصيد: ",
-    "APP_GAME_BET": "رهان: ",
-    "APP_GAME_HIT": "ضرب",
-    "APP_GAME_STAND": "قف",
-    "APP_GAME_DOUBLE": "مضاعفة",
-    "APP_GAME_RESUME": "استئناف",
     "APP_GAME_STARTGAME": "ابدأ اللعبة",
-    "APP_GAME_CURRENCY": "$",
-    "APP_GAME_BLACKJACKDRAW": "تعادل",
-    "APP_GAME_BLACKJACKLOSE": "لقد خسرت",
-    "APP_GAME_BLACKJACKWIN": "لقد ربحت",
     "APP_GAME_SNAKE_PLAY": "العب",
     "APP_GAME_SNAKE_GAMEOVER": "انتهت اللعبة!",
     "APP_GAME_RESTART": "إعادة تشغيل",
@@ -1054,7 +1042,12 @@
     "APP_GAME_TETRIS_LINESCLEARED": "تمت إزالة الخطوط:",
     "APP_GAME_TETRIS_SPEED_MASTER": "🏆 سيد السرعة!",
     "APP_GAME_TETRIS_LINE_CLEARER": "🔥 مُزيل الخط!",
-    "APP_GAME_TETRIS_NEXT_PIECE": "القطعة التالية"
+    "APP_GAME_TETRIS_NEXT_PIECE": "القطعة التالية",
+    "APP_GAME_BREAKOUT_BEST_SCORE": "أفضل نتيجة",
+    "APP_GAME_BREAKOUT_HEALTH": "الصحة",
+    "APP_GAME_BREAKOUT_LEVEL_SUCCESS": "🍉 المستوى {level} مكتمل!",
+    "APP_GAME_BREAKOUT_BONUS_SCORE": "{bonus} نقاط إضافية!",
+    "APP_GAME_BREAKOUT_TOTAL_SCORE": "النتيجة الكلية"
   },
   "LiveStreamAPP": {
     "APP_LIVE_TITLE": "البث المباشر",
@@ -1153,7 +1146,6 @@
     "APP_TAXI_CUSTOMER_LOCATION": "موقعك",
     "APP_TAXI_CUSTOMER_DESTINATION": "الوجهة",
     "APP_TAXI_CUSTOMER_DESTINATIONERROR": "لكي تتمكن من استدعاء تاكسي، يجب عليك تحديد الوجهة على الخريطة.",
-    "APP_TAXI_CUSTOMER_DESTINATIONERROR2": "يجب عليك تحديد الوجهة على الخريطة.",
     "APP_TAXI_CUSTOMER_TOTALDISTANCE": "إجمالي المسافة",
     "APP_TAXI_CUSTOMER_TOTALPRICE": "إجمالي السعر",
     "APP_TAXI_CUSTOMER_CALCULATE": "احسب رحلتي",
@@ -1184,7 +1176,6 @@
     "APP_TAXI_DRIVER_CANCELJOB": "إلغاء",
     "APP_TAXI_DRIVER_LOADING": "جارٍ التحميل...",
     "APP_TAXI_DRIVER_ACCEPTJOBSTARTED": "لقد قبلت الوظيفة",
-    "APP_TAXI_DRIVER_NOTJOBSTARTED": "لم تقبل الوظيفة بعد",
     "APP_TAXI_DRIVER_NOTFYCUSTOMERRECEIVED": "تم استلام العميل",
     "APP_TAXI_DRIVER_NOTFYNOTCUSTOMERRECEIVED": "لم يتم استلام العميل",
     "APP_TAXI_DRIVER_CUSTOMERLEFTLOCATION": "غادر العميل إلى الموقع",
@@ -1391,7 +1382,8 @@
       "TRANSFER_TEXT": "تحويل",
       "TRENSFER_ERROR1": "لا يمكنك تحويل أقل من 250 شريحة.",
       "TRENSFER_ERROR2": "ليس لديك رصيد كاف."
-    }
+    },
+    "APP_CASINO_ROLL_AWAITINGRESULT": "النتيجة في انتظارها..."
   },
   "Info": {
     "APP_INFO_PERSONALINFO": "معلومات شخصية",
@@ -1405,9 +1397,6 @@
   "Tooltip": {
     "ESIM": {
       "APP_TOOLTIP_SIM_BUY": "شراء"
-    },
-    "Message": {
-      "APP_TOOLTIP_MESSAGE_CREATEGROUPMEMBER": "{'@'}اسم الاتصال"
     },
     "Advertising": {
       "APP_TOOLTIP_ADVERTISING_POST": "منشور جديد",
@@ -1474,14 +1463,6 @@
       "APP_LUCYAI_COMMANDS_OPENAPP": "فتح التطبيق",
       "APP_LUCYAI_COMMANDS_MONEYTRANSFER": "تحويل الأموال"
     }
-  },
-  "RegisterCommand": {
-    "REGISTERCOMMAND_OPENPHONE": "فتح الهاتف",
-    "REGISTERCOMMAND_NORMALCHARGE": "شحن عادي",
-    "REGISTERCOMMAND_FASTCHARGE": "شحن سريع",
-    "REGISTERCOMMAND_PHONEBOOTH": "كشك الهاتف",
-    "REGISTERCOMMAND_ANSWERCALL": "رد على المكالمة",
-    "REGISTERCOMMAND_DECLINECALL": "رفض المكالمة"
   },
   "FlareApp": {
     "APP_FLARE_TITLE": "شعلة",
@@ -1688,7 +1669,6 @@
     "APP_DARKCHAT_CHOOSE_PHOTO": "اختر صورة",
     "APP_DARKCHAT_PLACEHOLER_ROOM_NAME": "أدخل اسم الغرفة",
     "APP_DARKCHAT_PLACEHOLER_ROOM_PASSWORD": "أدخل كلمة مرور الغرفة",
-    "APP_DARKCHAT_ROOM_NAME": "اسم الغرفة",
     "APP_DARKCHAT_ROOM_PASSWORD": "كلمة المرور",
     "APP_DARKCHAT_PUBLIC_ROOM": "غرفة عامة",
     "APP_DARKCHAT_SAVE": "احفظ",
@@ -1731,7 +1711,6 @@
     "APP_DARKCHAT_JOIN_ROOM_DESC": "أدخل اسم الغرفة للانضمام:",
     "APP_DARKCHAT_MEMBER_ALREADY_JOIN": "أنت بالفعل عضو في هذه الغرفة.",
     "APP_DARKCHAT_ERROR_JOIN_ROOM": "الغرفة غير موجودة أو ليس لديك إذن للانضمام.",
-    "APP_DARKCHAT_NOT_AVAILABLE_ROOM": "رقم الغرفة غير متوفر.",
     "APP_DARKCHAT_JOIN_ROOM_PASS_DESC": "هل أنت متأكد أنك تريد الانضمام إلى الغرفة {roomName}؟",
     "APP_DARKCHAT_JOINING_ROOM": "انضمام إلى الغرفة...",
     "APP_DARKCHAT_ENTER_ROOM_PASSWORD_JOIN_PLACEHOLDER": "أدخل كلمة مرور الغرفة",
@@ -1775,6 +1754,43 @@
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "ليس لديك إذن لتعديل هذه الغرفة",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "لم يكن بالإمكان تحديث الغرفة",
     "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "ليس لديك الإذن لحذف هذه الغرفة أو لم يتم العثور على الغرفة.",
-    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "لديك رسالة جديدة في قناة {channel}"
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "لديك رسالة جديدة في قناة {channel}",
+    "APP_DARKCHAT_TOGGLING_MUTE_STATUS": "تغيير حالة وضع الصمت...",
+    "APP_DARKCHAT_USER_MUTED_SUCCESS": "تم كتم صوت المستخدم بنجاح.",
+    "APP_DARKCHAT_USER_UNMUTED_SUCCESS": "تم تفعيل الصوت للمستخدم بنجاح.",
+    "APP_DARKCHAT_TOGGLE_MUTE_ERROR": "لم يكن بالإمكان كتم صوت المستخدم.",
+    "APP_DARKCHAT_LOADING_USERS_LIST": "جارٍ تحميل قائمة المستخدمين...",
+    "APP_DARKCHAT_TOGGLE_MUTE_TOOLTIP": "كتم المستخدم / إلغاء كتم المستخدم",
+    "APP_DARKCHAT_LOAD_USER_LIST_ERROR": "لم يتم تحميل قائمة المستخدمين.",
+    "APP_DARKCHAT_NO_AUTH": "ليس لديك إذن لإجراء هذه العملية."
+  },
+  "GarageApp": {
+    "APP_GARAGE_TITLE": "كراج",
+    "APP_GARAGE_CAR_ENGINE": "محرك",
+    "APP_GARAGE_CAR_BODY": "جسم",
+    "APP_GARAGE_CAR_FUEL": "وقود",
+    "APP_GARAGE_CLOSE": "إغلاق",
+    "APP_GARAGE_NUMBER_PLATE": "لوحة الترخيص",
+    "APP_GARAGE_GARAGE": "كراج",
+    "APP_GARAGE_LOCK": "قفل",
+    "APP_GARAGE_START": "ابدأ",
+    "APP_GARAGE_DOORS": "أبواب",
+    "APP_GARAGE_HEADLIGHT": "المصابيح الأمامية",
+    "APP_GARAGE_TRUNK": "صندوق السيارة",
+    "APP_GARAGE_FRONT_TRUNK": "الصندوق الأمامي",
+    "APP_GARAGE_TRACK": "مارك",
+    "APP_GARAGE_BRING_CAR": "احضر",
+    "APP_GARAGE_ACTION_FAILED": "فشلت العملية.",
+    "APP_GARAGE_MODAL_BRING": "هل ترغب في أن يحضر لك السائق سيارتك؟",
+    "APP_GARAGE_ERROR_BRING_NOMONEY": "ليس لديك ما يكفي من المال.",
+    "APP_GARAGE_ERROR_BRING_CARNOTFOUND": "لم يتم العثور على مركبتك.",
+    "APP_GARAGE_ERROR_BRING_CARIMPOUNDED": "لا يمكن الاتصال لأن مركبتك قد تم حجزها.",
+    "APP_GARAGE_ERROR_BRING_NOTINGARAGE": "سيارتك ليست في المرآب.",
+    "APP_GARAGE_ERROR_BRING_CAROUTSIDE": "لا يمكن إدخال المركبة لأنها خارج.",
+    "APP_GARAGE_SUCESS_BRING": "سيارتك في الطريق",
+    "APP_GARAGE_MARKED": "تم وضع علامة على مركبتك على الخريطة.",
+    "APP_GARAGE_ERROR_TRACK_CARGARAGE": "لا يمكن وضع علامة على مركبتك لأنها في المرآب.",
+    "APP_GARAGE_ERROR_CARBLACKLIST": "لا يمكن إدخال هذا الطراز من المركبات.",
+    "APP_GARAGE_USEVALET_BANK_HISTORY_DESC": "خدمة صف السيارات"
   }
 }

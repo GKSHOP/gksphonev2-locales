@@ -92,7 +92,6 @@
     "APP_SETTING_NOTIFICATIONS": "Notificaciones",
     "APP_SETTING_BORDER_COLOR": "Color del borde",
     "APP_SETTING_DARK_MODE": "Modo Oscuro",
-    "APP_SETTING_RESET_PHONE": "Restablecer teléfono",
     "APP_SETTING_ABOUT": "Acerca de",
     "APP_SETTING_LOOKID": "LookID",
     "APP_SETTING_PASSWORD": "Contraseña",
@@ -108,29 +107,11 @@
     "APP_SETTING_PHONENAME": "Nombre del teléfono",
     "APP_SETTING_SOFTWAREVERSION": "Versión del software",
     "APP_SETTING_PHONEVERSION": "Versión del teléfono",
-    "APP_SETTING_PHONEUPTODATE": "Tu teléfono está actualizado",
-    "APP_SETTING_PHONEUPDATE": "Por favor, actualiza tu teléfono. Contacta a tu propietario del servidor.",
     "APP_SETTING_PHONE_RESETLOADING": "La contraseña está siendo restablecida...",
     "APP_SETTING_PHONE_RESETERROR": "No se pudo restablecer la contraseña",
     "APP_SETTING_PHONESERIALNUMBER": "Número de serie",
-    "APP_SETTING_REPORTBUG": "Reportar error",
-    "APP_SETTING_BUGREPORTLABEL": "Informe de error",
-    "APP_SETTING_BUGREPORTDESC": "Por favor, escribe tu informe de error",
-    "APP_SETTING_BUGREPORTSEND": "Enviar",
-    "APP_SETTING_BUGREPORTCANCEL": "Cancelar",
-    "APP_SETTING_BUGREPORTSUCCESS": "Tu informe de error ha sido enviado",
-    "APP_SETTING_BUGREPORTEMPTY": "No puedes enviar un informe de error vacío",
-    "APP_SETTING_FEEDBACK": "Comentarios",
-    "APP_SETTING_FEEDBACKLABEL": "Comentarios",
-    "APP_SETTING_FEEDBACKDESC": "Por favor, escribe tus comentarios",
-    "APP_SETTING_FEEDBACKSEND": "Enviar",
-    "APP_SETTING_FEEDBACKCANCEL": "Cancelar",
-    "APP_SETTING_FEEDBACKSUCCESS": "Tus comentarios han sido enviados",
-    "APP_SETTING_FEEDBACKEMPTY": "No puedes enviar comentarios vacíos",
     "APP_SETTING_CHANGLOG": "Registro de cambios",
     "APP_SETTING_CHANGLOGPOUPCLOSE": "Cerrar",
-    "APP_SETTING_CUSTOMEWALLPAPER": "Fondo de pantalla personalizado",
-    "APP_SETTING_CUSTOMEWALLPAPERDESC": "Ingresa la URL de la imagen que deseas usar como fondo de pantalla",
     "APP_SETTING_LANG": "Idioma",
     "APP_SETTING_NAMECHANGELOADING": "Cambiando nombre...",
     "APP_SETTING_NAMECHANGEDESC": "Especifica tu nombre que se usará en algunas aplicaciones y funciones",
@@ -140,7 +121,27 @@
     "APP_SETTING_QRCODE_SECRET_DESC": "Este código QR autentica tu teléfono. No compartas este código con nadie.",
     "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "Tu nombre debe tener al menos 4 caracteres",
     "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Tu nombre no debe tener más de 20 caracteres",
-    "APP_SETTING_LUCY": "Lucy"
+    "APP_SETTING_LUCY": "Lucy",
+    "APP_SETTING_DETAILS": "Haz clic para más detalles.",
+    "APP_SETTING_PHONE_SIZE": "Báscula de teléfono",
+    "APP_SETTING_PHONE": "Teléfono",
+    "APP_SETTING_ACCOUNT": "Cuenta",
+    "APP_SETTING_SOFTWARE_UPDATE": "Actualización de software",
+    "APP_SETTING_CHANGE": "Cambiar",
+    "APP_SETTING_NAME": "Nombre",
+    "APP_SETTING_MAIL": "Correo electrónico",
+    "APP_SETTING_PHONE_NUMBER": "Teléfono",
+    "APP_SETTING_SHARE": "Compartir",
+    "APP_SETTING_SAVE": "Guardar",
+    "APP_SETTING_CANCEL": "Cancelar",
+    "APP_SETTING_PRIVATE_CALL": "Llamada Privada",
+    "APP_SETTING_BLOCKED_NUMBERS": "Números bloqueados",
+    "APP_SETTING_DONE": "Completado",
+    "APP_SETTING_EDIT": "Editar",
+    "APP_SETTING_PHONE_SIZE_SAVED": "La báscula del teléfono se ha guardado con éxito.",
+    "APP_SETTING_GKS_UP_TO_DATE": "GKS está actualizado.",
+    "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS no está actualizado.",
+    "APP_SETTING_ADD_WALLPAPER": "Añadir fondo de pantalla"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "Contactos",
@@ -332,10 +333,14 @@
     "APP_MESSAGE_BLOCK_NUMER": "Estás bloqueado por este número.",
     "APP_MESSAGE_GROUP_ADD_MEMBER_ERROR": "No puedes añadir a la persona al grupo.",
     "APP_MESSAGE_GROUP_REMOVE_MEMBER_ERROR": "La persona no pudo salir del grupo.",
-    "APP_MESSAGE_SAVE_CONTACT_ERROR_YOU_SELF": "No puedes salvarte a ti mismo."
+    "APP_MESSAGE_SAVE_CONTACT_ERROR_YOU_SELF": "No puedes salvarte a ti mismo.",
+    "APP_MESSAGE_GPS": "GPS",
+    "APP_MESSAGE_CAMERA": "Cámara",
+    "APP_MESSAGE_MIC": "Micrófono",
+    "APP_MESSAGE_EMOJI": "Emoji",
+    "APP_MESSAGE_SHARE_CONTACT": "Compartir contacto"
   },
   "SetupScreen": {
-    "PHONE_SETUP_HELLO": "Hola",
     "PHONE_SETUP_CLIKUP": "Haz clic para configurar tu teléfono",
     "SettingLangueage": "Configurando idioma...",
     "PHONE_SETUP_LOGINGKSID": "ID de GKS",
@@ -414,7 +419,8 @@
       "question9": "¿Dónde conociste a tu cónyuge?"
     },
     "PHONE_SETUP_FINISH_ERROR": "El teléfono no se pudo instalar.",
-    "PHONE_SETUP_CHANGE_LANGUAGE_ERROR": "Error al cambiar el idioma"
+    "PHONE_SETUP_CHANGE_LANGUAGE_ERROR": "Error al cambiar el idioma",
+    "PHONE_SETUP_LOGIN_ERROR_OWNER": "Este correo electrónico está protegido por el propietario. No tienes permiso para acceder a los datos del teléfono."
   },
   "ServicesAPP": {
     "APP_SERVICES_TITLE": "Servicios",
@@ -501,7 +507,14 @@
     "APP_SERVICES_MANAGE_EMPLOYEES_CHANGEGRADE_SUCESS": "Has cambiado con éxito la categoría del empleado.",
     "APP_SERVICES_MANAGE_EMPLOYEES_CHANGEGRADE_FAILED": "Ocurrió un error al cambiar la categoría del empleado.",
     "APP_SERVICES_REPORT_REPORT": "Informe",
-    "APP_SERVICES_REPORT_REPORTNO": "Nadie está interesado en el informe aún."
+    "APP_SERVICES_REPORT_REPORTNO": "Nadie está interesado en el informe aún.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_DESC": "¿Cuánto dinero te gustaría retirar?",
+    "APP_SERVICES_SOCIETY_WITHDRAW_ERROR": "Cantidad no válida",
+    "APP_SERVICES_SOCIETY_WITHDRAW_CONFIRM": "¿Estás seguro de que quieres retirar {amount}?",
+    "APP_SERVICES_SOCIETY_WITHDRAW_SUCCESS": "El dinero se retiró con éxito.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_FAILED": "Se produjo un error al retirar dinero.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_INSUFFICIENT_FUNDS": "No hay suficiente dinero.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_PERMISSION_DENIED": "No tienes permiso para esta operación."
   },
   "StreamMode": {
     "APP_STREAMMODE_IMAGE": "Imagen oculta porque el Modo Streamer está activo"
@@ -719,15 +732,11 @@
   },
   "AdvertisingAPP": {
     "APP_AD_TITLE": "Publicidad",
-    "APP_AD_HEADER": "Feed",
-    "APP_AD_FAV": "Favoritos",
-    "APP_AD_PROFILE": "Perfil",
     "APP_AD_MODAL_NEWADD": "Nuevo Anuncio",
     "APP_AD_SHAREAD": "Compartir Anuncio",
     "APP_AD_SEARCH": "Buscar",
     "APP_AD_MODAL_CANCEL": "Cancelar",
     "APP_AD_MODAL_SHARE": "Compartir",
-    "APP_AD_MODAL_FILTERSELECT": "Seleccionar Filtro",
     "APP_AD_MODAL_IMAGEADD": "Agregar Imagen",
     "APP_AD_MODAL_TEXTAREALABEL": "Escribe un mensaje",
     "APP_AD_MODAL_TEXTAREAPLACEHOLDER": "Escribe un mensaje",
@@ -738,7 +747,19 @@
     "APP_AD_SHAREMINCHARACTER": "Debes ingresar al menos 15 caracteres",
     "APP_AD_SHARECONFIRM_DESC": "¿Estás seguro de que deseas crear un anuncio? Tarifa de transacción: {fee}",
     "APP_AD_SHARE_ERROR_NOMONEY": "No tienes suficiente dinero",
-    "APP_AD_SHARE_NOTFY_POST": "{name} compartió un nuevo anuncio"
+    "APP_AD_SHARE_NOTFY_POST": "{name} compartió un nuevo anuncio",
+    "APP_AD_CREATING": "Creando un anuncio...",
+    "APP_AD_SUCCESS": "El anuncio se compartió con éxito.",
+    "APP_AD_ERROR": "Se produjo un error al compartir el anuncio.",
+    "APP_AD_DELETE_SUCCESS": "El anuncio se ha eliminado correctamente.",
+    "APP_AD_SHARETITLE": "El título debe tener entre 5 y 250 caracteres de longitud.",
+    "APP_AD_CAMERA_GALLERY": "Cámara/Galería",
+    "APP_AD_MODAL_LINK": "Enlace",
+    "APP_AD_VIEW_LIST": "Lista",
+    "APP_AD_VIEW_GRID": "Galería",
+    "APP_AD_MODAL_TITLE": "Título del anuncio*",
+    "APP_AD_MODAL_PRICE": "Precio",
+    "APP_DIALOG_CONFIRM_DELETE": "¿Estás seguro de que quieres eliminar este anuncio?"
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "Noticias",
@@ -753,27 +774,6 @@
     "APP_NEWS_NEWSSEARCH": "Buscar",
     "APP_NEWS_NOTIFY_NEW": "Se ha agregado una noticia",
     "APP_NEWS_DETAILTITLE": "Texto de Noticias"
-  },
-  "ValeAPP": {
-    "APP_VALE_TITLE": "Vale",
-    "APP_VALE_CARTYPE": "Tipo de Coche",
-    "APP_VALE_CARMAXSPEED": "Velocidad Máxima",
-    "APP_VALE_KMH": "km/h",
-    "APP_VALE_GARAGE": "Garaje",
-    "APP_VALE_BRING": "TRAER",
-    "APP_VALE_TRACK": "SEGUIMIENTO",
-    "APP_VALE_SEARCH": "Buscar",
-    "APP_VALE_MODAL_BRING": "¿Te gustaría que el valet trajera tu coche?",
-    "APP_VALE_ERROR_BRING_NOMONEY": "No tienes suficiente dinero",
-    "APP_VALE_ERROR_BRING_CARNOTFOUND": "Tu coche no fue encontrado",
-    "APP_VALE_ERROR_BRING_CARIMPOUNDED": "Tu vehículo no puede ser convocado porque ha sido incautado.",
-    "APP_VALE_ERROR_BRING_NOTINGARAGE": "Tu coche no está en el garaje",
-    "APP_VALE_ERROR_BRING_CAROUTSIDE": "El coche no puede ser traído porque está afuera.",
-    "APP_VALE_SUCESS_BRING": "Vehículo en la carretera",
-    "APP_VALE_MARKED": "Tu vehículo marcado en el mapa",
-    "APP_VALE_ERROR_TRACK_CARGARAGE": "Tu vehículo no está marcado porque está en el garaje.",
-    "APP_VALE_ERROR_CARBLACKLIST": "Este modelo de vehículo no puede ser traído",
-    "APP_VALE_USEVALET_BANK_HISTORY_DESC": "Uso del servicio de valet"
   },
   "GalleryAPP": {
     "APP_GALLERY_TITLE": "Galería",
@@ -1017,19 +1017,7 @@
   "GamesAPP": {
     "APP_GAME_TITLE": "Juegos",
     "APP_GAME_SCORE": "Puntuación",
-    "APP_GAME_DHAND": "Mano del dealer: ",
-    "APP_GAME_YHAND": "Tu mano: ",
-    "APP_GAME_CREDIT": "Crédito: ",
-    "APP_GAME_BET": "Apuesta: ",
-    "APP_GAME_HIT": "Golpear",
-    "APP_GAME_STAND": "Plantarse",
-    "APP_GAME_DOUBLE": "DOBLE",
-    "APP_GAME_RESUME": "Reanudar",
     "APP_GAME_STARTGAME": "Iniciar juego",
-    "APP_GAME_CURRENCY": "€",
-    "APP_GAME_BLACKJACKDRAW": "Empate",
-    "APP_GAME_BLACKJACKLOSE": "Has perdido",
-    "APP_GAME_BLACKJACKWIN": "Has ganado",
     "APP_GAME_SNAKE_PLAY": "Jugar",
     "APP_GAME_SNAKE_GAMEOVER": "¡Juego terminado!",
     "APP_GAME_RESTART": "Reiniciar",
@@ -1054,7 +1042,12 @@
     "APP_GAME_TETRIS_LINESCLEARED": "Líneas despejadas:",
     "APP_GAME_TETRIS_SPEED_MASTER": "🏆 ¡Maestro de la Velocidad!",
     "APP_GAME_TETRIS_LINE_CLEARER": "🔥 ¡Línea despejada!",
-    "APP_GAME_TETRIS_NEXT_PIECE": "Siguiente pieza"
+    "APP_GAME_TETRIS_NEXT_PIECE": "Siguiente pieza",
+    "APP_GAME_BREAKOUT_BEST_SCORE": "Mejor Puntuación",
+    "APP_GAME_BREAKOUT_HEALTH": "Salud",
+    "APP_GAME_BREAKOUT_LEVEL_SUCCESS": "🍉 ¡Nivel {level} Completo!",
+    "APP_GAME_BREAKOUT_BONUS_SCORE": "{bonus} ¡Puntuación extra!",
+    "APP_GAME_BREAKOUT_TOTAL_SCORE": "Puntuación total"
   },
   "LiveStreamAPP": {
     "APP_LIVE_TITLE": "Transmisión en vivo",
@@ -1153,7 +1146,6 @@
     "APP_TAXI_CUSTOMER_LOCATION": "Tu Ubicación",
     "APP_TAXI_CUSTOMER_DESTINATION": "Destino",
     "APP_TAXI_CUSTOMER_DESTINATIONERROR": "Para poder llamar a un taxi, debes seleccionar el destino en el mapa.",
-    "APP_TAXI_CUSTOMER_DESTINATIONERROR2": "Debes seleccionar el destino en el mapa.",
     "APP_TAXI_CUSTOMER_TOTALDISTANCE": "Distancia Total",
     "APP_TAXI_CUSTOMER_TOTALPRICE": "Precio Total",
     "APP_TAXI_CUSTOMER_CALCULATE": "Calcular Mi Viaje",
@@ -1184,7 +1176,6 @@
     "APP_TAXI_DRIVER_CANCELJOB": "Cancelar",
     "APP_TAXI_DRIVER_LOADING": "Cargando...",
     "APP_TAXI_DRIVER_ACCEPTJOBSTARTED": "Has aceptado el trabajo",
-    "APP_TAXI_DRIVER_NOTJOBSTARTED": "No has aceptado el trabajo",
     "APP_TAXI_DRIVER_NOTFYCUSTOMERRECEIVED": "Cliente recibido",
     "APP_TAXI_DRIVER_NOTFYNOTCUSTOMERRECEIVED": "Cliente no recibido",
     "APP_TAXI_DRIVER_CUSTOMERLEFTLOCATION": "Cliente se fue a la ubicación",
@@ -1391,7 +1382,8 @@
       "TRANSFER_TEXT": "Transferir",
       "TRENSFER_ERROR1": "No puedes transferir menos de 250 fichas.",
       "TRENSFER_ERROR2": "No tienes suficiente saldo."
-    }
+    },
+    "APP_CASINO_ROLL_AWAITINGRESULT": "Se espera el resultado..."
   },
   "Info": {
     "APP_INFO_PERSONALINFO": "Información Personal",
@@ -1405,9 +1397,6 @@
   "Tooltip": {
     "ESIM": {
       "APP_TOOLTIP_SIM_BUY": "Comprar"
-    },
-    "Message": {
-      "APP_TOOLTIP_MESSAGE_CREATEGROUPMEMBER": "{'@'}Nombre de Contacto"
     },
     "Advertising": {
       "APP_TOOLTIP_ADVERTISING_POST": "Nueva Publicación",
@@ -1474,14 +1463,6 @@
       "APP_LUCYAI_COMMANDS_OPENAPP": "Abrir aplicación",
       "APP_LUCYAI_COMMANDS_MONEYTRANSFER": "Transferencia de dinero"
     }
-  },
-  "RegisterCommand": {
-    "REGISTERCOMMAND_OPENPHONE": "Abrir teléfono",
-    "REGISTERCOMMAND_NORMALCHARGE": "Carga normal",
-    "REGISTERCOMMAND_FASTCHARGE": "Carga rápida",
-    "REGISTERCOMMAND_PHONEBOOTH": "Cabina telefónica",
-    "REGISTERCOMMAND_ANSWERCALL": "Responder llamada",
-    "REGISTERCOMMAND_DECLINECALL": "Rechazar llamada"
   },
   "FlareApp": {
     "APP_FLARE_TITLE": "Flare",
@@ -1688,7 +1669,6 @@
     "APP_DARKCHAT_CHOOSE_PHOTO": "Elegir foto",
     "APP_DARKCHAT_PLACEHOLER_ROOM_NAME": "Ingrese el nombre de la sala",
     "APP_DARKCHAT_PLACEHOLER_ROOM_PASSWORD": "Ingresa la contraseña de la sala",
-    "APP_DARKCHAT_ROOM_NAME": "Nombre de la habitación",
     "APP_DARKCHAT_ROOM_PASSWORD": "Contraseña",
     "APP_DARKCHAT_PUBLIC_ROOM": "Sala Pública",
     "APP_DARKCHAT_SAVE": "Guardar",
@@ -1731,7 +1711,6 @@
     "APP_DARKCHAT_JOIN_ROOM_DESC": "Ingresa el nombre de la sala para unirte:",
     "APP_DARKCHAT_MEMBER_ALREADY_JOIN": "Ya eres miembro de esta sala.",
     "APP_DARKCHAT_ERROR_JOIN_ROOM": "Sala no encontrada o no tienes permiso para unirte.",
-    "APP_DARKCHAT_NOT_AVAILABLE_ROOM": "El ID de la sala no está disponible.",
     "APP_DARKCHAT_JOIN_ROOM_PASS_DESC": "¿Estás seguro de que quieres unirte a la sala {roomName}?",
     "APP_DARKCHAT_JOINING_ROOM": "Uniéndose a la sala...",
     "APP_DARKCHAT_ENTER_ROOM_PASSWORD_JOIN_PLACEHOLDER": "Introduce la contraseña de la sala.",
@@ -1775,6 +1754,43 @@
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "No tienes permiso para editar esta sala.",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "No se pudo actualizar la habitación.",
     "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "No tienes permiso para eliminar esta sala o la sala no fue encontrada.",
-    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "Tienes un nuevo mensaje en el canal {channel}."
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "Tienes un nuevo mensaje en el canal {channel}.",
+    "APP_DARKCHAT_TOGGLING_MUTE_STATUS": "Cambiando el estado del modo silencioso...",
+    "APP_DARKCHAT_USER_MUTED_SUCCESS": "El usuario ha sido silenciado con éxito.",
+    "APP_DARKCHAT_USER_UNMUTED_SUCCESS": "El usuario ha sido habilitado con éxito para el uso de voz.",
+    "APP_DARKCHAT_TOGGLE_MUTE_ERROR": "No se pudo silenciar al usuario.",
+    "APP_DARKCHAT_LOADING_USERS_LIST": "Cargando lista de usuarios...",
+    "APP_DARKCHAT_TOGGLE_MUTE_TOOLTIP": "Silenciar usuario / Activar sonido usuario",
+    "APP_DARKCHAT_LOAD_USER_LIST_ERROR": "No se pudo cargar la lista de usuarios.",
+    "APP_DARKCHAT_NO_AUTH": "No tienes permiso para esta operación."
+  },
+  "GarageApp": {
+    "APP_GARAGE_TITLE": "Garaje",
+    "APP_GARAGE_CAR_ENGINE": "Motor",
+    "APP_GARAGE_CAR_BODY": "Cuerpo",
+    "APP_GARAGE_CAR_FUEL": "Combustible",
+    "APP_GARAGE_CLOSE": "Cerrar",
+    "APP_GARAGE_NUMBER_PLATE": "Matrícula",
+    "APP_GARAGE_GARAGE": "Garaje",
+    "APP_GARAGE_LOCK": "Bloquear",
+    "APP_GARAGE_START": "Iniciar",
+    "APP_GARAGE_DOORS": "Puertas",
+    "APP_GARAGE_HEADLIGHT": "Faros delanteros",
+    "APP_GARAGE_TRUNK": "Maletero",
+    "APP_GARAGE_FRONT_TRUNK": "Maletero delantero",
+    "APP_GARAGE_TRACK": "Marcar",
+    "APP_GARAGE_BRING_CAR": "Traer",
+    "APP_GARAGE_ACTION_FAILED": "La operación ha fallado.",
+    "APP_GARAGE_MODAL_BRING": "¿Quieres que el aparcacoches traiga tu coche?",
+    "APP_GARAGE_ERROR_BRING_NOMONEY": "No tienes suficiente dinero.",
+    "APP_GARAGE_ERROR_BRING_CARNOTFOUND": "No se encontró su vehículo.",
+    "APP_GARAGE_ERROR_BRING_CARIMPOUNDED": "No se puede llamar porque su vehículo ha sido incautado.",
+    "APP_GARAGE_ERROR_BRING_NOTINGARAGE": "Tu vehículo no está en el garaje.",
+    "APP_GARAGE_ERROR_BRING_CAROUTSIDE": "El vehículo no puede ser ingresado porque está afuera.",
+    "APP_GARAGE_SUCESS_BRING": "Tu vehículo está en camino.",
+    "APP_GARAGE_MARKED": "Tu vehículo ha sido marcado en el mapa.",
+    "APP_GARAGE_ERROR_TRACK_CARGARAGE": "Tu vehículo no puede ser marcado porque está en el garaje.",
+    "APP_GARAGE_ERROR_CARBLACKLIST": "Este modelo de vehículo no se puede importar.",
+    "APP_GARAGE_USEVALET_BANK_HISTORY_DESC": "Servicio de aparcacoches"
   }
 }

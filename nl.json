@@ -92,7 +92,6 @@
     "APP_SETTING_NOTIFICATIONS": "Meldingen",
     "APP_SETTING_BORDER_COLOR": "Randkleur",
     "APP_SETTING_DARK_MODE": "Donkere modus",
-    "APP_SETTING_RESET_PHONE": "Telefoon resetten",
     "APP_SETTING_ABOUT": "Over",
     "APP_SETTING_LOOKID": "Look ID",
     "APP_SETTING_PASSWORD": "Wachtwoord",
@@ -108,29 +107,11 @@
     "APP_SETTING_PHONENAME": "Telefoonnaam",
     "APP_SETTING_SOFTWAREVERSION": "Softwareversie",
     "APP_SETTING_PHONEVERSION": "Telefoonversie",
-    "APP_SETTING_PHONEUPTODATE": "Je telefoon is up-to-date",
-    "APP_SETTING_PHONEUPDATE": "Werk alsjeblieft je telefoon bij. Neem contact op met de servereigenaar.",
     "APP_SETTING_PHONE_RESETLOADING": "Wachtwoord wordt gereset...",
     "APP_SETTING_PHONE_RESETERROR": "Wachtwoord kon niet worden gereset",
     "APP_SETTING_PHONESERIALNUMBER": "Serienummer",
-    "APP_SETTING_REPORTBUG": "Rapporteer bug",
-    "APP_SETTING_BUGREPORTLABEL": "Bug report",
-    "APP_SETTING_BUGREPORTDESC": "Schrijf alstublieft uw bugrapport",
-    "APP_SETTING_BUGREPORTSEND": "Versturen",
-    "APP_SETTING_BUGREPORTCANCEL": "Annuleren",
-    "APP_SETTING_BUGREPORTSUCCESS": "Uw bugrapport is verzonden",
-    "APP_SETTING_BUGREPORTEMPTY": "U kunt geen leeg bugrapport verzenden",
-    "APP_SETTING_FEEDBACK": "Feedback",
-    "APP_SETTING_FEEDBACKLABEL": "Feedback",
-    "APP_SETTING_FEEDBACKDESC": "Schrijf uw feedback",
-    "APP_SETTING_FEEDBACKSEND": "Versturen",
-    "APP_SETTING_FEEDBACKCANCEL": "Annuleren",
-    "APP_SETTING_FEEDBACKSUCCESS": "Uw feedback is verzonden",
-    "APP_SETTING_FEEDBACKEMPTY": "Je kunt geen lege feedback sturen",
     "APP_SETTING_CHANGLOG": "Changelog",
     "APP_SETTING_CHANGLOGPOUPCLOSE": "Sluiten",
-    "APP_SETTING_CUSTOMEWALLPAPER": "Custom Wallpaper",
-    "APP_SETTING_CUSTOMEWALLPAPERDESC": "Voer de URL in van de afbeelding die u als achtergrond wilt gebruiken",
     "APP_SETTING_LANG": "Taal",
     "APP_SETTING_NAMECHANGELOADING": "Naam wordt gewijzigd...",
     "APP_SETTING_NAMECHANGEDESC": "Geef je naam op die in sommige apps en functies zal worden gebruikt",
@@ -140,7 +121,27 @@
     "APP_SETTING_QRCODE_SECRET_DESC": "Deze QR-code verifieert uw telefoon. Deel deze code niet met anderen.",
     "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "Uw naam moet minstens 4 tekens bevatten",
     "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Uw naam mag maximaal 20 tekens bevatten",
-    "APP_SETTING_LUCY": "Lucy"
+    "APP_SETTING_LUCY": "Lucy",
+    "APP_SETTING_DETAILS": "Klik voor meer details.",
+    "APP_SETTING_PHONE_SIZE": "Telefoonweegschaal",
+    "APP_SETTING_PHONE": "Telefoon",
+    "APP_SETTING_ACCOUNT": "Account",
+    "APP_SETTING_SOFTWARE_UPDATE": "Software-update",
+    "APP_SETTING_CHANGE": "Veranderen",
+    "APP_SETTING_NAME": "Naam",
+    "APP_SETTING_MAIL": "E-mail",
+    "APP_SETTING_PHONE_NUMBER": "Telefoon",
+    "APP_SETTING_SHARE": "Delen",
+    "APP_SETTING_SAVE": "Opslaan",
+    "APP_SETTING_CANCEL": "Annuleren",
+    "APP_SETTING_PRIVATE_CALL": "Privégesprek",
+    "APP_SETTING_BLOCKED_NUMBERS": "Geblokkeerde nummers",
+    "APP_SETTING_DONE": "Voltooid",
+    "APP_SETTING_EDIT": "Bewerken",
+    "APP_SETTING_PHONE_SIZE_SAVED": "De telefoonschaal is succesvol opgeslagen.",
+    "APP_SETTING_GKS_UP_TO_DATE": "GKS is up-to-date.",
+    "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS is niet up-to-date.",
+    "APP_SETTING_ADD_WALLPAPER": "Achtergrond toevoegen"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "Contacten",
@@ -332,10 +333,14 @@
     "APP_MESSAGE_BLOCK_NUMER": "Je bent geblokkeerd door dit nummer.",
     "APP_MESSAGE_GROUP_ADD_MEMBER_ERROR": "Je kunt de persoon niet aan de groep toevoegen.",
     "APP_MESSAGE_GROUP_REMOVE_MEMBER_ERROR": "Persoon kon de groep niet verlaten.",
-    "APP_MESSAGE_SAVE_CONTACT_ERROR_YOU_SELF": "Je kunt jezelf niet redden."
+    "APP_MESSAGE_SAVE_CONTACT_ERROR_YOU_SELF": "Je kunt jezelf niet redden.",
+    "APP_MESSAGE_GPS": "GPS",
+    "APP_MESSAGE_CAMERA": "Camera",
+    "APP_MESSAGE_MIC": "Microfoon",
+    "APP_MESSAGE_EMOJI": "Emoji",
+    "APP_MESSAGE_SHARE_CONTACT": "Deel contact"
   },
   "SetupScreen": {
-    "PHONE_SETUP_HELLO": "Hallo",
     "PHONE_SETUP_CLIKUP": "Klik om je telefoon in te stellen",
     "SettingLangueage": "Taal instellen...",
     "PHONE_SETUP_LOGINGKSID": "GKS ID",
@@ -414,7 +419,8 @@
       "question9": "Waar heb je je echtgenoot ontmoet?"
     },
     "PHONE_SETUP_FINISH_ERROR": "De telefoon kon niet geïnstalleerd worden.",
-    "PHONE_SETUP_CHANGE_LANGUAGE_ERROR": "Fout bij het wijzigen van de taal"
+    "PHONE_SETUP_CHANGE_LANGUAGE_ERROR": "Fout bij het wijzigen van de taal",
+    "PHONE_SETUP_LOGIN_ERROR_OWNER": "Deze e-mail is beschermd door de eigenaar. U heeft geen toestemming om toegang te krijgen tot de telefoongegevens."
   },
   "ServicesAPP": {
     "APP_SERVICES_TITLE": "Diensten",
@@ -501,7 +507,14 @@
     "APP_SERVICES_MANAGE_EMPLOYEES_CHANGEGRADE_SUCESS": "U heeft de functie van de werknemer met succes gewijzigd.",
     "APP_SERVICES_MANAGE_EMPLOYEES_CHANGEGRADE_FAILED": "Er is een fout opgetreden bij het wijzigen van de functie van de werknemer.",
     "APP_SERVICES_REPORT_REPORT": "Verslag",
-    "APP_SERVICES_REPORT_REPORTNO": "Niemand is nog geïnteresseerd in het rapport."
+    "APP_SERVICES_REPORT_REPORTNO": "Niemand is nog geïnteresseerd in het rapport.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_DESC": "Hoeveel geld wilt u opnemen?",
+    "APP_SERVICES_SOCIETY_WITHDRAW_ERROR": "Ongeldig bedrag",
+    "APP_SERVICES_SOCIETY_WITHDRAW_CONFIRM": "Weet je zeker dat je {amount} wilt opnemen?",
+    "APP_SERVICES_SOCIETY_WITHDRAW_SUCCESS": "Geld werd succesvol opgenomen",
+    "APP_SERVICES_SOCIETY_WITHDRAW_FAILED": "Er is een fout opgetreden bij het opnemen van geld.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_INSUFFICIENT_FUNDS": "Er is niet genoeg geld.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_PERMISSION_DENIED": "Je hebt geen toestemming voor deze bewerking."
   },
   "StreamMode": {
     "APP_STREAMMODE_IMAGE": "Afbeelding verborgen omdat Streamer Modus actief is"
@@ -719,15 +732,11 @@
   },
   "AdvertisingAPP": {
     "APP_AD_TITLE": "Adverteren",
-    "APP_AD_HEADER": "Feed",
-    "APP_AD_FAV": "Favorieten",
-    "APP_AD_PROFILE": "Profiel",
     "APP_AD_MODAL_NEWADD": "Nieuwe Advertentie",
     "APP_AD_SHAREAD": "Deel Advertentie",
     "APP_AD_SEARCH": "Zoeken",
     "APP_AD_MODAL_CANCEL": "Annuleren",
     "APP_AD_MODAL_SHARE": "Delen",
-    "APP_AD_MODAL_FILTERSELECT": "Selecteer Filter",
     "APP_AD_MODAL_IMAGEADD": "Afbeelding Toevoegen",
     "APP_AD_MODAL_TEXTAREALABEL": "Schrijf een bericht",
     "APP_AD_MODAL_TEXTAREAPLACEHOLDER": "Schrijf een bericht",
@@ -738,7 +747,19 @@
     "APP_AD_SHAREMINCHARACTER": "Je moet minstens 15 tekens invoeren",
     "APP_AD_SHARECONFIRM_DESC": "Weet je zeker dat je een advertentie wilt maken? Transactiekosten: {fee}",
     "APP_AD_SHARE_ERROR_NOMONEY": "Je hebt niet genoeg geld",
-    "APP_AD_SHARE_NOTFY_POST": "{name} heeft een nieuwe advertentie gedeeld"
+    "APP_AD_SHARE_NOTFY_POST": "{name} heeft een nieuwe advertentie gedeeld",
+    "APP_AD_CREATING": "Een advertentie aanmaken...",
+    "APP_AD_SUCCESS": "De advertentie is succesvol gedeeld.",
+    "APP_AD_ERROR": "Er is een fout opgetreden bij het delen van de advertentie.",
+    "APP_AD_DELETE_SUCCESS": "De advertentie is succesvol verwijderd.",
+    "APP_AD_SHARETITLE": "De titel moet tussen de 5 en 250 tekens lang zijn.",
+    "APP_AD_CAMERA_GALLERY": "Camera/Galerij",
+    "APP_AD_MODAL_LINK": "Link",
+    "APP_AD_VIEW_LIST": "Lijst",
+    "APP_AD_VIEW_GRID": "Galerij",
+    "APP_AD_MODAL_TITLE": "Advertentietitel*",
+    "APP_AD_MODAL_PRICE": "Prijs",
+    "APP_DIALOG_CONFIRM_DELETE": "Weet je zeker dat je deze advertentie wilt verwijderen?"
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "Nieuws",
@@ -753,27 +774,6 @@
     "APP_NEWS_NEWSSEARCH": "Zoeken",
     "APP_NEWS_NOTIFY_NEW": "Er is nieuws toegevoegd",
     "APP_NEWS_DETAILTITLE": "Nieuws tekst"
-  },
-  "ValeAPP": {
-    "APP_VALE_TITLE": "Vale",
-    "APP_VALE_CARTYPE": "Autotype",
-    "APP_VALE_CARMAXSPEED": "Maximale Snelheid",
-    "APP_VALE_KMH": "km/u",
-    "APP_VALE_GARAGE": "Garage",
-    "APP_VALE_BRING": "BRENG",
-    "APP_VALE_TRACK": "TRACK",
-    "APP_VALE_SEARCH": "Zoeken",
-    "APP_VALE_MODAL_BRING": "Wil je dat de valetparking je auto brengt?",
-    "APP_VALE_ERROR_BRING_NOMONEY": "Je hebt niet genoeg geld",
-    "APP_VALE_ERROR_BRING_CARNOTFOUND": "Je auto is niet gevonden",
-    "APP_VALE_ERROR_BRING_CARIMPOUNDED": "Je voertuig kan niet worden opgeroepen omdat het in beslag is genomen.",
-    "APP_VALE_ERROR_BRING_NOTINGARAGE": "Je auto staat niet in de garage",
-    "APP_VALE_ERROR_BRING_CAROUTSIDE": "De auto kan niet worden gebracht omdat hij buiten staat.",
-    "APP_VALE_SUCESS_BRING": "Voertuig onderweg",
-    "APP_VALE_MARKED": "Je voertuig gemarkeerd op de kaart",
-    "APP_VALE_ERROR_TRACK_CARGARAGE": "Je voertuig is niet gemarkeerd omdat het in de garage staat.",
-    "APP_VALE_ERROR_CARBLACKLIST": "Dit voertuigmodel kan niet worden gebracht",
-    "APP_VALE_USEVALET_BANK_HISTORY_DESC": "Gebruik van valetservice"
   },
   "GalleryAPP": {
     "APP_GALLERY_TITLE": "Galerij",
@@ -1017,19 +1017,7 @@
   "GamesAPP": {
     "APP_GAME_TITLE": "Spellen",
     "APP_GAME_SCORE": "Score",
-    "APP_GAME_DHAND": "Handelaarshand: ",
-    "APP_GAME_YHAND": "Jouw hand: ",
-    "APP_GAME_CREDIT": "Krediet: ",
-    "APP_GAME_BET": "Inzet: ",
-    "APP_GAME_HIT": "Kaart",
-    "APP_GAME_STAND": "Blijven",
-    "APP_GAME_DOUBLE": "DUBBEL",
-    "APP_GAME_RESUME": "Hervatten",
     "APP_GAME_STARTGAME": "Start Spel",
-    "APP_GAME_CURRENCY": "€",
-    "APP_GAME_BLACKJACKDRAW": "Gelijkspel",
-    "APP_GAME_BLACKJACKLOSE": "Je verliest",
-    "APP_GAME_BLACKJACKWIN": "Je wint",
     "APP_GAME_SNAKE_PLAY": "Spelen",
     "APP_GAME_SNAKE_GAMEOVER": "Spel Afgelopen!",
     "APP_GAME_RESTART": "Herstart",
@@ -1054,7 +1042,12 @@
     "APP_GAME_TETRIS_LINESCLEARED": "Verwijderde lijnen:",
     "APP_GAME_TETRIS_SPEED_MASTER": "🏆 Snelheidskampioen!",
     "APP_GAME_TETRIS_LINE_CLEARER": "🔥 Lijnverwijderaar!",
-    "APP_GAME_TETRIS_NEXT_PIECE": "Volgend stuk"
+    "APP_GAME_TETRIS_NEXT_PIECE": "Volgend stuk",
+    "APP_GAME_BREAKOUT_BEST_SCORE": "Beste Score",
+    "APP_GAME_BREAKOUT_HEALTH": "Gezondheid",
+    "APP_GAME_BREAKOUT_LEVEL_SUCCESS": "🍉 Niveau {level} Voltooid!",
+    "APP_GAME_BREAKOUT_BONUS_SCORE": "{bonus} Bonuspunten!",
+    "APP_GAME_BREAKOUT_TOTAL_SCORE": "Totaalscore"
   },
   "LiveStreamAPP": {
     "APP_LIVE_TITLE": "Live Stream",
@@ -1153,7 +1146,6 @@
     "APP_TAXI_CUSTOMER_LOCATION": "Je locatie",
     "APP_TAXI_CUSTOMER_DESTINATION": "Bestemming",
     "APP_TAXI_CUSTOMER_DESTINATIONERROR": "Om een taxi te kunnen bellen, moet je de bestemming op de kaart selecteren.",
-    "APP_TAXI_CUSTOMER_DESTINATIONERROR2": "Je moet de bestemming op de kaart selecteren.",
     "APP_TAXI_CUSTOMER_TOTALDISTANCE": "Totale afstand",
     "APP_TAXI_CUSTOMER_TOTALPRICE": "Totale prijs",
     "APP_TAXI_CUSTOMER_CALCULATE": "Bereken mijn reis",
@@ -1184,7 +1176,6 @@
     "APP_TAXI_DRIVER_CANCELJOB": "Annuleren",
     "APP_TAXI_DRIVER_LOADING": "Laden...",
     "APP_TAXI_DRIVER_ACCEPTJOBSTARTED": "Je hebt de opdracht geaccepteerd",
-    "APP_TAXI_DRIVER_NOTJOBSTARTED": "Je hebt de opdracht nog niet geaccepteerd",
     "APP_TAXI_DRIVER_NOTFYCUSTOMERRECEIVED": "Klant ontvangen",
     "APP_TAXI_DRIVER_NOTFYNOTCUSTOMERRECEIVED": "Klant niet ontvangen",
     "APP_TAXI_DRIVER_CUSTOMERLEFTLOCATION": "Klant is vertrokken naar locatie",
@@ -1391,7 +1382,8 @@
       "TRANSFER_TEXT": "Overdragen",
       "TRENSFER_ERROR1": "Je kunt niet minder dan 250 chips overdragen.",
       "TRENSFER_ERROR2": "Je hebt niet genoeg saldo."
-    }
+    },
+    "APP_CASINO_ROLL_AWAITINGRESULT": "Het resultaat wordt verwacht..."
   },
   "Info": {
     "APP_INFO_PERSONALINFO": "Persoonlijke informatie",
@@ -1405,9 +1397,6 @@
   "Tooltip": {
     "ESIM": {
       "APP_TOOLTIP_SIM_BUY": "Kopen"
-    },
-    "Message": {
-      "APP_TOOLTIP_MESSAGE_CREATEGROUPMEMBER": "{'@'}Contactnaam"
     },
     "Advertising": {
       "APP_TOOLTIP_ADVERTISING_POST": "Nieuwe post",
@@ -1474,14 +1463,6 @@
       "APP_LUCYAI_COMMANDS_OPENAPP": "App openen",
       "APP_LUCYAI_COMMANDS_MONEYTRANSFER": "Geld overmaken"
     }
-  },
-  "RegisterCommand": {
-    "REGISTERCOMMAND_OPENPHONE": "Open Phone",
-    "REGISTERCOMMAND_NORMALCHARGE": "Normal Charge",
-    "REGISTERCOMMAND_FASTCHARGE": "Fast Charge",
-    "REGISTERCOMMAND_PHONEBOOTH": "Phone Booth",
-    "REGISTERCOMMAND_ANSWERCALL": "Answer Call",
-    "REGISTERCOMMAND_DECLINECALL": "Decline Call"
   },
   "FlareApp": {
     "APP_FLARE_TITLE": "Flare",
@@ -1688,7 +1669,6 @@
     "APP_DARKCHAT_CHOOSE_PHOTO": "Kies Foto",
     "APP_DARKCHAT_PLACEHOLER_ROOM_NAME": "Voer de naam van de kamer in",
     "APP_DARKCHAT_PLACEHOLER_ROOM_PASSWORD": "Voer kamerwachtwoord in",
-    "APP_DARKCHAT_ROOM_NAME": "Kamersnaam",
     "APP_DARKCHAT_ROOM_PASSWORD": "Wachtwoord",
     "APP_DARKCHAT_PUBLIC_ROOM": "Openbare Ruimte",
     "APP_DARKCHAT_SAVE": "Opslaan",
@@ -1731,7 +1711,6 @@
     "APP_DARKCHAT_JOIN_ROOM_DESC": "Voer de naam van de kamer in om deel te nemen:",
     "APP_DARKCHAT_MEMBER_ALREADY_JOIN": "Je bent al lid van deze kamer.",
     "APP_DARKCHAT_ERROR_JOIN_ROOM": "Kamer niet gevonden of je hebt geen toestemming om deel te nemen.",
-    "APP_DARKCHAT_NOT_AVAILABLE_ROOM": "Kamernummer is niet beschikbaar.",
     "APP_DARKCHAT_JOIN_ROOM_PASS_DESC": "Weet je zeker dat je de kamer {roomName} wilt betreden?",
     "APP_DARKCHAT_JOINING_ROOM": "De kamer betreden...",
     "APP_DARKCHAT_ENTER_ROOM_PASSWORD_JOIN_PLACEHOLDER": "Voer kamerwachtwoord in",
@@ -1775,6 +1754,43 @@
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "Je hebt geen toestemming om deze kamer te bewerken.",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "Kamer kon niet worden bijgewerkt.",
     "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "U heeft geen toestemming om deze kamer te verwijderen of de kamer is niet gevonden.",
-    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "U heeft een nieuw bericht in het {channel} kanaal."
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "U heeft een nieuw bericht in het {channel} kanaal.",
+    "APP_DARKCHAT_TOGGLING_MUTE_STATUS": "Status van de stille modus wijzigen...",
+    "APP_DARKCHAT_USER_MUTED_SUCCESS": "De gebruiker is succesvol gedempt.",
+    "APP_DARKCHAT_USER_UNMUTED_SUCCESS": "De gebruiker is met succes ingeschakeld voor spraak.",
+    "APP_DARKCHAT_TOGGLE_MUTE_ERROR": "De gebruiker kon niet op stil gezet worden.",
+    "APP_DARKCHAT_LOADING_USERS_LIST": "Laden van gebruikerslijst...",
+    "APP_DARKCHAT_TOGGLE_MUTE_TOOLTIP": "Gebruiker dempen / Gebruiker de-dempen",
+    "APP_DARKCHAT_LOAD_USER_LIST_ERROR": "De gebruikerslijst kon niet worden geladen.",
+    "APP_DARKCHAT_NO_AUTH": "Je hebt geen toestemming voor deze bewerking."
+  },
+  "GarageApp": {
+    "APP_GARAGE_TITLE": "Garage",
+    "APP_GARAGE_CAR_ENGINE": "Motor",
+    "APP_GARAGE_CAR_BODY": "Lichaam",
+    "APP_GARAGE_CAR_FUEL": "Brandstof",
+    "APP_GARAGE_CLOSE": "Sluiten",
+    "APP_GARAGE_NUMBER_PLATE": "Kentekenplaat",
+    "APP_GARAGE_GARAGE": "Garage",
+    "APP_GARAGE_LOCK": "Vergrendelen",
+    "APP_GARAGE_START": "Starten",
+    "APP_GARAGE_DOORS": "Deuren",
+    "APP_GARAGE_HEADLIGHT": "Koplampen",
+    "APP_GARAGE_TRUNK": "Kofferbak",
+    "APP_GARAGE_FRONT_TRUNK": "Voorkoffer",
+    "APP_GARAGE_TRACK": "Merk",
+    "APP_GARAGE_BRING_CAR": "Brengen",
+    "APP_GARAGE_ACTION_FAILED": "De operatie is mislukt.",
+    "APP_GARAGE_MODAL_BRING": "Wilt u dat de valet uw auto brengt?",
+    "APP_GARAGE_ERROR_BRING_NOMONEY": "Je hebt niet genoeg geld.",
+    "APP_GARAGE_ERROR_BRING_CARNOTFOUND": "Uw voertuig werd niet gevonden.",
+    "APP_GARAGE_ERROR_BRING_CARIMPOUNDED": "Het kan niet worden opgeroepen omdat uw voertuig in beslag is genomen.",
+    "APP_GARAGE_ERROR_BRING_NOTINGARAGE": "Uw voertuig bevindt zich niet in de garage.",
+    "APP_GARAGE_ERROR_BRING_CAROUTSIDE": "Het voertuig kan niet binnengebracht worden omdat het buiten is.",
+    "APP_GARAGE_SUCESS_BRING": "Uw voertuig is onderweg",
+    "APP_GARAGE_MARKED": "Uw voertuig is gemarkeerd op de kaart.",
+    "APP_GARAGE_ERROR_TRACK_CARGARAGE": "Uw voertuig kan niet gemarkeerd worden omdat het in de garage staat.",
+    "APP_GARAGE_ERROR_CARBLACKLIST": "Dit voertuigmodel kan niet worden ingevoerd.",
+    "APP_GARAGE_USEVALET_BANK_HISTORY_DESC": "Valetservice"
   }
 }

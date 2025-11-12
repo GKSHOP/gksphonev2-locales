@@ -92,7 +92,6 @@
     "APP_SETTING_NOTIFICATIONS": "Сповіщення",
     "APP_SETTING_BORDER_COLOR": "Колір рамки",
     "APP_SETTING_DARK_MODE": "Темний режим",
-    "APP_SETTING_RESET_PHONE": "Скинути телефон",
     "APP_SETTING_ABOUT": "Про програму",
     "APP_SETTING_LOOKID": "LookID",
     "APP_SETTING_PASSWORD": "Пароль",
@@ -108,29 +107,11 @@
     "APP_SETTING_PHONENAME": "Назва телефону",
     "APP_SETTING_SOFTWAREVERSION": "Версія програмного забезпечення",
     "APP_SETTING_PHONEVERSION": "Версія телефону",
-    "APP_SETTING_PHONEUPTODATE": "Ваш телефон оновлений",
-    "APP_SETTING_PHONEUPDATE": "Будь ласка, оновіть свій телефон. Зв'яжіться з власником сервера.",
     "APP_SETTING_PHONE_RESETLOADING": "Пароль скидається...",
     "APP_SETTING_PHONE_RESETERROR": "Пароль не вдалося скинути",
     "APP_SETTING_PHONESERIALNUMBER": "Серійний номер",
-    "APP_SETTING_REPORTBUG": "Повідомити про помилку",
-    "APP_SETTING_BUGREPORTLABEL": "Звіт про помилку",
-    "APP_SETTING_BUGREPORTDESC": "Будь ласка, напишіть свій звіт про помилку",
-    "APP_SETTING_BUGREPORTSEND": "Надіслати",
-    "APP_SETTING_BUGREPORTCANCEL": "Скасувати",
-    "APP_SETTING_BUGREPORTSUCCESS": "Ваш звіт про помилку було надіслано",
-    "APP_SETTING_BUGREPORTEMPTY": "Ви не можете надіслати порожній звіт про помилку",
-    "APP_SETTING_FEEDBACK": "Відгук",
-    "APP_SETTING_FEEDBACKLABEL": "Відгук",
-    "APP_SETTING_FEEDBACKDESC": "Будь ласка, напишіть ваш відгук",
-    "APP_SETTING_FEEDBACKSEND": "Відправити",
-    "APP_SETTING_FEEDBACKCANCEL": "Скасувати",
-    "APP_SETTING_FEEDBACKSUCCESS": "Ваш відгук було надіслано",
-    "APP_SETTING_FEEDBACKEMPTY": "Ви не можете надіслати порожній відгук",
     "APP_SETTING_CHANGLOG": "Журнал змін",
     "APP_SETTING_CHANGLOGPOUPCLOSE": "Закрити",
-    "APP_SETTING_CUSTOMEWALLPAPER": "Користувацький фон",
-    "APP_SETTING_CUSTOMEWALLPAPERDESC": "Введіть URL зображення, яке ви хочете використовувати як фон",
     "APP_SETTING_LANG": "Мова",
     "APP_SETTING_NAMECHANGELOADING": "Зміна імені...",
     "APP_SETTING_NAMECHANGEDESC": "Вкажіть ваше ім'я, яке буде використовуватися в деяких додатках і функціях",
@@ -140,7 +121,27 @@
     "APP_SETTING_QRCODE_SECRET_DESC": "Цей QR-код автентифікує ваш телефон. Не діліться цим кодом з ким-небудь.",
     "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "Ваше ім'я повинно містити не менше 4 символів",
     "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Ваше ім'я не повинно перевищувати 20 символів",
-    "APP_SETTING_LUCY": "Lucy"
+    "APP_SETTING_LUCY": "Lucy",
+    "APP_SETTING_DETAILS": "Натисніть для отримання додаткової інформації.",
+    "APP_SETTING_PHONE_SIZE": "Телефонні ваги",
+    "APP_SETTING_PHONE": "Телефон",
+    "APP_SETTING_ACCOUNT": "Обліковий запис",
+    "APP_SETTING_SOFTWARE_UPDATE": "Оновлення програмного забезпечення",
+    "APP_SETTING_CHANGE": "Змінити",
+    "APP_SETTING_NAME": "Ім'я",
+    "APP_SETTING_MAIL": "Електронна пошта",
+    "APP_SETTING_PHONE_NUMBER": "Телефон",
+    "APP_SETTING_SHARE": "Поділитися",
+    "APP_SETTING_SAVE": "Зберегти",
+    "APP_SETTING_CANCEL": "Скасувати",
+    "APP_SETTING_PRIVATE_CALL": "Приватний дзвінок",
+    "APP_SETTING_BLOCKED_NUMBERS": "Заблоковані номери",
+    "APP_SETTING_DONE": "Завершено",
+    "APP_SETTING_EDIT": "Редагувати",
+    "APP_SETTING_PHONE_SIZE_SAVED": "Телефонні ваги були успішно збережені.",
+    "APP_SETTING_GKS_UP_TO_DATE": "GKS оновлено.",
+    "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS не оновлений.",
+    "APP_SETTING_ADD_WALLPAPER": "Додати шпалери"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "Контакти",
@@ -332,10 +333,14 @@
     "APP_MESSAGE_BLOCK_NUMER": "You have been blocked by this number.",
     "APP_MESSAGE_GROUP_ADD_MEMBER_ERROR": "You cannot add the person to the group.",
     "APP_MESSAGE_GROUP_REMOVE_MEMBER_ERROR": "The person could not leave the group.",
-    "APP_MESSAGE_SAVE_CONTACT_ERROR_YOU_SELF": "You cannot save yourself."
+    "APP_MESSAGE_SAVE_CONTACT_ERROR_YOU_SELF": "You cannot save yourself.",
+    "APP_MESSAGE_GPS": "GPS",
+    "APP_MESSAGE_CAMERA": "Камера",
+    "APP_MESSAGE_MIC": "Мікрофон",
+    "APP_MESSAGE_EMOJI": "Емодзі",
+    "APP_MESSAGE_SHARE_CONTACT": "Поділитися контактом"
   },
   "SetupScreen": {
-    "PHONE_SETUP_HELLO": "Привіт",
     "PHONE_SETUP_CLIKUP": "Натисніть, щоб налаштувати телефон",
     "SettingLangueage": "Налаштування мови...",
     "PHONE_SETUP_LOGINGKSID": "GKS ID",
@@ -414,7 +419,8 @@
       "question9": "Де ви зустріли свого партнера?"
     },
     "PHONE_SETUP_FINISH_ERROR": "Телефон не вдалося встановити.",
-    "PHONE_SETUP_CHANGE_LANGUAGE_ERROR": "Помилка зміни мови"
+    "PHONE_SETUP_CHANGE_LANGUAGE_ERROR": "Помилка зміни мови",
+    "PHONE_SETUP_LOGIN_ERROR_OWNER": "Цей електронний лист захищений власником. У вас немає дозволу на доступ до даних телефону."
   },
   "ServicesAPP": {
     "APP_SERVICES_TITLE": "Служби",
@@ -501,7 +507,14 @@
     "APP_SERVICES_MANAGE_EMPLOYEES_CHANGEGRADE_SUCESS": "You have successfully changed the employee's grade.",
     "APP_SERVICES_MANAGE_EMPLOYEES_CHANGEGRADE_FAILED": "An error occurred while changing the employee's grade.",
     "APP_SERVICES_REPORT_REPORT": "Report",
-    "APP_SERVICES_REPORT_REPORTNO": "Ninguém está interessado no relatório ainda."
+    "APP_SERVICES_REPORT_REPORTNO": "Ninguém está interessado no relatório ainda.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_DESC": "Скільки грошей ви хочете зняти?",
+    "APP_SERVICES_SOCIETY_WITHDRAW_ERROR": "Неправильна сума",
+    "APP_SERVICES_SOCIETY_WITHDRAW_CONFIRM": "Ви впевнені, що хочете зняти {amount}?",
+    "APP_SERVICES_SOCIETY_WITHDRAW_SUCCESS": "Гроші були успішно зняті.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_FAILED": "Сталася помилка під час виведення грошей.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_INSUFFICIENT_FUNDS": "Недостатньо грошей.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_PERMISSION_DENIED": "У вас немає дозволу на цю операцію."
   },
   "StreamMode": {
     "APP_STREAMMODE_IMAGE": "Зображення приховане, оскільки активний режим стримера"
@@ -719,15 +732,11 @@
   },
   "AdvertisingAPP": {
     "APP_AD_TITLE": "Реклама",
-    "APP_AD_HEADER": "Фід",
-    "APP_AD_FAV": "Улюблені",
-    "APP_AD_PROFILE": "Профіль",
     "APP_AD_MODAL_NEWADD": "Новий оголошення",
     "APP_AD_SHAREAD": "Поділитися оголошенням",
     "APP_AD_SEARCH": "Пошук",
     "APP_AD_MODAL_CANCEL": "Скасувати",
     "APP_AD_MODAL_SHARE": "Поділитися",
-    "APP_AD_MODAL_FILTERSELECT": "Вибрати фільтр",
     "APP_AD_MODAL_IMAGEADD": "Додати зображення",
     "APP_AD_MODAL_TEXTAREALABEL": "Напишіть повідомлення",
     "APP_AD_MODAL_TEXTAREAPLACEHOLDER": "Напишіть повідомлення",
@@ -738,7 +747,19 @@
     "APP_AD_SHAREMINCHARACTER": "Ви повинні ввести щонайменше 15 символів",
     "APP_AD_SHARECONFIRM_DESC": "Ви впевнені, що хочете створити оголошення? Комісія за транзакцію: {fee}",
     "APP_AD_SHARE_ERROR_NOMONEY": "У вас недостатньо грошей",
-    "APP_AD_SHARE_NOTFY_POST": "{name} поділився новим оголошенням"
+    "APP_AD_SHARE_NOTFY_POST": "{name} поділився новим оголошенням",
+    "APP_AD_CREATING": "Створення реклами...",
+    "APP_AD_SUCCESS": "Оголошення було успішно поділено.",
+    "APP_AD_ERROR": "Сталася помилка під час поширення оголошення.",
+    "APP_AD_DELETE_SUCCESS": "Оголошення було успішно видалено.",
+    "APP_AD_SHARETITLE": "Заголовок має бути від 5 до 250 символів.",
+    "APP_AD_CAMERA_GALLERY": "Камера/Галерея",
+    "APP_AD_MODAL_LINK": "Посилання",
+    "APP_AD_VIEW_LIST": "Список",
+    "APP_AD_VIEW_GRID": "Галерея",
+    "APP_AD_MODAL_TITLE": "Назва оголошення*",
+    "APP_AD_MODAL_PRICE": "Ціна",
+    "APP_DIALOG_CONFIRM_DELETE": "Ви впевнені, що хочете видалити це оголошення?"
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "Новини",
@@ -753,27 +774,6 @@
     "APP_NEWS_NEWSSEARCH": "Пошук",
     "APP_NEWS_NOTIFY_NEW": "Додано новину",
     "APP_NEWS_DETAILTITLE": "Текст новини"
-  },
-  "ValeAPP": {
-    "APP_VALE_TITLE": "Валет",
-    "APP_VALE_CARTYPE": "Тип автомобіля",
-    "APP_VALE_CARMAXSPEED": "Максимальна швидкість",
-    "APP_VALE_KMH": "км/год",
-    "APP_VALE_GARAGE": "Гараж",
-    "APP_VALE_BRING": "ПРИНОСИТИ",
-    "APP_VALE_TRACK": "ТРАК",
-    "APP_VALE_SEARCH": "Пошук",
-    "APP_VALE_MODAL_BRING": "Ви хочете, щоб валет приніс ваш автомобіль?",
-    "APP_VALE_ERROR_BRING_NOMONEY": "У вас недостатньо грошей",
-    "APP_VALE_ERROR_BRING_CARNOTFOUND": "Ваш автомобіль не знайдено",
-    "APP_VALE_ERROR_BRING_CARIMPOUNDED": "Ваш транспортний засіб не може бути викликаний, оскільки він був конфіскований.",
-    "APP_VALE_ERROR_BRING_NOTINGARAGE": "Ваш автомобіль не в гаражі",
-    "APP_VALE_ERROR_BRING_CAROUTSIDE": "Автомобіль не можна забрати, оскільки він знаходиться на вулиці.",
-    "APP_VALE_SUCESS_BRING": "Транспортний засіб на дорозі",
-    "APP_VALE_MARKED": "Ваш транспортний засіб позначено на карті",
-    "APP_VALE_ERROR_TRACK_CARGARAGE": "Ваш транспортний засіб не позначено, оскільки він у гаражі.",
-    "APP_VALE_ERROR_CARBLACKLIST": "Цю модель автомобіля не можна забрати",
-    "APP_VALE_USEVALET_BANK_HISTORY_DESC": "Використання послуг валет-паркування"
   },
   "GalleryAPP": {
     "APP_GALLERY_TITLE": "Галерея",
@@ -1017,19 +1017,7 @@
   "GamesAPP": {
     "APP_GAME_TITLE": "Ігри",
     "APP_GAME_SCORE": "Рахунок",
-    "APP_GAME_DHAND": "Рука дилера: ",
-    "APP_GAME_YHAND": "Ваша рука: ",
-    "APP_GAME_CREDIT": "Кредит: ",
-    "APP_GAME_BET": "Ставка: ",
-    "APP_GAME_HIT": "Вдарити",
-    "APP_GAME_STAND": "Стій",
-    "APP_GAME_DOUBLE": "ПОДВИЧИТИ",
-    "APP_GAME_RESUME": "Продовжити",
     "APP_GAME_STARTGAME": "Почати гру",
-    "APP_GAME_CURRENCY": "грн",
-    "APP_GAME_BLACKJACKDRAW": "Нічия",
-    "APP_GAME_BLACKJACKLOSE": "Ви програли",
-    "APP_GAME_BLACKJACKWIN": "Ви виграли",
     "APP_GAME_SNAKE_PLAY": "Грати",
     "APP_GAME_SNAKE_GAMEOVER": "Гра закінчена!",
     "APP_GAME_RESTART": "Перезапустити",
@@ -1054,7 +1042,12 @@
     "APP_GAME_TETRIS_LINESCLEARED": "Лінії очищено:",
     "APP_GAME_TETRIS_SPEED_MASTER": "🏆 Майстер швидкості!",
     "APP_GAME_TETRIS_LINE_CLEARER": "🔥 Очистка лінії!",
-    "APP_GAME_TETRIS_NEXT_PIECE": "Наступний шматок"
+    "APP_GAME_TETRIS_NEXT_PIECE": "Наступний шматок",
+    "APP_GAME_BREAKOUT_BEST_SCORE": "Найкращий рахунок",
+    "APP_GAME_BREAKOUT_HEALTH": "Здоров'я",
+    "APP_GAME_BREAKOUT_LEVEL_SUCCESS": "🍉 Рівень {level} завершено!",
+    "APP_GAME_BREAKOUT_BONUS_SCORE": "{бонус} Бонусний бал!",
+    "APP_GAME_BREAKOUT_TOTAL_SCORE": "Загальний рахунок"
   },
   "LiveStreamAPP": {
     "APP_LIVE_TITLE": "Прямий ефір",
@@ -1153,7 +1146,6 @@
     "APP_TAXI_CUSTOMER_LOCATION": "Ваше місцезнаходження",
     "APP_TAXI_CUSTOMER_DESTINATION": "Призначення",
     "APP_TAXI_CUSTOMER_DESTINATIONERROR": "Щоб викликати таксі, ви повинні вибрати призначення на карті.",
-    "APP_TAXI_CUSTOMER_DESTINATIONERROR2": "Ви повинні вибрати призначення на карті.",
     "APP_TAXI_CUSTOMER_TOTALDISTANCE": "Загальна відстань",
     "APP_TAXI_CUSTOMER_TOTALPRICE": "Загальна ціна",
     "APP_TAXI_CUSTOMER_CALCULATE": "Розрахувати мою поїздку",
@@ -1184,7 +1176,6 @@
     "APP_TAXI_DRIVER_CANCELJOB": "Скасувати",
     "APP_TAXI_DRIVER_LOADING": "Завантаження...",
     "APP_TAXI_DRIVER_ACCEPTJOBSTARTED": "Ви прийняли роботу",
-    "APP_TAXI_DRIVER_NOTJOBSTARTED": "Ви не прийняли роботу",
     "APP_TAXI_DRIVER_NOTFYCUSTOMERRECEIVED": "Клієнт отримав",
     "APP_TAXI_DRIVER_NOTFYNOTCUSTOMERRECEIVED": "Клієнт не отримав",
     "APP_TAXI_DRIVER_CUSTOMERLEFTLOCATION": "Клієнт вирушив до місця",
@@ -1391,7 +1382,8 @@
       "TRANSFER_TEXT": "Переказати",
       "TRENSFER_ERROR1": "Ви не можете переказати менше ніж 250 фішок.",
       "TRENSFER_ERROR2": "У вас недостатньо балансу."
-    }
+    },
+    "APP_CASINO_ROLL_AWAITINGRESULT": "Результат очікується..."
   },
   "Info": {
     "APP_INFO_PERSONALINFO": "Особиста інформація",
@@ -1405,9 +1397,6 @@
   "Tooltip": {
     "ESIM": {
       "APP_TOOLTIP_SIM_BUY": "Купити"
-    },
-    "Message": {
-      "APP_TOOLTIP_MESSAGE_CREATEGROUPMEMBER": "{'@'}Ім'я контакту"
     },
     "Advertising": {
       "APP_TOOLTIP_ADVERTISING_POST": "Новий пост",
@@ -1474,14 +1463,6 @@
       "APP_LUCYAI_COMMANDS_OPENAPP": "Відкрити додаток",
       "APP_LUCYAI_COMMANDS_MONEYTRANSFER": "Грошовий переказ"
     }
-  },
-  "RegisterCommand": {
-    "REGISTERCOMMAND_OPENPHONE": "Відкрити телефон",
-    "REGISTERCOMMAND_NORMALCHARGE": "Звичайна зарядка",
-    "REGISTERCOMMAND_FASTCHARGE": "Швидка зарядка",
-    "REGISTERCOMMAND_PHONEBOOTH": "Телефонна будка",
-    "REGISTERCOMMAND_ANSWERCALL": "Відповісти на дзвінок",
-    "REGISTERCOMMAND_DECLINECALL": "Відхилити дзвінок"
   },
   "FlareApp": {
     "APP_FLARE_TITLE": "Flare",
@@ -1688,7 +1669,6 @@
     "APP_DARKCHAT_CHOOSE_PHOTO": "Виберіть фотографію",
     "APP_DARKCHAT_PLACEHOLER_ROOM_NAME": "Введіть назву кімнати",
     "APP_DARKCHAT_PLACEHOLER_ROOM_PASSWORD": "Введіть пароль кімнати",
-    "APP_DARKCHAT_ROOM_NAME": "Назва кімнати",
     "APP_DARKCHAT_ROOM_PASSWORD": "Пароль",
     "APP_DARKCHAT_PUBLIC_ROOM": "Публічна кімната",
     "APP_DARKCHAT_SAVE": "Зберегти",
@@ -1731,7 +1711,6 @@
     "APP_DARKCHAT_JOIN_ROOM_DESC": "Введіть назву кімнати для приєднання:",
     "APP_DARKCHAT_MEMBER_ALREADY_JOIN": "Ви вже є учасником цієї кімнати.",
     "APP_DARKCHAT_ERROR_JOIN_ROOM": "Кімнату не знайдено або у вас немає дозволу на приєднання.",
-    "APP_DARKCHAT_NOT_AVAILABLE_ROOM": "ID кімнати недоступний.",
     "APP_DARKCHAT_JOIN_ROOM_PASS_DESC": "Ви впевнені, що хочете приєднатися до кімнати {roomName}?",
     "APP_DARKCHAT_JOINING_ROOM": "Приєднання до кімнати...",
     "APP_DARKCHAT_ENTER_ROOM_PASSWORD_JOIN_PLACEHOLDER": "Введіть пароль кімнати",
@@ -1775,6 +1754,43 @@
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "У вас немає дозволу на редагування цієї кімнати.",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "Кімнату не вдалося оновити.",
     "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "У вас немає дозволу на видалення цієї кімнати або кімнату не знайдено.",
-    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "У вас нове повідомлення в каналі {channel}"
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "У вас нове повідомлення в каналі {channel}",
+    "APP_DARKCHAT_TOGGLING_MUTE_STATUS": "Зміна статусу беззвучного режиму...",
+    "APP_DARKCHAT_USER_MUTED_SUCCESS": "Користувача успішно вимкнено.",
+    "APP_DARKCHAT_USER_UNMUTED_SUCCESS": "Користувача успішно активовано для голосового управління.",
+    "APP_DARKCHAT_TOGGLE_MUTE_ERROR": "Користувача не вдалося вимкнути.",
+    "APP_DARKCHAT_LOADING_USERS_LIST": "Завантаження списку користувачів...",
+    "APP_DARKCHAT_TOGGLE_MUTE_TOOLTIP": "Заблокувати користувача / Розблокувати користувача",
+    "APP_DARKCHAT_LOAD_USER_LIST_ERROR": "Список користувачів не вдалося завантажити.",
+    "APP_DARKCHAT_NO_AUTH": "У вас немає дозволу на цю операцію."
+  },
+  "GarageApp": {
+    "APP_GARAGE_TITLE": "Гараж",
+    "APP_GARAGE_CAR_ENGINE": "Двигун",
+    "APP_GARAGE_CAR_BODY": "Тіло",
+    "APP_GARAGE_CAR_FUEL": "Пальне",
+    "APP_GARAGE_CLOSE": "Закрити",
+    "APP_GARAGE_NUMBER_PLATE": "Номерний знак",
+    "APP_GARAGE_GARAGE": "Гараж",
+    "APP_GARAGE_LOCK": "Замок",
+    "APP_GARAGE_START": "Почати",
+    "APP_GARAGE_DOORS": "Двері",
+    "APP_GARAGE_HEADLIGHT": "Фари",
+    "APP_GARAGE_TRUNK": "Багажник",
+    "APP_GARAGE_FRONT_TRUNK": "Передній багажник",
+    "APP_GARAGE_TRACK": "Мітка",
+    "APP_GARAGE_BRING_CAR": "Принести",
+    "APP_GARAGE_ACTION_FAILED": "Операція не вдалася.",
+    "APP_GARAGE_MODAL_BRING": "Ви хочете, щоб дворецький приніс ваше авто?",
+    "APP_GARAGE_ERROR_BRING_NOMONEY": "У вас недостатньо грошей.",
+    "APP_GARAGE_ERROR_BRING_CARNOTFOUND": "Ваш транспортний засіб не знайдено.",
+    "APP_GARAGE_ERROR_BRING_CARIMPOUNDED": "Не можна зателефонувати, оскільки ваш автомобіль був конфіскований.",
+    "APP_GARAGE_ERROR_BRING_NOTINGARAGE": "Ваш транспортний засіб не в гаражі.",
+    "APP_GARAGE_ERROR_BRING_CAROUTSIDE": "Транспортний засіб не може бути завантажений, оскільки він знаходиться на вулиці.",
+    "APP_GARAGE_SUCESS_BRING": "Ваш транспортний засіб в дорозі",
+    "APP_GARAGE_MARKED": "Ваш транспортний засіб позначено на карті.",
+    "APP_GARAGE_ERROR_TRACK_CARGARAGE": "Ваш транспортний засіб не може бути позначений, оскільки він у гаражі.",
+    "APP_GARAGE_ERROR_CARBLACKLIST": "Цю модель транспортного засобу не можна ввезти.",
+    "APP_GARAGE_USEVALET_BANK_HISTORY_DESC": "Послуга паркування автомобілів"
   }
 }

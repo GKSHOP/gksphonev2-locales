@@ -92,7 +92,6 @@
     "APP_SETTING_NOTIFICATIONS": "Notifikasi",
     "APP_SETTING_BORDER_COLOR": "Warna Border",
     "APP_SETTING_DARK_MODE": "Mode Gelap",
-    "APP_SETTING_RESET_PHONE": "Reset Telepon",
     "APP_SETTING_ABOUT": "Tentang",
     "APP_SETTING_LOOKID": "LookID",
     "APP_SETTING_PASSWORD": "Kata Sandi",
@@ -108,29 +107,11 @@
     "APP_SETTING_PHONENAME": "Nama Telepon",
     "APP_SETTING_SOFTWAREVERSION": "Versi Perangkat Lunak",
     "APP_SETTING_PHONEVERSION": "Versi Telepon",
-    "APP_SETTING_PHONEUPTODATE": "Telepon Anda sudah terbaru",
-    "APP_SETTING_PHONEUPDATE": "Silakan perbarui telepon Anda. Hubungi pemilik server Anda.",
     "APP_SETTING_PHONE_RESETLOADING": "Kata sandi sedang direset...",
     "APP_SETTING_PHONE_RESETERROR": "Kata sandi tidak dapat direset",
     "APP_SETTING_PHONESERIALNUMBER": "Nomor seri",
-    "APP_SETTING_REPORTBUG": "Laporkan Bug",
-    "APP_SETTING_BUGREPORTLABEL": "Laporan Bug",
-    "APP_SETTING_BUGREPORTDESC": "Silakan tulis laporan bug Anda",
-    "APP_SETTING_BUGREPORTSEND": "Kirim",
-    "APP_SETTING_BUGREPORTCANCEL": "Batal",
-    "APP_SETTING_BUGREPORTSUCCESS": "Laporan bug Anda telah dikirim",
-    "APP_SETTING_BUGREPORTEMPTY": "Anda tidak dapat mengirim laporan bug yang kosong",
-    "APP_SETTING_FEEDBACK": "Umpan Balik",
-    "APP_SETTING_FEEDBACKLABEL": "Umpan Balik",
-    "APP_SETTING_FEEDBACKDESC": "Silakan tulis umpan balik Anda",
-    "APP_SETTING_FEEDBACKSEND": "Kirim",
-    "APP_SETTING_FEEDBACKCANCEL": "Batal",
-    "APP_SETTING_FEEDBACKSUCCESS": "Umpan balik Anda telah dikirim",
-    "APP_SETTING_FEEDBACKEMPTY": "Anda tidak dapat mengirim umpan balik yang kosong",
     "APP_SETTING_CHANGLOG": "Catatan perubahan",
     "APP_SETTING_CHANGLOGPOUPCLOSE": "Tutup",
-    "APP_SETTING_CUSTOMEWALLPAPER": "Wallpaper Kustom",
-    "APP_SETTING_CUSTOMEWALLPAPERDESC": "Masukkan URL gambar yang ingin Anda gunakan sebagai wallpaper",
     "APP_SETTING_LANG": "Bahasa",
     "APP_SETTING_NAMECHANGELOADING": "Mengubah nama...",
     "APP_SETTING_NAMECHANGEDESC": "Tentukan nama Anda yang akan digunakan di beberapa aplikasi dan fungsi",
@@ -140,7 +121,27 @@
     "APP_SETTING_QRCODE_SECRET_DESC": "Kode QR ini mengautentikasi telepon Anda. Jangan bagikan kode ini kepada siapa pun.",
     "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "Nama Anda harus terdiri dari setidaknya 4 karakter",
     "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Nama Anda tidak boleh lebih dari 20 karakter",
-    "APP_SETTING_LUCY": "Lucy"
+    "APP_SETTING_LUCY": "Lucy",
+    "APP_SETTING_DETAILS": "Klik untuk detail lebih lanjut.",
+    "APP_SETTING_PHONE_SIZE": "Skala Telepon",
+    "APP_SETTING_PHONE": "Telepon",
+    "APP_SETTING_ACCOUNT": "Akun",
+    "APP_SETTING_SOFTWARE_UPDATE": "Pembaruan Perangkat Lunak",
+    "APP_SETTING_CHANGE": "Ubah",
+    "APP_SETTING_NAME": "Nama",
+    "APP_SETTING_MAIL": "Email",
+    "APP_SETTING_PHONE_NUMBER": "Telepon",
+    "APP_SETTING_SHARE": "Bagikan",
+    "APP_SETTING_SAVE": "Simpan",
+    "APP_SETTING_CANCEL": "Batalkan",
+    "APP_SETTING_PRIVATE_CALL": "Panggilan Pribadi",
+    "APP_SETTING_BLOCKED_NUMBERS": "Nomor yang Diblokir",
+    "APP_SETTING_DONE": "Selesai",
+    "APP_SETTING_EDIT": "Sunting",
+    "APP_SETTING_PHONE_SIZE_SAVED": "Timbangan ponsel telah berhasil disimpan.",
+    "APP_SETTING_GKS_UP_TO_DATE": "GKS sudah diperbarui.",
+    "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS tidak diperbarui.",
+    "APP_SETTING_ADD_WALLPAPER": "Tambahkan Wallpaper"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "Kontak",
@@ -332,10 +333,14 @@
     "APP_MESSAGE_BLOCK_NUMER": "Anda diblokir oleh nomor ini.",
     "APP_MESSAGE_GROUP_ADD_MEMBER_ERROR": "Anda tidak dapat menambahkan orang tersebut ke grup.",
     "APP_MESSAGE_GROUP_REMOVE_MEMBER_ERROR": "Orang tersebut tidak bisa meninggalkan kelompok.",
-    "APP_MESSAGE_SAVE_CONTACT_ERROR_YOU_SELF": "Anda tidak dapat menyelamatkan diri sendiri."
+    "APP_MESSAGE_SAVE_CONTACT_ERROR_YOU_SELF": "Anda tidak dapat menyelamatkan diri sendiri.",
+    "APP_MESSAGE_GPS": "GPS",
+    "APP_MESSAGE_CAMERA": "Kamera",
+    "APP_MESSAGE_MIC": "Mikrofon",
+    "APP_MESSAGE_EMOJI": "Emoji",
+    "APP_MESSAGE_SHARE_CONTACT": "Bagikan Kontak"
   },
   "SetupScreen": {
-    "PHONE_SETUP_HELLO": "Halo",
     "PHONE_SETUP_CLIKUP": "Klik untuk mengatur ponsel Anda",
     "SettingLangueage": "Mengatur bahasa...",
     "PHONE_SETUP_LOGINGKSID": "GKS ID",
@@ -414,7 +419,8 @@
       "question9": "Di mana Anda bertemu pasangan Anda?"
     },
     "PHONE_SETUP_FINISH_ERROR": "Telepon tidak dapat diinstal.",
-    "PHONE_SETUP_CHANGE_LANGUAGE_ERROR": "Kesalahan mengubah bahasa"
+    "PHONE_SETUP_CHANGE_LANGUAGE_ERROR": "Kesalahan mengubah bahasa",
+    "PHONE_SETUP_LOGIN_ERROR_OWNER": "Email ini dilindungi oleh pemiliknya. Anda tidak memiliki izin untuk mengakses data telepon."
   },
   "ServicesAPP": {
     "APP_SERVICES_TITLE": "Layanan",
@@ -501,7 +507,14 @@
     "APP_SERVICES_MANAGE_EMPLOYEES_CHANGEGRADE_SUCESS": "Anda telah berhasil mengubah tingkat karyawan tersebut.",
     "APP_SERVICES_MANAGE_EMPLOYEES_CHANGEGRADE_FAILED": "Terjadi kesalahan saat mengubah grade karyawan.",
     "APP_SERVICES_REPORT_REPORT": "Laporan",
-    "APP_SERVICES_REPORT_REPORTNO": "Tidak ada yang tertarik pada Laporan itu saat ini."
+    "APP_SERVICES_REPORT_REPORTNO": "Tidak ada yang tertarik pada Laporan itu saat ini.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_DESC": "Berapa banyak uang yang ingin Anda tarik?",
+    "APP_SERVICES_SOCIETY_WITHDRAW_ERROR": "Jumlah tidak valid",
+    "APP_SERVICES_SOCIETY_WITHDRAW_CONFIRM": "Apakah Anda yakin ingin menarik {amount}?",
+    "APP_SERVICES_SOCIETY_WITHDRAW_SUCCESS": "Uang berhasil ditarik",
+    "APP_SERVICES_SOCIETY_WITHDRAW_FAILED": "Terjadi kesalahan saat menarik uang.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_INSUFFICIENT_FUNDS": "Uangnya tidak cukup.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_PERMISSION_DENIED": "Anda tidak memiliki izin untuk operasi ini."
   },
   "StreamMode": {
     "APP_STREAMMODE_IMAGE": "Gambar tersembunyi karena Mode Streamer aktif"
@@ -719,15 +732,11 @@
   },
   "AdvertisingAPP": {
     "APP_AD_TITLE": "Periklanan",
-    "APP_AD_HEADER": "Umpan",
-    "APP_AD_FAV": "Favorit",
-    "APP_AD_PROFILE": "Profil",
     "APP_AD_MODAL_NEWADD": "Iklan Baru",
     "APP_AD_SHAREAD": "Bagikan Iklan",
     "APP_AD_SEARCH": "Cari",
     "APP_AD_MODAL_CANCEL": "Batal",
     "APP_AD_MODAL_SHARE": "Bagikan",
-    "APP_AD_MODAL_FILTERSELECT": "Pilih Filter",
     "APP_AD_MODAL_IMAGEADD": "Tambahkan Gambar",
     "APP_AD_MODAL_TEXTAREALABEL": "Tulis pesan",
     "APP_AD_MODAL_TEXTAREAPLACEHOLDER": "Tulis pesan",
@@ -738,7 +747,19 @@
     "APP_AD_SHAREMINCHARACTER": "Anda harus memasukkan setidaknya 15 karakter",
     "APP_AD_SHARECONFIRM_DESC": "Apakah Anda yakin ingin membuat iklan? Biaya transaksi: {fee}",
     "APP_AD_SHARE_ERROR_NOMONEY": "Anda tidak memiliki cukup uang",
-    "APP_AD_SHARE_NOTFY_POST": "{name} membagikan iklan baru"
+    "APP_AD_SHARE_NOTFY_POST": "{name} membagikan iklan baru",
+    "APP_AD_CREATING": "Membuat iklan...",
+    "APP_AD_SUCCESS": "Iklan telah berhasil dibagikan.",
+    "APP_AD_ERROR": "Terjadi kesalahan saat membagikan iklan.",
+    "APP_AD_DELETE_SUCCESS": "Iklan telah berhasil dihapus.",
+    "APP_AD_SHARETITLE": "Judul harus antara 5 dan 250 karakter.",
+    "APP_AD_CAMERA_GALLERY": "Kamera/Galeri",
+    "APP_AD_MODAL_LINK": "Tautan",
+    "APP_AD_VIEW_LIST": "Daftar",
+    "APP_AD_VIEW_GRID": "Galeri",
+    "APP_AD_MODAL_TITLE": "Judul Iklan*",
+    "APP_AD_MODAL_PRICE": "Harga",
+    "APP_DIALOG_CONFIRM_DELETE": "Apakah Anda yakin ingin menghapus iklan ini?"
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "Berita",
@@ -753,27 +774,6 @@
     "APP_NEWS_NEWSSEARCH": "Cari",
     "APP_NEWS_NOTIFY_NEW": "Sebuah berita telah ditambahkan",
     "APP_NEWS_DETAILTITLE": "Teks Berita"
-  },
-  "ValeAPP": {
-    "APP_VALE_TITLE": "Vale",
-    "APP_VALE_CARTYPE": "Tipe Mobil",
-    "APP_VALE_CARMAXSPEED": "Kecepatan Maksimal",
-    "APP_VALE_KMH": "km/jam",
-    "APP_VALE_GARAGE": "Garasi",
-    "APP_VALE_BRING": "Bawa",
-    "APP_VALE_TRACK": "Lacak",
-    "APP_VALE_SEARCH": "Cari",
-    "APP_VALE_MODAL_BRING": "Apakah Anda ingin valet membawa mobil Anda?",
-    "APP_VALE_ERROR_BRING_NOMONEY": "Anda tidak memiliki cukup uang",
-    "APP_VALE_ERROR_BRING_CARNOTFOUND": "Mobil Anda tidak ditemukan",
-    "APP_VALE_ERROR_BRING_CARIMPOUNDED": "Kendaraan Anda tidak dapat dipanggil karena telah disita.",
-    "APP_VALE_ERROR_BRING_NOTINGARAGE": "Mobil Anda tidak ada di garasi",
-    "APP_VALE_ERROR_BRING_CAROUTSIDE": "Mobil tidak dapat dibawa karena berada di luar.",
-    "APP_VALE_SUCESS_BRING": "Kendaraan di jalan",
-    "APP_VALE_MARKED": "Kendaraan Anda ditandai di peta",
-    "APP_VALE_ERROR_TRACK_CARGARAGE": "Kendaraan Anda tidak ditandai karena berada di garasi.",
-    "APP_VALE_ERROR_CARBLACKLIST": "Model kendaraan ini tidak dapat dibawa",
-    "APP_VALE_USEVALET_BANK_HISTORY_DESC": "Penggunaan layanan valet"
   },
   "GalleryAPP": {
     "APP_GALLERY_TITLE": "Galeri",
@@ -1017,19 +1017,7 @@
   "GamesAPP": {
     "APP_GAME_TITLE": "Permainan",
     "APP_GAME_SCORE": "Skor",
-    "APP_GAME_DHAND": "Tangan Dealer: ",
-    "APP_GAME_YHAND": "Tangan Anda: ",
-    "APP_GAME_CREDIT": "Kredit: ",
-    "APP_GAME_BET": "Taruhan: ",
-    "APP_GAME_HIT": "Ambil",
-    "APP_GAME_STAND": "Berdiri",
-    "APP_GAME_DOUBLE": "GANDA",
-    "APP_GAME_RESUME": "Lanjutkan",
     "APP_GAME_STARTGAME": "Mulai Permainan",
-    "APP_GAME_CURRENCY": "Rp",
-    "APP_GAME_BLACKJACKDRAW": "Seri",
-    "APP_GAME_BLACKJACKLOSE": "Anda Kalah",
-    "APP_GAME_BLACKJACKWIN": "Anda Menang",
     "APP_GAME_SNAKE_PLAY": "Main",
     "APP_GAME_SNAKE_GAMEOVER": "Permainan Selesai!",
     "APP_GAME_RESTART": "Mulai Ulang",
@@ -1054,7 +1042,12 @@
     "APP_GAME_TETRIS_LINESCLEARED": "Garis yang Dihapus:",
     "APP_GAME_TETRIS_SPEED_MASTER": "🏆 Master Kecepatan!",
     "APP_GAME_TETRIS_LINE_CLEARER": "🔥 Pembersih Garis!",
-    "APP_GAME_TETRIS_NEXT_PIECE": "Bagian Selanjutnya"
+    "APP_GAME_TETRIS_NEXT_PIECE": "Bagian Selanjutnya",
+    "APP_GAME_BREAKOUT_BEST_SCORE": "Skor Terbaik",
+    "APP_GAME_BREAKOUT_HEALTH": "Kesehatan",
+    "APP_GAME_BREAKOUT_LEVEL_SUCCESS": "🍉 Tingkat {level} Selesai!",
+    "APP_GAME_BREAKOUT_BONUS_SCORE": "{bonus} Skor Bonus!",
+    "APP_GAME_BREAKOUT_TOTAL_SCORE": "Skor Total"
   },
   "LiveStreamAPP": {
     "APP_LIVE_TITLE": "Siaran Langsung",
@@ -1153,7 +1146,6 @@
     "APP_TAXI_CUSTOMER_LOCATION": "Lokasi Anda",
     "APP_TAXI_CUSTOMER_DESTINATION": "Tujuan",
     "APP_TAXI_CUSTOMER_DESTINATIONERROR": "Untuk dapat memanggil taksi, Anda harus memilih tujuan di peta.",
-    "APP_TAXI_CUSTOMER_DESTINATIONERROR2": "Anda harus memilih tujuan di peta.",
     "APP_TAXI_CUSTOMER_TOTALDISTANCE": "Jarak Total",
     "APP_TAXI_CUSTOMER_TOTALPRICE": "Harga Total",
     "APP_TAXI_CUSTOMER_CALCULATE": "Hitung Perjalanan Saya",
@@ -1184,7 +1176,6 @@
     "APP_TAXI_DRIVER_CANCELJOB": "Batal",
     "APP_TAXI_DRIVER_LOADING": "Memuat...",
     "APP_TAXI_DRIVER_ACCEPTJOBSTARTED": "Anda telah menerima pekerjaan",
-    "APP_TAXI_DRIVER_NOTJOBSTARTED": "Anda belum menerima pekerjaan",
     "APP_TAXI_DRIVER_NOTFYCUSTOMERRECEIVED": "Pelanggan diterima",
     "APP_TAXI_DRIVER_NOTFYNOTCUSTOMERRECEIVED": "Pelanggan tidak diterima",
     "APP_TAXI_DRIVER_CUSTOMERLEFTLOCATION": "Pelanggan pergi ke lokasi",
@@ -1391,7 +1382,8 @@
       "TRANSFER_TEXT": "Transfer",
       "TRENSFER_ERROR1": "Anda tidak dapat mentransfer kurang dari 250 chip.",
       "TRENSFER_ERROR2": "Anda tidak memiliki saldo yang cukup."
-    }
+    },
+    "APP_CASINO_ROLL_AWAITINGRESULT": "Hasilnya sedang ditunggu..."
   },
   "Info": {
     "APP_INFO_PERSONALINFO": "Informasi Pribadi",
@@ -1405,9 +1397,6 @@
   "Tooltip": {
     "ESIM": {
       "APP_TOOLTIP_SIM_BUY": "Beli"
-    },
-    "Message": {
-      "APP_TOOLTIP_MESSAGE_CREATEGROUPMEMBER": "{'@'}Nama Kontak"
     },
     "Advertising": {
       "APP_TOOLTIP_ADVERTISING_POST": "Posting Baru",
@@ -1474,14 +1463,6 @@
       "APP_LUCYAI_COMMANDS_OPENAPP": "Buka Aplikasi",
       "APP_LUCYAI_COMMANDS_MONEYTRANSFER": "Transfer uang"
     }
-  },
-  "RegisterCommand": {
-    "REGISTERCOMMAND_OPENPHONE": "Buka Telepon",
-    "REGISTERCOMMAND_NORMALCHARGE": "Pengisian Normal",
-    "REGISTERCOMMAND_FASTCHARGE": "Pengisian Cepat",
-    "REGISTERCOMMAND_PHONEBOOTH": "Kios Telepon",
-    "REGISTERCOMMAND_ANSWERCALL": "Jawab Panggilan",
-    "REGISTERCOMMAND_DECLINECALL": "Tolak Panggilan"
   },
   "FlareApp": {
     "APP_FLARE_TITLE": "Flare",
@@ -1688,7 +1669,6 @@
     "APP_DARKCHAT_CHOOSE_PHOTO": "Pilih Foto",
     "APP_DARKCHAT_PLACEHOLER_ROOM_NAME": "Masukkan nama ruangan",
     "APP_DARKCHAT_PLACEHOLER_ROOM_PASSWORD": "Masukkan kata sandi ruangan",
-    "APP_DARKCHAT_ROOM_NAME": "Nama Ruangan",
     "APP_DARKCHAT_ROOM_PASSWORD": "Kata sandi",
     "APP_DARKCHAT_PUBLIC_ROOM": "Ruang Publik",
     "APP_DARKCHAT_SAVE": "Simpan",
@@ -1731,7 +1711,6 @@
     "APP_DARKCHAT_JOIN_ROOM_DESC": "Masukkan nama ruangan untuk bergabung:",
     "APP_DARKCHAT_MEMBER_ALREADY_JOIN": "Anda sudah menjadi anggota ruangan ini.",
     "APP_DARKCHAT_ERROR_JOIN_ROOM": "Ruang tidak ditemukan atau Anda tidak memiliki izin untuk bergabung.",
-    "APP_DARKCHAT_NOT_AVAILABLE_ROOM": "ID ruangan tidak tersedia.",
     "APP_DARKCHAT_JOIN_ROOM_PASS_DESC": "Apakah Anda yakin ingin bergabung dengan ruangan {roomName}?",
     "APP_DARKCHAT_JOINING_ROOM": "Bergabung ke ruangan...",
     "APP_DARKCHAT_ENTER_ROOM_PASSWORD_JOIN_PLACEHOLDER": "Masukkan kata sandi ruangan",
@@ -1775,6 +1754,43 @@
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "Anda tidak memiliki izin untuk mengedit ruangan ini.",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "Kamar tidak dapat diperbarui.",
     "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "Anda tidak memiliki izin untuk menghapus ruangan ini atau ruangan tersebut tidak ditemukan.",
-    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "Anda memiliki pesan baru di saluran {channel}."
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "Anda memiliki pesan baru di saluran {channel}.",
+    "APP_DARKCHAT_TOGGLING_MUTE_STATUS": "Mengubah Status Mode Senyap...",
+    "APP_DARKCHAT_USER_MUTED_SUCCESS": "Pengguna telah berhasil dibisukan.",
+    "APP_DARKCHAT_USER_UNMUTED_SUCCESS": "Pengguna telah berhasil diaktifkan untuk suara.",
+    "APP_DARKCHAT_TOGGLE_MUTE_ERROR": "Pengguna tidak dapat dibisukan.",
+    "APP_DARKCHAT_LOADING_USERS_LIST": "Memuat daftar pengguna...",
+    "APP_DARKCHAT_TOGGLE_MUTE_TOOLTIP": "Diamkan pengguna / Batalkan diamkan pengguna",
+    "APP_DARKCHAT_LOAD_USER_LIST_ERROR": "Daftar pengguna tidak dapat dimuat.",
+    "APP_DARKCHAT_NO_AUTH": "Anda tidak memiliki izin untuk operasi ini."
+  },
+  "GarageApp": {
+    "APP_GARAGE_TITLE": "Garaž",
+    "APP_GARAGE_CAR_ENGINE": "Mesin",
+    "APP_GARAGE_CAR_BODY": "Tubuh",
+    "APP_GARAGE_CAR_FUEL": "Bahan Bakar",
+    "APP_GARAGE_CLOSE": "Tutup",
+    "APP_GARAGE_NUMBER_PLATE": "Plat nomor",
+    "APP_GARAGE_GARAGE": "Garaž",
+    "APP_GARAGE_LOCK": "Kunci",
+    "APP_GARAGE_START": "Mulai",
+    "APP_GARAGE_DOORS": "Pintu",
+    "APP_GARAGE_HEADLIGHT": "Lampu depan",
+    "APP_GARAGE_TRUNK": "Bagasi",
+    "APP_GARAGE_FRONT_TRUNK": "Bagasi Depan",
+    "APP_GARAGE_TRACK": "Tandai",
+    "APP_GARAGE_BRING_CAR": "Bawa",
+    "APP_GARAGE_ACTION_FAILED": "Operasi gagal.",
+    "APP_GARAGE_MODAL_BRING": "Apakah Anda ingin valet membawakan mobil Anda?",
+    "APP_GARAGE_ERROR_BRING_NOMONEY": "Anda tidak memiliki cukup uang.",
+    "APP_GARAGE_ERROR_BRING_CARNOTFOUND": "Kendaraan Anda tidak ditemukan.",
+    "APP_GARAGE_ERROR_BRING_CARIMPOUNDED": "Anda tidak dapat memanggilnya karena kendaraan Anda telah disita.",
+    "APP_GARAGE_ERROR_BRING_NOTINGARAGE": "Kendaraan Anda tidak ada di garasi.",
+    "APP_GARAGE_ERROR_BRING_CAROUTSIDE": "Kendaraan tidak dapat dibawa masuk karena berada di luar.",
+    "APP_GARAGE_SUCESS_BRING": "Kendaraan Anda sedang dalam perjalanan",
+    "APP_GARAGE_MARKED": "Kendaraan Anda telah ditandai di peta.",
+    "APP_GARAGE_ERROR_TRACK_CARGARAGE": "Kendaraan Anda tidak dapat ditandai karena sedang berada di garasi.",
+    "APP_GARAGE_ERROR_CARBLACKLIST": "Model kendaraan ini tidak dapat dibawa masuk.",
+    "APP_GARAGE_USEVALET_BANK_HISTORY_DESC": "Layanan valet"
   }
 }

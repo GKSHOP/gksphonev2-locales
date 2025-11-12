@@ -92,7 +92,6 @@
     "APP_SETTING_NOTIFICATIONS": "Notificări",
     "APP_SETTING_BORDER_COLOR": "Culoare Bordură",
     "APP_SETTING_DARK_MODE": "Mod Întunecat",
-    "APP_SETTING_RESET_PHONE": "Resetează Telefonul",
     "APP_SETTING_ABOUT": "Despre",
     "APP_SETTING_LOOKID": "Look ID",
     "APP_SETTING_PASSWORD": "Parolă",
@@ -108,29 +107,11 @@
     "APP_SETTING_PHONENAME": "Numele Telefonului",
     "APP_SETTING_SOFTWAREVERSION": "Versiunea Software",
     "APP_SETTING_PHONEVERSION": "Versiunea Telefonului",
-    "APP_SETTING_PHONEUPTODATE": "Telefonul tău este actualizat",
-    "APP_SETTING_PHONEUPDATE": "Te rugăm să îți actualizezi telefonul. Contactează proprietarul serverului tău.",
     "APP_SETTING_PHONE_RESETLOADING": "Parola este în curs de resetare...",
     "APP_SETTING_PHONE_RESETERROR": "Parola nu a putut fi resetată",
     "APP_SETTING_PHONESERIALNUMBER": "Număr de serie",
-    "APP_SETTING_REPORTBUG": "Raportează Bug",
-    "APP_SETTING_BUGREPORTLABEL": "Raport Bug",
-    "APP_SETTING_BUGREPORTDESC": "Te rugăm să scrii raportul tău de bug",
-    "APP_SETTING_BUGREPORTSEND": "Trimite",
-    "APP_SETTING_BUGREPORTCANCEL": "Anulează",
-    "APP_SETTING_BUGREPORTSUCCESS": "Raportul tău de bug a fost trimis",
-    "APP_SETTING_BUGREPORTEMPTY": "Nu poți trimite un raport de bug gol",
-    "APP_SETTING_FEEDBACK": "Feedback",
-    "APP_SETTING_FEEDBACKLABEL": "Feedback",
-    "APP_SETTING_FEEDBACKDESC": "Vă rugăm să scrieți feedback-ul dvs.",
-    "APP_SETTING_FEEDBACKSEND": "Trimite",
-    "APP_SETTING_FEEDBACKCANCEL": "Anulează",
-    "APP_SETTING_FEEDBACKSUCCESS": "Feedback-ul dvs. a fost trimis",
-    "APP_SETTING_FEEDBACKEMPTY": "Nu puteți trimite un feedback gol",
     "APP_SETTING_CHANGLOG": "Jurnal de modificări",
     "APP_SETTING_CHANGLOGPOUPCLOSE": "Închide",
-    "APP_SETTING_CUSTOMEWALLPAPER": "Fundal personalizat",
-    "APP_SETTING_CUSTOMEWALLPAPERDESC": "Introduceți URL-ul imaginii pe care doriți să o folosiți ca fundal",
     "APP_SETTING_LANG": "Limba",
     "APP_SETTING_NAMECHANGELOADING": "Se schimbă numele...",
     "APP_SETTING_NAMECHANGEDESC": "Specificați numele dvs. care va fi folosit în unele aplicații și funcții",
@@ -140,7 +121,27 @@
     "APP_SETTING_QRCODE_SECRET_DESC": "Acest cod QR autentifică telefonul dvs. Nu împărtășiți acest cod cu nimeni.",
     "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "Numele dvs. trebuie să aibă cel puțin 4 caractere",
     "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Numele dvs. nu trebuie să aibă mai mult de 20 de caractere",
-    "APP_SETTING_LUCY": "Lucy"
+    "APP_SETTING_LUCY": "Lucy",
+    "APP_SETTING_DETAILS": "Apasă pentru mai multe detalii.",
+    "APP_SETTING_PHONE_SIZE": "Cântar pentru telefon",
+    "APP_SETTING_PHONE": "Telefon",
+    "APP_SETTING_ACCOUNT": "Cont",
+    "APP_SETTING_SOFTWARE_UPDATE": "Actualizare software",
+    "APP_SETTING_CHANGE": "Schimbă",
+    "APP_SETTING_NAME": "Nume",
+    "APP_SETTING_MAIL": "Email",
+    "APP_SETTING_PHONE_NUMBER": "Telefon",
+    "APP_SETTING_SHARE": "Împărtășește",
+    "APP_SETTING_SAVE": "Salvează",
+    "APP_SETTING_CANCEL": "Anulează",
+    "APP_SETTING_PRIVATE_CALL": "Apel privat",
+    "APP_SETTING_BLOCKED_NUMBERS": "Numere blocate",
+    "APP_SETTING_DONE": "Finalizat",
+    "APP_SETTING_EDIT": "Editați",
+    "APP_SETTING_PHONE_SIZE_SAVED": "Cântarul telefonic a fost salvat cu succes.",
+    "APP_SETTING_GKS_UP_TO_DATE": "GKS este actualizat.",
+    "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS nu este actualizat.",
+    "APP_SETTING_ADD_WALLPAPER": "Adaugă fundal"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "Contacte",
@@ -332,10 +333,14 @@
     "APP_MESSAGE_BLOCK_NUMER": "Ești blocat de acest număr.",
     "APP_MESSAGE_GROUP_ADD_MEMBER_ERROR": "Nu poți adăuga persoana în grup.",
     "APP_MESSAGE_GROUP_REMOVE_MEMBER_ERROR": "Persoana nu a putut părăsi grupul.",
-    "APP_MESSAGE_SAVE_CONTACT_ERROR_YOU_SELF": "Nu te poți salva singur."
+    "APP_MESSAGE_SAVE_CONTACT_ERROR_YOU_SELF": "Nu te poți salva singur.",
+    "APP_MESSAGE_GPS": "GPS",
+    "APP_MESSAGE_CAMERA": "Cameră",
+    "APP_MESSAGE_MIC": "Microfon",
+    "APP_MESSAGE_EMOJI": "Emoji",
+    "APP_MESSAGE_SHARE_CONTACT": "Partajează contactul"
   },
   "SetupScreen": {
-    "PHONE_SETUP_HELLO": "Bună",
     "PHONE_SETUP_CLIKUP": "Faceți clic pentru a configura telefonul",
     "SettingLangueage": "Setarea limbii...",
     "PHONE_SETUP_LOGINGKSID": "ID GKS",
@@ -414,7 +419,8 @@
       "question9": "Unde ți-ai întâlnit soțul/soția?"
     },
     "PHONE_SETUP_FINISH_ERROR": "Telefonin ei voitu asentaa.",
-    "PHONE_SETUP_CHANGE_LANGUAGE_ERROR": "Viga muutmisel keelt"
+    "PHONE_SETUP_CHANGE_LANGUAGE_ERROR": "Viga muutmisel keelt",
+    "PHONE_SETUP_LOGIN_ERROR_OWNER": "Această adresă de email este protejată de proprietar. Nu aveți permisiunea de a accesa datele telefonului."
   },
   "ServicesAPP": {
     "APP_SERVICES_TITLE": "Servicii",
@@ -501,7 +507,14 @@
     "APP_SERVICES_MANAGE_EMPLOYEES_CHANGEGRADE_SUCESS": "Ați schimbat cu succes gradul angajatului.",
     "APP_SERVICES_MANAGE_EMPLOYEES_CHANGEGRADE_FAILED": "A apărut o eroare în timpul schimbării gradului angajatului.",
     "APP_SERVICES_REPORT_REPORT": "Raport",
-    "APP_SERVICES_REPORT_REPORTNO": "Nimeni nu este interesat de raport încă."
+    "APP_SERVICES_REPORT_REPORTNO": "Nimeni nu este interesat de raport încă.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_DESC": "Câtă bani ai dori să retragi?",
+    "APP_SERVICES_SOCIETY_WITHDRAW_ERROR": "Sumă invalidă",
+    "APP_SERVICES_SOCIETY_WITHDRAW_CONFIRM": "Ești sigur că vrei să retragi {amount}?",
+    "APP_SERVICES_SOCIETY_WITHDRAW_SUCCESS": "Banii au fost retrași cu succes.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_FAILED": "A apărut o eroare în timpul retragerii banilor.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_INSUFFICIENT_FUNDS": "Nu sunt suficienți bani.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_PERMISSION_DENIED": "Nu aveți permisiunea pentru această operațiune."
   },
   "StreamMode": {
     "APP_STREAMMODE_IMAGE": "Imagine ascunsă deoarece modul Streamer este activ"
@@ -719,15 +732,11 @@
   },
   "AdvertisingAPP": {
     "APP_AD_TITLE": "Publicitate",
-    "APP_AD_HEADER": "Feed",
-    "APP_AD_FAV": "Preferințe",
-    "APP_AD_PROFILE": "Profil",
     "APP_AD_MODAL_NEWADD": "Anunț Nou",
     "APP_AD_SHAREAD": "Distribuie Anunț",
     "APP_AD_SEARCH": "Căutare",
     "APP_AD_MODAL_CANCEL": "Anulează",
     "APP_AD_MODAL_SHARE": "Distribuie",
-    "APP_AD_MODAL_FILTERSELECT": "Selectează Filtru",
     "APP_AD_MODAL_IMAGEADD": "Adaugă Imagine",
     "APP_AD_MODAL_TEXTAREALABEL": "Scrie un mesaj",
     "APP_AD_MODAL_TEXTAREAPLACEHOLDER": "Scrie un mesaj",
@@ -738,7 +747,19 @@
     "APP_AD_SHAREMINCHARACTER": "Trebuie să introduci cel puțin 15 caractere",
     "APP_AD_SHARECONFIRM_DESC": "Ești sigur că vrei să creezi un anunț? Taxa de tranzacție: {fee}",
     "APP_AD_SHARE_ERROR_NOMONEY": "Nu ai suficienți bani",
-    "APP_AD_SHARE_NOTFY_POST": "{name} a distribuit un nou anunț"
+    "APP_AD_SHARE_NOTFY_POST": "{name} a distribuit un nou anunț",
+    "APP_AD_CREATING": "Crearea unei reclame...",
+    "APP_AD_SUCCESS": "Anunțul a fost partajat cu succes.",
+    "APP_AD_ERROR": "A apărut o eroare în timpul partajării anunțului.",
+    "APP_AD_DELETE_SUCCESS": "Anunțul a fost șters cu succes.",
+    "APP_AD_SHARETITLE": "Titlul trebuie să aibă între 5 și 250 de caractere.",
+    "APP_AD_CAMERA_GALLERY": "Cameră/Galerie",
+    "APP_AD_MODAL_LINK": "Link",
+    "APP_AD_VIEW_LIST": "Listă",
+    "APP_AD_VIEW_GRID": "Galerie",
+    "APP_AD_MODAL_TITLE": "Titlu anunț*",
+    "APP_AD_MODAL_PRICE": "Preț",
+    "APP_DIALOG_CONFIRM_DELETE": "Ești sigur că vrei să ștergi această reclamă?"
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "Știri",
@@ -753,27 +774,6 @@
     "APP_NEWS_NEWSSEARCH": "Căutare",
     "APP_NEWS_NOTIFY_NEW": "A fost adăugată o știre",
     "APP_NEWS_DETAILTITLE": "Textul Știrii"
-  },
-  "ValeAPP": {
-    "APP_VALE_TITLE": "Vale",
-    "APP_VALE_CARTYPE": "Tip Mașină",
-    "APP_VALE_CARMAXSPEED": "Viteză Maximă",
-    "APP_VALE_KMH": "km/h",
-    "APP_VALE_GARAGE": "Garaj",
-    "APP_VALE_BRING": "ADU",
-    "APP_VALE_TRACK": "URMĂREȘTE",
-    "APP_VALE_SEARCH": "Căutare",
-    "APP_VALE_MODAL_BRING": "Ai dori ca valetul să îți aducă mașina?",
-    "APP_VALE_ERROR_BRING_NOMONEY": "Nu ai suficienți bani",
-    "APP_VALE_ERROR_BRING_CARNOTFOUND": "Mașina ta nu a fost găsită",
-    "APP_VALE_ERROR_BRING_CARIMPOUNDED": "Vehiculul tău nu poate fi chemat deoarece a fost confiscat.",
-    "APP_VALE_ERROR_BRING_NOTINGARAGE": "Mașina ta nu este în garaj",
-    "APP_VALE_ERROR_BRING_CAROUTSIDE": "Mașina nu poate fi adusă pentru că este afară.",
-    "APP_VALE_SUCESS_BRING": "Vehicul pe drum",
-    "APP_VALE_MARKED": "Vehiculul tău marcat pe hartă",
-    "APP_VALE_ERROR_TRACK_CARGARAGE": "Vehiculul tău nu este marcat pentru că este în garaj.",
-    "APP_VALE_ERROR_CARBLACKLIST": "Acest model de vehicul nu poate fi adus",
-    "APP_VALE_USEVALET_BANK_HISTORY_DESC": "Utilizarea serviciului de valet"
   },
   "GalleryAPP": {
     "APP_GALLERY_TITLE": "Galerie",
@@ -1017,19 +1017,7 @@
   "GamesAPP": {
     "APP_GAME_TITLE": "Jocuri",
     "APP_GAME_SCORE": "Scor",
-    "APP_GAME_DHAND": "Mâna Dealerului: ",
-    "APP_GAME_YHAND": "Mâna ta: ",
-    "APP_GAME_CREDIT": "Credit: ",
-    "APP_GAME_BET": "Pariu: ",
-    "APP_GAME_HIT": "Lovește",
-    "APP_GAME_STAND": "Stai",
-    "APP_GAME_DOUBLE": "DUBLĂ",
-    "APP_GAME_RESUME": "Continuă",
     "APP_GAME_STARTGAME": "Începe Jocul",
-    "APP_GAME_CURRENCY": "RON",
-    "APP_GAME_BLACKJACKDRAW": "Remiză",
-    "APP_GAME_BLACKJACKLOSE": "Ai Pierdut",
-    "APP_GAME_BLACKJACKWIN": "Ai Câștigat",
     "APP_GAME_SNAKE_PLAY": "Joacă",
     "APP_GAME_SNAKE_GAMEOVER": "Joc Terminat!",
     "APP_GAME_RESTART": "Reîncepe",
@@ -1054,7 +1042,12 @@
     "APP_GAME_TETRIS_LINESCLEARED": "Linjat e pastruara:",
     "APP_GAME_TETRIS_SPEED_MASTER": "🏆 Vitez Master!",
     "APP_GAME_TETRIS_LINE_CLEARER": "🔥 Linja Puhdistaja!",
-    "APP_GAME_TETRIS_NEXT_PIECE": "Următorul Piesă"
+    "APP_GAME_TETRIS_NEXT_PIECE": "Următorul Piesă",
+    "APP_GAME_BREAKOUT_BEST_SCORE": "Cel mai bun scor",
+    "APP_GAME_BREAKOUT_HEALTH": "Sănătate",
+    "APP_GAME_BREAKOUT_LEVEL_SUCCESS": "🍉 Nivelul {level} Finalizat!",
+    "APP_GAME_BREAKOUT_BONUS_SCORE": "{bonus} Punctaj Bonus!",
+    "APP_GAME_BREAKOUT_TOTAL_SCORE": "Scor total"
   },
   "LiveStreamAPP": {
     "APP_LIVE_TITLE": "Transmisie Live",
@@ -1153,7 +1146,6 @@
     "APP_TAXI_CUSTOMER_LOCATION": "Locația ta",
     "APP_TAXI_CUSTOMER_DESTINATION": "Destinație",
     "APP_TAXI_CUSTOMER_DESTINATIONERROR": "Pentru a putea apela un taxi, trebuie să selectezi destinația pe hartă.",
-    "APP_TAXI_CUSTOMER_DESTINATIONERROR2": "Trebuie să selectezi destinația pe hartă.",
     "APP_TAXI_CUSTOMER_TOTALDISTANCE": "Distanța totală",
     "APP_TAXI_CUSTOMER_TOTALPRICE": "Preț total",
     "APP_TAXI_CUSTOMER_CALCULATE": "Calculează călătoria mea",
@@ -1184,7 +1176,6 @@
     "APP_TAXI_DRIVER_CANCELJOB": "Anulează",
     "APP_TAXI_DRIVER_LOADING": "Se încarcă...",
     "APP_TAXI_DRIVER_ACCEPTJOBSTARTED": "Ai acceptat jobul",
-    "APP_TAXI_DRIVER_NOTJOBSTARTED": "Nu ai acceptat jobul",
     "APP_TAXI_DRIVER_NOTFYCUSTOMERRECEIVED": "Clientul a fost primit",
     "APP_TAXI_DRIVER_NOTFYNOTCUSTOMERRECEIVED": "Clientul nu a fost primit",
     "APP_TAXI_DRIVER_CUSTOMERLEFTLOCATION": "Clientul a plecat spre locație",
@@ -1391,7 +1382,8 @@
       "TRANSFER_TEXT": "Transferă",
       "TRENSFER_ERROR1": "Nu poți transfera mai puțin de 250 de jetoane.",
       "TRENSFER_ERROR2": "Nu ai suficienți bani."
-    }
+    },
+    "APP_CASINO_ROLL_AWAITINGRESULT": "Rezultatul este așteptat..."
   },
   "Info": {
     "APP_INFO_PERSONALINFO": "Informații personale",
@@ -1405,9 +1397,6 @@
   "Tooltip": {
     "ESIM": {
       "APP_TOOLTIP_SIM_BUY": "Cumpără"
-    },
-    "Message": {
-      "APP_TOOLTIP_MESSAGE_CREATEGROUPMEMBER": "{'@'}Numele contactului"
     },
     "Advertising": {
       "APP_TOOLTIP_ADVERTISING_POST": "Postare nouă",
@@ -1474,14 +1463,6 @@
       "APP_LUCYAI_COMMANDS_OPENAPP": "Deschideți aplicația",
       "APP_LUCYAI_COMMANDS_MONEYTRANSFER": "Transfer de bani"
     }
-  },
-  "RegisterCommand": {
-    "REGISTERCOMMAND_OPENPHONE": "Deschide Telefon",
-    "REGISTERCOMMAND_NORMALCHARGE": "Încărcare Normală",
-    "REGISTERCOMMAND_FASTCHARGE": "Încărcare Rapidă",
-    "REGISTERCOMMAND_PHONEBOOTH": "Cabină Telefonică",
-    "REGISTERCOMMAND_ANSWERCALL": "Răspunde Apel",
-    "REGISTERCOMMAND_DECLINECALL": "Refuză Apel"
   },
   "FlareApp": {
     "APP_FLARE_TITLE": "Flare",
@@ -1688,7 +1669,6 @@
     "APP_DARKCHAT_CHOOSE_PHOTO": "Alege Fotografia",
     "APP_DARKCHAT_PLACEHOLER_ROOM_NAME": "Introduceți numele camerei",
     "APP_DARKCHAT_PLACEHOLER_ROOM_PASSWORD": "Introduceți parola camerei",
-    "APP_DARKCHAT_ROOM_NAME": "Numele camerei",
     "APP_DARKCHAT_ROOM_PASSWORD": "Parolă",
     "APP_DARKCHAT_PUBLIC_ROOM": "Cameră publică",
     "APP_DARKCHAT_SAVE": "Salvează",
@@ -1731,7 +1711,6 @@
     "APP_DARKCHAT_JOIN_ROOM_DESC": "Introduceți numele camerei pentru a vă alătura:",
     "APP_DARKCHAT_MEMBER_ALREADY_JOIN": "Ești deja membru al acestei camere.",
     "APP_DARKCHAT_ERROR_JOIN_ROOM": "Camera nu a fost găsită sau nu ai permisiunea de a te alătura.",
-    "APP_DARKCHAT_NOT_AVAILABLE_ROOM": "ID-ul camerei nu este disponibil.",
     "APP_DARKCHAT_JOIN_ROOM_PASS_DESC": "Ești sigur că vrei să te alături camerei {roomName}?",
     "APP_DARKCHAT_JOINING_ROOM": "Se alătură camerei...",
     "APP_DARKCHAT_ENTER_ROOM_PASSWORD_JOIN_PLACEHOLDER": "Introduceți parola camerei",
@@ -1775,6 +1754,43 @@
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "Nu ai permisiunea de a edita această cameră.",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "Camera nu a putut fi actualizată.",
     "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "Nu aveți permisiunea de a șterge această cameră sau camera nu a fost găsită.",
-    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "Ai un mesaj nou în canalul {channel}."
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "Ai un mesaj nou în canalul {channel}.",
+    "APP_DARKCHAT_TOGGLING_MUTE_STATUS": "Schimbarea stării modului silențios...",
+    "APP_DARKCHAT_USER_MUTED_SUCCESS": "Utilizatorul a fost dezactivat cu succes.",
+    "APP_DARKCHAT_USER_UNMUTED_SUCCESS": "Utilizatorul a fost activat cu succes pentru voce.",
+    "APP_DARKCHAT_TOGGLE_MUTE_ERROR": "Utilizatorul nu a putut fi redus la tăcere.",
+    "APP_DARKCHAT_LOADING_USERS_LIST": "Se încarcă lista utilizatorilor...",
+    "APP_DARKCHAT_TOGGLE_MUTE_TOOLTIP": "Silenziază utilizator / Anulează silențierea utilizatorului",
+    "APP_DARKCHAT_LOAD_USER_LIST_ERROR": "Lista utilizatorilor nu a putut fi încărcată.",
+    "APP_DARKCHAT_NO_AUTH": "Nu aveți permisiunea pentru această operațiune."
+  },
+  "GarageApp": {
+    "APP_GARAGE_TITLE": "Garaj",
+    "APP_GARAGE_CAR_ENGINE": "Motor",
+    "APP_GARAGE_CAR_BODY": "Corp body",
+    "APP_GARAGE_CAR_FUEL": "Combustibil",
+    "APP_GARAGE_CLOSE": "Închide",
+    "APP_GARAGE_NUMBER_PLATE": "Număr de înmatriculare",
+    "APP_GARAGE_GARAGE": "Garaj",
+    "APP_GARAGE_LOCK": "Blochează",
+    "APP_GARAGE_START": "Începe",
+    "APP_GARAGE_DOORS": "Uși",
+    "APP_GARAGE_HEADLIGHT": "Faruri",
+    "APP_GARAGE_TRUNK": "Portbagaj",
+    "APP_GARAGE_FRONT_TRUNK": "Portbagaj frontal",
+    "APP_GARAGE_TRACK": "Marc",
+    "APP_GARAGE_BRING_CAR": "Adu-ți",
+    "APP_GARAGE_ACTION_FAILED": "Operațiunea a eșuat.",
+    "APP_GARAGE_MODAL_BRING": "Doriți ca valetul să vă aducă mașina?",
+    "APP_GARAGE_ERROR_BRING_NOMONEY": "Nu ai suficienți bani.",
+    "APP_GARAGE_ERROR_BRING_CARNOTFOUND": "Vehiculul dumneavoastră nu a fost găsit.",
+    "APP_GARAGE_ERROR_BRING_CARIMPOUNDED": "Nu poate fi chemat deoarece vehiculul dumneavoastră a fost confiscat.",
+    "APP_GARAGE_ERROR_BRING_NOTINGARAGE": "Vehiculul tău nu se află în garaj.",
+    "APP_GARAGE_ERROR_BRING_CAROUTSIDE": "Vehiculul nu poate fi adus deoarece se află în afară.",
+    "APP_GARAGE_SUCESS_BRING": "Vehiculul tău este pe drum.",
+    "APP_GARAGE_MARKED": "Vehiculul dumneavoastră a fost marcat pe hartă.",
+    "APP_GARAGE_ERROR_TRACK_CARGARAGE": "Vehiculul dumneavoastră nu poate fi marcat deoarece se află în garaj.",
+    "APP_GARAGE_ERROR_CARBLACKLIST": "Acest model de vehicul nu poate fi adus.",
+    "APP_GARAGE_USEVALET_BANK_HISTORY_DESC": "Serviciu de valet"
   }
 }

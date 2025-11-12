@@ -92,7 +92,6 @@
     "APP_SETTING_NOTIFICATIONS": "Notifikationer",
     "APP_SETTING_BORDER_COLOR": "Kantfärg",
     "APP_SETTING_DARK_MODE": "Mörkt läge",
-    "APP_SETTING_RESET_PHONE": "Återställ telefon",
     "APP_SETTING_ABOUT": "Om",
     "APP_SETTING_LOOKID": "Look ID",
     "APP_SETTING_PASSWORD": "Lösenord",
@@ -108,29 +107,11 @@
     "APP_SETTING_PHONENAME": "Telefonnamn",
     "APP_SETTING_SOFTWAREVERSION": "Programvaruversion",
     "APP_SETTING_PHONEVERSION": "Telefonversion",
-    "APP_SETTING_PHONEUPTODATE": "Din telefon är uppdaterad",
-    "APP_SETTING_PHONEUPDATE": "Vänligen uppdatera din telefon. Kontakta din serverägare.",
     "APP_SETTING_PHONE_RESETLOADING": "Lösenordet återställs...",
     "APP_SETTING_PHONE_RESETERROR": "Lösenordet kunde inte återställas",
     "APP_SETTING_PHONESERIALNUMBER": "Serienummer",
-    "APP_SETTING_REPORTBUG": "Rapportera bug",
-    "APP_SETTING_BUGREPORTLABEL": "Buggrapport",
-    "APP_SETTING_BUGREPORTDESC": "Vänligen skriv din buggrapport",
-    "APP_SETTING_BUGREPORTSEND": "Skicka",
-    "APP_SETTING_BUGREPORTCANCEL": "Avbryt",
-    "APP_SETTING_BUGREPORTSUCCESS": "Din buggrapport har skickats",
-    "APP_SETTING_BUGREPORTEMPTY": "Du kan inte skicka en tom buggrapport",
-    "APP_SETTING_FEEDBACK": "Feedback",
-    "APP_SETTING_FEEDBACKLABEL": "Feedback",
-    "APP_SETTING_FEEDBACKDESC": "Vänligen skriv din feedback",
-    "APP_SETTING_FEEDBACKSEND": "Skicka",
-    "APP_SETTING_FEEDBACKCANCEL": "Avbryt",
-    "APP_SETTING_FEEDBACKSUCCESS": "Din feedback har skickats",
-    "APP_SETTING_FEEDBACKEMPTY": "Du kan inte skicka en tom feedback",
     "APP_SETTING_CHANGLOG": "Ändringslogg",
     "APP_SETTING_CHANGLOGPOUPCLOSE": "Stäng",
-    "APP_SETTING_CUSTOMEWALLPAPER": "Anpassad bakgrundsbild",
-    "APP_SETTING_CUSTOMEWALLPAPERDESC": "Ange URL:en till bilden du vill använda som bakgrundsbild",
     "APP_SETTING_LANG": "Språk",
     "APP_SETTING_NAMECHANGELOADING": "Ändrar namn...",
     "APP_SETTING_NAMECHANGEDESC": "Ange ditt namn som ska användas i vissa appar och funktioner",
@@ -140,7 +121,27 @@
     "APP_SETTING_QRCODE_SECRET_DESC": "Denna QR-kod autentiserar din telefon. Dela inte denna kod med någon.",
     "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MIN": "Ditt namn måste vara minst 4 tecken",
     "APP_SETTING_NAMECHANGEERROR_ALERT_LENGHT_MAX": "Ditt namn får vara högst 20 tecken",
-    "APP_SETTING_LUCY": "Lucy"
+    "APP_SETTING_LUCY": "Lucy",
+    "APP_SETTING_DETAILS": "Klicka för mer information.",
+    "APP_SETTING_PHONE_SIZE": "Telefonvåg",
+    "APP_SETTING_PHONE": "Telefon",
+    "APP_SETTING_ACCOUNT": "Konto",
+    "APP_SETTING_SOFTWARE_UPDATE": "Programuppdatering",
+    "APP_SETTING_CHANGE": "Ändra",
+    "APP_SETTING_NAME": "Namn",
+    "APP_SETTING_MAIL": "E-post",
+    "APP_SETTING_PHONE_NUMBER": "Telefon",
+    "APP_SETTING_SHARE": "Dela",
+    "APP_SETTING_SAVE": "Spara",
+    "APP_SETTING_CANCEL": "Avbryt",
+    "APP_SETTING_PRIVATE_CALL": "Privat samtal",
+    "APP_SETTING_BLOCKED_NUMBERS": "Blockerade nummer",
+    "APP_SETTING_DONE": "Slutförd",
+    "APP_SETTING_EDIT": "Redigera",
+    "APP_SETTING_PHONE_SIZE_SAVED": "Telefonvågen har sparats framgångsrikt.",
+    "APP_SETTING_GKS_UP_TO_DATE": "GKS är uppdaterad.",
+    "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS är inte uppdaterad.",
+    "APP_SETTING_ADD_WALLPAPER": "Lägg till bakgrundsbild"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "Kontakter",
@@ -332,10 +333,14 @@
     "APP_MESSAGE_BLOCK_NUMER": "Du är blockerad av det här numret.",
     "APP_MESSAGE_GROUP_ADD_MEMBER_ERROR": "Du kan inte lägga till personen i gruppen.",
     "APP_MESSAGE_GROUP_REMOVE_MEMBER_ERROR": "Personen kunde inte lämna gruppen.",
-    "APP_MESSAGE_SAVE_CONTACT_ERROR_YOU_SELF": "Du kan inte rädda dig själv."
+    "APP_MESSAGE_SAVE_CONTACT_ERROR_YOU_SELF": "Du kan inte rädda dig själv.",
+    "APP_MESSAGE_GPS": "GPS",
+    "APP_MESSAGE_CAMERA": "Kamera",
+    "APP_MESSAGE_MIC": "Mikrofon",
+    "APP_MESSAGE_EMOJI": "Emoji",
+    "APP_MESSAGE_SHARE_CONTACT": "Dela kontakt"
   },
   "SetupScreen": {
-    "PHONE_SETUP_HELLO": "Hej",
     "PHONE_SETUP_CLIKUP": "Klicka för att ställa in din telefon",
     "SettingLangueage": "Ställer in språk...",
     "PHONE_SETUP_LOGINGKSID": "GKS ID",
@@ -414,7 +419,8 @@
       "question9": "Var träffade du din make?"
     },
     "PHONE_SETUP_FINISH_ERROR": "Telefonen kunde inte installeras.",
-    "PHONE_SETUP_CHANGE_LANGUAGE_ERROR": "Fel vid språkbyte"
+    "PHONE_SETUP_CHANGE_LANGUAGE_ERROR": "Fel vid språkbyte",
+    "PHONE_SETUP_LOGIN_ERROR_OWNER": "Denna e-post är skyddad av ägaren. Du har inte behörighet att få åtkomst till telefonens data."
   },
   "ServicesAPP": {
     "APP_SERVICES_TITLE": "Tjänster",
@@ -501,7 +507,14 @@
     "APP_SERVICES_MANAGE_EMPLOYEES_CHANGEGRADE_SUCESS": "Du har framgångsrikt ändrat medarbetarens betyg.",
     "APP_SERVICES_MANAGE_EMPLOYEES_CHANGEGRADE_FAILED": "Ett fel inträffade vid ändring av medarbetarens betyg.",
     "APP_SERVICES_REPORT_REPORT": "Rapport",
-    "APP_SERVICES_REPORT_REPORTNO": "Ingen är intresserad av rapporten än."
+    "APP_SERVICES_REPORT_REPORTNO": "Ingen är intresserad av rapporten än.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_DESC": "Hur mycket pengar vill du ta ut?",
+    "APP_SERVICES_SOCIETY_WITHDRAW_ERROR": "Ogiltigt belopp",
+    "APP_SERVICES_SOCIETY_WITHDRAW_CONFIRM": "Är du säker på att du vill ta ut {amount}?",
+    "APP_SERVICES_SOCIETY_WITHDRAW_SUCCESS": "Pengarna har dragits framgångsrikt.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_FAILED": "Ett fel inträffade vid uttag av pengar.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_INSUFFICIENT_FUNDS": "Det finns inte tillräckligt med pengar.",
+    "APP_SERVICES_SOCIETY_WITHDRAW_PERMISSION_DENIED": "Du har inte behörighet för denna åtgärd."
   },
   "StreamMode": {
     "APP_STREAMMODE_IMAGE": "Bild dold eftersom Streamer-läget är aktivt"
@@ -719,15 +732,11 @@
   },
   "AdvertisingAPP": {
     "APP_AD_TITLE": "Reklam",
-    "APP_AD_HEADER": "Flöde",
-    "APP_AD_FAV": "Favoriter",
-    "APP_AD_PROFILE": "Profil",
     "APP_AD_MODAL_NEWADD": "Ny annons",
     "APP_AD_SHAREAD": "Dela annons",
     "APP_AD_SEARCH": "Sök",
     "APP_AD_MODAL_CANCEL": "Avbryt",
     "APP_AD_MODAL_SHARE": "Dela",
-    "APP_AD_MODAL_FILTERSELECT": "Välj filter",
     "APP_AD_MODAL_IMAGEADD": "Lägg till bild",
     "APP_AD_MODAL_TEXTAREALABEL": "Skriv ett meddelande",
     "APP_AD_MODAL_TEXTAREAPLACEHOLDER": "Skriv ett meddelande",
@@ -738,7 +747,19 @@
     "APP_AD_SHAREMINCHARACTER": "Du måste ange minst 15 tecken",
     "APP_AD_SHARECONFIRM_DESC": "Är du säker på att du vill skapa en annons? Transaktionsavgift: {fee}",
     "APP_AD_SHARE_ERROR_NOMONEY": "Du har inte tillräckligt med pengar",
-    "APP_AD_SHARE_NOTFY_POST": "{name} delade en ny annons"
+    "APP_AD_SHARE_NOTFY_POST": "{name} delade en ny annons",
+    "APP_AD_CREATING": "Skapar en annons...",
+    "APP_AD_SUCCESS": "Annonsen delades framgångsrikt.",
+    "APP_AD_ERROR": "Ett fel uppstod vid delning av annonsen.",
+    "APP_AD_DELETE_SUCCESS": "Annonsen har tagits bort framgångsrikt.",
+    "APP_AD_SHARETITLE": "Titeln måste vara mellan 5 och 250 tecken lång.",
+    "APP_AD_CAMERA_GALLERY": "Kamera/Galleri",
+    "APP_AD_MODAL_LINK": "Länk",
+    "APP_AD_VIEW_LIST": "Lista",
+    "APP_AD_VIEW_GRID": "Galleri",
+    "APP_AD_MODAL_TITLE": "Annonsrubrik*",
+    "APP_AD_MODAL_PRICE": "Pris",
+    "APP_DIALOG_CONFIRM_DELETE": "Är du säker på att du vill ta bort den här annonsen?"
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "Nyheter",
@@ -753,27 +774,6 @@
     "APP_NEWS_NEWSSEARCH": "Sök",
     "APP_NEWS_NOTIFY_NEW": "En nyhet har lagts till",
     "APP_NEWS_DETAILTITLE": "Nyhetstext"
-  },
-  "ValeAPP": {
-    "APP_VALE_TITLE": "Vale",
-    "APP_VALE_CARTYPE": "Biltyp",
-    "APP_VALE_CARMAXSPEED": "Max hastighet",
-    "APP_VALE_KMH": "km/h",
-    "APP_VALE_GARAGE": "Garage",
-    "APP_VALE_BRING": "TA MED",
-    "APP_VALE_TRACK": "SPÅRA",
-    "APP_VALE_SEARCH": "Sök",
-    "APP_VALE_MODAL_BRING": "Vill du att valet ska hämta din bil?",
-    "APP_VALE_ERROR_BRING_NOMONEY": "Du har inte tillräckligt med pengar",
-    "APP_VALE_ERROR_BRING_CARNOTFOUND": "Din bil hittades inte",
-    "APP_VALE_ERROR_BRING_CARIMPOUNDED": "Ditt fordon kan inte kallas eftersom det har blivit beslagtaget.",
-    "APP_VALE_ERROR_BRING_NOTINGARAGE": "Din bil är inte i garaget",
-    "APP_VALE_ERROR_BRING_CAROUTSIDE": "Bilen kan inte tas med eftersom den är utanför.",
-    "APP_VALE_SUCESS_BRING": "Fordon på vägen",
-    "APP_VALE_MARKED": "Ditt fordon markerat på kartan",
-    "APP_VALE_ERROR_TRACK_CARGARAGE": "Ditt fordon är inte markerat eftersom det är i garaget.",
-    "APP_VALE_ERROR_CARBLACKLIST": "Denna fordonsmodell kan inte tas med",
-    "APP_VALE_USEVALET_BANK_HISTORY_DESC": "Användning av betjänad parkering"
   },
   "GalleryAPP": {
     "APP_GALLERY_TITLE": "Galleri",
@@ -1017,19 +1017,7 @@
   "GamesAPP": {
     "APP_GAME_TITLE": "Spel",
     "APP_GAME_SCORE": "Poäng",
-    "APP_GAME_DHAND": "Dealer Hand: ",
-    "APP_GAME_YHAND": "Din Hand: ",
-    "APP_GAME_CREDIT": "Kredit: ",
-    "APP_GAME_BET": "Insats: ",
-    "APP_GAME_HIT": "Slå",
-    "APP_GAME_STAND": "Stå",
-    "APP_GAME_DOUBLE": "DUBBLA",
-    "APP_GAME_RESUME": "Fortsätt",
     "APP_GAME_STARTGAME": "Starta Spel",
-    "APP_GAME_CURRENCY": "kr",
-    "APP_GAME_BLACKJACKDRAW": "Oavgjort",
-    "APP_GAME_BLACKJACKLOSE": "Du Förlorar",
-    "APP_GAME_BLACKJACKWIN": "Du Vinner",
     "APP_GAME_SNAKE_PLAY": "Spela",
     "APP_GAME_SNAKE_GAMEOVER": "Spelet är över!",
     "APP_GAME_RESTART": "Starta Om",
@@ -1054,7 +1042,12 @@
     "APP_GAME_TETRIS_LINESCLEARED": "Rader rensade:",
     "APP_GAME_TETRIS_SPEED_MASTER": "🏆 Hastighetsmästare!",
     "APP_GAME_TETRIS_LINE_CLEARER": "🔥 Linjerensare!",
-    "APP_GAME_TETRIS_NEXT_PIECE": "Nästa stycke"
+    "APP_GAME_TETRIS_NEXT_PIECE": "Nästa stycke",
+    "APP_GAME_BREAKOUT_BEST_SCORE": "Bästa poäng",
+    "APP_GAME_BREAKOUT_HEALTH": "Hälsa",
+    "APP_GAME_BREAKOUT_LEVEL_SUCCESS": "🍉 Nivå {level} Klar!",
+    "APP_GAME_BREAKOUT_BONUS_SCORE": "{bonus} Bonuspoäng!",
+    "APP_GAME_BREAKOUT_TOTAL_SCORE": "Totalpoäng"
   },
   "LiveStreamAPP": {
     "APP_LIVE_TITLE": "Direktsändning",
@@ -1153,7 +1146,6 @@
     "APP_TAXI_CUSTOMER_LOCATION": "Din plats",
     "APP_TAXI_CUSTOMER_DESTINATION": "Destination",
     "APP_TAXI_CUSTOMER_DESTINATIONERROR": "För att kunna ringa en taxi måste du välja destination på kartan.",
-    "APP_TAXI_CUSTOMER_DESTINATIONERROR2": "Du måste välja destination på kartan.",
     "APP_TAXI_CUSTOMER_TOTALDISTANCE": "Total avstånd",
     "APP_TAXI_CUSTOMER_TOTALPRICE": "Total pris",
     "APP_TAXI_CUSTOMER_CALCULATE": "Beräkna min resa",
@@ -1184,7 +1176,6 @@
     "APP_TAXI_DRIVER_CANCELJOB": "Avbryt",
     "APP_TAXI_DRIVER_LOADING": "Laddar...",
     "APP_TAXI_DRIVER_ACCEPTJOBSTARTED": "Du har accepterat jobbet",
-    "APP_TAXI_DRIVER_NOTJOBSTARTED": "Du har inte accepterat jobbet",
     "APP_TAXI_DRIVER_NOTFYCUSTOMERRECEIVED": "Kunden mottagen",
     "APP_TAXI_DRIVER_NOTFYNOTCUSTOMERRECEIVED": "Kunden inte mottagen",
     "APP_TAXI_DRIVER_CUSTOMERLEFTLOCATION": "Kunden lämnade till platsen",
@@ -1391,7 +1382,8 @@
       "TRANSFER_TEXT": "Överför",
       "TRENSFER_ERROR1": "Du kan inte överföra mindre än 250 chip.",
       "TRENSFER_ERROR2": "Du har inte tillräckligt med saldo."
-    }
+    },
+    "APP_CASINO_ROLL_AWAITINGRESULT": "Resultatet avvaktas..."
   },
   "Info": {
     "APP_INFO_PERSONALINFO": "Personlig information",
@@ -1405,9 +1397,6 @@
   "Tooltip": {
     "ESIM": {
       "APP_TOOLTIP_SIM_BUY": "Köp"
-    },
-    "Message": {
-      "APP_TOOLTIP_MESSAGE_CREATEGROUPMEMBER": "{'@'}Kontakt namn"
     },
     "Advertising": {
       "APP_TOOLTIP_ADVERTISING_POST": "Nytt inlägg",
@@ -1474,14 +1463,6 @@
       "APP_LUCYAI_COMMANDS_OPENAPP": "Öppna app",
       "APP_LUCYAI_COMMANDS_MONEYTRANSFER": "Pengatransferering"
     }
-  },
-  "RegisterCommand": {
-    "REGISTERCOMMAND_OPENPHONE": "Öppna Telefon",
-    "REGISTERCOMMAND_NORMALCHARGE": "Normal Laddning",
-    "REGISTERCOMMAND_FASTCHARGE": "Snabb Laddning",
-    "REGISTERCOMMAND_PHONEBOOTH": "Telefonkiosk",
-    "REGISTERCOMMAND_ANSWERCALL": "Svara på Samtal",
-    "REGISTERCOMMAND_DECLINECALL": "Avvisa Samtal"
   },
   "FlareApp": {
     "APP_FLARE_TITLE": "Flare",
@@ -1688,7 +1669,6 @@
     "APP_DARKCHAT_CHOOSE_PHOTO": "Välj foto",
     "APP_DARKCHAT_PLACEHOLER_ROOM_NAME": "Ange rumsnamn",
     "APP_DARKCHAT_PLACEHOLER_ROOM_PASSWORD": "Ange rumslösenord",
-    "APP_DARKCHAT_ROOM_NAME": "Rumsnamn",
     "APP_DARKCHAT_ROOM_PASSWORD": "Lösenord",
     "APP_DARKCHAT_PUBLIC_ROOM": "Offentlig rum",
     "APP_DARKCHAT_SAVE": "Spara",
@@ -1731,7 +1711,6 @@
     "APP_DARKCHAT_JOIN_ROOM_DESC": "Ange rumsnamnet för att gå med:",
     "APP_DARKCHAT_MEMBER_ALREADY_JOIN": "Du är redan medlem i det här rummet.",
     "APP_DARKCHAT_ERROR_JOIN_ROOM": "Rummet hittades inte eller så har du inte behörighet att gå med.",
-    "APP_DARKCHAT_NOT_AVAILABLE_ROOM": "Rums-ID är inte tillgänglig.",
     "APP_DARKCHAT_JOIN_ROOM_PASS_DESC": "Är du säker på att du vill gå med i rummet {roomName}?",
     "APP_DARKCHAT_JOINING_ROOM": "Går med i rummet...",
     "APP_DARKCHAT_ENTER_ROOM_PASSWORD_JOIN_PLACEHOLDER": "Ange rumslösenord",
@@ -1775,6 +1754,43 @@
     "APP_DARKCHAT_EDIT_ROOM_ERROR_PERMISSION": "Du har inte behörighet att redigera detta rum.",
     "APP_DARKCHAT_ROOM_UPDATE_FAILED": "Rummet kunde inte uppdateras.",
     "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "Du har inte behörighet att ta bort detta rum eller så hittades inte rummet.",
-    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "Du har ett nytt meddelande i {channel} kanalen."
+    "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "Du har ett nytt meddelande i {channel} kanalen.",
+    "APP_DARKCHAT_TOGGLING_MUTE_STATUS": "Ändrar tyst läge...",
+    "APP_DARKCHAT_USER_MUTED_SUCCESS": "Användaren har blivit tystad framgångsrikt.",
+    "APP_DARKCHAT_USER_UNMUTED_SUCCESS": "Användaren har framgångsrikt aktiverats för röst.",
+    "APP_DARKCHAT_TOGGLE_MUTE_ERROR": "Användaren kunde inte tystas.",
+    "APP_DARKCHAT_LOADING_USERS_LIST": "Laddar användarlista...",
+    "APP_DARKCHAT_TOGGLE_MUTE_TOOLTIP": "Tysta användare / Ta bort tystnad från användare",
+    "APP_DARKCHAT_LOAD_USER_LIST_ERROR": "Användarlistan kunde inte laddas.",
+    "APP_DARKCHAT_NO_AUTH": "Du har inte behörighet för denna åtgärd."
+  },
+  "GarageApp": {
+    "APP_GARAGE_TITLE": "Garage",
+    "APP_GARAGE_CAR_ENGINE": "Motor",
+    "APP_GARAGE_CAR_BODY": "Kropp",
+    "APP_GARAGE_CAR_FUEL": "Bränsle",
+    "APP_GARAGE_CLOSE": "Stäng",
+    "APP_GARAGE_NUMBER_PLATE": "Registreringsskylt",
+    "APP_GARAGE_GARAGE": "Garage",
+    "APP_GARAGE_LOCK": "Lås",
+    "APP_GARAGE_START": "Starta",
+    "APP_GARAGE_DOORS": "Dörrar",
+    "APP_GARAGE_HEADLIGHT": "Strålkastare",
+    "APP_GARAGE_TRUNK": "Bagageutrymme",
+    "APP_GARAGE_FRONT_TRUNK": "Framskåp",
+    "APP_GARAGE_TRACK": "Markera",
+    "APP_GARAGE_BRING_CAR": "Ta med",
+    "APP_GARAGE_ACTION_FAILED": "Operationen misslyckades.",
+    "APP_GARAGE_MODAL_BRING": "Vill du att valet ska hämta din bil?",
+    "APP_GARAGE_ERROR_BRING_NOMONEY": "Du har inte tillräckligt med pengar.",
+    "APP_GARAGE_ERROR_BRING_CARNOTFOUND": "Ditt fordon hittades inte.",
+    "APP_GARAGE_ERROR_BRING_CARIMPOUNDED": "Det kan inte ringas eftersom ditt fordon har blivit beslagtaget.",
+    "APP_GARAGE_ERROR_BRING_NOTINGARAGE": "Ditt fordon är inte i garaget.",
+    "APP_GARAGE_ERROR_BRING_CAROUTSIDE": "Fordonet kan inte tas in eftersom det är utomhus.",
+    "APP_GARAGE_SUCESS_BRING": "Ditt fordon är på väg",
+    "APP_GARAGE_MARKED": "Ditt fordon har markerats på kartan.",
+    "APP_GARAGE_ERROR_TRACK_CARGARAGE": "Ditt fordon kan inte markeras eftersom det är i garaget.",
+    "APP_GARAGE_ERROR_CARBLACKLIST": "Denna fordonsmodell kan inte tas in.",
+    "APP_GARAGE_USEVALET_BANK_HISTORY_DESC": "Valetservice"
   }
 }
