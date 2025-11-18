@@ -235,7 +235,9 @@
     "APP_CALL_VIDMEET_REJECT": "Tidak ada jawaban",
     "APP_CALL_VIDMEET_JOINEDASK": "Anda telah ditambahkan ke panggilan",
     "APP_CALL_GROUPCALL": "Panggilan Grup",
-    "APP_CALL_RECENT_NOTIFY": "Panggilan terlewat"
+    "APP_CALL_RECENT_NOTIFY": "Panggilan terlewat",
+    "APP_RECENTS_CALL_TITLE": "Panggil {name}",
+    "APP_RECENTS_CALL_CONFIRM_DESC": "Apakah Anda yakin ingin menelepon {name}?"
   },
   "MessageAPP": {
     "APP_MESSAGE_TITLE": "Pesan",

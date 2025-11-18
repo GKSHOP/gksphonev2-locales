@@ -234,8 +234,10 @@
     "APP_CALL_VIDMEET_ACCEPT": "Se așteaptă acceptarea apelurilor VidMeet",
     "APP_CALL_VIDMEET_REJECT": "Fără răspuns",
     "APP_CALL_VIDMEET_JOINEDASK": "Ai fost adăugat la apel",
-    "APP_CALL_GROUPCALL": "Grup Çağrısı",
-    "APP_CALL_RECENT_NOTIFY": "Apel pierdut"
+    "APP_CALL_GROUPCALL": "Apel de grup",
+    "APP_CALL_RECENT_NOTIFY": "Apel pierdut",
+    "APP_RECENTS_CALL_TITLE": "Apelează pe {name}",
+    "APP_RECENTS_CALL_CONFIRM_DESC": "Ești sigur că vrei să apelezi pe {name}?"
   },
   "MessageAPP": {
     "APP_MESSAGE_TITLE": "Mesaj",

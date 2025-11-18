@@ -235,7 +235,9 @@
     "APP_CALL_VIDMEET_REJECT": "ไม่มีการตอบกลับ",
     "APP_CALL_VIDMEET_JOINEDASK": "คุณได้ถูกเพิ่มเข้ามาในสายโทรแล้ว",
     "APP_CALL_GROUPCALL": "การโทรกลุ่ม",
-    "APP_CALL_RECENT_NOTIFY": "สายที่ไม่ได้รับ"
+    "APP_CALL_RECENT_NOTIFY": "สายที่ไม่ได้รับ",
+    "APP_RECENTS_CALL_TITLE": "โทร {name}",
+    "APP_RECENTS_CALL_CONFIRM_DESC": "คุณแน่ใจหรือไม่ว่าต้องการโทรหา {name}?"
   },
   "MessageAPP": {
     "APP_MESSAGE_TITLE": "ข้อความ",

@@ -235,7 +235,9 @@
     "APP_CALL_VIDMEET_REJECT": "Keine Antwort",
     "APP_CALL_VIDMEET_JOINEDASK": "Sie wurden dem Anruf hinzugefügt",
     "APP_CALL_GROUPCALL": "Gruppensuche",
-    "APP_CALL_RECENT_NOTIFY": "Unbeantworteter Anruf"
+    "APP_CALL_RECENT_NOTIFY": "Unbeantworteter Anruf",
+    "APP_RECENTS_CALL_TITLE": "Anrufen {name}",
+    "APP_RECENTS_CALL_CONFIRM_DESC": "Sind Sie sicher, dass Sie {name} anrufen möchten?"
   },
   "MessageAPP": {
     "APP_MESSAGE_TITLE": "Nachricht",

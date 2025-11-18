@@ -235,7 +235,9 @@
     "APP_CALL_VIDMEET_REJECT": "未回應",
     "APP_CALL_VIDMEET_JOINEDASK": "您已被新增到通話中",
     "APP_CALL_GROUPCALL": "群組通話",
-    "APP_CALL_RECENT_NOTIFY": "未接來電"
+    "APP_CALL_RECENT_NOTIFY": "未接來電",
+    "APP_RECENTS_CALL_TITLE": "呼叫 {name}",
+    "APP_RECENTS_CALL_CONFIRM_DESC": "您確定要呼叫 {name} 嗎？"
   },
   "MessageAPP": {
     "APP_MESSAGE_TITLE": "訊息",

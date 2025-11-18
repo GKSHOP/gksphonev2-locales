@@ -235,7 +235,9 @@
     "APP_CALL_VIDMEET_REJECT": "Geen antwoord",
     "APP_CALL_VIDMEET_JOINEDASK": "Je bent toegevoegd aan de oproep",
     "APP_CALL_GROUPCALL": "Groepsgesprek",
-    "APP_CALL_RECENT_NOTIFY": "Gemiste oproep"
+    "APP_CALL_RECENT_NOTIFY": "Gemiste oproep",
+    "APP_RECENTS_CALL_TITLE": "Bel {name}",
+    "APP_RECENTS_CALL_CONFIRM_DESC": "Weet je zeker dat je {name} wilt bellen?"
   },
   "MessageAPP": {
     "APP_MESSAGE_TITLE": "Bericht",

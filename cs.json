@@ -235,7 +235,9 @@
     "APP_CALL_VIDMEET_REJECT": "Žádná odpověď",
     "APP_CALL_VIDMEET_JOINEDASK": "Byli jste přidáni do hovoru",
     "APP_CALL_GROUPCALL": "Skupinový hovor",
-    "APP_CALL_RECENT_NOTIFY": "Zmeškaný hovor"
+    "APP_CALL_RECENT_NOTIFY": "Zmeškaný hovor",
+    "APP_RECENTS_CALL_TITLE": "Hovor {name}",
+    "APP_RECENTS_CALL_CONFIRM_DESC": "Opravdu chcete zavolat {name}?"
   },
   "MessageAPP": {
     "APP_MESSAGE_TITLE": "Zpráva",

@@ -235,7 +235,9 @@
     "APP_CALL_VIDMEET_REJECT": "Sem resposta",
     "APP_CALL_VIDMEET_JOINEDASK": "Foi adicionado à chamada",
     "APP_CALL_GROUPCALL": "Chamada em Grupo",
-    "APP_CALL_RECENT_NOTIFY": "Chamada perdida"
+    "APP_CALL_RECENT_NOTIFY": "Chamada perdida",
+    "APP_RECENTS_CALL_TITLE": "Chamar {name}",
+    "APP_RECENTS_CALL_CONFIRM_DESC": "Tem a certeza de que deseja chamar {name}?"
   },
   "MessageAPP": {
     "APP_MESSAGE_TITLE": "Mensagem",

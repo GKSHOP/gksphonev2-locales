@@ -235,7 +235,9 @@
     "APP_CALL_VIDMEET_REJECT": "Cevap yok",
     "APP_CALL_VIDMEET_JOINEDASK": "Aramaya eklendiniz.",
     "APP_CALL_GROUPCALL": "Grup Araması",
-    "APP_CALL_RECENT_NOTIFY": "Cevapsız arama"
+    "APP_CALL_RECENT_NOTIFY": "Cevapsız arama",
+    "APP_RECENTS_CALL_TITLE": "{name} ara",
+    "APP_RECENTS_CALL_CONFIRM_DESC": "{name} aramak istediğinizden emin misiniz?"
   },
   "MessageAPP": {
     "APP_MESSAGE_TITLE": "Mesaj",

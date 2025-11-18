@@ -235,7 +235,9 @@
     "APP_CALL_VIDMEET_REJECT": "Sin respuesta",
     "APP_CALL_VIDMEET_JOINEDASK": "Has sido añadido a la llamada",
     "APP_CALL_GROUPCALL": "Llamada grupal",
-    "APP_CALL_RECENT_NOTIFY": "Llamada perdida"
+    "APP_CALL_RECENT_NOTIFY": "Llamada perdida",
+    "APP_RECENTS_CALL_TITLE": "Llamar a {name}",
+    "APP_RECENTS_CALL_CONFIRM_DESC": "¿Estás seguro de que quieres llamar a {name}?"
   },
   "MessageAPP": {
     "APP_MESSAGE_TITLE": "Mensaje",

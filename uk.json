@@ -235,7 +235,9 @@
     "APP_CALL_VIDMEET_REJECT": "Немає відповіді",
     "APP_CALL_VIDMEET_JOINEDASK": "Ви були додані до виклику",
     "APP_CALL_GROUPCALL": "Груповий дзвінок",
-    "APP_CALL_RECENT_NOTIFY": "Пропущений дзвінок"
+    "APP_CALL_RECENT_NOTIFY": "Пропущений дзвінок",
+    "APP_RECENTS_CALL_TITLE": "Зателефонувати {name}",
+    "APP_RECENTS_CALL_CONFIRM_DESC": "Ви впевнені, що хочете зателефонувати {name}?"
   },
   "MessageAPP": {
     "APP_MESSAGE_TITLE": "Повідомлення",

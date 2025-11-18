@@ -235,7 +235,9 @@
     "APP_CALL_VIDMEET_REJECT": "Inget svar",
     "APP_CALL_VIDMEET_JOINEDASK": "Du har lagts till i samtalet",
     "APP_CALL_GROUPCALL": "Gruppsamtal",
-    "APP_CALL_RECENT_NOTIFY": "Missat samtal"
+    "APP_CALL_RECENT_NOTIFY": "Missat samtal",
+    "APP_RECENTS_CALL_TITLE": "Ring {name}",
+    "APP_RECENTS_CALL_CONFIRM_DESC": "Är du säker på att du vill ringa {name}?"
   },
   "MessageAPP": {
     "APP_MESSAGE_TITLE": "Meddelande",
