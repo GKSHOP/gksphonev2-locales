@@ -141,7 +141,9 @@
     "APP_SETTING_PHONE_SIZE_SAVED": "Die Telefonskala wurde erfolgreich gespeichert.",
     "APP_SETTING_GKS_UP_TO_DATE": "GKS ist auf dem neuesten Stand.",
     "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS ist nicht auf dem neuesten Stand.",
-    "APP_SETTING_ADD_WALLPAPER": "Hintergrundbild hinzufügen"
+    "APP_SETTING_ADD_WALLPAPER": "Hintergrundbild hinzufügen",
+    "APP_SETTING_VOICE": "Stimme",
+    "APP_SETTING_APPS": "Apps"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "Kontakte",
@@ -190,7 +192,8 @@
     "APP_CONTACT_AVATAR_CHANGE": "Avatar ändern",
     "APP_CONTACT_RINGTONE": "Zilgeräusch",
     "APP_CONTACT_PHONE": "Telefon",
-    "APP_CONTACT_PHOTO_AND_POSTER": "Personenfoto und Poster"
+    "APP_CONTACT_PHOTO_AND_POSTER": "Personenfoto und Poster",
+    "APP_CONTACT_SAVE_NO_PHONE_NAME": "Es wurde keine Telefonnummer oder kein Name eingegeben."
   },
   "CallAPP": {
     "APP_CALL_CALLINGMOBILE": "Mobiltelefon anrufen...",
@@ -340,7 +343,23 @@
     "APP_MESSAGE_CAMERA": "Kamera",
     "APP_MESSAGE_MIC": "Mikrofon",
     "APP_MESSAGE_EMOJI": "Emoji",
-    "APP_MESSAGE_SHARE_CONTACT": "Kontakt teilen"
+    "APP_MESSAGE_SHARE_CONTACT": "Kontakt teilen",
+    "APP_MESSAGE_CALL_MISSED": "Unbeantworteter Anruf",
+    "APP_MESSAGE_CALL_MISSED_DESC": "{caller} hat Sie angerufen, aber Sie haben nicht geantwortet. Tippen Sie auf die Nummer, um zurückzurufen.",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_TITLE": "Nachrichtenberechtigungen",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_LABEL": "Nur für Administratoren",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_INFO": "Wenn diese Einstellung aktiviert ist, können nur Administratoren Nachrichten senden.",
+    "APP_MESSAGE_ADMIN_ONLY_PLACEHOLDER": "Nur Administratoren können Nachrichten senden.",
+    "APP_MESSAGE_ADMIN_ONLY_ENABLED": "Nur Administratoren können Nachrichten senden.",
+    "APP_MESSAGE_ADMIN_ONLY_DISABLED": "Jeder kann eine Nachricht senden.",
+    "APP_MESSAGE_BADGE_ADMIN": "Admin",
+    "APP_MESSAGE_BADGE_MANAGER": "Manager",
+    "APP_MESSAGE_GROUP_MEMBER_MAKE_ADMIN": "Admin erstellen",
+    "APP_MESSAGE_GROUP_MAKE_ADMIN_ERROR": "Die Person konnte nicht zum Administrator gemacht werden.",
+    "APP_MESSAGE_GROUP_MEMBER_REMOVE_ADMIN": "Admin entfernen",
+    "APP_MESSAGE_GROUP_REMOVE_ADMIN_ERROR": "Die Person konnte nicht als Administrator entfernt werden.",
+    "APP_MESSAGE_NEW_MESSAGE": "{count} neue Nachricht",
+    "APP_MESSAGE_NEW_MESSAGES": "Neue Nachrichten"
   },
   "SetupScreen": {
     "PHONE_SETUP_CLIKUP": "Klicken Sie hier, um Ihr Telefon einzurichten",
@@ -761,7 +780,8 @@
     "APP_AD_VIEW_GRID": "Galerie",
     "APP_AD_MODAL_TITLE": "Anzeigentitel*",
     "APP_AD_MODAL_PRICE": "Preis",
-    "APP_DIALOG_CONFIRM_DELETE": "Sind Sie sicher, dass Sie diese Anzeige löschen möchten?"
+    "APP_DIALOG_CONFIRM_DELETE": "Sind Sie sicher, dass Sie diese Anzeige löschen möchten?",
+    "APP_AD_SHARE_WAIT": "Du musst noch {timeleft} Minuten warten, um eine neue Anzeige zu teilen."
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "News",
@@ -1203,7 +1223,9 @@
     "APP_TAXI_VEHICLE_NOT_SUITABLE": "Ihr aktuelles Fahrzeug ist für diesen Job nicht geeignet.",
     "APP_TAXI_TIME_LIMIT_MINUTES": "Steigen Sie innerhalb von {minutes} Minuten ins Auto und bringen Sie den Kunden zu seinem Ziel.",
     "APP_TAXI_TIME_LIMIT_SECONDS": "Steigen Sie innerhalb von {seconds} Sekunden ins Auto und bringen Sie den Kunden zu seinem Ziel.",
-    "APP_TAXI_CANCELLED": "Der Job wurde abgesagt."
+    "APP_TAXI_CANCELLED": "Der Job wurde abgesagt.",
+    "APP_TAXI_DOOR_OPEN": "Taxi freischalten",
+    "APP_TAXI_DOOR_OPENED": "Taxi-Türen geöffnet"
   },
   "MusicAPP": {
     "APP_MUSIC_HELLO": "Hallo, {name}!",

@@ -141,7 +141,9 @@
     "APP_SETTING_PHONE_SIZE_SAVED": "น้ำหนักจากโทรศัพท์ถูกบันทึกเรียบร้อยแล้ว",
     "APP_SETTING_GKS_UP_TO_DATE": "GKS เป็นเวอร์ชันล่าสุดแล้ว",
     "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS ไม่ได้อัปเดตล่าสุด",
-    "APP_SETTING_ADD_WALLPAPER": "เพิ่มวอลเปเปอร์"
+    "APP_SETTING_ADD_WALLPAPER": "เพิ่มวอลเปเปอร์",
+    "APP_SETTING_VOICE": "เสียง",
+    "APP_SETTING_APPS": "แอปพลิเคชัน"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "รายชื่อผู้ติดต่อ",
@@ -190,7 +192,8 @@
     "APP_CONTACT_AVATAR_CHANGE": "เปลี่ยนภาพประจำตัว",
     "APP_CONTACT_RINGTONE": "ริงโทน",
     "APP_CONTACT_PHONE": "โทรศัพท์",
-    "APP_CONTACT_PHOTO_AND_POSTER": "ภาพบุคคลและโปสเตอร์"
+    "APP_CONTACT_PHOTO_AND_POSTER": "ภาพบุคคลและโปสเตอร์",
+    "APP_CONTACT_SAVE_NO_PHONE_NAME": "หมายเลขโทรศัพท์หรือชื่อไม่ได้ถูกกรอก"
   },
   "CallAPP": {
     "APP_CALL_CALLINGMOBILE": "โทรหามือถือ...",
@@ -340,7 +343,23 @@
     "APP_MESSAGE_CAMERA": "กล้อง",
     "APP_MESSAGE_MIC": "ไมค์",
     "APP_MESSAGE_EMOJI": "อีโมจิ",
-    "APP_MESSAGE_SHARE_CONTACT": "แชร์ข้อมูลติดต่อ"
+    "APP_MESSAGE_SHARE_CONTACT": "แชร์ข้อมูลติดต่อ",
+    "APP_MESSAGE_CALL_MISSED": "สายที่ไม่รับสาย",
+    "APP_MESSAGE_CALL_MISSED_DESC": "{caller} โทรหาคุณแต่คุณไม่ตอบ ให้แตะหมายเลขเพื่อติดต่อกลับ",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_TITLE": "ข้อความการอนุญาต",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_LABEL": "เฉพาะผู้ดูแลระบบ",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_INFO": "เมื่อการตั้งค่านี้เปิดใช้งาน ผู้ดูแลระบบเท่านั้นที่สามารถส่งข้อความได้。",
+    "APP_MESSAGE_ADMIN_ONLY_PLACEHOLDER": "เฉพาะผู้ดูแลระบบเท่านั้นที่สามารถส่งข้อความได้",
+    "APP_MESSAGE_ADMIN_ONLY_ENABLED": "เฉพาะผู้ดูแลระบบเท่านั้นที่สามารถส่งข้อความได้",
+    "APP_MESSAGE_ADMIN_ONLY_DISABLED": "ทุกคนสามารถส่งข้อความได้",
+    "APP_MESSAGE_BADGE_ADMIN": "ผู้ดูแลระบบ",
+    "APP_MESSAGE_BADGE_MANAGER": "ผู้จัดการ",
+    "APP_MESSAGE_GROUP_MEMBER_MAKE_ADMIN": "ทำให้เป็นผู้ดูแล",
+    "APP_MESSAGE_GROUP_MAKE_ADMIN_ERROR": "ไม่สามารถทำให้บุคคลนั้นเป็นผู้ดูแลได้",
+    "APP_MESSAGE_GROUP_MEMBER_REMOVE_ADMIN": "ลบผู้ดูแล",
+    "APP_MESSAGE_GROUP_REMOVE_ADMIN_ERROR": "ไม่สามารถลบผู้ใช้ออกจากผู้ดูแลระบบได้",
+    "APP_MESSAGE_NEW_MESSAGE": "ข้อความใหม่ {count} ข้อความ",
+    "APP_MESSAGE_NEW_MESSAGES": "ข้อความใหม่"
   },
   "SetupScreen": {
     "PHONE_SETUP_CLIKUP": "คลิกเพื่อตั้งค่าโทรศัพท์ของคุณ",
@@ -761,7 +780,8 @@
     "APP_AD_VIEW_GRID": "แกลเลอรี",
     "APP_AD_MODAL_TITLE": "ชื่อโฆษณา*",
     "APP_AD_MODAL_PRICE": "ราคา",
-    "APP_DIALOG_CONFIRM_DELETE": "คุณแน่ใจหรือว่าต้องการลบโฆษณานี้?"
+    "APP_DIALOG_CONFIRM_DELETE": "คุณแน่ใจหรือว่าต้องการลบโฆษณานี้?",
+    "APP_AD_SHARE_WAIT": "คุณต้องรออีก {timeleft} นาทีเพื่อแชร์โฆษณาใหม่"
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "ข่าว",
@@ -1203,7 +1223,9 @@
     "APP_TAXI_VEHICLE_NOT_SUITABLE": "รถของคุณในปัจจุบันไม่เหมาะสมกับงานนี้",
     "APP_TAXI_TIME_LIMIT_MINUTES": "ขึ้นรถภายใน {minutes} นาทีและส่งลูกค้าไปยังจุดหมายของพวกเขา",
     "APP_TAXI_TIME_LIMIT_SECONDS": "ขึ้นรถภายใน {seconds} วินาที และส่งลูกค้าไปยังจุดหมายของพวกเขา",
-    "APP_TAXI_CANCELLED": "งานถูกยกเลิกแล้ว。"
+    "APP_TAXI_CANCELLED": "งานถูกยกเลิกแล้ว。",
+    "APP_TAXI_DOOR_OPEN": "ปลดล็อกแท็กซี่",
+    "APP_TAXI_DOOR_OPENED": "ประตูแท็กซี่เปิดแล้ว"
   },
   "MusicAPP": {
     "APP_MUSIC_HELLO": "สวัสดี, {name}!",

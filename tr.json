@@ -141,7 +141,9 @@
     "APP_SETTING_PHONE_SIZE_SAVED": "Telefon ölçeği başarıyla kaydedildi.",
     "APP_SETTING_GKS_UP_TO_DATE": "GKS güncel.",
     "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS güncel değil.",
-    "APP_SETTING_ADD_WALLPAPER": "Duvar Kağıdı Ekle"
+    "APP_SETTING_ADD_WALLPAPER": "Duvar Kağıdı Ekle",
+    "APP_SETTING_VOICE": "Ses",
+    "APP_SETTING_APPS": "Uygulamalar"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "Kişiler",
@@ -190,7 +192,8 @@
     "APP_CONTACT_BLOCKERROR": "Engelleme sırasında bir hata oluştu.",
     "APP_CONTACT_RINGTONE": "Zil sesi",
     "APP_CONTACT_PHONE": "telefon",
-    "APP_CONTACT_PHOTO_AND_POSTER": "Kişi Fotoğrafı ve Poster"
+    "APP_CONTACT_PHOTO_AND_POSTER": "Kişi Fotoğrafı ve Poster",
+    "APP_CONTACT_SAVE_NO_PHONE_NAME": "Telefon numarası veya isim girilmedi."
   },
   "CallAPP": {
     "APP_CALL_CALLINGMOBILE": "mobil arama...",
@@ -340,7 +343,23 @@
     "APP_MESSAGE_CAMERA": "Kamera",
     "APP_MESSAGE_MIC": "Mikrofon",
     "APP_MESSAGE_EMOJI": "Emoji",
-    "APP_MESSAGE_SHARE_CONTACT": "Kişi Paylaş"
+    "APP_MESSAGE_SHARE_CONTACT": "Kişi Paylaş",
+    "APP_MESSAGE_CALL_MISSED": "Cevapsız Arama",
+    "APP_MESSAGE_CALL_MISSED_DESC": "{caller} sizi aradı ama cevap vermediniz, geri aramak için numaraya dokunun",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_TITLE": "Mesaj İzinleri",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_LABEL": "Sadece Yöneticiler",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_INFO": "Bu ayar aktif olduğunda sadece yöneticiler mesaj gönderebilir.",
+    "APP_MESSAGE_ADMIN_ONLY_PLACEHOLDER": "Sadece yöneticiler mesaj atabilir",
+    "APP_MESSAGE_ADMIN_ONLY_ENABLED": "Sadece yöneticiler mesaj atabilir",
+    "APP_MESSAGE_ADMIN_ONLY_DISABLED": "Herkes mesaj atabilir",
+    "APP_MESSAGE_BADGE_ADMIN": "Yönetici",
+    "APP_MESSAGE_BADGE_MANAGER": "Kurucu",
+    "APP_MESSAGE_GROUP_MEMBER_MAKE_ADMIN": "Yönetici Yap",
+    "APP_MESSAGE_GROUP_MAKE_ADMIN_ERROR": "Kişiyi yönetici yapamadık.",
+    "APP_MESSAGE_GROUP_MEMBER_REMOVE_ADMIN": "Yöneticiyi Kaldır",
+    "APP_MESSAGE_GROUP_REMOVE_ADMIN_ERROR": "Yönetici olarak kişiyi kaldırmak mümkün olmadı.",
+    "APP_MESSAGE_NEW_MESSAGE": "{count} yeni mesaj",
+    "APP_MESSAGE_NEW_MESSAGES": "Yeni Mesajlar"
   },
   "SetupScreen": {
     "PHONE_SETUP_CLIKUP": "Telefonunuzu ayarlamak için tıklayın",
@@ -761,7 +780,8 @@
     "APP_AD_VIEW_GRID": "Galeri",
     "APP_AD_MODAL_TITLE": "Reklam Başlığı*",
     "APP_AD_MODAL_PRICE": "Fiyat",
-    "APP_DIALOG_CONFIRM_DELETE": "Bu reklamı silmek istediğinizden emin misiniz?"
+    "APP_DIALOG_CONFIRM_DELETE": "Bu reklamı silmek istediğinizden emin misiniz?",
+    "APP_AD_SHARE_WAIT": "Yeni bir ilan paylaşmak için {timeleft} dakika beklemelisiniz."
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "Haberler",
@@ -1203,7 +1223,9 @@
     "APP_TAXI_VEHICLE_NOT_SUITABLE": "Mevcut aracınız bu iş için uygun değil.",
     "APP_TAXI_TIME_LIMIT_MINUTES": "{minutes} dakika içinde arabaya binin ve müşteriyi varış noktasına bırakın.",
     "APP_TAXI_TIME_LIMIT_SECONDS": "{seconds} saniye içinde arabaya binin ve müşteriyi varış noktasına bırakın.",
-    "APP_TAXI_CANCELLED": "İş iptal edildi."
+    "APP_TAXI_CANCELLED": "İş iptal edildi.",
+    "APP_TAXI_DOOR_OPEN": "Kapıyı Aç",
+    "APP_TAXI_DOOR_OPENED": "Taksi kapıları açıldı"
   },
   "MusicAPP": {
     "APP_MUSIC_HELLO": "Merhaba, {name}!",

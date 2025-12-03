@@ -141,7 +141,9 @@
     "APP_SETTING_PHONE_SIZE_SAVED": "Cântarul telefonic a fost salvat cu succes.",
     "APP_SETTING_GKS_UP_TO_DATE": "GKS este actualizat.",
     "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS nu este actualizat.",
-    "APP_SETTING_ADD_WALLPAPER": "Adaugă fundal"
+    "APP_SETTING_ADD_WALLPAPER": "Adaugă fundal",
+    "APP_SETTING_VOICE": "Voce",
+    "APP_SETTING_APPS": "Aplicații"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "Contacte",
@@ -190,7 +192,8 @@
     "APP_CONTACT_AVATAR_CHANGE": "Schimba Avatarul",
     "APP_CONTACT_RINGTONE": "Tonalita",
     "APP_CONTACT_PHONE": "telefon",
-    "APP_CONTACT_PHOTO_AND_POSTER": "Persoon Foto en Poster"
+    "APP_CONTACT_PHOTO_AND_POSTER": "Persoon Foto en Poster",
+    "APP_CONTACT_SAVE_NO_PHONE_NAME": "Numărul de telefon sau numele nu a fost introdus."
   },
   "CallAPP": {
     "APP_CALL_CALLINGMOBILE": "apelând mobil...",
@@ -340,7 +343,23 @@
     "APP_MESSAGE_CAMERA": "Cameră",
     "APP_MESSAGE_MIC": "Microfon",
     "APP_MESSAGE_EMOJI": "Emoji",
-    "APP_MESSAGE_SHARE_CONTACT": "Partajează contactul"
+    "APP_MESSAGE_SHARE_CONTACT": "Partajează contactul",
+    "APP_MESSAGE_CALL_MISSED": "Apel pierdut",
+    "APP_MESSAGE_CALL_MISSED_DESC": "{caller} v-a sunat, dar nu ați răspuns. Apăsați pe număr pentru a suna înapoi.",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_TITLE": "Permisiuni Mesaj",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_LABEL": "Numai pentru administratori",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_INFO": "Când această opțiune este activată, doar administratorii pot trimite mesaje.",
+    "APP_MESSAGE_ADMIN_ONLY_PLACEHOLDER": "Numai administratorii pot trimite mesaje.",
+    "APP_MESSAGE_ADMIN_ONLY_ENABLED": "Numai administratorii pot trimite mesaje.",
+    "APP_MESSAGE_ADMIN_ONLY_DISABLED": "Oricine poate trimite mesaje.",
+    "APP_MESSAGE_BADGE_ADMIN": "Administrație",
+    "APP_MESSAGE_BADGE_MANAGER": "Manager",
+    "APP_MESSAGE_GROUP_MEMBER_MAKE_ADMIN": "Fă administrator",
+    "APP_MESSAGE_GROUP_MAKE_ADMIN_ERROR": "Nu s-a putut face persoana administrator.",
+    "APP_MESSAGE_GROUP_MEMBER_REMOVE_ADMIN": "Elimină Admin",
+    "APP_MESSAGE_GROUP_REMOVE_ADMIN_ERROR": "Nu s-a putut elimina persoana din administrator.",
+    "APP_MESSAGE_NEW_MESSAGE": "{count} mesaje noi",
+    "APP_MESSAGE_NEW_MESSAGES": "Mesaje noi"
   },
   "SetupScreen": {
     "PHONE_SETUP_CLIKUP": "Faceți clic pentru a configura telefonul",
@@ -761,7 +780,8 @@
     "APP_AD_VIEW_GRID": "Galerie",
     "APP_AD_MODAL_TITLE": "Titlu anunț*",
     "APP_AD_MODAL_PRICE": "Preț",
-    "APP_DIALOG_CONFIRM_DELETE": "Ești sigur că vrei să ștergi această reclamă?"
+    "APP_DIALOG_CONFIRM_DELETE": "Ești sigur că vrei să ștergi această reclamă?",
+    "APP_AD_SHARE_WAIT": "Trebuie să aștepți {timeleft} minute pentru a împărtăși un nou anunț."
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "Știri",
@@ -1203,7 +1223,9 @@
     "APP_TAXI_VEHICLE_NOT_SUITABLE": "Vehiculul dumneavoastră actual nu este potrivit pentru această muncă.",
     "APP_TAXI_TIME_LIMIT_MINUTES": "Intră în mașină în termen de {minutes} minute și lasă clientul la destinația sa.",
     "APP_TAXI_TIME_LIMIT_SECONDS": "Intră în mașină în următoarele {seconds} secunde și lasă clientul la destinația lui.",
-    "APP_TAXI_CANCELLED": "Jobul a fost anulat."
+    "APP_TAXI_CANCELLED": "Jobul a fost anulat.",
+    "APP_TAXI_DOOR_OPEN": "Dezvăluie Taxi",
+    "APP_TAXI_DOOR_OPENED": "Ușile taxiului s-au deschis."
   },
   "MusicAPP": {
     "APP_MUSIC_HELLO": "Bună, {name}!",

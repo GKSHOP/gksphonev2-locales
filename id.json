@@ -141,7 +141,9 @@
     "APP_SETTING_PHONE_SIZE_SAVED": "Timbangan ponsel telah berhasil disimpan.",
     "APP_SETTING_GKS_UP_TO_DATE": "GKS sudah diperbarui.",
     "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS tidak diperbarui.",
-    "APP_SETTING_ADD_WALLPAPER": "Tambahkan Wallpaper"
+    "APP_SETTING_ADD_WALLPAPER": "Tambahkan Wallpaper",
+    "APP_SETTING_VOICE": "Suara",
+    "APP_SETTING_APPS": "Aplikasi"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "Kontak",
@@ -190,7 +192,8 @@
     "APP_CONTACT_AVATAR_CHANGE": "Ubah Avatar",
     "APP_CONTACT_RINGTONE": "Nada dering",
     "APP_CONTACT_PHONE": "telepon",
-    "APP_CONTACT_PHOTO_AND_POSTER": "Foto Orang dan Poster"
+    "APP_CONTACT_PHOTO_AND_POSTER": "Foto Orang dan Poster",
+    "APP_CONTACT_SAVE_NO_PHONE_NAME": "Nomor telepon atau nama tidak dimasukkan."
   },
   "CallAPP": {
     "APP_CALL_CALLINGMOBILE": "menghubungi ponsel...",
@@ -340,7 +343,23 @@
     "APP_MESSAGE_CAMERA": "Kamera",
     "APP_MESSAGE_MIC": "Mikrofon",
     "APP_MESSAGE_EMOJI": "Emoji",
-    "APP_MESSAGE_SHARE_CONTACT": "Bagikan Kontak"
+    "APP_MESSAGE_SHARE_CONTACT": "Bagikan Kontak",
+    "APP_MESSAGE_CALL_MISSED": "Panggilan Tak Terjawab",
+    "APP_MESSAGE_CALL_MISSED_DESC": "{caller} mene mene telepon tetapi Anda tidak menjawab, ketuk nomor untuk menelepon kembali.",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_TITLE": "Izin Pesan",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_LABEL": "Hanya untuk Administrator",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_INFO": "Ketika pengaturan ini diaktifkan, hanya administrator yang dapat mengirim pesan.",
+    "APP_MESSAGE_ADMIN_ONLY_PLACEHOLDER": "Hanya pengelola yang dapat mengirim pesan.",
+    "APP_MESSAGE_ADMIN_ONLY_ENABLED": "Hanya pengelola yang dapat mengirim pesan.",
+    "APP_MESSAGE_ADMIN_ONLY_DISABLED": "Siapa saja bisa mengirim pesan.",
+    "APP_MESSAGE_BADGE_ADMIN": "Admin",
+    "APP_MESSAGE_BADGE_MANAGER": "Manajer",
+    "APP_MESSAGE_GROUP_MEMBER_MAKE_ADMIN": "Jadikan Admin",
+    "APP_MESSAGE_GROUP_MAKE_ADMIN_ERROR": "Tidak dapat menjadikan orang tersebut sebagai admin.",
+    "APP_MESSAGE_GROUP_MEMBER_REMOVE_ADMIN": "Hapus Admin",
+    "APP_MESSAGE_GROUP_REMOVE_ADMIN_ERROR": "Tidak dapat menghapus orang dari admin",
+    "APP_MESSAGE_NEW_MESSAGE": "{count} pesan baru",
+    "APP_MESSAGE_NEW_MESSAGES": "Pesan Baru"
   },
   "SetupScreen": {
     "PHONE_SETUP_CLIKUP": "Klik untuk mengatur ponsel Anda",
@@ -761,7 +780,8 @@
     "APP_AD_VIEW_GRID": "Galeri",
     "APP_AD_MODAL_TITLE": "Judul Iklan*",
     "APP_AD_MODAL_PRICE": "Harga",
-    "APP_DIALOG_CONFIRM_DELETE": "Apakah Anda yakin ingin menghapus iklan ini?"
+    "APP_DIALOG_CONFIRM_DELETE": "Apakah Anda yakin ingin menghapus iklan ini?",
+    "APP_AD_SHARE_WAIT": "Anda harus menunggu {timeleft} menit untuk membagikan iklan baru."
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "Berita",
@@ -1203,7 +1223,9 @@
     "APP_TAXI_VEHICLE_NOT_SUITABLE": "Kendaraan Anda saat ini tidak cocok untuk pekerjaan ini.",
     "APP_TAXI_TIME_LIMIT_MINUTES": "Masuk ke dalam mobil dalam waktu {minutes} menit dan antarkan pelanggan ke tujuan mereka.",
     "APP_TAXI_TIME_LIMIT_SECONDS": "Masuk ke dalam mobil dalam {seconds} detik dan antar pelanggan ke tujuan mereka.",
-    "APP_TAXI_CANCELLED": "Pekerjaan telah dibatalkan."
+    "APP_TAXI_CANCELLED": "Pekerjaan telah dibatalkan.",
+    "APP_TAXI_DOOR_OPEN": "Buka Taksi",
+    "APP_TAXI_DOOR_OPENED": "Pintu taksi terbuka"
   },
   "MusicAPP": {
     "APP_MUSIC_HELLO": "Halo, {name}!",

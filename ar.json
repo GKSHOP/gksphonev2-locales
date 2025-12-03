@@ -141,7 +141,9 @@
     "APP_SETTING_PHONE_SIZE_SAVED": "تم حفظ مقياس الهاتف بنجاح.",
     "APP_SETTING_GKS_UP_TO_DATE": "GKS محدثة.",
     "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS غير محدث.",
-    "APP_SETTING_ADD_WALLPAPER": "إضافة خلفية"
+    "APP_SETTING_ADD_WALLPAPER": "إضافة خلفية",
+    "APP_SETTING_VOICE": "صوت",
+    "APP_SETTING_APPS": "تطبيقات"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "جهات الاتصال",
@@ -190,7 +192,8 @@
     "APP_CONTACT_AVATAR_CHANGE": "تغيير الصورة الشخصية",
     "APP_CONTACT_RINGTONE": "نغمة رنين",
     "APP_CONTACT_PHONE": "هاتف",
-    "APP_CONTACT_PHOTO_AND_POSTER": "صورة شخص وملصق"
+    "APP_CONTACT_PHOTO_AND_POSTER": "صورة شخص وملصق",
+    "APP_CONTACT_SAVE_NO_PHONE_NAME": "لم يتم إدخال رقم الهاتف أو الاسم."
   },
   "CallAPP": {
     "APP_CALL_CALLINGMOBILE": "يتصل بالهاتف المحمول...",
@@ -340,7 +343,23 @@
     "APP_MESSAGE_CAMERA": "كاميرا",
     "APP_MESSAGE_MIC": "ميكروفون",
     "APP_MESSAGE_EMOJI": "إيموجي",
-    "APP_MESSAGE_SHARE_CONTACT": "مشاركة جهة الاتصال"
+    "APP_MESSAGE_SHARE_CONTACT": "مشاركة جهة الاتصال",
+    "APP_MESSAGE_CALL_MISSED": "مكالمة غير مجابة",
+    "APP_MESSAGE_CALL_MISSED_DESC": "{caller} اتصل بك لكنك لم ترد، اضغط على الرقم للاتصال مرة أخرى",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_TITLE": "إعدادات الرسائل",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_LABEL": "فقط المسؤولون",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_INFO": "عند تفعيل هذا الإعداد، يمكن فقط للمسؤولين إرسال الرسائل.",
+    "APP_MESSAGE_ADMIN_ONLY_PLACEHOLDER": "يمكن فقط للمديرين إرسال الرسائل",
+    "APP_MESSAGE_ADMIN_ONLY_ENABLED": "يمكن فقط للمديرين إرسال الرسائل",
+    "APP_MESSAGE_ADMIN_ONLY_DISABLED": "يمكن للجميع إرسال الرسائل",
+    "APP_MESSAGE_BADGE_ADMIN": "مدير",
+    "APP_MESSAGE_BADGE_MANAGER": "مدير",
+    "APP_MESSAGE_GROUP_MEMBER_MAKE_ADMIN": "اجعل مشرفاً",
+    "APP_MESSAGE_GROUP_MAKE_ADMIN_ERROR": "لم يتمكن من جعل الشخص مشرفًا",
+    "APP_MESSAGE_GROUP_MEMBER_REMOVE_ADMIN": "إزالة المشرف",
+    "APP_MESSAGE_GROUP_REMOVE_ADMIN_ERROR": "لم يتمكن من إزالة الشخص من الإدارة",
+    "APP_MESSAGE_NEW_MESSAGE": "{count} رسالة جديدة",
+    "APP_MESSAGE_NEW_MESSAGES": "رسائل جديدة"
   },
   "SetupScreen": {
     "PHONE_SETUP_CLIKUP": "انقر لإعداد هاتفك",
@@ -761,7 +780,8 @@
     "APP_AD_VIEW_GRID": "معرض",
     "APP_AD_MODAL_TITLE": "عنوان الإعلان*",
     "APP_AD_MODAL_PRICE": "السعر",
-    "APP_DIALOG_CONFIRM_DELETE": "هل أنت متأكد أنك تريد حذف هذا الإعلان؟"
+    "APP_DIALOG_CONFIRM_DELETE": "هل أنت متأكد أنك تريد حذف هذا الإعلان؟",
+    "APP_AD_SHARE_WAIT": "يجب عليك الانتظار {timeleft} دقيقة لمشاركة إعلان جديد."
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "أخبار",
@@ -1203,7 +1223,9 @@
     "APP_TAXI_VEHICLE_NOT_SUITABLE": "سيارتك الحالية غير مناسبة لهذه الوظيفة.",
     "APP_TAXI_TIME_LIMIT_MINUTES": "ادخل السيارة خلال {minutes} دقيقة واترك العميل في وجهته.",
     "APP_TAXI_TIME_LIMIT_SECONDS": "ادخل السيارة خلال {seconds} ثوانٍ وأوصل العميل إلى وجهته.",
-    "APP_TAXI_CANCELLED": "تم إلغاء الوظيفة."
+    "APP_TAXI_CANCELLED": "تم إلغاء الوظيفة.",
+    "APP_TAXI_DOOR_OPEN": "افتح التاكسي",
+    "APP_TAXI_DOOR_OPENED": "فتحت أبواب التاكسي"
   },
   "MusicAPP": {
     "APP_MUSIC_HELLO": "مرحباً، {name}!",

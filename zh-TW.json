@@ -141,7 +141,9 @@
     "APP_SETTING_PHONE_SIZE_SAVED": "手機秤已成功儲存。",
     "APP_SETTING_GKS_UP_TO_DATE": "GKS 已是最新版本。",
     "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS 不是最新版本。",
-    "APP_SETTING_ADD_WALLPAPER": "添加壁紙"
+    "APP_SETTING_ADD_WALLPAPER": "添加壁紙",
+    "APP_SETTING_VOICE": "語音",
+    "APP_SETTING_APPS": "應用程式"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "聯絡人",
@@ -190,7 +192,8 @@
     "APP_CONTACT_AVATAR_CHANGE": "更改頭像",
     "APP_CONTACT_RINGTONE": "鈴聲",
     "APP_CONTACT_PHONE": "電話",
-    "APP_CONTACT_PHOTO_AND_POSTER": "人物照片和海報"
+    "APP_CONTACT_PHOTO_AND_POSTER": "人物照片和海報",
+    "APP_CONTACT_SAVE_NO_PHONE_NAME": "未輸入電話號碼或姓名。"
   },
   "CallAPP": {
     "APP_CALL_CALLINGMOBILE": "撥打手機...",
@@ -340,7 +343,23 @@
     "APP_MESSAGE_CAMERA": "相機",
     "APP_MESSAGE_MIC": "麥克風",
     "APP_MESSAGE_EMOJI": "表情符號",
-    "APP_MESSAGE_SHARE_CONTACT": "分享聯絡人"
+    "APP_MESSAGE_SHARE_CONTACT": "分享聯絡人",
+    "APP_MESSAGE_CALL_MISSED": "未接來電",
+    "APP_MESSAGE_CALL_MISSED_DESC": "{caller} 嘗試聯絡您，但您沒有接聽，請點擊號碼以回撥。",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_TITLE": "訊息權限",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_LABEL": "僅限管理員",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_INFO": "當此設置啟用時，只有管理員可以發送消息。",
+    "APP_MESSAGE_ADMIN_ONLY_PLACEHOLDER": "只有管理員可以發送消息",
+    "APP_MESSAGE_ADMIN_ONLY_ENABLED": "只有管理員可以發送消息",
+    "APP_MESSAGE_ADMIN_ONLY_DISABLED": "每個人都可以發送消息",
+    "APP_MESSAGE_BADGE_ADMIN": "管理員",
+    "APP_MESSAGE_BADGE_MANAGER": "經理",
+    "APP_MESSAGE_GROUP_MEMBER_MAKE_ADMIN": "設為管理員",
+    "APP_MESSAGE_GROUP_MAKE_ADMIN_ERROR": "無法將此人設為管理員",
+    "APP_MESSAGE_GROUP_MEMBER_REMOVE_ADMIN": "移除管理員",
+    "APP_MESSAGE_GROUP_REMOVE_ADMIN_ERROR": "無法將該人員移除為管理員",
+    "APP_MESSAGE_NEW_MESSAGE": "{count} 條新訊息",
+    "APP_MESSAGE_NEW_MESSAGES": "新訊息"
   },
   "SetupScreen": {
     "PHONE_SETUP_CLIKUP": "點擊以設定您的手機",
@@ -761,7 +780,8 @@
     "APP_AD_VIEW_GRID": "畫廊",
     "APP_AD_MODAL_TITLE": "廣告標題*",
     "APP_AD_MODAL_PRICE": "價格",
-    "APP_DIALOG_CONFIRM_DELETE": "您確定要刪除這則廣告嗎？"
+    "APP_DIALOG_CONFIRM_DELETE": "您確定要刪除這則廣告嗎？",
+    "APP_AD_SHARE_WAIT": "您必須等待 {timeleft} 分鐘才能分享新的廣告。"
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "新聞",
@@ -1203,7 +1223,9 @@
     "APP_TAXI_VEHICLE_NOT_SUITABLE": "您目前的車輛不適合這項工作。",
     "APP_TAXI_TIME_LIMIT_MINUTES": "在 {minutes} 分鐘內上車，並將顧客送到他們的目的地。",
     "APP_TAXI_TIME_LIMIT_SECONDS": "在 {seconds} 秒內上車，並將顧客送到他們的目的地。",
-    "APP_TAXI_CANCELLED": "工作已被取消。"
+    "APP_TAXI_CANCELLED": "工作已被取消。",
+    "APP_TAXI_DOOR_OPEN": "解鎖計程車",
+    "APP_TAXI_DOOR_OPENED": "計程車門已打開"
   },
   "MusicAPP": {
     "APP_MUSIC_HELLO": "你好，{name}！",

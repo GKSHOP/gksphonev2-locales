@@ -141,7 +141,9 @@
     "APP_SETTING_PHONE_SIZE_SAVED": "Telefonní váha byla úspěšně uložena.",
     "APP_SETTING_GKS_UP_TO_DATE": "GKS je aktuální.",
     "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS není aktuální.",
-    "APP_SETTING_ADD_WALLPAPER": "Přidat tapetu"
+    "APP_SETTING_ADD_WALLPAPER": "Přidat tapetu",
+    "APP_SETTING_VOICE": "Hlas",
+    "APP_SETTING_APPS": "Aplikace"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "Kontakty",
@@ -190,7 +192,8 @@
     "APP_CONTACT_AVATAR_CHANGE": "Změnit avatar",
     "APP_CONTACT_RINGTONE": "Vy ringtone",
     "APP_CONTACT_PHONE": "telefon",
-    "APP_CONTACT_PHOTO_AND_POSTER": "Osobní fotografie a plakát"
+    "APP_CONTACT_PHOTO_AND_POSTER": "Osobní fotografie a plakát",
+    "APP_CONTACT_SAVE_NO_PHONE_NAME": "Nebyl zadán telefonní číslo ani jméno."
   },
   "CallAPP": {
     "APP_CALL_CALLINGMOBILE": "volání na mobil...",
@@ -340,7 +343,23 @@
     "APP_MESSAGE_CAMERA": "Kamera",
     "APP_MESSAGE_MIC": "Mikrofon",
     "APP_MESSAGE_EMOJI": "Emoji",
-    "APP_MESSAGE_SHARE_CONTACT": "Sdílet kontakt"
+    "APP_MESSAGE_SHARE_CONTACT": "Sdílet kontakt",
+    "APP_MESSAGE_CALL_MISSED": "Zmeškaný hovor",
+    "APP_MESSAGE_CALL_MISSED_DESC": "{caller} vás volal, ale neodpověděli jste. Klepněte na číslo pro zpětné zavolání.",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_TITLE": "Oprávnění zpráv",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_LABEL": "Pouze správci",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_INFO": "Tato nastavení, když je aktivní, mohou zprávy odesílat pouze správci.",
+    "APP_MESSAGE_ADMIN_ONLY_PLACEHOLDER": "Pouze administrátoři mohou posílat zprávy.",
+    "APP_MESSAGE_ADMIN_ONLY_ENABLED": "Pouze administrátoři mohou posílat zprávy.",
+    "APP_MESSAGE_ADMIN_ONLY_DISABLED": "Každý může posílat zprávy.",
+    "APP_MESSAGE_BADGE_ADMIN": "Správce",
+    "APP_MESSAGE_BADGE_MANAGER": "Manažer",
+    "APP_MESSAGE_GROUP_MEMBER_MAKE_ADMIN": "Udělat administrátora",
+    "APP_MESSAGE_GROUP_MAKE_ADMIN_ERROR": "Nelze udělat z této osoby administrátora.",
+    "APP_MESSAGE_GROUP_MEMBER_REMOVE_ADMIN": "Odebrat správce",
+    "APP_MESSAGE_GROUP_REMOVE_ADMIN_ERROR": "Nepodařilo se odebrat osobu z administrátorů.",
+    "APP_MESSAGE_NEW_MESSAGE": "{count} nová zpráva",
+    "APP_MESSAGE_NEW_MESSAGES": "Nové zprávy"
   },
   "SetupScreen": {
     "PHONE_SETUP_CLIKUP": "Klikněte pro nastavení telefonu",
@@ -761,7 +780,8 @@
     "APP_AD_VIEW_GRID": "Galerie",
     "APP_AD_MODAL_TITLE": "Název inzerátu*",
     "APP_AD_MODAL_PRICE": "Cena",
-    "APP_DIALOG_CONFIRM_DELETE": "Opravdu chcete smazat tuto reklamu?"
+    "APP_DIALOG_CONFIRM_DELETE": "Opravdu chcete smazat tuto reklamu?",
+    "APP_AD_SHARE_WAIT": "Musíte počkat {timeleft} minut, abyste mohli sdílet novou reklamu."
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "Novinky",
@@ -1203,7 +1223,9 @@
     "APP_TAXI_VEHICLE_NOT_SUITABLE": "Vaše současné vozidlo není pro tuto práci vhodné.",
     "APP_TAXI_TIME_LIMIT_MINUTES": "Nastupte do auta do {minutes} minut a odvezte zákazníka na jeho místo.",
     "APP_TAXI_TIME_LIMIT_SECONDS": "Nastupte do auta do {seconds} sekund a dopravte zákazníka na jeho místo určení.",
-    "APP_TAXI_CANCELLED": "Práce byla zrušena."
+    "APP_TAXI_CANCELLED": "Práce byla zrušena.",
+    "APP_TAXI_DOOR_OPEN": "Odemknout taxi",
+    "APP_TAXI_DOOR_OPENED": "Dveře taxi se otevřely"
   },
   "MusicAPP": {
     "APP_MUSIC_HELLO": "Ahoj, {name}!",

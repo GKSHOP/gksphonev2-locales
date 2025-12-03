@@ -141,7 +141,9 @@
     "APP_SETTING_PHONE_SIZE_SAVED": "Die foon skaal is suksesvol gestoor.",
     "APP_SETTING_GKS_UP_TO_DATE": "GKS is op datum.",
     "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS is nie op datum nie.",
-    "APP_SETTING_ADD_WALLPAPER": "Voeg Agtergrond by"
+    "APP_SETTING_ADD_WALLPAPER": "Voeg Agtergrond by",
+    "APP_SETTING_VOICE": "Stem",
+    "APP_SETTING_APPS": "Toepassings"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "Contact",
@@ -190,7 +192,8 @@
     "APP_CONTACT_AVATAR_CHANGE": "Verander Avatar",
     "APP_CONTACT_RINGTONE": "Ringtone",
     "APP_CONTACT_PHONE": "foon",
-    "APP_CONTACT_PHOTO_AND_POSTER": "Persoon Foto en Plakkaat"
+    "APP_CONTACT_PHOTO_AND_POSTER": "Persoon Foto en Plakkaat",
+    "APP_CONTACT_SAVE_NO_PHONE_NAME": "Geen telefoonnommer of naam ingevoer nie."
   },
   "CallAPP": {
     "APP_CALL_CALLINGMOBILE": "bel selfoon...",
@@ -340,7 +343,23 @@
     "APP_MESSAGE_CAMERA": "Kamera",
     "APP_MESSAGE_MIC": "Mikrofoon",
     "APP_MESSAGE_EMOJI": "Emoji",
-    "APP_MESSAGE_SHARE_CONTACT": "Deel Kontak"
+    "APP_MESSAGE_SHARE_CONTACT": "Deel Kontak",
+    "APP_MESSAGE_CALL_MISSED": "Misluk oproep",
+    "APP_MESSAGE_CALL_MISSED_DESC": "{caller} het jou gebel, maar jy het nie geantwoord nie. Tik op die nommer om terug te bel.",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_TITLE": "Berigting van Berigte",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_LABEL": "Slegs Bestuurders",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_INFO": "Wanneer hierdie instelling geaktiveer is, kan slegs bestuurders boodskappe stuur.",
+    "APP_MESSAGE_ADMIN_ONLY_PLACEHOLDER": "Slegs bestuurders kan boodskappe stuur",
+    "APP_MESSAGE_ADMIN_ONLY_ENABLED": "Slegs bestuurders kan boodskappe stuur.",
+    "APP_MESSAGE_ADMIN_ONLY_DISABLED": "Enigeen kan 'n boodskap stuur.",
+    "APP_MESSAGE_BADGE_ADMIN": "Admin",
+    "APP_MESSAGE_BADGE_MANAGER": "Bestuurder",
+    "APP_MESSAGE_GROUP_MEMBER_MAKE_ADMIN": "Maak Admin",
+    "APP_MESSAGE_GROUP_MAKE_ADMIN_ERROR": "Kon nie die persoon 'n admin maak nie",
+    "APP_MESSAGE_GROUP_MEMBER_REMOVE_ADMIN": "Verwyder Admin",
+    "APP_MESSAGE_GROUP_REMOVE_ADMIN_ERROR": "Kon nie die persoon van admin verwyder nie",
+    "APP_MESSAGE_NEW_MESSAGE": "{count} nuwe boodskap",
+    "APP_MESSAGE_NEW_MESSAGES": "Nuwe Boodskappe"
   },
   "SetupScreen": {
     "PHONE_SETUP_CLIKUP": "Klik om jou foon op te stel",
@@ -761,7 +780,8 @@
     "APP_AD_VIEW_GRID": "Galery",
     "APP_AD_MODAL_TITLE": "Advertentietitel*",
     "APP_AD_MODAL_PRICE": "Prys",
-    "APP_DIALOG_CONFIRM_DELETE": "Is jy seker jy wil hierdie advertensie verwyder?"
+    "APP_DIALOG_CONFIRM_DELETE": "Is jy seker jy wil hierdie advertensie verwyder?",
+    "APP_AD_SHARE_WAIT": "Jy moet {timeleft} minute wag om 'n nuwe advertensie te deel."
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "News",
@@ -1203,7 +1223,9 @@
     "APP_TAXI_VEHICLE_NOT_SUITABLE": "Jou huidige voertuig is nie geskik vir hierdie werk nie.",
     "APP_TAXI_TIME_LIMIT_MINUTES": "Klim binne {minutes} minute in die motor en laat die kliënt by hul bestemming af.",
     "APP_TAXI_TIME_LIMIT_SECONDS": "Klim in die motor binne {seconds} sekondes en laat die kliënt by hul bestemming af.",
-    "APP_TAXI_CANCELLED": "Die werk is gekanselleer."
+    "APP_TAXI_CANCELLED": "Die werk is gekanselleer.",
+    "APP_TAXI_DOOR_OPEN": "Ontsluit Taksie",
+    "APP_TAXI_DOOR_OPENED": "Taksideure het oopgegaan"
   },
   "MusicAPP": {
     "APP_MUSIC_HELLO": "Hallo, {name}!",

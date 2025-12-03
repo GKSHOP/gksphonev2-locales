@@ -141,7 +141,9 @@
     "APP_SETTING_PHONE_SIZE_SAVED": "A balança do telefone foi guardada com sucesso.",
     "APP_SETTING_GKS_UP_TO_DATE": "O GKS está atualizado.",
     "APP_SETTING_GKS_NOT_UP_TO_DATE": "O GKS não está atualizado.",
-    "APP_SETTING_ADD_WALLPAPER": "Adicionar Papel de Parede"
+    "APP_SETTING_ADD_WALLPAPER": "Adicionar Papel de Parede",
+    "APP_SETTING_VOICE": "Voz",
+    "APP_SETTING_APPS": "Aplicações"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "Contactos",
@@ -190,7 +192,8 @@
     "APP_CONTACT_AVATAR_CHANGE": "Alterar Avatar",
     "APP_CONTACT_RINGTONE": "Toque de chamada",
     "APP_CONTACT_PHONE": "telefone",
-    "APP_CONTACT_PHOTO_AND_POSTER": "Foto da Pessoa e Cartaz"
+    "APP_CONTACT_PHOTO_AND_POSTER": "Foto da Pessoa e Cartaz",
+    "APP_CONTACT_SAVE_NO_PHONE_NAME": "Não foi inserido nenhum número de telefone ou nome."
   },
   "CallAPP": {
     "APP_CALL_CALLINGMOBILE": "a ligar para o telemóvel...",
@@ -340,7 +343,23 @@
     "APP_MESSAGE_CAMERA": "Câmara",
     "APP_MESSAGE_MIC": "Microfone",
     "APP_MESSAGE_EMOJI": "Emoji",
-    "APP_MESSAGE_SHARE_CONTACT": "Partilhar Contacto"
+    "APP_MESSAGE_SHARE_CONTACT": "Partilhar Contacto",
+    "APP_MESSAGE_CALL_MISSED": "Chamada Perdida",
+    "APP_MESSAGE_CALL_MISSED_DESC": "{caller} ligou para si, mas não atendeu. Toque no número para retornar a chamada.",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_TITLE": "Permissões de Mensagem",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_LABEL": "Apenas Administradores",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_INFO": "Quando esta configuração está ativa, apenas os administradores podem enviar mensagens.",
+    "APP_MESSAGE_ADMIN_ONLY_PLACEHOLDER": "Apenas os administradores podem enviar mensagens.",
+    "APP_MESSAGE_ADMIN_ONLY_ENABLED": "Apenas os administradores podem enviar mensagens.",
+    "APP_MESSAGE_ADMIN_ONLY_DISABLED": "Qualquer pessoa pode enviar mensagens.",
+    "APP_MESSAGE_BADGE_ADMIN": "Administrador",
+    "APP_MESSAGE_BADGE_MANAGER": "Gestor",
+    "APP_MESSAGE_GROUP_MEMBER_MAKE_ADMIN": "Tornar Admin",
+    "APP_MESSAGE_GROUP_MAKE_ADMIN_ERROR": "Não foi possível tornar a pessoa um administrador.",
+    "APP_MESSAGE_GROUP_MEMBER_REMOVE_ADMIN": "Remover Admin",
+    "APP_MESSAGE_GROUP_REMOVE_ADMIN_ERROR": "Não foi possível remover a pessoa do administrador.",
+    "APP_MESSAGE_NEW_MESSAGE": "{count} nova mensagem",
+    "APP_MESSAGE_NEW_MESSAGES": "Novas Mensagens"
   },
   "SetupScreen": {
     "PHONE_SETUP_CLIKUP": "Clique para configurar o seu telemóvel",
@@ -761,7 +780,8 @@
     "APP_AD_VIEW_GRID": "Galeria",
     "APP_AD_MODAL_TITLE": "Título do Anúncio*",
     "APP_AD_MODAL_PRICE": "Preço",
-    "APP_DIALOG_CONFIRM_DELETE": "Tem a certeza de que deseja eliminar este anúncio?"
+    "APP_DIALOG_CONFIRM_DELETE": "Tem a certeza de que deseja eliminar este anúncio?",
+    "APP_AD_SHARE_WAIT": "Você deve esperar {timeleft} minutos para compartilhar um novo anúncio."
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "Notícias",
@@ -1203,7 +1223,9 @@
     "APP_TAXI_VEHICLE_NOT_SUITABLE": "O seu veículo atual não é adequado para este trabalho.",
     "APP_TAXI_TIME_LIMIT_MINUTES": "Entre no carro dentro de {minutes} minutos e deixe o cliente no seu destino.",
     "APP_TAXI_TIME_LIMIT_SECONDS": "Entre no carro dentro de {seconds} segundos e deixe o cliente no seu destino.",
-    "APP_TAXI_CANCELLED": "O trabalho foi cancelado."
+    "APP_TAXI_CANCELLED": "O trabalho foi cancelado.",
+    "APP_TAXI_DOOR_OPEN": "Desbloquear Táxi",
+    "APP_TAXI_DOOR_OPENED": "As portas do táxi abriram-se"
   },
   "MusicAPP": {
     "APP_MUSIC_HELLO": "Olá, {name}!",

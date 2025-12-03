@@ -141,7 +141,9 @@
     "APP_SETTING_PHONE_SIZE_SAVED": "La báscula del teléfono se ha guardado con éxito.",
     "APP_SETTING_GKS_UP_TO_DATE": "GKS está actualizado.",
     "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS no está actualizado.",
-    "APP_SETTING_ADD_WALLPAPER": "Añadir fondo de pantalla"
+    "APP_SETTING_ADD_WALLPAPER": "Añadir fondo de pantalla",
+    "APP_SETTING_VOICE": "Voz",
+    "APP_SETTING_APPS": "Aplicaciones"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "Contactos",
@@ -190,7 +192,8 @@
     "APP_CONTACT_AVATAR_CHANGE": "Cambiar avatar",
     "APP_CONTACT_RINGTONE": "Tono de llamada",
     "APP_CONTACT_PHONE": "teléfono",
-    "APP_CONTACT_PHOTO_AND_POSTER": "Foto de persona y cartel"
+    "APP_CONTACT_PHOTO_AND_POSTER": "Foto de persona y cartel",
+    "APP_CONTACT_SAVE_NO_PHONE_NAME": "No se ha introducido un número de teléfono ni un nombre."
   },
   "CallAPP": {
     "APP_CALL_CALLINGMOBILE": "llamando a móvil...",
@@ -340,7 +343,23 @@
     "APP_MESSAGE_CAMERA": "Cámara",
     "APP_MESSAGE_MIC": "Micrófono",
     "APP_MESSAGE_EMOJI": "Emoji",
-    "APP_MESSAGE_SHARE_CONTACT": "Compartir contacto"
+    "APP_MESSAGE_SHARE_CONTACT": "Compartir contacto",
+    "APP_MESSAGE_CALL_MISSED": "Llamada Perdida",
+    "APP_MESSAGE_CALL_MISSED_DESC": "{caller} te llamó pero no contestaste, toca el número para devolver la llamada.",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_TITLE": "Permisos de Mensaje",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_LABEL": "Solo Administradores",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_INFO": "Cuando esta opción está activada, solo los administradores pueden enviar mensajes.",
+    "APP_MESSAGE_ADMIN_ONLY_PLACEHOLDER": "Solo los administradores pueden enviar mensajes.",
+    "APP_MESSAGE_ADMIN_ONLY_ENABLED": "Solo los administradores pueden enviar mensajes.",
+    "APP_MESSAGE_ADMIN_ONLY_DISABLED": "Cualquiera puede enviar un mensaje.",
+    "APP_MESSAGE_BADGE_ADMIN": "Administrador",
+    "APP_MESSAGE_BADGE_MANAGER": "Gerente",
+    "APP_MESSAGE_GROUP_MEMBER_MAKE_ADMIN": "Hacer administrador",
+    "APP_MESSAGE_GROUP_MAKE_ADMIN_ERROR": "No se pudo convertir a la persona en administrador.",
+    "APP_MESSAGE_GROUP_MEMBER_REMOVE_ADMIN": "Eliminar administrador",
+    "APP_MESSAGE_GROUP_REMOVE_ADMIN_ERROR": "No se pudo eliminar a la persona de administrador.",
+    "APP_MESSAGE_NEW_MESSAGE": "{count} nuevo mensaje",
+    "APP_MESSAGE_NEW_MESSAGES": "Nuevos mensajes"
   },
   "SetupScreen": {
     "PHONE_SETUP_CLIKUP": "Haz clic para configurar tu teléfono",
@@ -761,7 +780,8 @@
     "APP_AD_VIEW_GRID": "Galería",
     "APP_AD_MODAL_TITLE": "Título del anuncio*",
     "APP_AD_MODAL_PRICE": "Precio",
-    "APP_DIALOG_CONFIRM_DELETE": "¿Estás seguro de que quieres eliminar este anuncio?"
+    "APP_DIALOG_CONFIRM_DELETE": "¿Estás seguro de que quieres eliminar este anuncio?",
+    "APP_AD_SHARE_WAIT": "Debes esperar {timeleft} minutos para compartir un nuevo anuncio."
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "Noticias",
@@ -1203,7 +1223,9 @@
     "APP_TAXI_VEHICLE_NOT_SUITABLE": "Su vehículo actual no es adecuado para este trabajo.",
     "APP_TAXI_TIME_LIMIT_MINUTES": "Sube al coche en {minutes} minutos y deja al cliente en su destino.",
     "APP_TAXI_TIME_LIMIT_SECONDS": "Sube al coche en {seconds} segundos y deja al cliente en su destino.",
-    "APP_TAXI_CANCELLED": "El trabajo ha sido cancelado."
+    "APP_TAXI_CANCELLED": "El trabajo ha sido cancelado.",
+    "APP_TAXI_DOOR_OPEN": "Desbloquear taxi",
+    "APP_TAXI_DOOR_OPENED": "Las puertas del taxi se abrieron."
   },
   "MusicAPP": {
     "APP_MUSIC_HELLO": "¡Hola, {name}!",

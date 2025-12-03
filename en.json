@@ -141,7 +141,9 @@
     "APP_SETTING_PHONE_SIZE_SAVED": "The phone scale has been successfully saved.",
     "APP_SETTING_GKS_UP_TO_DATE": "GKS is up to date.",
     "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS is not up to date.",
-    "APP_SETTING_ADD_WALLPAPER": "Add Wallpaper"
+    "APP_SETTING_ADD_WALLPAPER": "Add Wallpaper",
+    "APP_SETTING_VOICE": "Voice",
+    "APP_SETTING_APPS": "Apps"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "Contacts",
@@ -190,7 +192,8 @@
     "APP_CONTACT_BLOCKERROR": "An error occurred while blocking",
     "APP_CONTACT_RINGTONE": "Ringtone",
     "APP_CONTACT_PHONE": "phone",
-    "APP_CONTACT_PHOTO_AND_POSTER": "Person Photo and Poster"
+    "APP_CONTACT_PHOTO_AND_POSTER": "Person Photo and Poster",
+    "APP_CONTACT_SAVE_NO_PHONE_NAME": "No phone number or name entered."
   },
   "CallAPP": {
     "APP_CALL_CALLINGMOBILE": "calling mobile...",
@@ -340,7 +343,23 @@
     "APP_MESSAGE_CAMERA": "Camera",
     "APP_MESSAGE_MIC": "Mic",
     "APP_MESSAGE_EMOJI": "Emoji",
-    "APP_MESSAGE_SHARE_CONTACT": "Share Contact"
+    "APP_MESSAGE_SHARE_CONTACT": "Share Contact",
+    "APP_MESSAGE_CALL_MISSED": "Missed Call",
+    "APP_MESSAGE_CALL_MISSED_DESC": "{caller} called you but you didn't answer. Tap the number to call back.",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_TITLE": "Message Permissions",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_LABEL": "Admins Only",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_INFO": "When this setting is active, only administrators can send messages.",
+    "APP_MESSAGE_ADMIN_ONLY_PLACEHOLDER": "Only administrators can send messages.",
+    "APP_MESSAGE_ADMIN_ONLY_ENABLED": "Only administrators can send messages.",
+    "APP_MESSAGE_ADMIN_ONLY_DISABLED": "Anyone can send a message.",
+    "APP_MESSAGE_BADGE_ADMIN": "Admin",
+    "APP_MESSAGE_BADGE_MANAGER": "Manager",
+    "APP_MESSAGE_GROUP_MEMBER_MAKE_ADMIN": "Make Admin",
+    "APP_MESSAGE_GROUP_MAKE_ADMIN_ERROR": "Could not make the person an admin",
+    "APP_MESSAGE_GROUP_MEMBER_REMOVE_ADMIN": "Remove Admin",
+    "APP_MESSAGE_GROUP_REMOVE_ADMIN_ERROR": "Could not remove the person from admin",
+    "APP_MESSAGE_NEW_MESSAGE": "{count} new message",
+    "APP_MESSAGE_NEW_MESSAGES": "New Messages"
   },
   "SetupScreen": {
     "PHONE_SETUP_CLIKUP": "Click to set up your phone",
@@ -864,7 +883,8 @@
     "APP_AD_VIEW_GRID": "Gallery",
     "APP_AD_MODAL_TITLE": "Ad Title*",
     "APP_AD_MODAL_PRICE": "Price",
-    "APP_DIALOG_CONFIRM_DELETE": "Are you sure you want to delete this advertisement?"
+    "APP_DIALOG_CONFIRM_DELETE": "Are you sure you want to delete this advertisement?",
+    "APP_AD_SHARE_WAIT": "You must wait {timeleft} minutes to share a new ad."
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "News",
@@ -1306,7 +1326,9 @@
     "APP_TAXI_VEHICLE_NOT_SUITABLE": "Your current vehicle is not suitable for this job.",
     "APP_TAXI_TIME_LIMIT_MINUTES": "Get in the car within {minutes} minutes and drop the customer off at their destination.",
     "APP_TAXI_TIME_LIMIT_SECONDS": "Get in the car within {seconds} seconds and drop the customer off at their destination.",
-    "APP_TAXI_CANCELLED": "Job has been cancelled."
+    "APP_TAXI_CANCELLED": "Job has been cancelled.",
+    "APP_TAXI_DOOR_OPEN": "Unlock Taxi",
+    "APP_TAXI_DOOR_OPENED": "Taxi doors opened"
   },
   "MusicAPP": {
     "APP_MUSIC_HELLO": "Hello, {name}!",

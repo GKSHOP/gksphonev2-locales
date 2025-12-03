@@ -141,7 +141,9 @@
     "APP_SETTING_PHONE_SIZE_SAVED": "Телефонні ваги були успішно збережені.",
     "APP_SETTING_GKS_UP_TO_DATE": "GKS оновлено.",
     "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS не оновлений.",
-    "APP_SETTING_ADD_WALLPAPER": "Додати шпалери"
+    "APP_SETTING_ADD_WALLPAPER": "Додати шпалери",
+    "APP_SETTING_VOICE": "Голос",
+    "APP_SETTING_APPS": "Додатки"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "Контакти",
@@ -190,7 +192,8 @@
     "APP_CONTACT_AVATAR_CHANGE": "Змінити аватар",
     "APP_CONTACT_RINGTONE": "Рингтон",
     "APP_CONTACT_PHONE": "телефон",
-    "APP_CONTACT_PHOTO_AND_POSTER": "Фото особи та постер"
+    "APP_CONTACT_PHOTO_AND_POSTER": "Фото особи та постер",
+    "APP_CONTACT_SAVE_NO_PHONE_NAME": "Не введено номер телефону або ім'я."
   },
   "CallAPP": {
     "APP_CALL_CALLINGMOBILE": "дзвоню на мобільний...",
@@ -340,7 +343,23 @@
     "APP_MESSAGE_CAMERA": "Камера",
     "APP_MESSAGE_MIC": "Мікрофон",
     "APP_MESSAGE_EMOJI": "Емодзі",
-    "APP_MESSAGE_SHARE_CONTACT": "Поділитися контактом"
+    "APP_MESSAGE_SHARE_CONTACT": "Поділитися контактом",
+    "APP_MESSAGE_CALL_MISSED": "Пропущений дзвінок",
+    "APP_MESSAGE_CALL_MISSED_DESC": "{caller} вам зателефонував, але ви не відповіли. Натисніть на номер, щоб передзвонити.",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_TITLE": "Повідомлення Дозволи",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_LABEL": "Тільки адміністратори",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_INFO": "Коли ця настройка активна, лише адміністратори можуть надсилати повідомлення.",
+    "APP_MESSAGE_ADMIN_ONLY_PLACEHOLDER": "Тільки адміністратори можуть надсилати повідомлення.",
+    "APP_MESSAGE_ADMIN_ONLY_ENABLED": "Тільки адміністратори можуть надсилати повідомлення.",
+    "APP_MESSAGE_ADMIN_ONLY_DISABLED": "Кожен може надіслати повідомлення.",
+    "APP_MESSAGE_BADGE_ADMIN": "Адмін",
+    "APP_MESSAGE_BADGE_MANAGER": "Менеджер",
+    "APP_MESSAGE_GROUP_MEMBER_MAKE_ADMIN": "Зробити адміністратором",
+    "APP_MESSAGE_GROUP_MAKE_ADMIN_ERROR": "Не вдалося призначити цю особу адміністратором.",
+    "APP_MESSAGE_GROUP_MEMBER_REMOVE_ADMIN": "Видалити адміністратора",
+    "APP_MESSAGE_GROUP_REMOVE_ADMIN_ERROR": "Не вдалося видалити особу з адміністрації.",
+    "APP_MESSAGE_NEW_MESSAGE": "{count} нове повідомлення",
+    "APP_MESSAGE_NEW_MESSAGES": "Нові повідомлення"
   },
   "SetupScreen": {
     "PHONE_SETUP_CLIKUP": "Натисніть, щоб налаштувати телефон",
@@ -761,7 +780,8 @@
     "APP_AD_VIEW_GRID": "Галерея",
     "APP_AD_MODAL_TITLE": "Назва оголошення*",
     "APP_AD_MODAL_PRICE": "Ціна",
-    "APP_DIALOG_CONFIRM_DELETE": "Ви впевнені, що хочете видалити це оголошення?"
+    "APP_DIALOG_CONFIRM_DELETE": "Ви впевнені, що хочете видалити це оголошення?",
+    "APP_AD_SHARE_WAIT": "Вам потрібно почекати {timeleft} хвилин, щоб поділитися новим оголошенням."
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "Новини",
@@ -1203,7 +1223,9 @@
     "APP_TAXI_VEHICLE_NOT_SUITABLE": "Ваш транспортний засіб не підходить для цієї роботи.",
     "APP_TAXI_TIME_LIMIT_MINUTES": "Сідай у машину протягом {minutes} хвилин і висаджуй клієнта в його місці призначення.",
     "APP_TAXI_TIME_LIMIT_SECONDS": "Сідай у машину протягом {seconds} секунд і висаджуй клієнта в його місці призначення.",
-    "APP_TAXI_CANCELLED": "Робота була скасована."
+    "APP_TAXI_CANCELLED": "Робота була скасована.",
+    "APP_TAXI_DOOR_OPEN": "Відкрити Таксі",
+    "APP_TAXI_DOOR_OPENED": "Двері таксі відкриті"
   },
   "MusicAPP": {
     "APP_MUSIC_HELLO": "Привіт, {name}!",

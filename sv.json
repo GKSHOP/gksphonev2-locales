@@ -141,7 +141,9 @@
     "APP_SETTING_PHONE_SIZE_SAVED": "Telefonvågen har sparats framgångsrikt.",
     "APP_SETTING_GKS_UP_TO_DATE": "GKS är uppdaterad.",
     "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS är inte uppdaterad.",
-    "APP_SETTING_ADD_WALLPAPER": "Lägg till bakgrundsbild"
+    "APP_SETTING_ADD_WALLPAPER": "Lägg till bakgrundsbild",
+    "APP_SETTING_VOICE": "Röst",
+    "APP_SETTING_APPS": "Appar"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "Kontakter",
@@ -190,7 +192,8 @@
     "APP_CONTACT_AVATAR_CHANGE": "Ändra avatar",
     "APP_CONTACT_RINGTONE": "Rington",
     "APP_CONTACT_PHONE": "telefon",
-    "APP_CONTACT_PHOTO_AND_POSTER": "Personbild och affisch"
+    "APP_CONTACT_PHOTO_AND_POSTER": "Personbild och affisch",
+    "APP_CONTACT_SAVE_NO_PHONE_NAME": "Telefonnummer eller namn har inte angetts."
   },
   "CallAPP": {
     "APP_CALL_CALLINGMOBILE": "ringer mobil...",
@@ -340,7 +343,23 @@
     "APP_MESSAGE_CAMERA": "Kamera",
     "APP_MESSAGE_MIC": "Mikrofon",
     "APP_MESSAGE_EMOJI": "Emoji",
-    "APP_MESSAGE_SHARE_CONTACT": "Dela kontakt"
+    "APP_MESSAGE_SHARE_CONTACT": "Dela kontakt",
+    "APP_MESSAGE_CALL_MISSED": "Missat samtal",
+    "APP_MESSAGE_CALL_MISSED_DESC": "{caller} ringde dig men du svarade inte, tryck på numret för att ringa tillbaka.",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_TITLE": "Meddelandebehörigheter",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_LABEL": "Endast administratörer",
+    "APP_MESSAGE_ADMIN_ONLY_MESSAGES_INFO": "När den här inställningen är aktiverad kan endast administratörer skicka meddelanden.",
+    "APP_MESSAGE_ADMIN_ONLY_PLACEHOLDER": "Endast administratörer kan skicka meddelanden.",
+    "APP_MESSAGE_ADMIN_ONLY_ENABLED": "Endast administratörer kan skicka meddelanden.",
+    "APP_MESSAGE_ADMIN_ONLY_DISABLED": "Alla kan skicka meddelanden",
+    "APP_MESSAGE_BADGE_ADMIN": "Admin",
+    "APP_MESSAGE_BADGE_MANAGER": "Chef",
+    "APP_MESSAGE_GROUP_MEMBER_MAKE_ADMIN": "Gör till administratör",
+    "APP_MESSAGE_GROUP_MAKE_ADMIN_ERROR": "Kunde inte göra personen till administratör",
+    "APP_MESSAGE_GROUP_MEMBER_REMOVE_ADMIN": "Ta bort administratör",
+    "APP_MESSAGE_GROUP_REMOVE_ADMIN_ERROR": "Kunde inte ta bort personen från administratör.",
+    "APP_MESSAGE_NEW_MESSAGE": "{count} nya meddelanden",
+    "APP_MESSAGE_NEW_MESSAGES": "Nya meddelanden"
   },
   "SetupScreen": {
     "PHONE_SETUP_CLIKUP": "Klicka för att ställa in din telefon",
@@ -761,7 +780,8 @@
     "APP_AD_VIEW_GRID": "Galleri",
     "APP_AD_MODAL_TITLE": "Annonsrubrik*",
     "APP_AD_MODAL_PRICE": "Pris",
-    "APP_DIALOG_CONFIRM_DELETE": "Är du säker på att du vill ta bort den här annonsen?"
+    "APP_DIALOG_CONFIRM_DELETE": "Är du säker på att du vill ta bort den här annonsen?",
+    "APP_AD_SHARE_WAIT": "Du måste vänta {timeleft} minuter för att dela en ny annons."
   },
   "NewsAPP": {
     "APP_NEWS_HEADER": "Nyheter",
@@ -1203,7 +1223,9 @@
     "APP_TAXI_VEHICLE_NOT_SUITABLE": "Ditt nuvarande fordon är inte lämpligt för det här jobbet.",
     "APP_TAXI_TIME_LIMIT_MINUTES": "Sätt dig i bilen inom {minutes} minuter och släpp av kunden vid deras destination.",
     "APP_TAXI_TIME_LIMIT_SECONDS": "Sätt dig i bilen inom {seconds} sekunder och släpp av kunden på deras destination.",
-    "APP_TAXI_CANCELLED": "Jobbet har blivit avbokat."
+    "APP_TAXI_CANCELLED": "Jobbet har blivit avbokat.",
+    "APP_TAXI_DOOR_OPEN": "Lås upp taxi",
+    "APP_TAXI_DOOR_OPENED": "Taxidörrar öppnades"
   },
   "MusicAPP": {
     "APP_MUSIC_HELLO": "Hej, {name}!",
