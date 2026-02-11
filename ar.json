@@ -32,7 +32,8 @@
     "PHONE_BLOCK_URL_DESC": "هذا الرابط مدرج في القائمة السوداء.",
     "PHONE_NO_ITEM": "ليس لديك هاتف",
     "PHONE_BLOCKED_WORDS_DESC": "الكلمات المحظورة في الهاتف.",
-    "PHONE_MAIL_COPY": "نسخ البريد"
+    "PHONE_MAIL_COPY": "نسخ البريد",
+    "PHONE_IMAGE_SAVED": "تم حفظ الصورة/الفيديو"
   },
   "Charge": {
     "APP_CHARGE_ALREADY": "هاتفك قيد الشحن بالفعل",
@@ -44,7 +45,10 @@
     "APP_CHARGE_NORMAL_CHARGE": "شحن عادي",
     "APP_CHARGE_FAST_CHARGE": "شحن سريع",
     "APP_CHARGE_CANCEL": "إلغاء الشحن",
-    "APP_CHARGE_BANK_MONEY": "ليس لديك أموال كافية"
+    "APP_CHARGE_BANK_MONEY": "ليس لديك أموال كافية",
+    "APP_BATTERY_LOW": "بطارية منخفضة",
+    "APP_BATTERY_REMAINING": "متبقي",
+    "APP_BATTERY_CHARGING": "قيد الشحن"
   },
   "DateAgo": {
     "minutesAgo": "منذ {minutes} دقيقة",
@@ -61,7 +65,8 @@
       "APP_CAMERA_INFO_MOVING": "يمكنك تحريك الكاميرا عن طريق الضغط على زر الماوس الأيمن",
       "APP_CAMERA_INFO_FACIALCHANGE": "تغيير تعبير الوجه",
       "APP_CAMERA_INFO_ANIMATION": "استخدام الرسوم المتحركة",
-      "APP_CAMERA_INFO_ANIMATIONCHANGE": "تغيير الرسوم المتحركة"
+      "APP_CAMERA_INFO_ANIMATIONCHANGE": "تغيير الرسوم المتحركة",
+      "APP_CAMERA_INFO_CURSOR": "تبديل المؤشر"
     }
   },
   "ModalNumber": {
@@ -86,7 +91,6 @@
   },
   "SettingAPP": {
     "APP_SETTING_TITLE": "الإعدادات",
-    "APP_SETTING_GENERAL": "عام",
     "APP_SETTING_STREAMER_MODE": "وضع البث",
     "APP_SETTING_AIRPLANE_MODE": "وضع الطائرة",
     "APP_SETTING_SOUND": "الصوت",
@@ -138,8 +142,6 @@
     "APP_SETTING_CANCEL": "إلغاء",
     "APP_SETTING_PRIVATE_CALL": "مكالمة خاصة",
     "APP_SETTING_BLOCKED_NUMBERS": "الأرقام المحظورة",
-    "APP_SETTING_DONE": "تم الإنجاز",
-    "APP_SETTING_EDIT": "تحرير",
     "APP_SETTING_PHONE_SIZE_SAVED": "تم حفظ مقياس الهاتف بنجاح.",
     "APP_SETTING_GKS_UP_TO_DATE": "GKS محدثة.",
     "APP_SETTING_GKS_NOT_UP_TO_DATE": "GKS غير محدث.",
@@ -147,7 +149,12 @@
     "APP_SETTING_VOICE": "صوت",
     "APP_SETTING_APPS": "تطبيقات",
     "APP_SETTING_BLOCK_HIDDEN_CALLS": "حظر المكالمات المخفية",
-    "APP_SETTING_SHOW_NUMBER_ON_CALL": "عرض الرقم أثناء المكالمة"
+    "APP_SETTING_SHOW_NUMBER_ON_CALL": "عرض الرقم أثناء المكالمة",
+    "APP_SETTING_WALLPAPER_ADDED": "تمت إضافة الخلفية بنجاح!",
+    "APP_SETTING_WALLPAPER_INVALID_URL": "الرجاء إدخال عنوان URL صالح للصورة.",
+    "APP_SETTING_WALLPAPER_EMPTY_URL": "الرجاء إدخال عنوان URL صالح للخلفية.",
+    "APP_SETTING_BORDER_SAVE_SUCCESS": "تم حفظ لون الحدود بنجاح!",
+    "APP_SETTING_QRCODE_SCAN_DESC": "امسح رمز الاستجابة السريعة هذا باستخدام RealApp لتسجيل الدخول"
   },
   "ContactsAPP": {
     "APP_CONTACTS_TITLE": "جهات الاتصال",
@@ -183,8 +190,6 @@
     "APP_CONTACT_BACKGROUND_COLOR": "لون الخلفية",
     "APP_CONTACT_COLOR": "لون",
     "APP_CONTACT_GALLERY": "معرض",
-    "APP_CONTACT_TUNEFIY": "توني فاي",
-    "APP_CONTACT_NO_WALLPAPER": "لا توجد خلفيات متاحة",
     "APP_CONTACT_MESSAGE": "رسالة",
     "APP_CONTACT_CALL": "اتصل",
     "APP_CONTACT_VIDEO_CALL": "فيدميت",
@@ -201,7 +206,6 @@
   },
   "CallAPP": {
     "APP_CALL_CALLINGMOBILE": "يتصل بالهاتف المحمول...",
-    "APP_CALL_WAITING": "انتظار الآخرين",
     "APP_CALL_SPEAKER": "مكبر الصوت",
     "APP_CALL_VIDMEET": "اجتماع فيديو",
     "APP_CALL_MUTE": "كتم",
@@ -209,12 +213,8 @@
     "APP_CALL_ADD": "إضافة",
     "APP_CALL_ACCEPT": "قبول",
     "APP_CALL_END": "إنهاء",
-    "APP_CALL_JOIN": "انضمام",
-    "APP_FAVORITES_EDIT": "تعديل",
     "APP_FAVORITES_MOBILE": "الهاتف المحمول",
-    "APP_FAVORITES_CANCEL": "إلغاء",
     "APP_FAVORITES_SELECTCONTACT": "اختر جهة الاتصال",
-    "APP_FAVORITES_SEARCH_CANCEL": "إلغاء",
     "APP_FAVORITES_SEARCH_PLACEHOLDER": "بحث",
     "APP_RECENTS_CLEARRECENT_TITLE": "مسح",
     "APP_RECENTS_MOBILE": "محمول",
@@ -250,7 +250,6 @@
     "APP_MESSAGE_TITLE": "رسالة",
     "APP_MESSAGE_CANCEL": "إلغاء",
     "APP_MESSAGE_CREATEGROUP": "إنشاء مجموعة",
-    "APP_MESSAGE_CREATE": "إنشاء",
     "APP_MESSAGE_GROUPAVATAR": "صورة المجموعة",
     "APP_MESSAGE_GROUPAVATARLINK": "رابط الصورة",
     "APP_MESSAGE_GROUPNAMELABEL": "اسم المجموعة",
@@ -269,29 +268,16 @@
     "APP_MESSAGE_LOADERSAVECONTACT": "جارٍ التحميل، يرجى الانتظار",
     "APP_MESSAGE_SUCCESSAVECONTACT": "تم حفظ جهة الاتصال بنجاح",
     "APP_MESSAGE_NOTSAVECONTACT": "حدث خطأ أثناء حفظ جهة الاتصال.",
-    "APP_MESSAGE_LOADERSAVINGGROUP": "جارٍ حفظ المجموعة",
-    "APP_MESSAGE_GROUPUPDATE": "تم تحديث المجموعة بنجاح.",
-    "APP_MESSAGE_OPTIONS": "خيارات",
     "APP_MESSAGE_DELETE": "حذف",
-    "APP_MESSAGE_LOADERDELETEMESSAGE": "جارٍ التحميل، يرجى الانتظار",
     "APP_MESSAGE_DELETEMESSAGESUCCESS": "تم حذف الرسالة بنجاح.",
     "APP_MESSAGE_DELETEMESSAGENOT": "حدث خطأ أثناء حذف الرسالة.",
     "APP_MESSAGE_CONTACTNAME": "اسم جهة الاتصال",
     "APP_MESSAGE_DELETEGROUP": "حذف المجموعة",
-    "APP_MESSAGE_GROUPDELETESUCCESS": "تم حذف المجموعة بنجاح.",
-    "APP_MESSAGE_GROUPDELETENOT": "حدث خطأ أثناء حذف المجموعة.",
     "APP_MESSAGE_GROUPLEAVE": "مغادرة المجموعة",
-    "APP_MESSAGE_GROUPLEAVESUCCESS": "لقد غادرت المجموعة.",
-    "APP_MESSAGE_GROUPLEAVENOT": "حدث خطأ أثناء مغادرة المجموعة.",
-    "APP_MESSAGE_ERROR_GROUPNAME": "يجب أن يكون اسم المجموعة أكبر من 4 أحرف",
-    "APP_MESSAGE_ERROR_GROUPABOUT": "يجب أن يكون وصف المجموعة أكبر من 4 أحرف",
-    "APP_MESSAGE_ERROR_GROUPAVATAR": "يجب عليك إضافة صورة رمزية للمجموعة",
-    "APP_MESSAGE_ERROR_GROUPMEMBER": "يجب عليك إضافة عضو واحد على الأقل",
     "APP_MESSAGE_LOADERCREATEGROUP": "جارٍ إنشاء المجموعة",
     "APP_MESSAGE_GROUPCREATESUCCESS": "تم إنشاء المجموعة بنجاح",
     "APP_MESSAGE_GROUPCREATENOT": "حدث خطأ أثناء إنشاء المجموعة.",
     "APP_MESSAGE_GROUPREMOVEDMEMBER_SUCESS": "تم إزالتك من المجموعة",
-    "APP_MESSAGE_NONAME": "لا اسم",
     "APP_MESSAGE_NOMESSAGE": "لا رسالة",
     "APP_MESSAGE_TIME_MONTHAGO": "منذ {months} أشهر",
     "APP_MESSAGE_TIME_DAYAGO": "منذ {days} أيام",
@@ -299,7 +285,6 @@
     "APP_MESSAGE_TIME_MINAGO": "منذ {minutes} دقائق",
     "APP_MESSAGE_TIME_SECAGO": "منذ {seconds} ثواني",
     "APP_MESSAGE_TIME_JUSTNOW": "الآن",
-    "APP_MESSAGE_NOTIFY_GROUPMESSAGE": "مجموعة {groupname} تلقت رسالة",
     "APP_MESSAGE_LOCATION": "تم مشاركة موقع GPS",
     "APP_MESSAGE_IMAGE": "تم مشاركة صورة",
     "APP_MESSAGE_VIDEO": "تم مشاركة فيديو",
@@ -315,10 +300,8 @@
     "APP_MESSAGE_LIVEGPS": "تم مشاركة الموقع المباشر",
     "APP_MESSAGE_GROUP_UPDATE": "تحديث",
     "APP_MESSAGE_GROUP_UPDATE_PRELOAD": "جاري التحديث",
-    "APP_MESSAGE_GROUP_AVATAR_DESC_LINK": "أدخل عنوان URL لصورة المجموعة",
     "APP_MESSAGE_GROUP_MEMBER_DELETE": "إزالة العضو",
     "APP_MESSAGE_GROUP_MEMBER_YOU": "أنت",
-    "APP_MESSAGE_GROUP_MEMBER_CALL": "اتصال",
     "APP_MESSAGE_NOTIFY_AUDIO": "أرسل رسالة صوتية",
     "APP_MESSAGE_NOTIFY_CONTACT": "أرسل بطاقة جهة اتصال",
     "APP_MESSAGE_NOTIFY_IMAGE": "أرسل صورة",
@@ -336,9 +319,6 @@
     "APP_MESSAGE_GROUPDELETECONFIRM": "هل أنت متأكد أنك تريد حذف هذه المجموعة؟",
     "APP_MESSAGE_GROUPLEAVECONFIRM": "هل أنت متأكد أنك تريد مغادرة هذه المجموعة؟",
     "APP_MESSAGE_BLOCK_NUMER": "لقد تم حظرك من قبل هذا الرقم",
-    "APP_MESSAGE_GROUP_ADD_MEMBER_ERROR": "لا يمكنك إضافة الشخص إلى المجموعة",
-    "APP_MESSAGE_GROUP_REMOVE_MEMBER_ERROR": "لم يكن بإمكان الشخص مغادرة المجموعة",
-    "APP_MESSAGE_SAVE_CONTACT_ERROR_YOU_SELF": "لا يمكنك إنقاذ نفسك",
     "APP_MESSAGE_GPS": "نظام تحديد المواقع العالمي",
     "APP_MESSAGE_CAMERA": "كاميرا",
     "APP_MESSAGE_MIC": "ميكروفون",
@@ -351,19 +331,15 @@
     "APP_MESSAGE_ADMIN_ONLY_MESSAGES_INFO": "عند تفعيل هذا الإعداد، يمكن فقط للمسؤولين إرسال الرسائل.",
     "APP_MESSAGE_ADMIN_ONLY_PLACEHOLDER": "يمكن فقط للمديرين إرسال الرسائل",
     "APP_MESSAGE_ADMIN_ONLY_ENABLED": "يمكن فقط للمديرين إرسال الرسائل",
-    "APP_MESSAGE_ADMIN_ONLY_DISABLED": "يمكن للجميع إرسال الرسائل",
     "APP_MESSAGE_BADGE_ADMIN": "مدير",
     "APP_MESSAGE_BADGE_MANAGER": "مدير",
     "APP_MESSAGE_GROUP_MEMBER_MAKE_ADMIN": "اجعل مشرفاً",
-    "APP_MESSAGE_GROUP_MAKE_ADMIN_ERROR": "لم يتمكن من جعل الشخص مشرفًا",
     "APP_MESSAGE_GROUP_MEMBER_REMOVE_ADMIN": "إزالة المشرف",
-    "APP_MESSAGE_GROUP_REMOVE_ADMIN_ERROR": "لم يتمكن من إزالة الشخص من الإدارة",
     "APP_MESSAGE_NEW_MESSAGE": "{count} رسالة جديدة",
     "APP_MESSAGE_NEW_MESSAGES": "رسائل جديدة",
     "APP_MESSAGE_LIVEGPS_ENDED": "انتهت مشاركة الموقع",
     "APP_MESSAGE_GROUP_FALLBACK": "مجموعة",
     "APP_MESSAGE_TYPING_FALLBACK": "شخص ما",
-    "APP_MESSAGE_LOCATION_FALLBACK": "الموقع المشترك",
     "APP_MESSAGE_REQUEST": "طلب",
     "APP_MESSAGE_CASH": "نقد",
     "APP_MESSAGE_CASH_PAID": "النقد المدفوع",
@@ -378,7 +354,9 @@
     "APP_MESSAGE_CANNOT_REMOVE_GROUP_OWNER": "لا يمكن إزالة مالك المجموعة",
     "APP_MESSAGE_ONLY_OWNER_CAN_DELETE_GROUP": "فقط المالك يمكنه حذف المجموعة",
     "APP_MESSAGE_CASH_SEND": "تم إرسال المال",
-    "APP_MESSAGE_CASH_REQUEST": "طلب مال"
+    "APP_MESSAGE_CASH_REQUEST": "طلب مال",
+    "APP_MESSAGE_ENTER_NUMBER": "أدخل رقم الهاتف",
+    "APP_MESSAGE_NUMBER_REQUIRED": "الرجاء إدخال رقم هاتف."
   },
   "SetupScreen": {
     "PHONE_SETUP_CLIKUP": "انقر لإعداد هاتفك",
@@ -776,17 +754,13 @@
     "APP_AD_SHAREAD": "مشاركة الإعلان",
     "APP_AD_SEARCH": "بحث",
     "APP_AD_MODAL_CANCEL": "إلغاء",
-    "APP_AD_MODAL_SHARE": "مشاركة",
     "APP_AD_MODAL_IMAGEADD": "إضافة صورة",
-    "APP_AD_MODAL_TEXTAREALABEL": "اكتب رسالة",
     "APP_AD_MODAL_TEXTAREAPLACEHOLDER": "اكتب رسالة",
-    "APP_AD_SHAREERRORCATEGORY": "يجب عليك اختيار فئة",
     "APP_AD_IMAGELINK": "رابط الصورة",
     "APP_AD_IMAGELINKDESC": "إضافة رابط الصورة",
     "APP_AD_IMAGE_NOTFOUND": "الصورة غير موجودة",
     "APP_AD_SHAREMINCHARACTER": "يجب عليك إدخال 15 حرفًا على الأقل",
     "APP_AD_SHARECONFIRM_DESC": "هل أنت متأكد أنك تريد إنشاء إعلان؟ رسوم المعاملة: {fee}",
-    "APP_AD_SHARE_ERROR_NOMONEY": "ليس لديك ما يكفي من المال",
     "APP_AD_SHARE_NOTFY_POST": "{name} شارك إعلانًا جديدًا",
     "APP_AD_CREATING": "إنشاء إعلان...",
     "APP_AD_SUCCESS": "تمت مشاركة الإعلان بنجاح.",
@@ -837,7 +811,15 @@
     "APP_GALLERY_OPTION_FAVORITES": "المفضلات",
     "APP_GALLERY_ZOOM": "زووم",
     "APP_GALLERY_OPTION_FAVORITE_ADD": "أضف إلى المفضلة",
-    "APP_GALLERY_OPTION_FAVORITE_REMOVE": "إزالة المفضلة"
+    "APP_GALLERY_OPTION_FAVORITE_REMOVE": "إزالة المفضلة",
+    "APP_GALLERY_ADDVIDEO": "إضافة فيديو",
+    "APP_GALLERY_ADDVIDEODESC": "رابط الفيديو",
+    "APP_GALLERY_VIDEO_TYPE": "تأكد من أن الرابط هو فيديو",
+    "APP_GALLERY_VIDEO_TYPE_TITLE": "خطأ في نوع الفيديو",
+    "APP_GALLERY_VIDEO_SIZE_LIMIT": "الحد الأقصى لحجم الفيديو هو {size} ميجابايت",
+    "APP_GALLERY_VIDEO_SIZE_LIMIT_TITLE": "حجم الفيديو",
+    "APP_GALLERY_VIDEO_ERROR_TITLE": "خطأ",
+    "APP_GALLERY_VIDEO_ERROR_DESC": "حدث خطأ أثناء إضافة الفيديو"
   },
   "GpsAPP": {
     "APP_GPS_TITLE": "نظام تحديد المواقع العالمي",
@@ -856,7 +838,8 @@
     "APP_GPS_LOCATIONERROR": "حدث خطأ أثناء الحصول على موقعك",
     "APP_GPS_OPTIONS": "خيارات",
     "APP_GPS_SHARED_LOCATION": "{name} شارك الموقع",
-    "APP_GPS_SAVE_ALREADY": "الموقع محفوظ بالفعل"
+    "APP_GPS_SAVE_ALREADY": "الموقع محفوظ بالفعل",
+    "APP_GPS_SAVE": "حفظ"
   },
   "StockMarket": {
     "APP_STOCKMARKET_TITLE": "سوق الأسهم",
@@ -892,18 +875,9 @@
     "APP_STOCKMARKET_BUYNOTIFYDESC": "لقد قمت بشراء {amount} {coin} بنجاح",
     "APP_STOCKMARKET_SELLLOADING": "جارٍ البيع...",
     "APP_STOCKMARKET_SELLNOTIFYDESC": "لقد بعت {amount} {coin} بنجاح",
-    "APP_STOCKMARTKET_NOMONEY": "ليس لديك ما يكفي من المال"
-  },
-  "Tuneify": {
-    "APP_TUNEIFY_TITLE": "توني فاي",
-    "APP_TUNEIFY_WALLPAPER": "خلفية",
-    "APP_TUNEIFY_RINGTONES": "نغمات",
-    "APP_TUNEIFY_NORESULT": "لم يتم العثور على نتائج",
-    "APP_TUNEIFY_SEARCH_CANCEL": "إلغاء",
-    "APP_TUNEIFY_SEARCH_PLACEHOLDER": "بحث",
-    "APP_TUNEIFY_SETRINGTONE": "تعيين كنغمة رنين",
-    "APP_TUNEIFY_SETNOTIFICATION": "تعيين كإشعار",
-    "APP_TUNEIFY_SEARCH_BLOCKED_WORD": "تحتوي عبارة البحث على كلمات محظورة"
+    "APP_STOCKMARTKET_NOMONEY": "ليس لديك ما يكفي من المال",
+    "APP_STOCKMARKET_MAXBUY": "بحد أقصى {max} سهم لكل معاملة",
+    "APP_STOCKMARKET_MAXHOLDING": "يمكنك الاحتفاظ بحد أقصى {max} سهم (الحالي: {current})"
   },
   "GigglesAPP": {
     "APP_GIGGLES_TITLE": "ضحكات",
@@ -1058,7 +1032,6 @@
   "GamesAPP": {
     "APP_GAME_TITLE": "ألعاب",
     "APP_GAME_SCORE": "النتيجة",
-    "APP_GAME_STARTGAME": "ابدأ اللعبة",
     "APP_GAME_SNAKE_PLAY": "العب",
     "APP_GAME_SNAKE_GAMEOVER": "انتهت اللعبة!",
     "APP_GAME_RESTART": "إعادة تشغيل",
@@ -1077,13 +1050,6 @@
     "APP_GAME_SNAKE_CONTROLS": "استخدم مفاتيح السهم أو عناصر التحكم باللمس",
     "APP_GAME_SNAKE_LEVEL_REACHED": "المستوى الذي تم الوصول إليه:",
     "APP_GAME_NEW_RECORD": "🎉 رقم قياسي جديد!",
-    "APP_GAME_TETRIS_GAME": "لعبة تيتريس",
-    "APP_GAME_TETRIS_LINES": "خطوط",
-    "APP_GAME_TETRIS_LEVELUP": "امسح 10 خطوط لترتقي بمستواك!",
-    "APP_GAME_TETRIS_LINESCLEARED": "تمت إزالة الخطوط:",
-    "APP_GAME_TETRIS_SPEED_MASTER": "🏆 سيد السرعة!",
-    "APP_GAME_TETRIS_LINE_CLEARER": "🔥 مُزيل الخط!",
-    "APP_GAME_TETRIS_NEXT_PIECE": "القطعة التالية",
     "APP_GAME_BREAKOUT_BEST_SCORE": "أفضل نتيجة",
     "APP_GAME_BREAKOUT_HEALTH": "الصحة",
     "APP_GAME_BREAKOUT_LEVEL_SUCCESS": "🍉 المستوى {level} مكتمل!",
@@ -1153,7 +1119,6 @@
     "APP_SIM_SMSDETAIL": "{sms} قطعة",
     "APP_SIM_PACKAGES": "{mobileservices} باقات",
     "APP_SIM_SELECTMOBILE": "المشغلين",
-    "APP_SIM_NOTBUYPACKAGE": "لا يمكنك شراء باقة جديدة لأن لديك باقة لم تنته بعد.",
     "APP_SIM_NEWPACKAGE": "هل أنت متأكد أنك تريد شراء هذه الباقة؟",
     "APP_SIM_CONFIRM": "تأكيد",
     "APP_SIM_LOADING": "جارٍ التحميل...",
@@ -1172,14 +1137,6 @@
     "APP_SIM_BANKDETAIL": "استخدام الهاتف {value}",
     "APP_SIM_LIMITPHONENUMBER": "لا يمكنك شراء رقم جديد لأنك وصلت إلى الحد الأقصى",
     "APP_SIM_NOTENOUGHMONEY": "ليس لديك ما يكفي من المال"
-  },
-  "PlayTubeAPP": {
-    "APP_PLAYTUBE_TITLE": "بلاي تيوب",
-    "APP_PLAYTUBE_SEARCH_CANCEL": "إلغاء",
-    "APP_PLAYTUBE_SEARCHPLACEHOLDER": "ابحث في بلاي تيوب",
-    "APP_PLAYTUBE_SEARCHLOADING": "جارٍ البحث في بلاي تيوب...",
-    "APP_PLAYTUBE_NOURL": "لا تستخدم رابط البحث",
-    "APP_PLAYTUBE_NOSEARCH": "ابحث باستخدام كلمة مفتاحية لمشاهدة الفيديو"
   },
   "TaxiAPP": {
     "APP_TAXI_TITLE": "تاكسي",
@@ -1249,8 +1206,6 @@
   "MusicAPP": {
     "APP_MUSIC_HELLO": "مرحباً، {name}!",
     "APP_MUSIC_HOME_DESC": "دعنا نستمع إلى شيء رائع اليوم",
-    "APP_MUSIC_PLAYLIST": "قائمة التشغيل",
-    "APP_MUSIC_PLAYLIST_EMPTY": "قائمة التشغيل فارغة! ماذا عن ملئها بأغانيك المفضلة؟ 🎤",
     "APP_MUSIC_LIBRARY": "مكتبتك",
     "APP_MUSIC_LIKED_SONGS": "الأغاني المفضلة",
     "APP_MUSIC_PLAYLISTDETAILS_SONGS_LENGTH": "{length} أغاني",
@@ -1263,19 +1218,77 @@
     "APP_MUSIC_PLAYLIST_IMG": "صورة قائمة التشغيل",
     "APP_MUSIC_PRELOADER_MUSIC_DELETE": "جارٍ حذف الأغنية...",
     "APP_MUSIC_PLAYLIST_DELETE_SUCCESS": "تم حذف قائمة التشغيل بنجاح",
-    "APP_MUSIC_LISTEN": "ماذا تريد أن تستمع إليه؟ 🎧",
     "APP_MUSIC_PLAYTHIS_SONG": "تشغيل هذه الأغنية",
     "APP_MUSIC_ADD_QUEUE": "إضافة إلى قائمة الانتظار",
-    "APP_MUSIC_ADD_PLAYLIST": "أضف إلى قائمة التشغيل",
     "APP_MUSIC_ADD_LIKED": "أضف إلى الأغاني المفضلة",
     "APP_MUSIC_REMOVE_LIKED": "إزالة من الأغاني المفضلة",
     "APP_MUSIC_SEARCHING": "جارٍ البحث...",
-    "APP_MUSIC_ADDING_PLAYLIST": "جارٍ إضافة إلى قائمة التشغيل...",
-    "APP_MUSIC_ADD_PLAYLIST_SUCCESS": "تمت الإضافة إلى قائمة التشغيل بنجاح",
     "APP_MUSIC_ADD_QUEUE_SUCCESS": "تمت الإضافة إلى قائمة الانتظار بنجاح",
     "APP_MUSIC_SEARCH_PLACEHOLDER": "بحث",
     "APP_ALERT_STREAM_MODE": "لا يمكنك الاستماع إلى الموسيقى أثناء البث",
-    "APP_ALERT_STREAM_MODE_TITLE": "وضع البث"
+    "APP_ALERT_STREAM_MODE_TITLE": "وضع البث",
+    "APP_MUSIC_UPLOAD_TITLE": "تحميل الموسيقى",
+    "APP_MUSIC_UPLOAD_SUBTITLE": "شارك موسيقاك مع الجميع",
+    "APP_MUSIC_UPLOAD_URL": "رابط الموسيقى",
+    "APP_MUSIC_UPLOAD_URL_PLACEHOLDER": "https://example.com/music.mp3",
+    "APP_MUSIC_UPLOAD_FORMATS": "التنسيقات المدعومة: MP3، OGG",
+    "APP_MUSIC_UPLOAD_TITLE_FIELD": "العنوان",
+    "APP_MUSIC_UPLOAD_TITLE_PLACEHOLDER": "أدخل عنوان الأغنية",
+    "APP_MUSIC_UPLOAD_ARTIST": "الفنان",
+    "APP_MUSIC_UPLOAD_ARTIST_PLACEHOLDER": "أدخل اسم الفنان",
+    "APP_MUSIC_UPLOAD_THUMBNAIL": "رابط الصورة المصغرة (اختياري)",
+    "APP_MUSIC_UPLOAD_THUMBNAIL_PLACEHOLDER": "https://example.com/image.jpg",
+    "APP_MUSIC_UPLOAD_SUBMIT": "إرسال للمراجعة",
+    "APP_MUSIC_UPLOAD_SUBMITTING": "جاري الإرسال...",
+    "APP_MUSIC_UPLOAD_MY_UPLOADS": "ملفاتي",
+    "APP_MUSIC_UPLOAD_PENDING_UPLOADS": "الملفات المعلقة",
+    "APP_MUSIC_UPLOAD_NO_UPLOADS": "لم تقم بتحميل أي موسيقى بعد",
+    "APP_MUSIC_UPLOAD_SUCCESS": "تم إرسال الموسيقى للمراجعة",
+    "APP_MUSIC_UPLOAD_ERROR": "خطأ في تحميل الموسيقى",
+    "APP_MUSIC_UPLOAD_INVALID_URL": "رابط صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوتي صوت غير صالح",
+    "APP_MUSIC_UPLOAD_STATUS_PENDING": "قيد الانتظار",
+    "APP_MUSIC_UPLOAD_NOTE": "سيتم مراجعة تحميلك بواسطة مسؤول قبل نشره.",
+    "APP_MUSIC_UPLOAD_DELETE_TITLE": "حذف التحميل",
+    "APP_MUSIC_UPLOAD_DELETE_CONFIRM": "هل أنت متأكد أنك تريد حذف هذا التحميل؟",
+    "APP_MUSIC_ADMIN_TITLE": "لوحة تحكم الموسيقى",
+    "APP_MUSIC_ADMIN_SUBTITLE": "مراجعة والموافقة على تحميلات الموسيقى",
+    "APP_MUSIC_ADMIN_NO_ACCESS": "يلزم وصول المسؤول",
+    "APP_MUSIC_ADMIN_NO_ACCESS_DESC": "ليس لديك الإذن بالوصول إلى هذه الصفحة",
+    "APP_MUSIC_ADMIN_PENDING_COUNT": "قيد الانتظار",
+    "APP_MUSIC_ADMIN_APPROVED_COUNT": "تمت الموافقة",
+    "APP_MUSIC_ADMIN_PENDING_UPLOADS": "تحميلات معلقة",
+    "APP_MUSIC_ADMIN_NO_PENDING": "لا توجد تحميلات معلقة",
+    "APP_MUSIC_ADMIN_ALL_REVIEWED": "تمت مراجعة جميع الموسيقى",
+    "APP_MUSIC_ADMIN_UPLOADED_BY": "بواسطة",
+    "APP_MUSIC_ADMIN_PREVIEW": "معاينة",
+    "APP_MUSIC_ADMIN_STOP": "إيقاف",
+    "APP_MUSIC_ADMIN_APPROVE": "موافقة",
+    "APP_MUSIC_ADMIN_REJECT": "رفض",
+    "APP_MUSIC_ADMIN_APPROVED": "تمت الموافقة على الموسيقى بنجاح",
+    "APP_MUSIC_ADMIN_REJECTED": "تم رفض الموسيقى",
+    "APP_MUSIC_RECENT_UPLOADS": "تحميلات حديثة",
+    "APP_MUSIC_NO_UPLOADS": "لم يتم تحميل أي موسيقى بعد",
+    "APP_MUSIC_BE_FIRST": "كن أول من يقوم بالتحميل!",
+    "APP_MUSIC_SEARCH_UPLOADS": "البحث عن الموسيقى المحملة",
+    "APP_MUSIC_OR_UPLOAD": "أو قم بتحميل ملفك الخاص",
+    "APP_MUSIC_NO_RESULTS": "لم يتم العثور على نتائج",
+    "APP_MUSIC_TRY_DIFFERENT": "جرب مصطلح بحث مختلف",
+    "APP_MUSIC_RESULTS": "نتائج",
+    "APP_MUSIC_ALL_UPLOADS": "جميع الأغاني المحملة",
+    "APP_MUSIC_LOAD_MORE": "تحميل المزيد",
+    "APP_MUSIC_INVALID_PHONE_DATA": "بيانات هاتف غير صالحة",
+    "APP_MUSIC_TITLE_REQUIRED": "العنوان مطلوب",
+    "APP_MUSIC_ARTIST_REQUIRED": "الفنان مطلوب",
+    "APP_MUSIC_URL_REQUIRED": "الرابط مطلوب",
+    "APP_MUSIC_DURATION_EXCEEDS": "مدة الموسيقى تتجاوز الحد الأقصى المسموح به ({duration} ثانية)",
+    "APP_MUSIC_UPLOAD_SUCCESS_MSG": "تم تحميل الموسيقى بنجاح، في انتظار موافقة المسؤول",
+    "APP_MUSIC_UPLOAD_FAILED_MSG": "فشل تحميل الموسيقى",
+    "APP_MUSIC_DELETE_SUCCESS": "تم حذف التحميل بنجاح",
+    "APP_MUSIC_DELETE_FAILED": "تعذر حذف التحميل",
+    "APP_MUSIC_PLAYLIST_ADDED": "تمت إضافة قائمة التشغيل",
+    "APP_MUSIC_PLAYLIST_ERROR": "خطأ في إضافة قائمة التشغيل",
+    "APP_MUSIC_AUDIO_ERROR": "تعذر تشغيل الصوت",
+    "APP_MUSIC_UPLOAD_FAILED": "فشل التحميل"
   },
   "JobCenter": {
     "APP_JOBCENTER_TITLE": "مركز الوظائف",
@@ -1322,112 +1335,6 @@
     "APP_JOBCENTER_NOTIFY_REQUEST": "هل تريد قبول طلب المشاركة في الوظيفة؟",
     "APP_JOBCENTER_NOTIFY_FOUNDJOB": "تم العثور على وظيفة، هل تريد قبولها؟"
   },
-  "Casino": {
-    "APP_CASINO_TITLE": "كازينو",
-    "APP_CASINO_CATEGORY": "فئة",
-    "APP_CASINO_DICE": "نرد",
-    "APP_CASINO_ROLL": "إلقاء",
-    "APP_CASINO_ROLL_ROLLINGIN": "يتم الإلقاء...",
-    "APP_CASINO_ROLL_WINNER": "الفائز",
-    "APP_CASINO_ROLL_WIN": "فوز:",
-    "APP_CASINO_ROLL_PLACEBET": "وضع الرهان",
-    "APP_CASINO_ROLL_TOTALBET": "إجمالي الرهان: ",
-    "APP_CASINO_ROLL_GAMENOTSTARTED": "لم تبدأ اللعبة بعد",
-    "APP_CASINO_ROLL_NOTBALANCE": "ليس لديك رصيد كافٍ",
-    "APP_CASINO_DICE_BETAMOUNT": "مبلغ الرهان:",
-    "APP_CASINO_DICE_ROOMCLOSE": "إغلاق الغرفة",
-    "APP_CASINO_DICE_GAMESTARTED": "بدأت اللعبة",
-    "APP_CASINO_DICE_STARTGAME": "ابدأ اللعبة",
-    "APP_CASINO_DICE_JOINGAME": "انضم إلى اللعبة",
-    "APP_CASINO_DICE_LEAVEGAME": "اخرج من اللعبة",
-    "APP_CASINO_DICE_GAMENOTSTARTED": "لم تبدأ اللعبة بعد",
-    "APP_CASINO_DICE_WINNER": "الفائز",
-    "APP_CASINO_DICE_TURN": "{turn} دور",
-    "APP_CASINO_DICE_SCOREBOARD": "لوحة النتائج",
-    "APP_CASINO_DICE_ISGAMESTARTED": "بدأت اللعبة بالفعل",
-    "APP_CASINO_DICE_LEFTTHEGAME": "غادر اللعبة",
-    "APP_CASINO_DICE_JOINEDTHEGAME": "انضم إلى اللعبة",
-    "APP_CASINO_DICE_DICEROOMS": "غرف النرد",
-    "APP_CASINO_DICE_JOIN": "انضم",
-    "APP_CASINO_DICE_CREATINGROOM": "إنشاء غرفة...",
-    "APP_CASINO_DICE_JOININGROOM": "الانضمام إلى الغرفة...",
-    "APP_CASINO_DICE_CREATEERROR": "حدث خطأ أثناء إنشاء الغرفة. يرجى المحاولة مرة أخرى لاحقًا.",
-    "APP_CASINO_DICE_JOINERROR": "حدث خطأ أثناء الانضمام إلى الغرفة. يرجى المحاولة مرة أخرى لاحقًا.",
-    "APP_CASINO_WALLET_ERROR": "حدث خطأ أثناء شراء أو بيع الرصيد.",
-    "APP_CASINO_CHIP_SUCCESS": "تم شراء الشريحة بنجاح",
-    "APP_CASINO_CHIP_NOTENOUGH": "ليس لديك ما يكفي من المال",
-    "APP_CASINO_CHIP_SELL": "تم بيع الشريحة بنجاح",
-    "APP_CASINO_CHIP_SELL_ERROR": "ليس لديك ما يكفي من الشرائح",
-    "APP_CASINO_CHIP_BANK_BUY": "شراء شريحة",
-    "APP_CASINO_CHIP_BANK_SELL": "بيع شريحة",
-    "APP_CASINO_NAME_FAILED": "فشل تغيير الاسم",
-    "APP_CASINO_NAME_SUCCESS": "تم تغيير الاسم بنجاح",
-    "APP_CASINO_CREATEROOM_FAILED": "فشل إنشاء الغرفة",
-    "APP_CASINO_CREATEROOM_SUCCESS": "تم إنشاء الغرفة بنجاح",
-    "APP_CASINO_JOINROOM_SUCCESS": "تم الانضمام إلى الغرفة بنجاح",
-    "APP_CASINO_JOINROOM_PASSWORDWRONG": "كلمة مرور الغرفة خاطئة",
-    "APP_CASINO_JOINROOM_NOTOPEN": "الغرفة غير مفتوحة",
-    "APP_CASINO_JOINROOM_NOROOM": "لم يتم العثور على الغرفة",
-    "APP_CASINO_JOINGAME_FAILED": "فشل الانضمام إلى اللعبة",
-    "APP_CASINO_JOINGAME_SUCCESS": "تم الانضمام إلى اللعبة بنجاح",
-    "APP_CASINO_JOINGAME_CHIPENOT": "ليس لديك ما يكفي من الرقائق",
-    "APP_CASINO_JOINGAME_NOTINROOM": "أنت لست في الغرفة",
-    "APP_CASINO_JOINGAME_NOTOPENGAME": "اللعبة غير مفتوحة",
-    "APP_CASINO_LEAVEGAME_FAILED": "فشل مغادرة اللعبة",
-    "APP_CASINO_LEAVEGAME_SUCCESS": "تم مغادرة اللعبة بنجاح",
-    "APP_CASINO_LEAVEGAME_NOTINGAME": "أنت لست في اللعبة",
-    "APP_CASINO_GAMESTART_FAILED": "فشل بدء اللعبة",
-    "APP_CASINO_GAMESTART_SUCCESS": "تم بدء اللعبة بنجاح",
-    "APP_CASINO_GAMESTART_NOTPLAYER": "لا يوجد لاعب",
-    "APP_CASINO_GAMESTART_NOTLEADER": "أنت لست قائد هذه الغرفة",
-    "APP_CASINO_GAMECLOSE_FAILED": "فشل إغلاق اللعبة",
-    "APP_CASINO_GAMECLOSE_SUCCESS": "تم إغلاق اللعبة بنجاح",
-    "APP_CASINO_GAMECLOSE_NOTLEADER": "أنت لست قائد هذه الغرفة",
-    "APP_CASINO_ROLL_BET_FAILED": "فشل الرهان",
-    "APP_CASINO_ROLL_BET_SUCCESS": "تم الرهان بنجاح",
-    "APP_CASINO_ROLL_BET_INVALID": "مبلغ الرهان غير صالح",
-    "APP_CASINO_ROLL_BET_INVALIDDATA": "بيانات غير صالحة",
-    "APP_CASINO_ROLL_WINNER_FAILED": "فشل الفائز",
-    "APP_CASINO_ROLL_WINNER_SUCCESS": "الفائز",
-    "APP_CASINO_ROLL_WINNER_LOST": "لقد خسرت",
-    "APP_CASINO_ROLL_WINNER_NOTBET": "لم تقم بالرهان",
-    "APP_CASINO_ROLL_BET_MAX": "لا يمكنك الرهان بأكثر من {max} رقائق",
-    "APP_CASINO_MODAL": {
-      "WALLET": "محفظة",
-      "NICKNAME": "اسم مستعار",
-      "NICKNAME_TEXT": "سيبقى الاسم المستعار الذي قمت بتعيينه كما هو حتى تغلق التطبيق وتعيد فتحه مرة أخرى.",
-      "NICKNAME_BUTTONSAVE": "حفظ",
-      "NICKNAME_CHANGE_ERROR": "حدث خطأ أثناء تغيير الاسم المستعار.",
-      "PLACE_BET": "ضع الرهان",
-      "PLACE_BUTTONTEXT": "ضع",
-      "CRATE_DICEROOM": "إنشاء غرفة نرد",
-      "CRATE_DICEROOM_NAME_PLACEHOLDER": "اسم الغرفة",
-      "CRATE_DICEROOM_PASSWORD": "كلمة المرور (اختياري)",
-      "CRATE_DICEROOM_PASSWORD_PLACEHOLDER": "كلمة المرور",
-      "CRATE_DICEROOM_NICKNAME_PLACEHOLDER": "اسم مستعار",
-      "CRATE_DICEROOM_BETAMOUNT_PLACEHOLDER": "مبلغ الرهان",
-      "CRATE_DICEROOM_TEXT": "يمكنك تحديد تفاصيل الغرفة التي تريد إنشاؤها أدناه.",
-      "CRATE_DICEROOM_BUTTONTEXT": "إنشاء غرفة",
-      "JOIN_ROOM": "انضم إلى الغرفة #{room}",
-      "JOIN_ROOM_TEXT": "أنت تنضم إلى الغرفة بالاسم '<span style='color: #21A48C;'>{name}</span>' الذي حددته سابقًا.",
-      "JOIN_ROOM_BUTTONTEXT": "انضم",
-      "YOU_BALANCE": "لديك {balance} رقاقة.",
-      "BET_AMOUNT": "مبلغ الرهان:",
-      "TRANSFERCHIP": "نقل الرقاقة",
-      "BUYCHIP": "شراء رقاقة",
-      "TAX": "الضريبة: {tax}%",
-      "YOU_BALANCECHIP": "لديك {balance}",
-      "BUYAMAOUNTTEXT": "مبلغ الشراء:",
-      "TRANSFERAMOUNTTEXT": "مبلغ التحويل:",
-      "TOTAL_TEXT": "المجموع =",
-      "MINIMUMTRANSFER": "الحد الأدنى للتحويل:",
-      "BUY_TEXT": "شراء",
-      "TRANSFER_TEXT": "تحويل",
-      "TRENSFER_ERROR1": "لا يمكنك تحويل أقل من 250 شريحة.",
-      "TRENSFER_ERROR2": "ليس لديك رصيد كاف."
-    },
-    "APP_CASINO_ROLL_AWAITINGRESULT": "النتيجة في انتظارها..."
-  },
   "Info": {
     "APP_INFO_PERSONALINFO": "معلومات شخصية",
     "APP_INFO_PHONENUMBER": "رقم الهاتف",
@@ -1442,11 +1349,9 @@
       "APP_TOOLTIP_SIM_BUY": "شراء"
     },
     "Advertising": {
-      "APP_TOOLTIP_ADVERTISING_POST": "منشور جديد",
       "APP_TOOLTIP_ADVERTISING_POSTCALL": "اتصال",
       "APP_TOOLTIP_ADVERTISING_POSTCALL2": "اتصال مجهول",
       "APP_TOOLTIP_ADVERTISING_POSTMESSAGE": "رسالة",
-      "APP_TOOLTIP_ADVERTISING_POSTFAV": "مفضل",
       "APP_TOOLTIP_ADVERTISING_REPOST": "إعادة نشر",
       "APP_TOOLTIP_ADVERTISING_DELETE": "حذف"
     },
@@ -1477,7 +1382,6 @@
       "APP_TOOLTIP_MUSIC_ADD": "إضافة",
       "APP_TOOLTIP_MUSIC_REMOVE": "إزالة",
       "APP_TOOLTIP_MUSIC_DETAIL": "تفاصيل",
-      "APP_TOOLTIP_MUSIC_PLAYLISTS": "قوائم التشغيل",
       "APP_TOOLTIP_CREATE_PLAYLIST": "إنشاء قائمة تشغيل",
       "APP_TOOLTIP_MUSIC_BACK": "عودة",
       "APP_TOOLTIP_MUSIC_NEXT": "التالي",
@@ -1485,7 +1389,9 @@
       "APP_TOOLTIP_MUSIC_SHUFFLE": "خلط",
       "APP_TOOLTIP_MUSIC_EDIT_PLAYLIST": "تحرير قائمة التشغيل",
       "APP_TOOLTIP_MUSIC_EARPHONE": "سماعة",
-      "APP_TOOLTIP_MUSIC_SPEAKER": "مكبر صوت"
+      "APP_TOOLTIP_MUSIC_SPEAKER": "مكبر صوت",
+      "APP_TOOLTIP_MUSIC_UPLOAD": "تحميل",
+      "APP_TOOLTIP_MUSIC_ADMIN": "لوحة التحكم"
     }
   },
   "LucyAI": {
@@ -1800,8 +1706,6 @@
     "APP_DARKCHAT_DELETE_ROOM_PERMISSION": "ليس لديك الإذن لحذف هذه الغرفة أو لم يتم العثور على الغرفة.",
     "APP_DARKCHAT_NOTIFY_NEWMESSAGE": "لديك رسالة جديدة في قناة {channel}",
     "APP_DARKCHAT_TOGGLING_MUTE_STATUS": "تغيير حالة وضع الصمت...",
-    "APP_DARKCHAT_USER_MUTED_SUCCESS": "تم كتم صوت المستخدم بنجاح.",
-    "APP_DARKCHAT_USER_UNMUTED_SUCCESS": "تم تفعيل الصوت للمستخدم بنجاح.",
     "APP_DARKCHAT_TOGGLE_MUTE_ERROR": "لم يكن بالإمكان كتم صوت المستخدم.",
     "APP_DARKCHAT_LOADING_USERS_LIST": "جارٍ تحميل قائمة المستخدمين...",
     "APP_DARKCHAT_TOGGLE_MUTE_TOOLTIP": "كتم المستخدم / إلغاء كتم المستخدم",
@@ -1835,7 +1739,9 @@
     "APP_GARAGE_MARKED": "تم وضع علامة على مركبتك على الخريطة.",
     "APP_GARAGE_ERROR_TRACK_CARGARAGE": "لا يمكن وضع علامة على مركبتك لأنها في المرآب.",
     "APP_GARAGE_ERROR_CARBLACKLIST": "لا يمكن إدخال هذا الطراز من المركبات.",
-    "APP_GARAGE_USEVALET_BANK_HISTORY_DESC": "خدمة صف السيارات"
+    "APP_GARAGE_ERROR_BRING_OFFROAD": "لا يمكن لخدمة صف السيارات توصيل المركبة إلى موقعك الحالي. يرجى الانتقال إلى طريق.",
+    "APP_GARAGE_USEVALET_BANK_HISTORY_DESC": "خدمة صف السيارات",
+    "APP_GARAGE_ERROR_BRING_WAIT": "الرجاء الانتظار قبل إحضار مركبة أخرى."
   },
   "TrendlyApp": {
     "APP_TRENDLY_TITLE": "تريندلي",
@@ -1938,7 +1844,6 @@
     "APP_TRENDLY_CHAT_START_CONVERSATION": "ابدأ الدردشة!",
     "APP_TRENDLY_CHAT_EMOJI": "رمز تعبيري",
     "APP_TRENDLY_CHAT_PHOTO": "صورة",
-    "APP_TRENDLY_CHAT_MESSAGES_LOADING": "جارٍ التحميل...",
     "APP_TRENDLY_CHAT_USER_FALLBACK": "مستخدم",
     "APP_TRENDLY_CHAT_CONVERSATION_NOT_FOUND": "الدردشة غير موجودة",
     "APP_TRENDLY_CHAT_INVALID_CONVERSATION": "دردشة غير صالحة",
@@ -2062,12 +1967,21 @@
     "APP_TRENDLY_MISSING_MUSIC_NAME_AND_URL": "اسم الصوت وملف الصوت مطلوبان",
     "APP_TRENDLY_MUSIC_DURATION_CANNOT_EXCEED_2_MINUTES": "مدة الصوت طويلة جداً (حد أقصى دقيقتين)",
     "APP_TRENDLY_MUSIC_WITH_THE_SAME_NAME_AND_URL_ALREADY_EXISTS": "هذا الصوت موجود بالفعل",
-    "APP_TRENDLY_FAILED_TO_ADD_MUSIC": "تعذر إضافة الصوت",
     "APP_TRENDLY_NOT_AUTHORIZED_TO_DELETE_THIS_MUSIC": "لا يمكنك حذف هذا الصوت",
     "APP_TRENDLY_MUSIC_NOT_FOUND": "الصوت غير موجود",
     "APP_TRENDLY_MUSIC_ID_MISSING": "معلومات الصوت مفقودة",
     "APP_TRENDLY_CONVERSATION_NOT_FOUND": "الدردشة غير موجودة",
     "APP_TRENDLY_USER_NOT_PART_OF_CONVERSATION": "لا يمكنك الوصول إلى هذه المحادثة",
     "APP_TRENDLY_MISSING_USER_ID_OR_CONVERSATION_ID": "تعذر بدء الدردشة"
+  },
+  "AvatarCropper": {
+    "MODAL_TITLE": "اقتصاص الصورة",
+    "MODAL_CANCEL": "إلغاء",
+    "MODAL_DONE": "تم",
+    "MODAL_LOADING": "جاري التحميل...",
+    "MODAL_ERROR": "فشل تحميل الصورة",
+    "MODAL_RETRY": "إعادة المحاولة",
+    "ACTION_CROP": "اقتصاص الصورة",
+    "ACTION_USE_ORIGINAL": "استخدام الأصل"
   }
 }
